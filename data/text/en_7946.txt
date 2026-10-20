@@ -1,0 +1,88 @@
+[Event] Dreams come true: Sturmtiger - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Dreams come true: Sturmtiger
+31 October 2022
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>The 38cm Sturmmörser commonly known as the “Sturmtiger” is a German SPG from WWII built on the chassis of the Tiger heavy tank. It is a specialized SPG for city battles: its 380mm cannon is excellent for destroying buildings and fortified points but when fighting against other vehicles, it has low accuracy and a long reload time. It may be difficult to hit anything with it, but if you succeed, your enemy will be in trouble - everyone will envy such a caliber!
+<> Sturmtiger Devblog
+<>From 11:00 GMT on the 31st of October until 11:00 GMT on the 14th of November
+<>Get points in the battle, unlock stages and win prizes!
+<>“10 Year Better Together” decal
+<>“X” decoration for ships
+<>“X” pin-up decal
+<>“Celebration Cake” decoration for ground vehicles
+<>How to get prizes
+<>Each stage will be unlocked for 35,000 mission points accumulated over the specified 2 days and will bring a new reward. New stages will be available at 11:00 GMT on the 31st of October, 2nd, 4th, 6th, 8th, 10th and 12th of November.
+<>You can get mission points in ground battles of rank III and above in AB, RB and SB game modes. The number of mission points for completing a task depends on the game mode and the maximum rank if the vehicle used in the battle.The multiplier for earning points is specified in the mission description.
+<>You can also get points by using any event vehicles of rank I-II. Such vehicles have the name of the event in which it was obtained in the vehicle card.
+<>Rewards will be given for certain number of completed stages:
+For 1 stage: Title
+For 2 stages: “Better Together” decal
+For 3 stages: “X” decoration for ships
+For 4 stages: “X” pin-up decal
+For 5 stages: “Celebration Cake” decoration for ground vehicles
+For 6 stages: 38cm Sturmmörser
+For 7 stages: Loading screen
+<>You can track the progress of the challenge by clicking on your nickname and selecting the menu ”Achievements → War Thunder Anniversary → Dreams Come True”.
+<>If you didn’t finish the stage in time until 16th of November you will be able to purchase passing stages for Golden Eagles in the achievement window and get corresponding prizes.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

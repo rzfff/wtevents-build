@@ -1,0 +1,77 @@
+[Special] Meltdown Discounts - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Meltdown Discounts
+Attention! Outdated news format. Content may not display correctly.
+25 June 2019
+Special
+<> While the temperature outside creeps up, the prices in War Thunder are going down. We are starting big with a very nice discount! Restock your hangar with new vehicles and be prepared for summer!
+<>Discounts from the 25th of June until the 1st of July!
+<>From 25th of June till 1st of July — 50% discount for talismans, back-up vehicles and modifications!
+<>From 25th of June till 27th of June — 50% discount for US and Soviet vehicles.
+<>From 27th of June till 29th of June — 50% discount for German and British vehicles.
+<>From 29th of June till 1st of July — 50% discount for Japanese, French and Italian vehicles.
+<>Terms
+<>Discounts will replace each other and end at 11:00 GMT on the dates stated.
+<>All discounts listed above (inc. talismans, back-up vehicles and modifications) will be applied to all vehicles which you can purchase for Silver Lions or Golden Eagles.
+<>Discounts for vehicles which you can purchase for Silver Lions or Golden Eagles are not applied to vehicles which were introduced in update 1.89 “Imperial Navy”.
+<>Don’t forget to restart the game client if you were in the game during the start of the discounts.
+<>In one week, from the 2nd of July until the 9th of July, there will be discounts in our Gaijin.net store. Don’t miss them! More details - soon!
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

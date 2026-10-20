@@ -1,0 +1,714 @@
+{
+  "results": [
+    {
+      "aid": 9477,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The FFA P-16 is Now Available on the Anniversary of its First Flight!",
+      "name_en": "The FFA P-16 is Now Available on the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2025-04-25T10:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "From April 25th (10:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "FFA P-16(瑞士喷气攻击机)上架 9090金鹰", "percent": null, "note": "常驻销售(here to stay),非折扣"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "首飞70周年纪念上架;位置:德国>航空>高级载具;永久在售无截止",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9479,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Decal for the 80th Anniversary of the Liberation of Italy!",
+      "name_en": "A Decal for the 80th Anniversary of the Liberation of Italy!",
+      "name_zh": null,
+      "start": "2025-04-25T12:00:00Z",
+      "end": "2025-04-28T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From April 25th (12:00 GMT) until April 28th (12:00 GMT).",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“Italy Liberation Day 2025” decal"],
+      "tasks": "用意系III级以上载具打3场随机战斗(活跃度≥70%,不含EC与突击模式)获得“意大利解放日2025”贴花",
+      "sub_events": [],
+      "notes": "进度在 Nickname→Achievements→Holidays→Italian Liberation Day 查看;贴花在自定义“Holidays”栏",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9480,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Tokyo Tower Decal for Golden Week in Japan!",
+      "name_en": "A Tokyo Tower Decal for Golden Week in Japan!",
+      "name_zh": null,
+      "start": "2025-04-29T10:00:00Z",
+      "end": "2025-05-02T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From April 29th (10:00 GMT) until May 2nd (10:00 GMT).",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“Tokyo Tower” decal"],
+      "tasks": "用日系III级以上载具打3场随机战斗(活跃度≥70%,不含EC与突击模式)获得“东京塔”贴花",
+      "sub_events": [],
+      "notes": "日本黄金周(4月29日-5月5日)纪念贴花活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9481,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Pages of History (May): Road to the Reichstag",
+      "name_en": "Pages of History (May): Road to the Reichstag",
+      "name_zh": null,
+      "start": "2025-05-01",
+      "end": "2025-05-31",
+      "end_precision": "day",
+      "end_raw": "From May 1st until May 31st, you’ll have access to 8 tasks consecutively.",
+      "discounts": [],
+      "deadlines": [
+        {"what": "金鹰直接购买本月专属头像(免做任务)截止", "when": "2025-06-03T11:30:00Z"}
+      ],
+      "rewards_text": ["unique player icon (Stepan Neustroyev)", "20-50% RP booster for 3-10 battles", "20-50% SL booster for 3-10 battles", "3-5 universal backups", "Premium account for 1 day", "random ground vehicle camouflage"],
+      "tasks": "5月1日至31日连续开放8个任务(每3-4天一个,末日11:00-11:30 GMT),随机战斗完成(突击模式除外);每个任务给战利品,全部完成得专属玩家头像",
+      "sub_events": [],
+      "notes": "月度历史任务活动;8个任务对应塔拉坎、马达加斯加、欧战胜利、蒙特卡西诺、突尼斯、克里特、塞恩格防线、F-4首飞",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9484,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Big May Sale in War Thunder!",
+      "name_en": "The Big May Sale in War Thunder!",
+      "name_zh": null,
+      "start": "2025-04-30T11:00:00Z",
+      "end": "2025-05-07T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From April 30th (11:00 GMT) until May 7th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "全国家载具(金鹰/银狮购买)30%减", "percent": 30, "note": "不含中队载具及Storm Warning、Hornet's Sting大版本新载具"},
+        {"target": "多种商品", "item": "改装件 30%减", "percent": 30, "note": null},
+        {"target": "多种商品", "item": "护身符(talisman)30%减", "percent": 30, "note": null},
+        {"target": "多种商品", "item": "备用载具(backups)30%减", "percent": 30, "note": null},
+        {"target": "高级账户", "item": "90天/365天(机库金鹰购买)与180天(Gaijin.net商店)50%减", "percent": 50, "note": null}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [
+        {"name": "Gaijin.net 商店五月促销(礼包折扣)", "start": "2025-05-07", "end": "2025-05-14", "note": "正文链接另发详情"}
+      ],
+      "notes": "游戏内五一大促;商店部分5月7日起另开窗口",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9488,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Try Out “Suppression of Enemy Air Defenses” Again This Weekend!",
+      "name_en": "Try Out “Suppression of Enemy Air Defenses” Again This Weekend!",
+      "name_zh": null,
+      "start": "2025-05-02T14:00:00Z",
+      "end": "2025-05-05T04:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 2nd (14:00 GMT) until May 5th (04:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "机库 Events & Tournaments → Suppression of Enemy Air Defenses 进入;进攻方压制防空:摧毁SNR-75跟踪雷达、发射车、Shilka与P-12雷达得分",
+      "sub_events": [],
+      "notes": "SEAD新模式第二次周末测试;改动:防守方12人、新地图Sinai/Spain/Rocky Canyon/Southeastern City、移除Afghanistan;SNR-75银狮与研发奖励翻倍",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9490,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "May Sale in the Gaijin Store!",
+      "name_en": "May Sale in the Gaijin Store!",
+      "name_zh": null,
+      "start": "2025-05-07T11:00:00Z",
+      "end": "2025-05-14T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 7th (11:00 GMT) until May 14th (11:00), bundles and standalone packs with a discount!",
+      "discounts": [
+        {"target": "捆绑包", "item": "“Wings of Victory”礼包 $149→$104", "percent": 30, "note": "含6个胜利日载具礼包(Dolgushin La-7、Golovachev Yak-9M、Prendergast Spitfire FR Mk.XIVe、Plagis Spitfire Mk.IXc、Bostwick P-47M、Wetmore P-51D-10)"},
+        {"target": "捆绑包", "item": "“Tracks of Victory”礼包 $160→$112", "percent": 30, "note": "含6个载具礼包(Black Prince、M10 Achilles、IS-2 Revenge、T-34-85E、M18 Black Cat、M5A1)"},
+        {"target": "捆绑包", "item": "“Weapons of Victory”礼包 $309→$154", "percent": 50, "note": "含上述12个载具礼包"},
+        {"target": "多种商品", "item": "约40个指定载具包五折(各国Starter Pack、King Tiger、T29、Object 120、IS-6、T-72AV TURMS-T、F-5C等)", "percent": 50, "note": "最终价按已拥有礼包浮动"}
+      ],
+      "deadlines": [
+        {"what": "促销结束后永久下架的礼包:AH-64D (Netherlands)、Kfir Canard、Mi-35M、Saab J35XS、F-4J(UK) Phantom II、Challenger 2 (OES)", "when": "2025-05-14T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "欧战胜利日(V-E Day)主题商店促销;特殊礼包所含单包亦可单独购买",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9492,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Celebrate the 80th Anniversary of Victory Day!",
+      "name_en": "Celebrate the 80th Anniversary of Victory Day!",
+      "name_zh": null,
+      "start": "2025-05-07T13:00:00Z",
+      "end": "2025-05-12T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 7th (13:00 GMT) until May 12th (13:00 GMT) play War Thunder and get rewards!",
+      "discounts": [
+        {"target": "多种商品", "item": "Gaijin.net商店二战参战载具主题礼包与捆绑包折扣", "percent": null, "note": "5月7日11:00-5月14日11:00 GMT,详情另文"}
+      ],
+      "deadlines": [],
+      "rewards_text": ["“We won!” decal", "“DS-39” ground vehicle decoration", "“Victory Day” profile background"],
+      "tasks": "1) III级以上打3场(活跃度≥70%)得“We won!”贴花;2) 陆战III级以上累计20000任务点得DS-39地面装饰;3) III级以上赢5场(活跃度≥70%)得“Victory Day”头像背景",
+      "sub_events": [
+        {"name": "Legend of Victory: T-34-85 “Partisan” 活动", "start": "2025-05-08T11:00:00Z", "end": "2025-05-20T11:00:00Z", "note": "专属涂装T-34-85+主题贴花装饰"},
+        {"name": "Gaijin.net 商店二战礼包折扣", "start": "2025-05-07T11:00:00Z", "end": "2025-05-14T11:00:00Z", "note": null}
+      ],
+      "notes": "另备往届胜利日奖励战利品在游戏内商店出售(Rear-Front/Motherland/Warrior Liberator等纪念贴花、Bren Mk II等武器装饰、Matilda II等舰饰)",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9497,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Celebrate US Armed Forces Day With A New Decal!",
+      "name_en": "Celebrate US Armed Forces Day With A New Decal!",
+      "name_zh": null,
+      "start": "2025-05-16T11:00:00Z",
+      "end": "2025-05-19T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 16th (11:00 GMT) until May 19th (11:00 GMT).",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“US National Armed Forces Day 2025” decal"],
+      "tasks": "用美系III级以上载具打3场随机战斗(活跃度≥70%,不含EC与突击模式)获得“美国武装部队日2025”贴花",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9500,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Weizman’s Spitfire Returns on the Anniversary of the last Empire Air Day!",
+      "name_en": "Weizman’s Spitfire Returns on the Anniversary of the last Empire Air Day!",
+      "name_zh": null,
+      "start": "2025-05-20T11:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "From May 20th (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "Weizman's Spitfire LF Mk.IXe(以色列)上架 4880金鹰", "percent": null, "note": "常驻返场(here to stay),非折扣"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "末届帝国航空日(1939-05-20)纪念;位置:以色列>航空>高级载具;永久在售",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9508,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Decal and VLT-2 for National Sailor’s Day in France!",
+      "name_en": "A Decal and VLT-2 for National Sailor’s Day in France!",
+      "name_zh": null,
+      "start": "2025-05-22T11:00:00Z",
+      "end": "2025-05-26T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 22nd (11:00 GMT) until May 26th (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "VLT-2(法国海岸鱼雷艇)上架 4880金鹰", "percent": null, "note": "常驻上架(here to stay);任务窗口为其5月22-26日"}
+      ],
+      "deadlines": [],
+      "rewards_text": ["“Emblem of the Fusiliers marins” decal"],
+      "tasks": "用法系海军III级以上舰艇打3场随机战斗(活跃度≥70%)获得“Fusiliers marins徽章”贴花",
+      "sub_events": [],
+      "notes": "法国全国水兵日;VLT-2位置:法国>海岸舰队>高级载具;贴花在“France→Navy”自定义栏",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9510,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Pre-order: Battleship Gneisenau and Battlecruiser Sevastopol",
+      "name_en": "Pre-order: Battleship Gneisenau and Battlecruiser Sevastopol",
+      "name_zh": null,
+      "start": "2025-05-23",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {"target": "礼包", "item": "KMS Gneisenau Pack $79.99(格奈森瑙号+3000金鹰+30天高级账户)", "percent": null, "note": "预购赠“Glorious Hit”头衔与舰徽装饰(下版本实装后发放)"},
+        {"target": "礼包", "item": "Sevastopol Pack $79.99(69I型塞瓦斯托波尔号+3000金鹰+30天高级账户)", "percent": null, "note": "预购赠“Steel Guardian”头衔与塞瓦斯托波尔纹章旗"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "预购(Shop+Development混合文);两舰VII级下个大版本实装,数据可能调整;无明确售卖截止",
+      "confidence": 0.75
+    },
+    {
+      "aid": 9514,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Milan is Temporarily Available With a Discount for the Anniversary of its First Flight!",
+      "name_en": "The Milan is Temporarily Available With a Discount for the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2025-05-27T11:00:00Z",
+      "end": "2025-05-30T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 27th (11:00 GMT) until May 30th (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "Milan(法国喷气战斗机)限时 6363金鹰(原9090)", "percent": 30, "note": "首飞55周年限时返场+7折"}
+      ],
+      "deadlines": [
+        {"what": "Milan 限时购买窗口截止", "when": "2025-05-30T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "位置:法国>航空>高级载具",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9517,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Pages of History (June): Rough Rider",
+      "name_en": "Pages of History (June): Rough Rider",
+      "name_zh": null,
+      "start": "2025-06-01",
+      "end": "2025-06-30",
+      "end_precision": "day",
+      "end_raw": "From June 1st until June 30th, you’ll have access to 8 tasks consecutively.",
+      "discounts": [],
+      "deadlines": [
+        {"what": "金鹰直接购买本月专属头像(免做任务)截止", "when": "2025-07-03T11:30:00Z"}
+      ],
+      "rewards_text": ["unique player icon (Theodore Roosevelt III)", "20-50% RP booster for 3-10 battles", "20-50% SL booster for 3-10 battles", "3-5 universal backups", "Premium account for 1 day", "random ground vehicle camouflage"],
+      "tasks": "6月1日至30日连续开放8个任务(每3-4天一个,末日11:00-11:30 GMT),随机战斗完成(突击模式除外);每个任务给战利品,全部完成得小罗斯福专属头像",
+      "sub_events": [],
+      "notes": "月度历史任务活动;8个任务对应中途岛、D-Day、维堡-彼得罗扎沃茨克、维莱博卡日、战斧行动、菲律宾海、拉塞尼艾、蓝色行动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9518,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Discounts on the Fw 190 & Bf 109 Variants for the Anniversary of their First Flights!",
+      "name_en": "Discounts on the Fw 190 & Bf 109 Variants for the Anniversary of their First Flights!",
+      "name_zh": null,
+      "start": "2025-05-28T10:00:00Z",
+      "end": "2025-06-02T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 28th (10:00 GMT) until June 2nd (10:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "Bf 109变体-30%:Flegel's Bf 109 A 175、Bf 109 E-7(日)700、Bf 109 F-4(美)1015、Bf 109 G-2(意)3248、Bf 109 G-6(瑞典)3248金鹰", "percent": 30, "note": "Bf 109首飞90周年"},
+        {"target": "载具", "item": "Fw 190 A-8(美)2695金鹰-30%;Fw 190 D-13 常驻返场-30%→3416金鹰", "percent": 30, "note": "Fw 190 D-13为永久回归,折扣仍至6月2日"},
+        {"target": "多种商品", "item": "Bf 109 Z-1 2980、Fw 190 A-5(日)2980、Fw 190 D-9(苏)7420金鹰限时上架", "percent": null, "note": "限时返场,无折扣"}
+      ],
+      "deadlines": [
+        {"what": "Bf 109 Z-1 / Fw 190 A-5(日) / Fw 190 D-9(苏)限时购买截止", "when": "2025-06-02T10:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Fw 190 D-13 位置:德国>航空>高级载具,常驻在售",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9520,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "USS Des Moines Returns on its Anniversary!",
+      "name_en": "USS Des Moines Returns on its Anniversary!",
+      "name_zh": null,
+      "start": "2025-05-28T11:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "From May 28th (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "USS Des Moines(重巡洋舰)上架 8020金鹰", "percent": null, "note": "常驻返场(here to stay),非折扣"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "下水80周年纪念;位置:美国>蓝水舰队>高级载具;永久在售",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9524,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The VRCC is Available On Spain’s Armed Forces Day!",
+      "name_en": "The VRCC is Available On Spain’s Armed Forces Day!",
+      "name_zh": null,
+      "start": "2025-05-29T09:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "From May 29th (09:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "VRCC(西班牙轮式坦克歼击车)上架 8910金鹰", "percent": null, "note": "常驻返场(here to stay),非折扣"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "西班牙武装部队日;位置:意大利>陆军>高级载具;永久在售",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9525,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Get the SAV 20.12.48 and a New Decal for Swedish National Security Forces Day!",
+      "name_en": "Get the SAV 20.12.48 and a New Decal for Swedish National Security Forces Day!",
+      "name_zh": null,
+      "start": "2025-05-29T11:00:00Z",
+      "end": "2025-06-02T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 29th (11:00 GMT) until June 2nd (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "SAV 20.12.48(瑞典坦歼)限时 1300金鹰", "percent": null, "note": "限时返场,非折扣"}
+      ],
+      "deadlines": [
+        {"what": "SAV 20.12.48 限时购买截止", "when": "2025-06-02T11:00:00Z"}
+      ],
+      "rewards_text": ["“Emblem of the Kronoberg regiment” decal"],
+      "tasks": "用瑞典系III级以上载具打3场随机战斗(活跃度≥70%,不含EC与突击模式)获得“Kronoberg团徽章”贴花",
+      "sub_events": [],
+      "notes": "瑞典国民安全部队日(1940-05-29成立纪念);SAV位置:瑞典>陆军>高级载具",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9526,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Decal and Discount on the T129 ATAK & F-104S TAF for Turkish Air Force Day!",
+      "name_en": "A Decal and Discount on the T129 ATAK & F-104S TAF for Turkish Air Force Day!",
+      "name_zh": null,
+      "start": "2025-05-30T13:00:00Z",
+      "end": "2025-06-02T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 30th (13:00 GMT) until June 2nd (13:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "T129 ATAK(攻击直升机)与F-104S TAF 各 4635金鹰(-50%)", "percent": 50, "note": "促销结束后F-104S TAF按原价继续出售;T129截止后下架"}
+      ],
+      "deadlines": [
+        {"what": "T129 ATAK 五折窗口截止(之后下架);F-104S TAF 转原价", "when": "2025-06-02T13:00:00Z"}
+      ],
+      "rewards_text": ["“Emblem of the Turkish Air Force pilots” decal"],
+      "tasks": "贴花任务:用任意国家III级以上飞机打3场随机战斗(活跃度≥70%,不含EC与突击模式),5月30日11:00-6月2日11:00 GMT",
+      "sub_events": [
+        {"name": "“Emblem of the Turkish Air Force pilots” 贴花任务", "start": "2025-05-30T11:00:00Z", "end": "2025-06-02T11:00:00Z", "note": "与折扣窗口(13:00起)不同"}
+      ],
+      "notes": "土耳其空军日(1911-06-01首批飞行队纪念);位置:意大利>直升机/航空>高级载具;贴花在“Neutral countries→Aircraft”栏",
+      "confidence": 0.85
+    },
+    {
+      "aid": 9531,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Pre-order: Leopard 2 (OTCo)",
+      "name_en": "Pre-order: Leopard 2 (OTCo)",
+      "name_zh": null,
+      "start": "2025-05-30",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {"target": "礼包", "item": "Leopard 2 (OTCo) Pack $69.99(荷兰豹2A4NL+2500金鹰+20天高级账户)", "percent": null, "note": "预购赠“Will to uphold”头衔与荷军43机械化旅贴花"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "预购(Shop+Development混合文);法国线VII级,Leviathans大版本实装,数据可能调整;无明确售卖截止",
+      "confidence": 0.75
+    },
+    {
+      "aid": 9537,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Pre-order: RAH-66 Comanche: Stealth Unicorn",
+      "name_en": "Pre-order: RAH-66 Comanche: Stealth Unicorn",
+      "name_zh": null,
+      "start": "2025-06-02",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {"target": "礼包", "item": "RAH-66 Comanche Pack $49.99(科曼奇直升机+2000金鹰+15天高级账户)", "percent": null, "note": "预购赠“The Duke”头衔与“War Chief”贴花"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "预购(Shop+Development混合文);美线VI级,Leviathans大版本实装;无明确售卖截止",
+      "confidence": 0.75
+    },
+    {
+      "aid": 9544,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The M-51 (W) and Merkava Mk.2D Return On the Anniversary of Them Entering Combat!",
+      "name_en": "The M-51 (W) and Merkava Mk.2D Return On the Anniversary of Them Entering Combat!",
+      "name_zh": null,
+      "start": "2025-06-04T11:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "From June 4th (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "M-51 (W) -30%→3416金鹰;Merkava Mk.2D -30%→6237金鹰", "percent": 30, "note": "折扣至6月9日11:00 GMT,之后原价4880/8910;两车常驻在售"}
+      ],
+      "deadlines": [
+        {"what": "30%首发折扣结束(恢复原价4880/8910)", "when": "2025-06-09T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "六日战争(1967-06-05)与黎巴嫩战争(1982-06-06)参战纪念;位置:以色列>陆军>高级载具;永久在售",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9553,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Celebrate the D-Day Anniversary with Decals, Tournaments and Discounts!",
+      "name_en": "Celebrate the D-Day Anniversary with Decals, Tournaments and Discounts!",
+      "name_zh": null,
+      "start": "2025-06-06T11:00:00Z",
+      "end": "2025-06-09T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 6th (11:00 GMT) until June 9th (11:00 GMT).",
+      "discounts": [
+        {"target": "捆绑包", "item": "“First in Deed”礼包 $98.36→$68.85", "percent": 30, "note": "含Cobra King、M18 Black Cat、Bostwick P-47M、Mustang包+专属头衔贴花"},
+        {"target": "捆绑包", "item": "“Sledgehammer”礼包 $93.96→$65.77", "percent": 30, "note": "含M10 Achilles、Sherman Firefly Ic、Prendergast Spitfire、Typhoon包+专属头衔贴花"},
+        {"target": "捆绑包", "item": "“Overlord”礼包 $192→$96.16", "percent": 50, "note": "含上述全部8个包及两份头衔贴花"},
+        {"target": "载具", "item": "HMS Belfast -50%", "percent": 50, "note": "英国蓝水高级舰,6月6-9日"}
+      ],
+      "deadlines": [
+        {"what": "已购全部相关单包且6月6-9日登录3胜玩家的头衔/贴花统一补发", "when": "2025-06-11"},
+        {"what": "D-Day锦标赛系列报名截止", "when": "2025-06-13"}
+      ],
+      "rewards_text": ["“D-Day 2025” decal", "T86 (Normandy '44 event)", "“Ace of Normandy” title", "unique titles “First in Deed”/“Sledgehammer”/“Overlord”", "unique decals “First United States Army Insignia”/“2nd Army Formation badge”/“SHAEF insignia”"],
+      "tasks": "1) 用美/英/法III级以上打3场(活跃度≥70%)得“D-Day 2025”贴花(6月6日11:00-10日07:00 GMT);2) Normandy '44活动打分攒T86两栖坦克(6月5-17日);3) 6月6-9日登录并赢3场(需已购全部单包)得头衔贴花",
+      "sub_events": [
+        {"name": "Normandy '44 活动(攒分得T86)", "start": "2025-06-05T11:00:00Z", "end": "2025-06-17T11:00:00Z", "note": "陆战打分,得贴花装饰与T86"},
+        {"name": "Pages of History (June): Rough Rider", "start": "2025-06-01T11:00:00Z", "end": "2025-06-30T11:00:00Z", "note": "另文详情"},
+        {"name": "“D-Day 2025” 贴花任务", "start": "2025-06-06T11:00:00Z", "end": "2025-06-10T07:00:00Z", "note": null},
+        {"name": "HMS Belfast 五折", "start": "2025-06-06T11:00:00Z", "end": "2025-06-09T11:00:00Z", "note": null},
+        {"name": "D-Day 锦标赛系列(海陆空)", "start": "2025-06-06", "end": "2025-06-13", "note": "报名开放至6月13日;奖励D-Day贴花与“Ace of Normandy”头衔"}
+      ],
+      "notes": "D-Day 81周年多板块综合活动;礼包在Gaijin.net商店,6月6日11:00-6月9日11:00 GMT",
+      "confidence": 0.85
+    },
+    {
+      "aid": 9556,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "I-16 type 28 and Discounts for Nikolai Polikarpov’s Birthday!",
+      "name_en": "I-16 type 28 and Discounts for Nikolai Polikarpov’s Birthday!",
+      "name_zh": null,
+      "start": "2025-06-09T11:00:00Z",
+      "end": "2025-06-12T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 9th (11:00 GMT) until June 12th (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "I-16 type 28 限时 1350金鹰", "percent": null, "note": "限时返场,无折扣"},
+        {"target": "载具", "item": "I-153P 665金鹰、Zhukovsky's I-153-M62 280金鹰", "percent": 30, "note": "-30%促销价"}
+      ],
+      "deadlines": [
+        {"what": "I-16 type 28 限时购买截止", "when": "2025-06-12T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "波利卡尔波夫诞辰133周年(1892-06-09);位置:苏联>航空>高级载具",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9560,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "RN Geniere, Discounts and a New Decal for Italian Navy Day!",
+      "name_en": "RN Geniere, Discounts and a New Decal for Italian Navy Day!",
+      "name_zh": null,
+      "start": "2025-06-10T11:00:00Z",
+      "end": "2025-06-13T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "June 10th (11:00 GMT) until June 13th (11:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "RN Geniere(驱逐舰)限时 3850金鹰", "percent": null, "note": "限时返场,无折扣"},
+        {"target": "载具", "item": "RN Pola 5614金鹰、RN Leonardo da Vinci 5866金鹰", "percent": 30, "note": "-30%促销价"}
+      ],
+      "deadlines": [
+        {"what": "RN Geniere 限时购买与两舰折扣截止", "when": "2025-06-13T11:00:00Z"}
+      ],
+      "rewards_text": ["“Coat of arms of the Naval Service of the Italian Coast Guard” decal"],
+      "tasks": "用意系海军III级以上舰艇打3场随机战斗(活跃度≥70%)获得“意大利海岸警卫队海军服务纹章”贴花(6月10日11:00-13日07:00 GMT)",
+      "sub_events": [
+        {"name": "海岸警卫队纹章贴花任务", "start": "2025-06-10T11:00:00Z", "end": "2025-06-13T07:00:00Z", "note": "贴花任务截止时间(07:00)早于售卖窗口(11:00)"}
+      ],
+      "notes": "意大利海军日(1917-06-10击沉Szent István纪念);位置:意大利>蓝水舰队>高级载具;贴花在“Italy→Navy”栏",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9563,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "The T31, Z20 and a Decal for German Navy Day!",
+      "name_en": "The T31, Z20 and a Decal for German Navy Day!",
+      "name_zh": null,
+      "start": "2025-06-13T11:00:00Z",
+      "end": "2025-06-16T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 13th (11:00 GMT) until June 16th (11:00).",
+      "discounts": [
+        {"target": "载具", "item": "T31 3528金鹰、Z20 Karl Galster 4263金鹰", "percent": 30, "note": "两舰限时返场-30%"}
+      ],
+      "deadlines": [
+        {"what": "T31 与 Z20 Karl Galster 限时购买截止", "when": "2025-06-16T11:00:00Z"}
+      ],
+      "rewards_text": ["“Emblem of the German Navy Engineering School” decal"],
+      "tasks": "用德系舰船III级以上打3场随机战斗(活跃度≥70%,不含EC与突击模式)获得“德国海军工程学校徽章”贴花",
+      "sub_events": [],
+      "notes": "德国海军日(1848-06-14首次统一舰队尝试纪念);位置:德国>蓝水舰队>高级载具;贴花在“Germany→Navy”栏",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9566,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Germany’s Wellington Mk Ic Returns for the Anniversary of its First Flight!",
+      "name_en": "Germany’s Wellington Mk Ic Returns for the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2025-06-13T13:00:00Z",
+      "end": "2025-06-16T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 13th (13:00 GMT) until June 16th (13:00 GMT).",
+      "discounts": [
+        {"target": "载具", "item": "Wellington Mk Ic(德军缴获版,II级轰炸机)限时 1000金鹰", "percent": null, "note": "限时返场,无折扣"}
+      ],
+      "deadlines": [
+        {"what": "Wellington Mk Ic(德)限时购买截止", "when": "2025-06-16T13:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "威灵顿首飞89周年(1936-06-15);位置:德国>航空>高级载具",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9568,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "MiG-21 Discounts for the Anniversary of its First Flight!",
+      "name_en": "MiG-21 Discounts for the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2025-06-16T11:00:00Z",
+      "end": "2025-06-19T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 16th (11:00 GMT) until June 19th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "MiG-21S (R-13-300)(苏)6237金鹰、MiG-21 SPS-K(德)6489金鹰", "percent": 30, "note": "SPS-K仅促销期间可金鹰购买"},
+        {"target": "礼包", "item": "MiG-21bis “Lazur-M” Pack $69.99→$48.99;MiG-21 Bison Pack $74.99→$52.49;J-7D Pack $69.99→$48.99", "percent": 30, "note": "Gaijin商店,仅PC;各含20天高级+2500金鹰"}
+      ],
+      "deadlines": [
+        {"what": "MiG-21 SPS-K 金鹰购买窗口截止(仅促销期可购)", "when": "2025-06-19T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "MiG-21首飞70周年(1955-06-15)",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9570,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Marat Returns with a Discount on the Anniversary of the Start of Construction!",
+      "name_en": "Marat Returns with a Discount on the Anniversary of the Start of Construction!",
+      "name_zh": null,
+      "start": "2025-06-16T10:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "From June 16th (10:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Marat(战列舰,V级)-30%→5866金鹰(原8380)", "percent": 30, "note": "折扣至6月19日10:00 GMT,之后常驻原价"}
+      ],
+      "deadlines": [
+        {"what": "30%返场折扣结束(5866→8380金鹰)", "when": "2025-06-19T10:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "彼得巴甫洛夫斯克号(后名Marat)1909-06-15开工纪念;位置:苏联>蓝水舰队>高级载具;永久在售",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9584,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Summer Sale in the Gaijin Store!",
+      "name_en": "Summer Sale in the Gaijin Store!",
+      "name_zh": null,
+      "start": "2025-06-26T09:00:00Z",
+      "end": "2025-07-07T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 26th (09:00 GMT) until July 7th (09:00 GMT).",
+      "discounts": [
+        {"target": "多种商品", "item": "29个载具礼包五折:如BMD-4M $59.99→$30、Saab JA 37DI Viggen F21 $79.99→$40、Mirage F1C-200/RDF/LT/Leopard 2A4M CAN/AV-8B Night Attack $69.99→$35", "percent": 50, "note": "Gaijin.net商店,仅PC;各含15-30天高级与2000-3000金鹰"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "夏季商店促销;完整清单见商店“All Discounted Packs”页",
+      "confidence": 0.95
+    }
+  ]
+}

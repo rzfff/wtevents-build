@@ -1,0 +1,103 @@
+[Event] Pages of History (September): Attacker Ace - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (September): Attacker Ace
+28 August 2024
+Event
+<>In this month’s Pages of History, you’ll be at the center of events that took place in different theaters of war. Iran and India, USSR and Germany: take part in battles with the vehicles corresponding to these historic battles and receive prizes.
+<>
+<>From September 1st until September 30th, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, and completing all of them will earn you a unique player icon.
+<>Lev Mikhailovich Roshchin arrived at the front at the age of 19 in December 1941. He was a skilled pilot and quickly earned the rank of lieutenant, becoming a squadron commander. During the war, he fought in the Caucasus, Crimea, Leningrad and the Baltics, completing 565 combat sorties. For exemplary performance of combat missions in the Baltic operation, he was awarded the Hero of the Soviet Union title.
+<> Lev Mikhailovich Roshchin
+<>You can immediately purchase this profile icon for Golden Eagles until October 3rd, 11:30 GMT without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>September 1st — September 4th
+<>Bryansk Operation
+<>After the victory in the Battle of Kursk, the USSR seized the strategic initiative from Germany and advanced on Bryansk. After a series of initial failures, the Red Army managed to go on the offensive in September 1943 and drive the Germans out of Bryansk on September 17th, and out of the Bryansk region by early October.
+<>September 5th — September 8th
+<>Victory Parade in Berlin in 1945
+<>On the initiative of Marshal Zhukov, a victory parade was held at the Brandenburg Gate in Allied-occupied Berlin on September 7th 1945, with the participation of the USSR, Great Britain, France and the USA. It was nicknamed the “forgotten parade” because it was not covered as much in the Western press, and the Allied commanders-in-chief (except Zhukov) refused to participate, sending their deputies instead.
+<>September 8th — September 11th
+<>Battle of Asal Uttar
+<>The largest tank battle of the Second Indo-Pakistani War took place on September 8th-10th 1965. Pakistani tanks attacked without infantry support, and the Indian army took advantage of the tactical advantage to achieve a confident victory. Pakistan lost almost a hundred tanks in the battle, a third of which were captured by India in combat-ready condition.
+<>September 12th — September 15th
+<>Baltic Operation
+<>On September 14th 1944, the Red Army began a strategic operation to expel German troops from the territory of Estonia, Latvia and Lithuania. It included the Riga, Tallinn, Moonsund and Memel operations and took place on a front line a thousand kilometers long. By the end of autumn, the Wehrmacht had been driven out of the territories of all three Baltic countries, with the exception of the Courland pocket.
+<>September 16th — September 19th
+<>Battle of Arracourt
+<>The Battle of Arracourt in northeastern France took place from September 18th to 28th 1944. It was one of the largest tank battles on the Western Front. Germany sent 262 tanks and assault guns to counterattack the American forces, but did not provide them with reconnaissance, which gave the United States the tactical advantage. The Americans were able to shell the enemy from advantageous positions and outflank them. In the end, with relatively small losses, they disabled almost 200 units of German equipment.
+<>September 19th — September 22nd
+<>Battle of Hürtgen Forest
+<>On September 19th, the longest battle in the history of the American army began which lasted for several months. The Germans successfully held the Hürtgen Forest, repelling attacks by the Allies. From this region, the Wehrmacht then organized the Ardennes counteroffensive. During numerous attempts at an offensive, the Americans lost several tens of thousands of men. The Battle of Hürtgen Forest was one of the most severe defeats of the Allies.
+<>September 23rd — September 26th
+<>Tuapse Defensive Operation
+<>On September 25th 1942, Soviet troops began a defensive operation in southern Russia. They managed to hold back the superior forces of the Wehrmacht, preventing the Germans from taking Tuapse, breaking through to the Georgian Military Road and the oil deposits in Azerbaijan. By the beginning of winter, Germany’s forces in the region were tied down, and the USSR went on the offensive.
+<>September 27th — September 30th
+<>Operation Samen-ol-A’emeh
+<>From September 27th to 29th 1981, Iran carried out an operation to lift the siege of Abadan, a small city near the border with Iraq that Iraqi forces had been besieging for 11 months since the start of the war but had failed to take. The Iranians struck along the front line toward the Iraqi city of Basra to force the enemy to redeploy forces to defend their own territory. As a result, the Iraqi troops besieging Abadan were left without reinforcements and, although they outnumbered the Iranian forces, they fled in panic as a result of the attack, abandoning hundreds of vehicles.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

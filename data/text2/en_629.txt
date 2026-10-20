@@ -1,0 +1,103 @@
+[Historic] Operation "Frantic" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation "Frantic"
+Attention! Outdated news format. Content may not display correctly.
+1 June 2014
+Historic
+June 2nd, 1944 200 B-17 aircraft, flying from air bases in southern Italy, tasked with the bombing of military installations situated in Hungary. The aircraft rose into the sky, German fighters waited to pounce turned toward the bombers to launch an attack. But this did not happen. The American aircraft were heading the wrong way, the route they were travelling was unexpected. Command of the Luftwaffe was in disarray, and aviation Reichsmarschall Goering was furious and ordered at all costs, find one airfield, where the Americans flew from.
+Just a few hours before, American bomber crews were confused, the flight plan showed a route which, unlike conventional raids, did not provide a path back, instead it led away to the east .
+During a Conference of the heads of the allied Governments which was held in Casablanca, between the 14th and the 24th of January, 1943, the directive was adopted:
+"The consistent destruction and disorganization of the military, industrial and economic system will undermine the morale of the German people which will decisively weaken its ability for armed resistance."
+It was this decision that determined the importance of the application of strategic aviation in World War II. The scope of operations hit a hitherto unprecedented number of participating bombers in raids.
+Not all vital installations in Germany were available for American and British aircraft due to their remoteness from the bases of the 8th and 15th Air Army which was stationed in England and Italy. In addition, by the end of 1943 , the German command has developed an efficient way to deal with these raids. Especially large losses to the allies began to occur whilst returning to base after missions using the same routes.
+By 1944, a solution was found written in to history of one small but very important page. The Air Force allies appealed to the diplomatic corps of the Soviet leadership to help by organising the use of airfields in the Soviet Union as staging bases for U.S. aircraft.
+The Soviet army made ​​possible accommodation in liberated territory airfields capable of servicing allied fighters and bombers after raids. After the necessary arrangements had been made in total secrecy, three bases Poltava, Mirgorod and Piryatin, begun to equip the airfields, the designation of “169th Special Purpose Air Base” (Stations 560, 559 & 561) was given to these chosen sites. The choice of Poltava was not accidental, it was in fact equidistant from England and Italy.
+<>
+A Special Purpose Airfield “SPA” convoy was dispatched from Liverpool on April 5th, everything shipped was for the 169th and it consisted of 50 tons of cargo. On April 14th, the first group of 46 officers from the United States arrived in Poltava(559). By May 15th almost all the work had been completed by the Soviet military.
+From the first days of adoption, the air base proved to be very effective. The loss of American aircraft dropped, and moreover, more strategic objectives in Germany became available for tasking, where before, it was impossible to reach.
+Working together, the mutual distrust between the Soviet and American troops started to melt . The joint struggle melded the Allies into one, each culture adopting the experience and skills from each other. No less significant was the direct combat cooperation: June 6th, 1944 in conjunction with the American bombers Soviet aircraft struck a crushing blow to the airfield in the port of Galati in Romania.
+By June 21st in 1944, the location of the airfield became known to the German high command. And during the night of the 21st of June, disaster struck - 150 German bombers appeared, this was a raid He111’s.
+The raid lasted 1 hour and 40 minutes. The Germans dropped 100 tons of bombs on to the airfields. On this night of the 78 B17 aircraft located at the airfield, 44 were destroyed and 25 were severely damaged. Germans also destroyed 360 tons of gasoline and the entire stock of bombs. Three Americans were killed and fifteen wounded. The Russian lost 30 people and 88 were injured.
+At the time, the regular raids were halted, but resumed after a month. In total in 1944 from June till October, Poltava airfield alone, 7 groups conducted 18 air operations. They involved 1030 aircraft including 529 B-17’s. 2,000 tons of bombs were dropped on enemy targets, in total 230 enemy aircraft were destroyed. Whilst the Americans lost 68 aircraft.
+Given the high practical value of these raids, the American and Soviet sides had agreed on a temporary cease of regular raids using Soviet airfields, to be resumed when the better weather conditions arrived in the spring of 1945. But as it turned out , by that time the “169th SPA” lost its relevance . The last U.S. troops left the airfields in the Poltava region in June 1945 . But each of them took with them a memo issued by the U.S. Eastern Air Command Headquarters:
+"Remember:
+1.The location where you've been, used to be occupied by the enemy.
+2.The Russians removed all the bombs and mines dropped by the Germans on the 21st of June, 1944, and whilst clearing them, they suffered heavy casualties. The bombs were meant for the U.S. aircraft and personnel .
+3.The Russian’s achieved much physical work for us, they created a good living environment. They unloaded vehicles, helped dig holes, supplied us with water and power. No other nation has done so much for us, as we received from the Russians.
+4. You must be honest and truthful in any statements about Russia. Please don't criticize any one individual. Remember that your statement can spoil the result of many months of work and effort by all the allied commanders. Stick to the facts."
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

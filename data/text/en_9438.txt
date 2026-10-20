@@ -1,0 +1,175 @@
+[Event] War Thunder: The Great War! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+War Thunder: The Great War!
+1 April 2025
+Event
+<> “The situation is getting worse by the day. In the morning we were under heavy bombardment, and in the evening we got bitten by large rats in the trenches. We were ordered to go over top into no man’s land, where many of my friends were gunned down. I couldn’t believe my eyes. I have heard we lost 50 men in a mere few minutes. We are sacrificing so many for just a few feet of land, if that. The war has been raging for 4 years now, and today I saw the latest armored behemoth modifications roll forward and planes fly over and thought to myself: surely the end is in sight — I feel I am close to coming home to you now.” – letter from an Unknown Soldier, KIA, 1918.
+<> Welcome to The Great War in War Thunder!
+<> When: From April 1st until April 7th (11:00 GMT), play in “The Great War” mode and complete stages to get and keep First World War vehicles!
+<>The year is 1918. The war between the Entente and Central Powers is raging on in its final year. Soldiers fight on, tanks have made their debut on the battlefield, and planes dogfight in the sky. You have been enlisted to fight for your country. Gear up, new conscript!
+<>This event takes you back to the brutal battlefields of the Western Front in Flanders during the First World War. Command the first tanks to have ever gone into combat and dogfight in the skies with aircraft, or immerse yourself by piloting a Zeppelin airship, capable of bombing enemy targets. An event like this wouldn’t be complete without AI infantry, who roam around the trenches and in no man’s land at the front line.
+Brief history of the First World War ▼
+<>The First World War, also known as The Great War, was a conflict that lasted from July 28th, 1914 to November 11th, 1918 between the Entente and Central Powers. Known as one of, if not the bloodiest wars in history, the war was fought in Europe, the Middle East, Africa, the Pacific and more.
+<>Some of the main European battles happened in Belgium and France through trench warfare, which were some of the most gruesome places for a soldier to fight in. This war also saw the first combat use of tanks, in particular the British Mk I Male, during the Battle of the Somme. The first major use of aircraft in combat also happened during the First World War.
+<>The armistice was signed on November 11th, 1918 at the eleventh hour, marking the end of the war after nearly 5 years. Over 9 million soldiers had been killed.
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Play in the event & complete stages to keep some iconic First World War vehicles!
+<>You have the opportunity to complete stages and earn yourself some iconic First World War tanks and a bomber aircraft. These are added to your tech tree after you obtain them, meaning you can keep and use them in regular battles, even after the event ends!
+<>This event features a special difficulty mode where the mobility of the tanks has been improved relative to their real characteristics. The tanks that can be obtained in this event will have their historical speed and maneuverability when using them in regular Ground Realistic Battles.
+<>You can get mission points in the “The Great War” event using the Triple Entente and German Empire. Access the event through Events and Tournaments -> Historical Events -> The Great War.
+<> Rewards
+<>The Triple Entente and German Empire have six stages each. One stage per side can be completed each day. To get all of the vehicles, complete 5 stages for each side!
+<>Each stage for each side will be unlocked for 5,000 mission points and will bring a new reward.
+<>Stages change once a day at 11:00 GMT: April 2nd, 3rd, 4th, 5th and 6th.
+<>While the fighters are not obtainable in this event, in the future you’ll be able to try them in our VR game, Aces of Thunder !
+<>In addition to the rewards below, you can play at least one battle with an activity of 70% or higher to get the “The Great War” loading screen!
+<> Triple Entente
+<>Obtainable vehicles:
+<> Mark V — an Event Vehicle Medium tank for Great Britain at Rank I
+<> St-Chamond — an Event Vehicle Medium tank for France at Rank I
+<> Garford — an Event Vehicle Light tank for the USSR at Rank I
+<> H.P.12 — an Event Vehicle Bomber for Great Britain at Rank I
+<>Rewards are given when you complete a specific number of stages:
+<>For 1 Stage: Random Triple Entente vehicle from the list
+<>For 2 Stages: “ Stormbreaker ” decal
+<>For 3 Stages: Random Triple Entente vehicle from the list
+<>For 4 Stages: Random Triple Entente vehicle from the list
+<>For 5 Stages: Random Triple Entente vehicle from the list
+<>For 6 Stages: “ Great War Veteran ” title
+<>“Stormbreaker” decal
+<> German Empire
+<>Obtainable vehicles:
+<> A7V — an Event Vehicle Medium tank for Germany at Rank I
+<> Beutepanzer Mk IV — an Event Vehicle Medium tank for Germany at Rank I
+<> Garford-Beute — an Event Vehicle Light Tank for Germany at Rank I
+<>Rewards are given when you complete a specific number of stages:
+<>For 1 Stage: “ Mephisto ” decal
+<>For 2 Stages: Random German Empire vehicle from the list
+<>For 3 Stages: “ Pickelhaube ” decoration
+<>For 4 Stages: Random German Empire vehicle from the list
+<>For 5 Stages: Random German Empire vehicle from the list
+<>For 6 Stages: “ German Empire Tankman ” profile icon
+“Mephisto” decal
+“Pickelhaube” decoration
+“German Empire Tankman” profile icon
+<>You can track the progress of the task by clicking on your nickname and selecting the menu Achievements → “The Great War”.
+<>Each stage can be purchased for 599 Golden Eagles and unlocks the corresponding reward.
+<> Please note: After finishing a stage, you need to collect the reward manually. To do this, click on your nickname, Achievements → “The Great War” and click the “Get Reward” button.
+<>You cannot receive the same vehicle twice.
+<>Vehicles are immediately activated onto your account.
+<> Triple Entente vs German Empire
+<>This event pits two of the main sides of the First World War against each other: the Triple Entente consisting of Great Britain, France and Russia against the German Empire.
+<> Triple Entente
+<>Queue up as the Triple Entente in this event to use the following vehicles:
+Mark V (Great Britain)
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Garford (Russia)
+<> H.P.12 (Great Britain)
+<> St-Chamond (France)
+Vehicles history (open spoiler) ▼
+<> The British Mark V (Male) tank was first introduced in 1918. This modification featured a more powerful Ricardo engine, a new transmission, a better steering system and two 6-pounder guns on the side of the hull. 400 of this variant were produced, where it served in several battles, including the Battle of Amiens.
+<>
+<>This tank has up to 12-16 mm of armor, two 5.7 cm (6-pounder) guns with one on each side of the hull, four machine guns and a top speed of around 7 km/h.
+<> The Russian Garford-Putilov armored car was transformed from the American Garford truck. It saw combat use against the Germans on the Eastern Front from 1916 till the end of the war. Only 48 were built.
+<>
+<>This armored car has 3-6.5 mm armor, one 76 mm gun at the back of the vehicle, and a top speed of around 18 km/h.
+<> The British Handley Page O/400 (H.P.12) bomber entered service with Great Britain in 1917. This aircraft featured a large payload and could carry the largest bombs in the RAF’s inventory, up to 1,650 lb. During World War I, these bombers operated as part of the naval and army aviation on the Western Front. In addition to Great Britain, H.P.12 bombers were also produced under license in the United States.
+<>
+<>This bomber features three seats, is all-wood, has two engines and a total payload of up to 1,800 lb. The aircraft’s defensive armament consists of five 7.7 mm Vickers machine guns.
+<> The French Saint-Chamond was first produced in 1917. It first saw combat in May 1917 during the attack on Laffaux plateau. This tank had a 75 mm gun directly at the front and was one of France’s first tanks to see combat during the war, with around 400 built.
+<>
+<>This tank has 5-17 mm of armor, one 7.5 cm (75 mm) gun at the front of the hull, four machine guns and a top speed of around 12 km/h.
+<> SPAD S.XIII (France)
+<>Please be aware that the SPAD S.XIII (France) cannot be obtained as an event reward. You’ll be able to fly this fighter in Aces of Thunder soon™!
+<>The French SPAD S.XIII was a further development of the S.VII model. Due to its successful design and high performance, it was widely used not only by France but also by Great Britain, the USA and Italy. The aircraft took to the skies on April 4th 1917 and remained in service in France until 1923.
+<>This biplane fighter has a wooden propeller, two British Vickers 7.7 mm machine guns and a top speed of over 200 km/h.
+<> German Empire
+<>Queue up as the German Empire in this event to use the following vehicles:
+<> A7V (Germany)
+<> Beutepanzer Mk IV (Germany)
+<> Garford-Beute (Germany)
+Vehicles history (open spoiler) ▼
+<> The German A7V tank was first produced in 1918. The A7V first saw combat in April 1918 at Villers-Bretonneux. Only 22 were built and just one survives to this day, nicknamed “Mephisto” at the Queensland Museum in Brisbane, Australia.
+<>This tank features 15-30 mm of armor, one 5.7 cm cannon at the front, six machine guns and a top speed of around 12 km/h.
+<> The British Mk.IV tank was captured by the Germans, repainted with German camouflage and markings that included the Iron Cross, and went back into combat. Germany designated captured tanks as “Beutepanzer” (“captured tank”).
+<>Did you know? The Germans had more trophy tanks in service than their own domestic design!
+<>This tank is almost identical to the British one, except the speed is slower, and the guns are the same from the ones from the A7V.
+<>A limited number, around five, Russian Garford-Putilov’s were captured by the Germans and the MGs were changed.
+<>The Germans designated captured tanks as “Beutepanzer” (“captured tank”).
+<>This tank has identical weaponry (except the MGs), armor and speed as the Russian one.
+<> Fokker D.VII (Germany)
+<>Please be aware that the Fokker D.VII (Germany) cannot be obtained as an event reward. You’ll be able to fly this fighter in Aces of Thunder soon™!
+<>The German Fokker D.VII is considered one of the best German fighters of the First World War. This aircraft had a metal frame, allowing it to withstand higher overloads in flight. It began entering service with the Imperial German Air Force in 1918 and more than 3,000 were produced before the end of the war. In addition to Germany, the Fokker D.VII was later in service with many countries, including Belgium, the Netherlands, the USSR and USA.
+<>This biplane features a mixed construction, characterized by high resistance to overloads and allowing for good maneuverability. The aircraft’s armament is standard, featuring a pair of rifle-caliber machine guns synchronized with the engine.
+<> Take control of a Zeppelin!
+<>Zeppelins were used by Germany during the First World War. Inflated with hydrogen gas, they were mainly used as reconnaissance but were also equipped with bombs for use against military targets and cities in France and Britain.
+<>Used by the German Empire in the event, you can use this flying behemoth and drop 14 x 300 kg SC AG bombs on enemies and fire with 7.92 mm machine guns. Lead from a zeppelin!
+<> Battle it out in Flanders
+<>Flanders is an area of Belgium where some of the bloodiest battles of the First World War took place. Featuring an intense layout of trenches, bunkers, barbed wire, gun entrenchments and a neutral area known as no man’s land, the Triple Entente and German Empire will pit against each other on this barren landscape. What was once peaceful fields has now turned into a bloody battle for a mere few yards of land. “In Flanders Fields , the poppies blow ” - John McCrae
+<> AI infantry in the trenches
+<>Infantry played a major role during the First World War. Trenches were muddy and wet, rats roamed around and “trench foot” was rampant. Most soldiers had no choice but to go over the top of the trenches into no man’s land on first command, to then get gunned down or shelled with little to no gain for their side. “ The most appalling conditions met the men as they endeavoured to cross No Man’s Land . ” – Extract from The Wipers Times , Third Wipers 1917
+<>AI infantry roam the trenches and are a target while in your tank and plane. The British and German soldiers wear authentic uniforms from the time period and also charge into no man’s land. They can fire back at you and throw grenades, so watch out! Taking out one AI infantry will yield 5 mission points, up to a maximum of 500 mission points per battle (100 soldiers), helping to contribute to stage tasks.
+<>Good luck out there, new conscript.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

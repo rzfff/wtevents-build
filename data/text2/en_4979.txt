@@ -1,0 +1,129 @@
+[Shop] Premium vehicles for Warbonds until the 31st of October - FAQ Update - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Premium vehicles for Warbonds until the 31st of October - FAQ Update
+Attention! Outdated news format. Content may not display correctly.
+28 September 2017
+Shop
+The Ki-100-II and many more awards are waiting for you!
+<>
+But before that:
+We hope you didn’t miss the news that we updated the mechanism of warbond earning .
+If you did, be sure to read it at first!
+We continue with tradition and present you once again with the updated assortment of the Warbonds for September. Everything is as before: fulfill Battle Tasks, earn warbonds, improve the shop and get the rewards.
+This assortment will be available for over a month (until the 31st of October)!
+Battle Tasks will be available to you after reaching the 3rd rank of any nation in-game. You can read more about Warbonds and Battle Tasks in the War Thunder wiki.
+<> Update 28.09.2017 (Server Update) and FAQ
+<>Rewards for daily tasks are increased by 25%
+<>Special tasks purchase cost is lowered by 25%
+<>Special task trophies will have 25,000 SL reward instead of 5,000
+<>Special tasks are now available starting from rank 3
+<>New rewards are effective only for the new tasks that players receive after these changes
+<> Q: Will my warbonds expire in the next month?
+: No, they will not expire at all.
+<> Q: Why have you replaced difficult tasks with Special tasks?
+: Special tasks were introduced so that you will have more options in how to complete tasks. Thus you may complete several tasks in one day or alternatively - extend one task over a few days.
+<> Q: Why are Special tasks only available from level 4?
+: Previously difficult tasks became available only from rank 4 also, but we considered your suggestions and lowered rank requirement of the Special tasks to rank 3.
+<> Q: Will we keep the shop level and medals after the end of a month?
+: No, every month new shop and medals should be earned from the beginning.
+<> Q: How much time do I have to upgrade the shop?
+: You have one month to upgrade your shop, after that the progress halts and you have 1 more week to earn more warbonds and spend them in the upgraded shop - during this week you will have items from both shops available and you can choose whether you want to earn some more warbonds and use them for the upgraded shop, or keep them and start upgrading the new shop. However this time the shop upgrade is available from September 25th to October 31st - more than one month.
+<> Q: I got a Special task but didn’t manage to complete it before the end of the month. Will it expire?
+: No the tasks will remain active and once you complete it you will earn a medal for the new shop.
+<> Q: Will Special tasks count for the shop progress?
+: No, they won’t. Only daily tasks count for the shop upgrade. Special tasks give you a battle trophy and a medal that allows you to get premium items from the shop.
+<> Ki-100-II
+<>
+The Japanese Kawasaki Ki-100 was the most recent development of the Ki-61 line of military fighters. Its twin brother - the Ki-100-II was further development attempt to introduce high-altitude interceptor equipped with a supercharger capable of intercepting enemy bombers at a great altitude. Based on the series-produced Ki-100-Ib, by August 1945 three Ki-100-IIs were built with turbochargers and a methanol injection system for WEP. These were the most modern aircraft of their type. Because of the end of the war, these planes did not go into large-scale series production.
+<> Neubaufahrzeug
+<>
+The German take on the multi-turret layout, the Neubaufahrzeug packs more of a punch than its British counterpart, with a combined 75mm and a coxal 37mm mounted within its primary turret as well as two machine gun turrets, mounted front and rear. This German multi-turret terror is a classic example of German efficiency and superb engineering!
+<> Detailed list of the Warbond items in the shop this month:
+<>
+<>Premium vehicles:
+<>Independent
+<>Nb.Fz.
+<>Ki-100-II
+<>A6M2 (USA)
+<>Hampden TB Mk.I (USSR)
+<>Emblem "Sorci Verdi" of 205a Squadriglia, 41o Gruppo BT, RA, decal author - 'Fenris' Muir;
+<>3d decorations (other);
+<>3d decorations (camouflage) ;
+<>Supply boxes with 30%, 60%, 90%, 300%, 600%, 900% RP and SL boosters for 1 battle;
+<>Vehicle rent:
+<>AC IV Thunderbolt
+<>Tempest Mk.V (Germany)
+<>B-17E (Japan)
+<>Super Hellcat
+<>Fw 190D-9 (USSR)
+<>“Order” trophy;
+<>Sets of the universal back-up vehicles - the universal backup vehicle. The player can activate this item to backup any one vehicle of their choice.
+<>
+<> Emblem "Sorci Verdi"
+<>Author: Colin 'Fenris' Muir
+Where can you find Warbonds?? ▼
+Click on the 'Daily Tasks' icon from the War Thunder in-game hangar.
+On the menu that opens, click on the 'Warbond Shop' icon in the bottom right corner.
+You can now view the range of Warbonds available by clicking on on the various icons.
+Purchases can be made with the 'Purchase' icon in the bottom right corner.
+<> Battle tasks: These individual tasks bring variety to your gameplay and prevent situations where all the players in a battle try to complete one specific task, effectively ignoring mission objectives that are needed for a victory. They are available for players that have reached the 3rd rank of any nation. On completion, players will receive Silver Lions, and Warbonds - a special in-game currency with their own specific shop, where you can purchase many different items.
+You can read more about battle tasks and war bonds in our devblog and on War Thunder wiki .
+Enjoy the new items available and see you on the battlefield!
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,339 @@
+[Special] The Horseshoe Pouch! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Horseshoe Pouch!
+17 February 2026
+Special
+<>2026 is the Year of the Horse, and every horse, even a fiery one, needs horseshoes! When harnessing your trusty steed, don’t forget to take a horseshoe pouch with you, keeping your precious belongings safe.
+<>The “ Horseshoe Pouch ” can be purchased from the in-game Item Shop for Silver Lions from February 17th (11:00 GMT) until March 16th (11:00 GMT) .
+<>The Horseshoe Pouch is available to players who have at least one researchable vehicle at rank II or higher on their account.
+<> What’s in the pouch?
+<>The Horseshoe Pouch contains vehicles and camouflages, decals and decorations, player icons and loading screens from past game events such as World War II Chronicles and Pages of History, World War and May events, as well as War Thunder’s birthdays. It also includes rewards from January’s Battle Passes, and even the A-26C-45! Plus useful consumables including boosters, universal backups, wagers and orders. Some items from past events have been included for the first time as coupons, meaning you’ll be able to sell them on the Market!
+<>The Horseshoe Pouch costs 60,000 Silver Lions.
+<>Some rewards you can find in the Horseshoe Pouch:
+“Crocodile Jaws”
+decal
+“Emblem of the Coldstream Guards” decal
+“Gladius”
+decoration
+“Death valley sign”
+decoration
+“Douglas MacArthur”
+player icon
+“Colt–Browning M1895”
+decoration
+<>XF5U-1
+<>A-26C-45
+<>AMX-50 (TO90/930)
+<>Pr.183 BM-21
+<>T55E1
+<>All items are immediately credited to your account, but there’s a chance of receiving some of them in coupon form, unless otherwise stated.
+Full list of items in the Horseshoe Pouch (open spoiler)
+▼
+<> Vehicles (will be immediately activated on the account or in the form of coupons):
+<>M46 (France)
+<>SB2C-5 (Japan)
+<>Le Triomphant (immediately activated on the account only)
+<>IL-8 (1944)
+<>M551(76)
+<>Pr.183 BM-21 (immediately activated on the account only)
+<>Bf 109 F-4 (Italy)
+<>AMX-50 (TO90/930)
+<>Turan II (immediately activated on the account only)
+<>MTB-422 (immediately activated on the account only)
+<>M64
+<>Su-8
+<>T55E1 (immediately activated on the account only)
+<>Z25 (immediately activated on the account only)
+<>ITP (M-1)
+<>Centurion Mk.5/1
+<>A-26C-45 (immediately activated on the account only)
+<>XF5U-1 (immediately activated on the account only)
+<>T-34-85 "Partisan"
+<>Eremin's Yak-3(e)
+<>KV-7 (U-13) (immediately activated on the account only)
+<>BM-31-12 (immediately activated on the account only)
+<>TOG II (immediately activated on the account only)
+<>LVT(A)(4) (immediately activated on the account only)
+<>Swordfish Mk II (immediately activated on the account only)
+<>TKA-412 (immediately activated on the account only)
+<>He 51 B-2/H
+<>TB-3M-17-32 (immediately activated on the account only)
+<>LaGG-3-23 (immediately activated on the account only)
+<>DB-7 (Great Britain)
+<>XF5F
+<>I-29
+<>M8 LAC
+<>Ya-5M (immediately activated on the account only)
+<>D.371 H.S.9 (immediately activated on the account only)
+<>A13 Mk II 1939
+<>38 cm Sturmmörser (immediately activated on the account only)
+<>IS-2 No.321 (immediately activated on the account only)
+<>BA-11
+<>USS Phelps
+<>IL-2 M-82
+<>M60 AMBT
+<>AMX-50 Surblindé
+<>Spitfire F Mk IXc
+<>Hawk H-75A-2 (Germany)
+<>T18E2
+<>Lorraine 155 Mle.50 (immediately activated on the account only)
+<>Tandem MAI (immediately activated on the account only)
+<>Whirlwind P.9
+<>PV-2D
+<>Yak-3T (immediately activated on the account only)
+<>MK-II "Matilda" (USSR)
+<>Excelsior
+<>KV-2 (1940)
+<>Comet I "Iron Duke IV"
+<>Bong's P-38J-15
+<>MBR-2-M-34
+<>Spitfire Mk IXc (USSR) (immediately activated on the account only)
+<>SU-76M (5th Gv.Kav.Corps)
+<> All vehicles will be immediately credited to your account, but there’s a chance to get it in the form of a coupon unless otherwise specified.
+<> Camouflages (only in the form of coupons):
+<>BA-11: Bicolor summer camouflage
+<>USS Phelps: Deforming camouflage Measure 32
+<>IL-2 M-82: Bicolor camouflage
+<>M60 AMBT: Tricolor summer camouflage
+<>T18E2: European camouflage
+<>Whirlwind P.9: Standard unpainted camouflage
+<>PV-2D: "Olathe" camouflage
+<>MK-II "Matilda" (USSR): Summer camouflage
+<> Decorations (will be immediately activated on the account or in the form of coupons):
+<>Gladius (immediately activated on the account only)
+<>Centurion helmet (immediately activated on the account only)
+<>Scutum shield (immediately activated on the account only)
+<>UBT (immediately activated on the account only)
+<>Bomb cassette (immediately activated on the account only)
+<>Siege mortar (immediately activated on the account only)
+<>Guard post (immediately activated on the account only)
+<>Crown (immediately activated on the account only)
+<>Royal scepter (immediately activated on the account only)
+<>Modern assault rifle (USA) (immediately activated on the account only)
+<>Automatic grenade launcher (USA) (immediately activated on the account only)
+<>Fuel Blivet (immediately activated on the account only)
+<>MAS 49/56 (immediately activated on the account only)
+<>Anti-tank rocket launcher (France) (immediately activated on the account only)
+<>Towed mortar (France) (immediately activated on the account only)
+<>Travel Gramophone
+<>Three-barreled experimental assault rifle
+<>Patchett Machine Carbine
+<>M1918A2
+<>Colt–Browning M1895
+<>“Death valley” sign
+<>Anniversary cake (immediately activated on the account only)
+<>Golden X (immediately activated on the account only)
+<>PIAT
+<>M1919A6
+<>Semi-automatic sniper rifle (Germany)
+<>Assault rifle (Israel)
+<>Reising M50
+<>Owen Machine Carbine
+<>PPD 34/38
+<>Mauser M98K
+<>Type 99 sniper rifle
+<>Beretta Model 38
+<>PPSh-41
+<>Lanchester Mk.1
+<>М3 “Grease gun”
+<>PPSh-42
+<>StG 44
+<>Type 100
+<> Decals (will be immediately activated on the account or in the form of coupons):
+<>"Victory is ours" text (immediately activated on the account only)
+<>"Victory over Berlin" text (immediately activated on the account only)
+<>"I Want to Believe" decal (immediately activated on the account only)
+<>"Dream Come True" decal (immediately activated on the account only)
+<>Decal "Legio I Germanica" (immediately activated on the account only)
+<>Decal "Legio I Italica" (immediately activated on the account only)
+<>Decal "Legio III Cyrenaica" (immediately activated on the account only)
+<>Decal "Legio IIII Flavia Felix" (immediately activated on the account only)
+<>Emblem of the 15th Attack Squadron (immediately activated on the account only)
+<>Emblem of the No. 450 Squadron (immediately activated on the account only)
+<>St.G 2 "Immelmann" Emblem (immediately activated on the account only)
+<>"Watchdog" emblem (immediately activated on the account only)
+<>Emblem of the Coldstream Guards (immediately activated on the account only)
+<>Emblem of the Danish Royal Guard Company (immediately activated on the account only)
+<>Emblem of the Jordan Royal Guard (immediately activated on the account only)
+<>Emblem of the Spanish Royal Guard (immediately activated on the account only)
+<>Emblem of the Paramarines (immediately activated on the account only)
+<>Emblem of the 101st Airborne Division Headquarters (immediately activated on the account only)
+<>Emblem of the 1st Marine Infantry Parachute Regiment (immediately activated on the account only)
+<>Emblem of the 9th Paratroopers Assault Regiment (immediately activated on the account only)
+<>Emblem of the Legion Engineers (immediately activated on the account only)
+<>Emblem of the 1st Legion Airborne Regiment (immediately activated on the account only)
+<>Emblem of the 1st Cavalry Regiment (immediately activated on the account only)
+<>Emblem of the 1st Regiment of the Foreign Legion (immediately activated on the account only)
+<>To the pilot of the Stalingrad Front (immediately activated on the account only)
+<>Eremin’s aerial victories (immediately activated on the account only)
+<>Zmey Gorynych (immediately activated on the account only)
+<>The front needs it - we’ll do it! (immediately activated on the account only)
+<>"T-54-412" board number
+<>"For excellent artillery training" decal
+<>"Glory to the Stalin Guard!" text
+<>"T.O.G. №2" text
+<>Emblem of the Royal Tank Corps
+<>British Propaganda Poster
+<>10 Year Better Together decal (immediately activated on the account only)
+<>10 years ahead! pin-up (immediately activated on the account only)
+<>The Snail is 9 years old! decal (immediately activated on the account only)
+<>8 years of Victories! (immediately activated on the account only)
+<>7 years of War Thunder! (immediately activated on the account only)
+<>6 years of War Thunder! (immediately activated on the account only)
+<>5 years of War Thunder! (immediately activated on the account only)
+<>Brave text
+<>Strong text
+<>321 tank number
+<>The Kerch–Eltigen Operation
+<>The Philippines Campaign (1941-1942)
+<>USS Phelps emblem (immediately activated on the account only)
+<>Battle of the Chinese Farm
+<>Battle for the Fulda Gap
+<>Emblem of the 600th Armored Brigade (immediately activated on the account only)
+<>Operation Nordwind
+<>Second Battle of El Alamein
+<>Battle for Caen
+<>Battle of Vitebsk
+<>Bear head
+<>Boar head
+<>Crocodile head
+<>Snake head
+<>Tiger head
+<>Wolf head
+<>Monster Jaws
+<>Tiger Jaws
+<>Shark Jaws
+<>Boar Jaws
+<>Crocodile Jaws
+<> Profile icons (will be immediately activated on the account or in the form of coupons):
+<>Legioner (first time as a coupon)
+<>Optio (first time as a coupon)
+<>Centurion (first time as a coupon)
+<>Attack pilot (first time as a coupon)
+<>Royal Guardsman (first time as a coupon)
+<>US Paratrooper (first time as a coupon)
+<>Foreign Legion Sapper (first time as a coupon)
+<>John Lavarack (immediately activated on the account only)
+<>Mikhail Yegorov (immediately activated on the account only)
+<>Richard Winters (immediately activated on the account only)
+<>Charles Upham (immediately activated on the account only)
+<>Aleksandra Samusenko (immediately activated on the account only)
+<>Marcario Garcia (immediately activated on the account only)
+<>Avigdor Ben-Gal (immediately activated on the account only)
+<>Marcel Albert (immediately activated on the account only)
+<>Gregory Boyington (immediately activated on the account only)
+<>Dmitry Osatyuk (immediately activated on the account only)
+<>Norman Schwarzkopf (immediately activated on the account only)
+<>Reginald Mitchell (immediately activated on the account only)
+<>Gerard Roope (immediately activated on the account only)
+<>Meliton Kantaria (immediately activated on the account only)
+<>Nikolai Gastello (immediately activated on the account only)
+<>Desmond Doss (immediately activated on the account only)
+<>David Currie (immediately activated on the account only)
+<>Roza Shanina (immediately activated on the account only)
+<>John Basilone (immediately activated on the account only)
+<>John Campbell (immediately activated on the account only)
+<>Ekaterina Mikhailova (immediately activated on the account only)
+<>William Arthur Shomo (immediately activated on the account only)
+<>Eugene Esmonde (immediately activated on the account only)
+<>Jan Zumbach (immediately activated on the account only)
+<>Aleksandr Kosmodemyansky (immediately activated on the account only)
+<>Semyon Sorokin (immediately activated on the account only)
+<>Percy Hobart (immediately activated on the account only)
+<>James Maurice Gavin (immediately activated on the account only)
+<>Raymond Dronne (immediately activated on the account only)
+<>Lev Mikhailovich Roshchin (immediately activated on the account only)
+<>Richard Bong (immediately activated on the account only)
+<>Marmaduke Pattle (immediately activated on the account only)
+<>Creighton Abrams (immediately activated on the account only)
+<>Vasily Matsievich (immediately activated on the account only)
+<>Douglas MacArthur (immediately activated on the account only)
+<>James Edgar Johnson (immediately activated on the account only)
+<>Pavel Golovachev (immediately activated on the account only)
+<>Stepan Neustroev (immediately activated on the account only)
+<>Theodore Roosevelt III (immediately activated on the account only)
+<>Paddy Mayne (immediately activated on the account only)
+<>Boris Kovzan (immediately activated on the account only)
+<>Charles Carpenter (immediately activated on the account only)
+<>Leo Major (immediately activated on the account only)
+<>Francis Sherman Currey (immediately activated on the account only)
+<>Grigory Brazhnikov (immediately activated on the account only)
+<> Profile icon frames (will be immediately activated on the account):
+<>Pancakes
+<> Profile backgrounds (will be immediately activated on the account):
+<>XF5U
+<> Loading screens (will be immediately activated on the account):
+<>9th Anniversary of War Thunder
+<>38 cm Sturmmörser
+<>XF5U-1
+<> Trophies (only in the form of coupons):
+<>World War trophy (decoration)
+<>World War trophy (vehicle)
+<> Silver Lions
+<>10,000 - 1,000,000
+<> Expendable item
+<>Battle trophy (RP booster)
+<>Battle trophy (SL booster)
+<>Universal back-up
+<>Universal back-up x2
+<>Universal back-up x3
+<>Random wager
+<>Random order
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

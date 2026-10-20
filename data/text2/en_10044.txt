@@ -1,0 +1,110 @@
+[Event] Pages of History (June): The Beaches of Normandy! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (June): The Beaches of Normandy!
+28 May 2026
+Event
+<>In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From Normandy and Karelia, Libya and Lithuania: participate in battles while using vehicles linked to these historic battles and get some prizes!
+<> From June 1st until June 30th , you will be able to participate in 8 tasks consecutively. Completing each task will grant you a trophy with a reward, completing all of the tasks will earn you a unique profile background!
+<> Profile background: Landing zone: Normandy
+<>Germany prepared the beaches of Normandy for a potential Allied landing, constructing pillboxes, batteries, barbed wire, tank traps and minefields. Despite this, by the evening of June 6th 1944, all five beaches where Allied forces had landed had been captured and held. The heroism and bravery of the soldiers who fought on D-Day paved the way for the liberation of Western Europe and the swift end of the Second World War.
+<>You can purchase this profile background for Golden Eagles until July 3rd (11:30 GMT) without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles
+<>20-50% SL booster for 3-10 battles
+<>3-5 universal backups
+<>Premium account for 1 day
+<>A random ground vehicle camouflage (out of those that can currently be unlocked or purchased with Golden Eagles)
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>Calendar
+<> June 1st — June 5th
+<> Battle of Midway
+<>The decisive naval battle in the Pacific theater of the Second World War took place from June 4th to 7th 1942. American cryptographic experts deciphered Japanese plans, allowing US forces to prepare for battle and catch the Japanese off guard. Japan lost four heavy aircraft carriers, one heavy cruiser, approximately 250 aircraft, and many well-trained pilots in the battle.
+<>
+<> June 5th — June 9th
+<> D-Day (Operation Overlord)
+<>D-Day, the Allied strategic operation which included the massive Normandy landings and the liberation of Paris, began on June 6th 1944. Simultaneously, Soviet forces conducted Operation Bagration on the Eastern Front, while Allied forces continued their advance through Italy, forcing Germany to widely disperse its resources.
+<>
+<> June 9th — June 12th
+<> Karelian Offensive
+<>On June 10th 1944, the Red Army launched a large-scale offensive against Finnish positions in two directions: Vyborg and Petrozavodsk. By the end of the summer, the USSR had consolidated control of Karelia and forced Finland to enter into negotiations; on September 19th, Finland signed a peace treaty with the USSR and sided with the Allies in the war.
+<>
+<> June 12th — June 15th
+<> Battle of Villers-Bocage
+<>On June 13th 1944, during the Battle of Normandy, the British 7th Armored Division attempted to outflank Caen from the southwest, but was suddenly fired upon by German Tiger tanks in the town of Villers-Bocage. Street fighting ensued, ending by evening when the British, fearing encirclement, retreated, losing several dozen vehicles.
+<>
+<> June 15th — June 18th
+<> Operation Battleaxe
+<>The British offensive from Egypt into Libya to relieve the siege of Tobruk proceeded on three fronts, but only one was successful. On June 15th 1941, the British captured Fort Capuzzo. However, due to the failure of the coastal and desert offensives, the fort became encircled by Axis forces, forcing the Allies to retreat on June 17th.
+<>
+<> June 19th — June 23rd
+<> Battle of the Philippine Sea
+<>On June 19th-20th 1944, the last major aircraft carrier battle took place between the US and Japanese fleets. Due to poor coordination of Japanese forces and the American superiority in tactics, pilot training, and air defense, the battle ended in a complete defeat for Japan, from which it never recovered for the rest of the war.
+<>
+<> June 23rd — June 27th
+<> Battle of Raseiniai
+<>At the beginning of Germany’s invasion of the USSR in 1941, one of the most brutal tank battles took place near Raseiniai in Lithuania. Soviet forces were disorganized and poorly coordinated, leading to their complete defeat. However, there was also room for individual heroism: a single disabled KV tank stopped German armored movement for over a day, knocking out a number of vehicles and anti-tank guns.
+<>
+<> June 27th — June 30th
+<> Case Blue
+<>On June 28th 1942, the Wehrmacht launched a strategic operation in the southern USSR on two fronts: one part of Army Group South advanced on Stalingrad, the other on the Caucasus. Rostov-on-Don fell on July 24th, and on August 21st, a group of German Jägers made a demonstration march to the summit of Mount Elbrus. However, by the end of August, the advance on both fronts had stalled. Due to severely stretched communications and fuel shortages, the Wehrmacht failed to achieve its objectives and ultimately became bogged down at Stalingrad, where it ultimately lost the strategic initiative.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

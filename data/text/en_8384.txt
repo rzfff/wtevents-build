@@ -1,0 +1,300 @@
+[Event] Summer Extreme - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Summer Extreme
+4 August 2023
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Hot summer is the perfect time for extreme sports! Ride the wind using a wingsuit or a paraglider, conquer the waves on a board or a jet ski, explore the off-road wilderness on a bike or perform tricks on a skateboard — whichever you prefer, you’ll be able to show off your hobby in War Thunder thanks to new sets of thematic decals and decorations that you’ll be able to receive in the Summer Extreme event!
+<>And, of course, you’ll be able to earn a premium Rank I tank, high rank vehicles of all types, trophies with rewards, camouflages for event vehicles and a player icon. Show off in the Summer Extreme — and then chill with a bucket of your favorite ice cream. You’ve earned it!
+<>From 11:00 GMT on the 8th of August, until 11:00 GMT on the 28th of August
+<>Participate and get prizes
+<> Vehicles
+<> Pz.Sp.Wg.P204(f) KwK
+<>Germany, rank I, premium
+<> More about vehicle
+<> HMS Renown
+<>Britain rank V, event vehicle
+<> More about vehicle
+<> CT-CV 105HP
+<>Sweden, rank VI, event vehicle
+<> More about vehicle
+<> SU-25BM
+<>USSR, rank VII, event vehicle
+<> More about vehicle
+<> Other prizes
+<>
+<>
+<>
+<>
+<>
+<>“Summer Extreme” decals
+<>"BMX" decoration
+<>
+<>“Jet Ski” naval decoration
+<>Player icon
+<>
+<> Vehicle camouflages
+<>Event vehicles in rank IV-VIII and decals will be granted in the form of coupons, while rank I premium vehicles, decorations and camouflages will be immediately activated on the player’s account.
+<>All event rewards will be issued for a specific number of “Marks of distinction” earned in the specified vehicle type in the appropriate game mode.
+<> What’s inside the trophies
+50,000 — 100,000 Silver Lions
+Silver and EXP boosters
+Random wagers and orders
+Universal backups (1-3 pcs.)
+1 day of Premium account
+Random camouflage for a purchased vehicle of any type
+<> Complete the collection!
+Activate all 5 coupons for decals on your account to receive the 6th decal “Skateboarding”.
+<>
+More about collections on the WT Wiki !
+“Skateboarding” decal
+<>Tasks
+<>To get one Mark of distinction for a tanker/pilot/sailor, earn 40,000 mission points in random battles in rank III or higher (from rank I for event vehicles) in the corresponding vehicle type with the corresponding game mode. Points multiplier that varies based on vehicle rank and difficulty level is stated in the task description. The tasks are all the same and are renewed every two days at 11:00 GMT.
+<>Missed Marks of distinction can be purchased for Golden Eagles until August 31st without completing the tasks. You can do that in the menu: Nickname → Achievements → Summer Extreme → Tasks for tankers/pilots/sailors.
+<> Ice Cream Bucket
+<>A unique opportunity to receive items from the past summer events! From August 8th until September 4th you can find an “Ice Cream Bucket” crate and its “Dessert Spoon” key in the item shop. “Ice Cream Bucket” contains unique decals, decorations, vehicles and camouflages from all past summer events. Some items from past events appear as coupons for the first time, and you can trade them on the Marketplace! You can also find Silver Lions, boosters, universal backups, wagers and orders.
+<>“Ice Cream Bucket” costs 10,000 Silver Lions, and “Dessert Spoon” costs 50,000 Silver Lions. You can also earn “Dessert Spoon” for 3 and 10 Marks of distinction in the “Summer Extreme” event. On 12:00 GMT, September 4th, all “Ice Cream Buckets” and “Dessert Spoons” will disappear from your inventories, so be sure to use them until that time!
+<>
+Ice Cream Bucket
+“Dessert Spoon” key
+"Trees Don't Move" decal
+Hornet’s nest decoration
+Girl scout profile icon
+M1A1 Carbine decoration
+Chimera decal
+Sailing catamaran decoration
+“Ice Cream Bucket” crate can contain the following rewards (open spoiler) ▼
+<> Vehicles (both immediately activated on the account and available as coupons):
+Zrinyi I (immediately activated on the account only)
+F4D-1
+Leopard 2AV
+IJN Haruna
+Buccaneer S.1
+VL Myrsky II (immediately activated on the account only)
+BMD-4
+Ka-Chi (immediately activated on the account only)
+RN Aviere (immediately activated on the account only)
+Bussard
+F11F-1
+Ar 196 A-3 (immediately activated on the account only)
+C2A1
+Ikv 73 (immediately activated on the account only)
+Maxim Gorky
+Freccia P-493 (immediately activated on the account only)
+BT-7A (F-32)
+HMS Spey
+Bf 110 C-6
+AUBL/74 HVG
+IJN Yuudachi
+P-59A
+FJ-4B VMF-232
+Martlet Mk IV (Britain)
+Sd.Kfz.234/3
+IS-7 *
+Т-34E
+P-43A-1
+Ki-94-II
+Sd.Kfz.234/4
+Phòng không T-34 (USSR) (immediately activated on the account only)
+F7F-3
+Fw 189 A-1
+KV-220
+Grant I
+<>* — chances of receiving IS-7 are far lower than the other vehicles and are around 0,001%
+<>All vehicles will be immediately credited to the account but there is a chance to get it in form of a coupon unless otherwise specified.
+<> Camouflages (coupons only):
+F4D-1: "Blue Nemesis" camouflage (first time as a coupon)
+Leopard 2AV: Bundeswehr сamouflage (first time as a coupon)
+IJN Haruna: Deforming camouflage (first time as a coupon)
+Buccaneer S.1: "736 NAS" camouflage
+BMD-4: Deforming tricolor desert camouflage
+Bussard: Deforming camouflage
+F11F-1: "Blue Angels" camouflage
+C2A1: Royal Canadian Regiment camouflage
+Maxim Gorky: Deforming camouflage
+BT-7A (F-32): Bicolor summer camouflage
+HMS Spey: Deforming camouflage
+Bf 110 C-6: Bicolor camouflage
+AUBL/74 HVG: Tricolor summer camouflage
+IJN Yuudachi: Deforming bicolor camouflage
+P-59A: Standard olive-green camouflage
+FJ-4B VMF-232: VU-7 camouflage
+Martlet Mk IV (Britain): Nonstandard bicolor camouflage
+Sd.Kfz.234/3: Tricolor summer camouflage (spots)
+IS-7: Tricolor summer camouflage
+T-34E: Bicolor summer camouflage
+P-43A-1: Unpainted camouflage
+Ki-94-II: Spotted camouflage
+Sd.Kfz.234/4: Tricolor camouflage
+F7F-3: Testing Ground 113
+Fw 189 A-1: Testing Ground 113
+KV-220: Testing Ground 113
+Grant I: Testing Ground 113
+<> Decorations (both immediately activated on the account and available as coupons):
+Sailing catamaran (first time as a coupon)
+Hornet’s nest (first time as a coupon)
+BSA Bicycle
+Container "Waffenhalter"
+M4 Sherman
+Willys MB
+Assault rifle shortened (USSR)
+M1A1 Carbine
+Light machine gun (USA)
+Light machine gun (USSR)
+Light machine gun (Germany)
+Light machine gun (China)
+Assault body armor (Russia)
+Force recon vest (USA)
+Ammunition of the Soviet Army, 1941
+Wehrmacht ammunition (Germany)
+SVT-40
+M1 Carbine
+Lee-Enfield No.4 Mk1
+Gewehr 41 (Walther)
+Arisaka Type 44
+PPS
+MP-40
+STEN
+M1928A1 "Thompson"
+<> Decals (both immediately activated on the account and available as coupons):
+Diving Mode On decal
+Explore More decal
+Falling Coconuts decal
+Good Catch decal
+Trees Don't Move decal
+Emblem of the Air Force Airborne Corps, PLA
+Emblem of the 11th Parachute Brigade, France
+Emblem of the Rapid Forces Division, Germany
+Emblem of the "Folgore" Parachute Brigade, Italy
+Emblem of the 1st Airborne Brigade, Japan
+Emblem of the 323rd Parachute Ranger Squadron, Sweden
+Emblem of the Royal Marines
+Emblem of the Russian Marine Corps
+Basilisk
+Cerberus
+Chimera
+Echidna
+Harpy
+Hippocampus
+Lernaean Hydra
+Minotaur
+Sphinx
+Wyvern
+Flames
+Fiery explosion
+Frosty flames
+Fiery ball
+Flaming exhaust
+Fiery pattern
+Flaming sparks
+Colored flame
+Emblem of the air forces, Germany
+Emblem of the air forces, Japan
+Emblem of the air forces, Britain
+Emblem of the air forces, USA
+Emblem of the air forces, USSR
+Emblem of the armored forces, France
+Emblem of the armored forces, Germany
+Emblem of the armored forces, Italy
+Emblem of the armored forces, Japan
+Emblem of the Royal tank regiments
+The emblem of the armored forces, U.S.
+Emblem of the armored forces, Russia
+The Symbol of Japan
+The Symbol of USA
+The Symbol of USSR
+The Symbol of Britain
+The Symbol of Germany
+The Symbol of Italy
+Pin-up Japan
+Pin-up Britain
+Pin-up USA
+Pin-up USSR
+Pin-up Germany
+<> Profile icons (will be immediately activated on the account and in the form of the coupons):
+<>Girl scout (first time as a coupon)
+<> Silver Lions
+10,000 — 1,000,000
+<> Expendable items
+Battle trophy (Research points booster)
+Battle trophy (Silver lions booster)
+Universal backup
+Universal backup x2
+Universal backup x3
+Random wager
+Random order
+<>
+<>Detailed terms
+The exact terms of each task can be found in the “Nickname → Achievements → Summer Extreme” window.
+To get a Mark of distinction, you need to complete a task in the corresponding vehicle type in the corresponding game mode. For example, a Mark of distinction for a pilot can be received only by playing Air battles (AB/RB/SB).
+You can complete the tasks in multiplayer battles in all game modes except for “Assault”.
+You can complete the tasks not only in vehicles of Rank III and above, but also in lower rank event vehicles. You could receive those in large events such as winter and summer marathons, WWII chronicles, BP seasons and craft marathons. In the vehicle cards of such vehicles you can find the names of events in which said vehicles first became available in the game.
+You have received the Mark of distinction if the achievement’s color is golden.
+Missed Marks of distinction can be purchased for Golden Eagles in the Achievements window until August 31st, 2023. Make sure you pick the right achievement category: for tankers, pilots and sailors.
+Prizes received in the form of tradable coupons will be available for trading on the market from September 1st, 2023. The time from which the coupon can be traded can be viewed in the game in the coupon description. The option of trading each coupon separately depends on the time of its receipt and doesn’t depend on the vehicle type.
+For 8 Marks of distinction you receive an untradable coupon for a vehicle. Upon activating it, you will instantly receive a corresponding vehicle. If you do not wish to use the vehicle and want to sell the coupon on the Marketplace instead, you need the “Upgrade for coupon” item.
+For 10 Marks of distinction you receive an untradable “Upgrade for coupon” item. You can use it to make the vehicle coupon you received tradable and then sell it on the Marketplace. The date on which a traded coupon becomes available for sale can be seen in its description in the game.
+The “Upgrade for coupon” item has an expiration date. You can either use it or exchange it for Warbonds before it expires.
+PlayStation and Xbox players will be able to exchange decal coupons for similar ones. The exchange is available in the “Workshop → Exchange items “Summer Extreme” window.
+<>See you on the battlefield!
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

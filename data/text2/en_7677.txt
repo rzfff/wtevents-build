@@ -1,0 +1,132 @@
+[Event] Victory Day in War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Victory Day in War Thunder
+Attention! Outdated news format. Content may not display correctly.
+6 May 2022
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>To celebrate the 77th anniversary of “Victory in Europe Day” we have prepared for you unique vehicles, discounts, decals and decorations!
+<>From May 6th to 10th (11:00 GMT), take part in battles in War Thunder and get memorable rewards.
+“Victory Fanfare” decal
+<>Perform 3 battles (activity of 70% or higher).
+“SG-43” decoration for ground vehicles
+<>Get in total 20,000 mission points by controlling vehicles of rank III and above in ground battles.
+“Matilda II” decoration for blue water fleet
+<>Get in total 10,000 mission points by controlling vehicles of rank III and above in naval battles.
+<>You can follow your progress by clicking on your nickname → Achievements → Victory Day.
+<>Trophies are available in the in-game item store the purchase of which will bring you Allied weapon decorations or decals that you don’t already have. Decals are dedicated to three major Soviet war memorials: "Rear-front" , “Warrior Liberator” and "Motherland" . Decorations: «Bren Mk II» , «ROKS-3» and «M1 Garand» .
+<>Discounts in the game
+<>Until May 9th (11:00 GMT), 30% discount on upgrades and allied vehicles as well as a 50% discount on premium accounts.
+<> More details
+<>Sale in the Gaijin Store
+<>The Gaijin.Net Store is having a sale on customizable packs with rare vehicles from May 5th to 9th. There is also a dynamic discount that can have as much as 60% off.
+<>From May 9th to 16th you can purchase several packs of premium vehicles at a 50% discount!
+<> More details
+<>Legend of Victory: IS-2 №321
+<>From 11th to 23rd of May - take part in the “Legend of Victory” event and become an owner of decals and decorations as well as the IS-2 №321 event vehicle!
+<>The image of the Soviet IS-2 heavy tank side number “white 321” is gathered from retro photographs of actual armored vehicles from the final stages of the war in Europe. Crushed fenders, wooden logs to surmount spring mud, crewmen quilted jackets, left from the winter, shell boxes, holdall bags tied to the hull and turret… the ‘weathered’ IS-2 went through many trials to face the final battle!
+<> More details
+<>“Victory” series of tournaments
+<>
+<>
+<>Register now to take part in the “Victory” series of tournaments! Choose a tournament that suits you the most, play alone or join the team!
+<>The total prize fund of the tournament series is 195.000 Golden Eagles.
+<>
+<>A decent result will also bring you an unique “Allies” decal!
+“Allies” decal
+<>May 6th
+1х1 Air AB
+1х1 Tanks RB
+<>May 9th
+1х1 Air RB
+2x2 Tanks AB
+<>May 11th
+1х1 Air RB (novice)
+1х1 Tanks AB
+<>May 7th
+1х1 Tanks AB (novice)
+2x2 Tanks RB
+1х1 Air SB
+7x7 RB with markers
+<>May 10th
+1х1 Naval RB
+1х1 Tanks RB (novice)
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

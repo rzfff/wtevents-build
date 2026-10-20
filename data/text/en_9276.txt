@@ -1,0 +1,135 @@
+[Event] Get Yourself Some Cool Rewards in the Winter Tales Event! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Get Yourself Some Cool Rewards in the Winter Tales Event!
+13 December 2024
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>When there’s a snowstorm and blizzard outside, it’s best to gather around with family and friends inside, put up decorations and remember everyone’s favorite fairy tales about the New Year’s miracles. And then of course play some War Thunder, where the festive mood and an event await you!
+<>This time, the rewards for the Winter Tales event include fairy-tale character decals and event vehicles at rank V-VIII. The Colombian Kfir C.10 Block 60 jet fighter for Israel, the IJN Kirishima battleship and the Pakistani T-80UD (478BE) in the Chinese ground forces tree.
+<> When: From December 20th (11:00 GMT) until January 9th (11:00 GMT), complete tasks and get rewards!
+<>Participate and get prizes
+<> Vehicles
+<>By completing tasks in this event, you’ll be able to earn the following vehicles.
+<> Kfir C.10 Block 60
+<>A Rank VIII Event Vehicle for Israel
+<> Click here to learn more.
+<> MB 151
+<>A Rank I Premium for France
+<> Click here to learn more.
+<> IJN Kirishima
+<>A Rank V Event Vehicle for Japan
+<> Click here to learn more.
+<> T-80UD (478BE)
+<>A Rank VII Event Vehicle for China
+<> Click here to learn more.
+<> Other prizes
+“Nutcracker” decoration
+“The Witch’s House” decoration
+“Call sign “Snow Maiden”” profile icon
+<>
+<>
+<>
+<>
+<>
+Decals: Gryla, Hans Trapp, Jack Frost, Befana, Krampus,
+<> Complete the collection!
+Activate all five decal coupons on your account to get the sixth decal, “Yule Cat”.
+<>
+More about collections on the WT Wiki !
+Yule Cat” decal
+<> Vehicle camouflages
+<>
+<>
+<>
+<>Event vehicles of ranks V-VIII and decals that are issued in the form of coupons and premium vehicles of rank I, player icons, decorators and camouflages are immediately activated on the account.
+<>All event rewards are issued for a certain number of “Marks of Distinction” received on your vehicle type in the corresponding mode.
+<> What’s inside the trophies
+<>50,000 — 100,000 Silver Lions
+<>SL and RP boosters
+<>Random wagers and orders
+<>Universal backups (1-3 pcs.)
+<>Random camouflage for a purchased vehicle of any type
+<>1 day of Premium account
+<> Snow Globe
+<> The Snow Globe will reward you with vehicles, camouflages, decals, decorations and player profile icons from previous winter events, plus useful consumables, including boosters, universal backups, wagers and orders. Some items are here for the first time as coupons, meaning you’ll be able to sell them on the Market!
+<>
+<>The Snow Globe can be purchased for 60,000 Silver Lions.
+<>
+<>
+<>Tasks
+<>To get one Mark of Distinction for a tanker/pilot/sailor, earn 40,000 mission points in random battles in Rank III or higher (from Rank I for event vehicles) in the corresponding game mode. Point multipliers that vary based on vehicle rank and difficulty level are stated in the task description. The tasks are all the same and are renewed every two days at 11:00 GMT.
+<>Missed Marks of Distinction can be purchased for Golden Eagles until January 13th without completing the tasks. You can do this in the following menu: Nickname → Achievements → Winter Tales → Tasks for tankers/pilots/sailors.
+<>Detailed Terms
+<>The exact terms of each task can be found here: Nickname → Achievements → Winter Tales.
+<>To get a Mark of Distinction, you need to complete a task in the corresponding vehicle type in the corresponding game mode. For example, a Mark of Distinction for pilots can only be received by playing Air battles (AB/RB/SB).
+<>You can complete tasks in multiplayer battles in all game modes except for “Assault” and “[Enduring Confrontation] Naval Battles”.
+<>You can complete tasks not only in vehicles of Rank III and above, but also in lower rank event vehicles — vehicles obtained in large events such as winter and summer marathons, WWII chronicles, BP seasons and craft marathons. In the stat cards of these vehicles you can find the names of events in which they first became available in the game.
+<>You’ll only have received a Mark of Distinction if the achievement’s color is gold. If you’ve completed the task and it hasn’t turned gold yet, join another battle and afterwards it should turn gold.
+<>Missed Marks of Distinction can be purchased for Golden Eagles in the Achievements window until January 13th 2025. Make sure you pick the right achievement category: either for tankers, pilots and sailors.
+<>Rewards received in the form of tradable coupons will be available for trading on the Market from January 13th 2025. The time from which the coupon can be traded can be viewed in the game in the coupon description. The option of trading each coupon separately depends on the time of its receipt and doesn’t depend on the vehicle type.
+<>The “Upgrade for coupon” item is valid until 12:00 GMT on February 1st 2025. Until this time, you can use it or exchange it for War Bonds. Afterwards, it’ll disappear from your inventory.
+<>For 8 Marks of Distinction you receive an untradable coupon for a vehicle. Upon activating it, you’ll instantly receive a corresponding vehicle. If you do not wish to use the vehicle and want to sell the coupon on the Market instead, you’ll need the “Upgrade for coupon” item.
+<>For 10 Marks of Distinction, you’ll receive an untradable “Upgrade for coupon” item. You can use it to make the vehicle coupon you received tradable and then sell it on the Market. The date on which a traded coupon becomes available for sale can be seen in its description in the game.
+<>PlayStation and Xbox players will be able to exchange decal coupons for similar ones. The exchange is available in the Workshop → Exchange items “Winter Tales” window.
+<>Enjoy this festive tales during the festive season!
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

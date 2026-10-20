@@ -1,0 +1,104 @@
+[Event] Pages of History (May): Road to the Reichstag - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (May): Road to the Reichstag
+29 April 2025
+Event
+<>In this month’s Pages of History, you will find yourself in the midst of key historical events across different theaters of war. Indonesia and Madagascar, Italy and Berlin — take part in battles using vehicles corresponding to these historic conflicts and earn rewards!
+<>
+<>From May 1st until May 31st, you’ll have access to 8 tasks consecutively. Completing each task will grant you a trophy with a reward, completing all of the tasks will earn you a unique player icon!
+<>Stepan Andreevich Neustroyev
+<>was a Soviet officer who commanded the 1st Rifle Battalion of the 756th Rifle Regiment in the 150th Rifle Division from 1943 in the Baltic, Vistula-Oder, East Pomeranian and Berlin. In Berlin, his regiment stormed the main entrance to the Reichstag — both Mikhail Yegorov and Meliton Kantaria, who raised the Soviet banner over the building, served under Neustroyev. Neustroyev was supposed to carry the Victory Banner at the parade on Red Square on June 24th, 1945, but was unable to do so due to a leg wound. Later, the Victory Banner was donated to a museum.
+<>You can immediately purchase this profile icon for Golden Eagles until June 3rd (11:30 GMT) without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random ground vehicle camouflage (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>Calendar
+<>May 1st — May 4th
+<> Operation Oboe One : Battle of Tarakan
+<>The first part of the Borneo Operation in 1945 was the battle for the Indonesian island of Tarakan between Japan — which captured the island in January 1942 — and the Allies, the United States and Australia. The main strategic target was the airfield, which was so damaged during the fighting that by the time it was restored, the war was practically over.
+<>May 4th — May 7th
+<> Battle of Madagascar
+<>To prevent the possible establishment of Japanese submarine bases in Madagascar which was governed by Vichy France, the Allies landed on the island on May 5th, 1942, and completely subjugated it within six months. Control over Madagascar was transferred to Free France.
+<>May 7th — May 10th
+<> Victory in Europe Day
+<>It has been 80 years since the end of the Second World War in Europe! Germany surrendered and the War in Europe came to an end after six long years. The victors have a ceremonial parade and celebrations.
+<>May 10th — May 13th
+<> Operation Diadem
+<>On May 11th, 1944, the fourth battle for the heights of Monte Cassino began, where the Axis stopped the Allies from advancing to Rome for four months. The British, Indians, South Africans, Australians, New Zealanders, Americans, Canadians, French, and Poles took part in this attack on the Allied side and suffered heavy losses. In total, 55,000 Allied soldiers and 20,000 Axis soldiers died at Monte Cassino, which is why this victory is considered Pyrrhic.
+<>May 13th — May 17th
+<> The end of the Tunisian Campaign
+<>On May 6th, 1943, the Allies captured Tunis, the capital of Tunisia. The Axis forces in North Africa had no room to retreat and had all surrendered by May 13th. Victory in Africa opened the way for the Allies to turn their attention to Italy.
+<>May 18th — May 22nd
+<> Battle of Crete
+<>Having conquered mainland Greece, Germany turned its attention to Crete, where the last remnants of the Greek Army and a British Commonwealth garrison were hiding. On May 20th, 1941, Germany launched Operation Mercury, with paratroopers capturing an airfield and quickly sending in the main body of mountain infantry. By June 1st, the island’s defenders had been routed.
+<>May 23rd — May 26th
+<> Senger Line
+<>The Gustav Line in central Italy was followed by a German defensive line named after Adolf Hitler. However, after the defeat at Monte Cassino, Hitler himself ordered it to be renamed in order to avoid the cost of his reputation if it fell. The line was named after General Senger and only lasted a week, as on May 24th, the Allies broke through it and cleared the way to Rome.
+<>May 27th — May 31st
+<> The F-4 Phantom’s First Flight
+<>On May 27th, 1958, the McDonnell Douglas F-4 Phantom II made its maiden flight. In the first few years following, it set many records for speed, flight altitude and rate of climb. It became the first aircraft capable of maintaining stable flight at an altitude of over 20 km. It debuted a pulse-Doppler radar and titanium was used in the aircraft’s production for the first time.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

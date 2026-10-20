@@ -1,0 +1,77 @@
+[Event] Tournaments “French Derby” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tournaments “French Derby”
+Attention! Outdated news format. Content may not display correctly.
+15 December 2017
+Event
+<>The testers have completed the testing of the French aircraft and in honour of this we have prepared for you a special aircraft tournament “deathmatch”. In the sky of Normandy the pilots in 5 French aircraft will be face to face with the enemy, but only one will win!
+<>From 15:00 GMT on December 15th till 07:00 GMT on December 18th
+<>The pilot who destroys 6 enemies in AB and RB or destroys 5 enemy aircraft in SB first, will win. To participate in the battle you can pre-assemble a setup of available aircraft with researched modules and experienced pilots or use the predefined setup of aircraft without researched modules and beginner pilots.
+<> Tournament aircraft :
+<>F6F5, VB.10C-1, F-6F5N, VB.10-02 and P-63C-5. 5 respawns are available, one for each aircraft. The order you use them - it’s up to you.
+Terms ▼
+<>To participate you must purchase at least one of the tournament aircraft.
+<>The event will be in the format "Deathmatch" for 8 players in Arcade and Realistic Battles and "Deathmatch" for 4 players in Simulator Battles.
+<>Economy and research for vehicles in the tournament will be switched off.
+<>Each pilot who will uses the “Participate” button will contribute 15,000 SL to the prize pool and the winner of the tournament will receive 120,000 SL in AB and RB and 60,000 in SB.
+<>
+<>French pilots never give up!
+<>
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

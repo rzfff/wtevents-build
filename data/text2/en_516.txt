@@ -1,0 +1,89 @@
+Birthday of Alexander Yakovlev - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Birthday of Alexander Yakovlev
+Attention! Outdated news format. Content may not display correctly.
+1 April 2014
+Aleksandr Sergeyevich Yakovlev, was born on the 1st of April 1906 in Moscow, he died on August the 22nd 1989 in the same City. He was a leading aircraft designer best known for his series of Yak fighter aircraft used by the Soviet Union in World War II.
+<>
+After graduation from the Air Force Engineering Academy in 1931, Yakovlev immediately began to design aircraft, both piston and jet engined. Many designs were made before the Great Patriotic war, but just before World War II he designed the Yak-1 fighter which was notably agile and fast. The Yak-1 had a structure of metal and wood. The cockpit gave the pilot excellent vision around, and its all metal wings were replaceable in the field fairly easily. It had a M-105PF engine which had a fairly good power to weight ratio.
+<>
+He went on to develop the Yak 3 - a highly maneuverable low altitude interceptor, the Yak 7 - Frontline pilots considered the rate of fire, endurance and handling characteristics of the Yak-7 to be superior to the Yak 1 and the Yak 9 which would become the ultimate Russian fighter and was destined to be produced in larger numbers than any other Yakovlev aircraft, it took part in every major battle after its introduction during the autumn of 1942.His first jet fighter, the Yak-15, was designed in 1945, followed by the Yak-17 and Yak-23. His foray into bomber aircraft during the war, was shown in the Yak 2 and the Yak 4.
+<>
+His successful twin-engined “flying wagon” helicopter (the Yak-24) set several world records from 1952. In the years after World War II, as the MiG design increased in popularity, Yakovlev began to design many civilian aircraft, especially sports aircraft.
+<>
+A member of the Communist Party of the Soviet Union from 1938, Yakovlev served from 1940 to 1956 as a deputy minister of the aircraft industry and as chief designer after that. He was awarded the Stalin Prize seven times and the Order of Lenin eight times and became a member of the U.S.S.R. Academy of Sciences in 1976.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

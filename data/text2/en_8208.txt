@@ -1,0 +1,101 @@
+[Event] Pages of History (May) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (May)
+24 April 2023
+Event
+<>For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon.
+<>A detailed description of the current task as well as your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>A Red Army sergeant who participated in the World War II since December 1941. Together with sergeant Mikhail Yegorov he placed the Red flag over the Reichstag during the Battle for Berlin. For his valor he was awarded the highest awards: the title of Hero of the Soviet Union, the Gold Star, and the Order of Lenin.
+Meliton Kantaria
+<>You can immediately purchase the profile icon for Golden Eagles until June 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (May).
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>May 1st — May 4th
+Battle of the Coral Sea
+<>From May 4th through 8th of 1942, Japan and the Allies fought in the Coral Sea, although indirectly: vessels of both sides never fired at or even saw each other, relying instead on aircraft. Strategic victory went to the Allies: they managed to halt Japan's advance and hurt its air carrier fleet that led to a decisive victory at Midway.
+<>May 4th — May 7th
+Battle of Madagascar
+<>To prevent a Japanese naval base from possibly being built on Madagascar that at the time belonged to Vichy France, Britain decided to conquer the island. On May 5th, 1942 Commonwealth troops landed on the northern point of Madagascar and half a year later established full control over it. It was the first large-scale operation of World War II where ground, naval, and air forces of the Allies participated in tandem.
+<>May 7th — May 10th
+The end of the World War II in Europe
+<>This was the biggest ordeal that the Allies had faced, and it’s finally over. Six long years of war, dozens of strategic operations on thousands of miles of the frontlines, and countless acts of heroism of regular soldiers — and at last, victory! Nazi Germany capitulated, the war ended, and heroes can finally go home to their families.
+<>May 10th — May 13th
+Operation Diadem
+<>The fourth and final battle at Monte Cassino began on May 11th, 1944. After three failed offensives the Allies spent two months preparing for an attack that would be a surprise for the Wehrmacht — and succeeded. The Gustav Line in Central Italy was breached, and the German forces retreated to the Hitler Line.
+<>May 13th — May 17th
+The end of the Tunisian campaign
+<>During the final months of the North African campaign the Axis powers kept retreating, suffering from lack of fuel and reinforcements. In Tunisia they fell back to well fortified defensive positions, but their defeat was only a matter of time. That time came on May 13th, 1943, when over 200 thousand troops from Germany and Italy surrendered to the Allies.
+<>May 18th — May 22nd
+Battle of Crete
+<>From May 20th through 31st of 1941 Germany executed an operation to capture Crete. It was the first large-scale airborne invasion in history: over 20 thousand German paratroopers were involved in the operation. As a result the British army lost almost all of its forces stationed on Crete, but Germany suffered heavy losses as well and never authorized large-scale airborne operations again.
+<>May 23rd — May 26th
+Senger Line
+<>After the defeat at the Gustav Line the Wehrmacht retreated to the Hitler Line, which didn't last long either and fell to the assault of Polish and Canadian forces. To make its fall seem less significant, Hitler had renamed it to the Senger Line beforehand. After the victory the Allies instead of routing the retreating German forces decided to march on Rome which was taken without a battle on June 4th.
+<>May 27th— May 30th
+F-4 Phantom first flight
+<>On May 27th, 1958, a McDonnell Douglas F-4 Phantom II fighter took its maiden flight. Thanks to its high adaptability it became the most produced American supersonic military aircraft and the most iconic aircraft of the US Air Force during the Cold War. It was widely used by the US during the Vietnam War, by Israel in many conflicts, and is still employed by several countries.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

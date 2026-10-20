@@ -1,0 +1,99 @@
+{
+ "results": [
+  {
+   "aid": 10256,
+   "lang": "en",
+   "is_event": true,
+   "type": "festive",
+   "title": "Spooky Monthly Decals for October!",
+   "name_en": "Spooky Monthly Decals for October!",
+   "name_zh": null,
+   "start": "2026-10-12T11:00:00Z",
+   "end": "2026-11-12T09:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "available from October 12th (11:00 GMT) until November 12th (09:00 GMT)",
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [
+    "新增 5 款:苏俄「鲁齐特个人徽标」/法国「SPA 91 中队徽标」/美国「赖斯的红魔」车体彩绘/中国「黑猫中队」徽标(1 版)/希腊 337 中队「幽灵」机尾涂鸦",
+    "返场 5 款:英「咧嘴骷髅」/瑞典「泛黄骷髅与交叉骸骨」/日「第 7 防空团蝙蝠徽标」/德 3. SFltl「深海怪鱼」/意「41° 独立大队徽标」"
+   ],
+   "tasks": "III 级及以上载具完成对应任务解锁(例:法国战机 15000 分/德国近岸舰艇 20000 伤害/苏联战机击杀 50 等);完成后需手动领奖。",
+   "sub_events": [],
+   "notes": "十月「每月贴花」万圣节主题(骷髅/幽灵/黑猫);「深海怪鱼」徽标首轮仅限金鹰购买,本轮改为任务免费解锁;EN 版截止 09:00 GMT 与中文版(北京时间 15:00=07:00 GMT)有出入,以 EN 原文为准。",
+   "confidence": 0.9
+  },
+  {
+   "aid": 2815,
+   "lang": "zh",
+   "is_event": true,
+   "type": "festive",
+   "title": "每月吓人贴花·十月！",
+   "name_en": null,
+   "name_zh": "每月吓人贴花·十月",
+   "start": "2026-10-12T11:00:00Z",
+   "end": "2026-11-12T09:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "北京时间 10 月 12 日 19:00 起开放解锁,11 月 12 日 15:00 截止(与 EN 版有出入,以 EN 为准)",
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "tasks": "III 级及以上载具完成贴花任务;含法国战机 15000 分、德国近岸舰艇 20000 伤害等;「红魔」彩绘适配谢尔曼以外多数坦克。",
+   "sub_events": [],
+   "notes": "中文版。",
+   "confidence": 0.85
+  },
+  {
+   "aid": 10257,
+   "lang": "en",
+   "is_event": true,
+   "type": "sale",
+   "title": "A Decal and Discounts on American Ships for the US Navy's Birthday!",
+   "name_en": "A Decal and Discounts on American Ships for the US Navy's Birthday!",
+   "name_zh": null,
+   "start": "2026-10-13T11:00:00Z",
+   "end": "2026-10-16T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From October 13th (11:00 GMT) until October 16th (11:00 GMT)",
+   "discounts": [
+    {"target": "USS Maryland 礼包(Gaijin 商店)", "item": "含马里兰号(美 VI 级战列舰)+3000 金鹰+30 天高级账号;79.99→55.99 美元", "percent": 30},
+    {"target": "USS Cowell(美 III 级驱逐舰)", "item": "3416 金鹰;仅本次促销期间可购(限时返场)", "percent": 30},
+    {"target": "USS Helena(美 IV 级轻巡洋舰)", "item": "5614 金鹰", "percent": 30},
+    {"target": "USS Des Moines(美 V 级重巡洋舰)", "item": "5614 金鹰", "percent": 30}
+   ],
+   "deadlines": [],
+   "rewards_text": [
+    "「美国太平洋舰队徽章」贴花(任务免费解锁)"
+   ],
+   "tasks": "美国 III 级及以上近岸或远洋舰艇战斗攒 3000 任务分解锁贴花(随机战斗即可,完成后需手动领奖);进度查询:昵称→成就→节日→US Navy Birthday。",
+   "sub_events": [],
+   "notes": "美国海军生日纪念(1775-10-13 大陆会议决议建立海军);游戏内商店位:美国>远洋舰队>高级载具。",
+   "confidence": 0.9
+  },
+  {
+   "aid": 2816,
+   "lang": "zh",
+   "is_event": true,
+   "type": "sale",
+   "title": "美国海军成立纪念日载具折扣与贴花活动开启",
+   "name_en": null,
+   "name_zh": "美国海军成立纪念日载具折扣与贴花活动开启",
+   "start": "2026-10-13T11:00:00Z",
+   "end": "2026-10-16T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "北京时间 10 月 13 日 19:00 至 10 月 16 日 19:00",
+   "discounts": [
+    {"target": "马里兰号礼包(Gaijin 商店)", "item": "79.99→55.99 美元", "percent": 30},
+    {"target": "科厄尔号(III 级驱逐舰)", "item": "3416 金鹰", "percent": 30},
+    {"target": "海伦娜号(IV 级轻巡)", "item": "5614 金鹰", "percent": 30},
+    {"target": "得梅因号(V 级重巡)", "item": "5614 金鹰", "percent": 30}
+   ],
+   "deadlines": [],
+   "rewards_text": [],
+   "tasks": null,
+   "sub_events": [],
+   "notes": "中文版。",
+   "confidence": 0.85
+  }
+ ]
+}

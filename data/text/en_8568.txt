@@ -1,0 +1,101 @@
+[Event] Battle of the Atlantic: Ships Against Submarines! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Battle of the Atlantic: Ships Against Submarines!
+3 November 2023
+Event
+<>It’s currently the height of World War II. Battles are raging on all fronts, including the Atlantic Ocean, where the most critical supply routes cross.
+<>Welcome to the Battle of the Atlantic event, which pits two teams of players against each other in asymmetrical ship and submarine combat!
+<>When: From November 3rd (11:00 GMT) until November 13th (11:00 GMT)
+<>Earn points in the special mission, unlock stages and receive prizes!
+<>The prizes
+<>Check out the following prizes!
+<> “Rat” decal
+<> “Bull Scapa-Flow” decal
+<> “Laughing Swordfish” decal
+<> “Carley float” fleet decoration
+<> “Emergency Buoy” fleet decoration
+<> “Submarine Captain” profile icon
+“Battle of the Atlantic” loading screen
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>How to get these prizes
+<>
+Each stage is unlocked by completing two tasks: 1500 mission points for the USA and 1500 mission points for Germany.
+<>Stages change every two days at 11:00 GMT: November 5th, 7th, 9th, 11th.
+<>For 1 stage: Random decal.
+<>For 2 stages: “Carley float” fleet decoration.
+<>For 3 steps: Random decal.
+<>For 4 stages: “Emergency Buoy” fleet decoration.
+<>For 5 stages: “Laughing Swordfish” decal, “Submarine Captain” profile icon and “Battle of the Atlantic” loading screen.
+<>For those of you who complete 5 stages, you’ll be able to continue using the “Battle of the Atlantic” loading screen in the loading screen filter after the event ends!
+You can track the progress of completing tasks by clicking on “Nickname → Achievements → Battle of the Atlantic.”
+If you did not manage to complete a stage on time, until November 16th in the achievements window, you’ll be able to purchase stages using Golden Eagles and receive the corresponding prizes.
+<>Attacking
+<>The attacking team uses the customized German Type VII Submarine, which is armed with 10 torpedoes in bow tubes, and 11 mines launched from stern torpedo tubes! In addition to this, two twin 20 mm cannons and one 37 mm cannon. Submarines are unreachable for depth charges and detection at great depths. On the surface, they’ll have great visibility range and can move faster, but here they’ll be highly vulnerable and easily detected by the enemy.
+<>For a submarine to attack, it’ll need to be on the surface or at the depth of its periscope. Look for targets through binoculars or with the periscope and identify — keep your crosshairs on the ship, as this will allow you to calculate the lead for attack. You can also launch torpedoes, which is possible at a depth of up to 20 meters as well as contact mines down to a depth of 60 meters!
+<>There are three types of views available for submarines. You can use the third-person camera at any depth, however it will not allow you to begin calculating torpedo fire. When you submerge to a depth of 7 meters, you’ll be able to raise the periscope and observe the surface through it. If a submarine is in motion and you have your periscope raised, it’ll be easier to spot due to foamy water forming. The periscope is not too high above the surface of the water, but is still safer than binoculars that can only be used on the surface. However, binoculars have the best zoom and highest vantage point, so choose wisely!
+<>Remember to keep in mind the noise level emitted by your submarine! The higher the speed, the higher the noise level. A stationary submarine can only be detected when in close proximity, while a submarine at a depth below 60 meters cannot be detected at all!
+<>Therefore when playing in your submarine, make sure to find the right balance between safety, speed and precision in attacks.
+<>Defending
+<>In this event, the convoy is defended by US ships, specifically the USS Tacoma frigate and the USS Fletcher destroyer. Both can respawn at dynamic points around the convoy cargo ships and use any method available — depth charges, guns, torpedoes and good old ramming speed to defend against the attacking wolfpack. Having accumulated the required amount of spawn points, defenders can fly out in an anti-submarine aircraft to help defeat submarines from the air too!
+<>Defenders can detect enemy submarines both visually, for example at longer ranges if it’s on the surface, or if it has its periscope raised as well as with the help of special equipment. Using a hydrophone will allow you to obtain the bearing and approximate distance to a submarine based on sound, but not depth. The faster the enemy submarine’s speed is, the greater distance at which it can be detected. At a short distance around the ship, sonar works — it can detect a submarine at depths down to 60 meters and will show you its silhouette!
+<>Good luck and have fun in this challenging naval battle!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

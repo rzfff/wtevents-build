@@ -1,0 +1,87 @@
+[Event] New Missions - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+New Missions
+Attention! Outdated news format. Content may not display correctly.
+2 August 2016
+Event
+<>
+New missions will be available in RB in the tab “Events and Tournaments”
+<>
+From 2nd August 15:00 GMT to 5th August 15:00 GMT
+[Cover] Norway (3 types)
+[Defense] Stalingrad​
+From 5th August 15:00 GMT to 8th August 15:00 GMT
+[Defense] Mozdok
+[Ground Strike] Fiery arc (2 types)
+Hello friends! We have great news for you, but you’ll need to train to prepare yourselves.
+You may ask, “What’s so great about this news?” Well, you’re going to have to develop new tactics for your style of play, because we have prepared for you a number of possible game modes for both pilots and tankers!
+So, without further ado, let us introduce the modes...
+[Defense] Stalingrad and Mozdok
+Already clear from the name! It’s a game mode for ground vehicles. One team needs to defend and prevent any capture of the point which is already controlled by the defending team from the beginning. The other team needs to make every effort to capture the point. However in all new game modes, some common objectives do continue to exist - you can destroy the enemy team so that no one can defend or capture the point. Simple and clear.
+In the testing phase, you will be able to choose the roles of the teams. In type “Defense 1”, the defending team will be “A”, in the type “Defense 2” the defending team will be “B”.
+Both teams will respawn at some distance from the point, but the defense team respawns closer and thus gets a head start in order to take up defensive positions.
+[Cover] Norway
+This is a game mode for pilots, which may already be known by those pilots who compete in historical events. It will be presented in three types.
+In “Cover 1” and “Cover 2”, one of the teams will receive an order to track and cover AI bombers on the way to a target which belongs to second team. The other team should prevent a successful bombing of its own zone and intercept and destroy as many of the enemy bombers as possible.
+The third type “Convoy: Head-on Course” both teams perform these roles simultaneously: engage and support their AI bombers and at the same time, intercept the enemy.
+[Ground Strike] Fiery Arc
+It’s a new “Ground Strike” for pilots in two types: “1” and “2”. The main difference between this new mode from the old one: AI ground vehicles are now only in one team. There are many more ground targets now and some of them can only be destroyed by well armed attackers or bombers. Your tasks are clear: one team needs to cover ground targets, the other - complete destruction.
+The completion of mission tasks is the direct way to victory and now we will have far more of these tasks in War Thunder.
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

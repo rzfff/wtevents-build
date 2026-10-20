@@ -1,0 +1,350 @@
+[Special] The Military Survival Kit! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Military Survival Kit!
+27 August 2026
+Special
+<>A survival kit is a test pilot’s trusty companion, where everything essential is tightly packed and stowed under the seat. At one of NASA’s research centers, a new experimental machine is being readied for flight, and its pilot can rest easy as the survival kit is in place. We’ve got one for you as well, although instead of signal flares and rations, it’s packed with rewards from past events and useful consumables. Hopefully you won’t need to eject to get your hands on it!
+<> As for the machine NASA is preparing for the skies, you’ll find out very soon…
+<>The “ Military Survival Kit ” can be purchased from the in-game Item Shop for Silver Lions from August 27th (11:00 GMT) until September 25th (11:00 GMT) . It doesn’t require a key and can only be purchased by players who have bought at least one researchable vehicle at Rank II or higher on their account.
+<>What’s in the Military Survival Kit?
+<>The “Military Survival Kit” contains vehicles and camouflages, decals and decorations, player icons from previous summer events and events from the new cycle from June to August inclusive, as well as useful consumable items: boosters, universal backups, wagers and orders. Some items from past events are appearing as coupons for the first time, and you’ll be able to trade them on the Market!
+<>The Military Survival Kit costs 60,000 Silver Lions.
+<>
+Military Survival Kit
+<>On September 25th (11:00 GMT) , all Military Survival Kits will disappear from your inventory, so be sure to open them before then!
+“Echidna” decal
+"Davy Crockett" decoration
+“Harpy” decal
+"Chinese paratrooper"
+profile icon
+"Emergency vehicle lighting" decoration
+"Girl scout"
+profile icon
+<>
+<>All items are immediately credited to your account, but there’s a chance of receiving some of them in the form of a coupon, unless otherwise stated.
+Full list of items in the Military Survival Kit (open spoiler) ▼
+<>Vehicles (both immediately activated on the account and available as coupons):
+<>Sd.Kfz.251/22 (immediately activated on the account only)
+<>USS Detroit (immediately activated on the account only)
+<>A6M6c
+<>E.B.R. (1963)
+<>Type T-51a (immediately activated on the account only)
+<>BV 155 B-1
+<>Object 248
+<>MC-485 (immediately activated on the account only)
+<>B7A2 (Homare 23)
+<>SPz 12-3 LGS
+<>PBM-5A Mariner
+<>Sholef
+<>SB-25J
+<>WZ141-1
+<>HF-24
+<>T86
+<>Shisaka
+<>F-106A
+<>F-14A IRIAF
+<>Alcione
+<>Churchill AVRE Petard
+<>Pz.Sp.Wg.P204(f) KwK (immediately activated on the account only)
+<>CT-CV 105HP
+<>Su-25BM
+<>HMS Renown
+<>Zrinyi I (immediately activated on the account only)
+<>F4D-1
+<>Leopard 2AV
+<>IJN Haruna
+<>Buccaneer S.1
+<>VL Myrsky II (immediately activated on the account only)
+<>BMD-4
+<>Ka-Chi (immediately activated on the account only)
+<>RN Aviere (immediately activated on the account only)
+<>Bussard
+<>F11F-1
+<>Ar 196 A-3 (immediately activated on the account only)
+<>C2A1
+<>Ikv 73 (immediately activated on the account only)
+<>Maxim Gorky
+<>Freccia P-493 (immediately activated on the account only)
+<>BT-7A (F-32)
+<>HMS Spey
+<>Bf 110 C-6
+<>AUBL/74 HVG
+<>IJN Yuudachi
+<>P-59A
+<>FJ-4B VMF-232
+<>Martlet Mk IV (Britain)
+<>Sd.Kfz.234/3
+<>IS-7 *
+<>Т-34E
+<>P-43A-1
+<>Ki-94-II
+<>Sd.Kfz.234/4
+<>Phòng không T-34 (USSR) (immediately activated on the account only)
+<>F7F-3
+<>Fw 189 A-1
+<>KV-220
+<>Grant I
+<>P-63A-10 (USSR) (immediately activated on the account only)
+<>KV-IB (Germany)
+<>* — the chances of receiving IS-7 are far lower than the other vehicles and are around 0,001%
+<>All vehicles will be immediately credited to the account but there is a chance to get it in form of a coupon unless otherwise specified.
+<>Camouflages (coupons only):
+<>F-106A: City of Jacksonville anniversary camouflage (first time as a coupon)
+<>F-14A IRIAF: Experimental camouflage
+<>CT-CV 105HP: Demonstration camouflage
+<>Su-25BM: Digital camouflage
+<>HMS Renown: Tricolor geometric camouflage
+<>F4D-1: "Blue Nemesis" camouflage
+<>Leopard 2AV: Bundeswehr сamouflage
+<>IJN Haruna: Deforming camouflage
+<>Buccaneer S.1: "736 NAS" camouflage
+<>BMD-4: Deforming tricolor desert camouflage
+<>Bussard: Deforming camouflage
+<>F11F-1: "Blue Angels" camouflage
+<>C2A1: Royal Canadian Regiment camouflage
+<>Maxim Gorky: Deforming camouflage
+<>BT-7A (F-32): Bicolor summer camouflage
+<>HMS Spey: Deforming camouflage
+<>Bf 110 C-6: Bicolor camouflage
+<>AUBL/74 HVG: Tricolor summer camouflage
+<>IJN Yuudachi: Deforming bicolor camouflage
+<>P-59A: Standard olive-green camouflage
+<>FJ-4B VMF-232: VU-7 camouflage
+<>Martlet Mk IV (Britain): Nonstandard bicolor camouflage
+<>Sd.Kfz.234/3: Tricolor summer camouflage (spots)
+<>IS-7: Tricolor summer camouflage
+<>T-34E: Bicolor summer camouflage
+<>P-43A-1: Unpainted camouflage
+<>Ki-94-II: Spotted camouflage
+<>Sd.Kfz.234/4: Tricolor camouflage
+<>F7F-3: Testing Ground 113
+<>Fw 189 A-1: Testing Ground 113
+<>KV-220: Testing Ground 113
+<>Grant I: Testing Ground 113
+<>Decorations (both immediately activated on the account and available as coupons):
+<>Infantry helmet M51 of 1957 (France)
+<>MAT-49
+<>Voltigeurs emblem
+<>Stop, shoot! sign
+<>Emergency vehicle lighting
+<>Training mine
+<>Raid Backpack
+<>Easel machine gun (China)
+<>Crawler-type drone
+<>Selectable Assault Battle Rifle
+<>Laser Designator Rangefinder
+<>Davy Crockett
+<>Type 64
+<>Automatic grenade launcher (China)
+<>MRLS (China)
+<>Johnson machine gun
+<>"Flying Dustbin"
+<>BMX
+<>Jet ski
+<>Sailing catamaran
+<>Hornet’s nest
+<>BSA Bicycle
+<>Container "Waffenhalter"
+<>M4 Sherman
+<>Willys MB
+<>Assault rifle shortened (USSR)
+<>M1A1 Carbine
+<>Light machine gun (USA)
+<>Light machine gun (USSR)
+<>Light machine gun (Germany)
+<>Light machine gun (China)
+<>Assault body armor (Russia)
+<>Force recon vest (USA)
+<>Ammunition of the Soviet Army, 1941
+<>Wehrmacht ammunition (Germany)
+<>SVT-40
+<>M1 Carbine
+<>Lee-Enfield No.4 Mk1
+<>Gewehr 41 (Walther)
+<>Arisaka Type 44
+<>PPS
+<>MP-40
+<>STEN
+<>M1928A1 "Thompson"
+<>Decals (both immediately activated on the account and available as coupons):
+<>Emblem of the 11th Shock Parachute Regiment
+<>Emblem of the 3rd Battalion of the 2nd Parachute Chasseur Regiment
+<>Emblem of the 8th Marine Infantry Parachute Regiment
+<>Combat Jungle emblem
+<>Armored Board text
+<>Armor 100mm text
+<>Test Operation text
+<>Armor pierced text
+<>Mechanised Infantry Regiment insignia
+<>Emblem of the 112th Mechanized Infantry Division
+<>Emblem of the 5th Infantry Regiment
+<>Emblem of the Royal 22nd Regiment
+<>Emblem of the Patrol Squadron 50
+<>Emblem of the 213th Artillery Brigade
+<>Emblem of the 7338th Artillery Brigade
+<>Emblem of the 209th Artillery Brigade
+<>Emblem of the 84th Brigade of the PLA
+<>Special Forces of the Nanjing Military Region
+<>Emblem of Special Forces Brigade of the 71st Army Group of the PLA
+<>Emblem of the 4th Airborne Forces Company
+<>Emblem of the 10th Squadron
+<>Emblem of the 220th Squadron
+<>Gold Beach decal
+<>Utah Beach decal
+<>Kagoshima decal
+<>Sakurajima volcano decal
+<>Emblem of the 112th Fighter Squadron
+<>Emblem of the 159th Fighter Squadron
+<>Emblem of the California Air National Guard
+<>Emblem of the V Corps (immediately activated on the account only)
+<>Emblem of the 1st Special Service Brigade (immediately activated on the account only)
+<>"Alcione" decal (immediately activated on the account only)
+<>"F 544" decal (immediately activated on the account only)
+<>Emblem of the Islamic Republic of Iran Air Force (immediately activated on the account only)
+<>Emblem of the Imperial Iranian Air Force (immediately activated on the account only)
+<>"BMX Racing" decal
+<>"Paragliding" decal
+<>"Surfing" decal
+<>"Windsurfing" decal
+<>"Wingsuiting" decal
+<>Diving Mode On decal
+<>Explore More decal
+<>Falling Coconuts decal
+<>Good Catch decal
+<>Trees Don't Move decal
+<>Emblem of the Air Force Airborne Corps, PLA
+<>Emblem of the 11th Parachute Brigade, France
+<>Emblem of the Rapid Forces Division, Germany
+<>Emblem of the "Folgore" Parachute Brigade, Italy
+<>Emblem of the 1st Airborne Brigade, Japan
+<>Emblem of the 323rd Parachute Ranger Squadron, Sweden
+<>Emblem of the Royal Marines
+<>Emblem of the Russian Marine Corps
+<>Basilisk
+<>Cerberus
+<>Chimera
+<>Echidna
+<>Harpy
+<>Hippocampus
+<>Lernaean Hydra
+<>Minotaur
+<>Sphinx
+<>Wyvern
+<>Flames
+<>Fiery explosion
+<>Frosty flames
+<>Fiery ball
+<>Flaming exhaust
+<>Fiery pattern
+<>Flaming sparks
+<>Colored flame
+<>Emblem of the air forces, Germany
+<>Emblem of the air forces, Japan
+<>Emblem of the air forces, Britain
+<>Emblem of the air forces, USA
+<>Emblem of the air forces, USSR
+<>Emblem of the armored forces, France
+<>Emblem of the armored forces, Germany
+<>Emblem of the armored forces, Italy
+<>Emblem of the armored forces, Japan
+<>Emblem of the Royal tank regiments
+<>The emblem of the armored forces, U.S.
+<>Emblem of the armored forces, Russia
+<>The Symbol of Japan
+<>The Symbol of USA
+<>The Symbol of USSR
+<>The Symbol of Britain
+<>The Symbol of Germany
+<>The Symbol of Italy
+<>Pin-up Japan
+<>Pin-up Britain
+<>Pin-up USA
+<>Pin-up USSR
+<>Pin-up Germany
+<>Profile icons (will be immediately activated on the account and in the form of the coupons):
+<>Veteran of the French Legion (first time as a coupon)
+<>Test driver (first time as a coupon)
+<>Bundeswehr Infantryman (first time as a coupon)
+<>Skilled Marksman (first time as a coupon)
+<>Chinese paratrooper (first time as a coupon)
+<>Indian Pilot (first time as a coupon)
+<>Jalil Zandi
+<>MotoLady
+<>Girl scout
+<>Loading screens (immediately activated on the account only):
+<>Panhard E.B.R. (1963)
+<>Object 248
+<>SPz 12-3 LGS
+<>Sholef V.1
+<>WZ-141-1
+<>IJN Shisaka
+<>Maritime flags (immediately activated on the account only):
+<>Italian Naval Jack
+<>Silver Lions
+<>10,000 — 1,000,000
+<>Expendable items
+<>Battle trophy (Research points booster)
+<>Battle trophy (Silver lions booster)
+<>Universal backup
+<>Universal backup x2
+<>Universal backup x3
+<>Random wager
+<>Random order
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

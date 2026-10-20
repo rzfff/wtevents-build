@@ -1,0 +1,88 @@
+[Event] Cosmonautics Day - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Cosmonautics Day
+Attention! Outdated news format. Content may not display correctly.
+12 April 2017
+Event
+<>The 12th of April marks the 56th anniversary of manned spaceflights, humankind's’ first foray into space, a day that not only was the beginning of another chapter in exploration, but a moment that moved humanity from the realms of science fiction, into the unexplored worlds of science fact. It will be a record that can never be beaten, a young Soviet cosmonaut named Yuri Gagarin shook off the chains of Earth and ventured into space for a 108 minute flight on that day in his Vostok 1 spacecraft. A triumph for all mankind!
+From April 12th 11:00 GMT to April 13th 11:00 GMT
+Take part in “Battle for survival”
+<> “Battle for survival” - an event for Jet fighters.
+You will gain 10,000 Silver Lions for every victory and “ Sputnik ” or “ Rocket ” decals for every 5 victories.
+<>
+Decal "Rocket"
+Decal "Sputnik"
+<>
+<>
+Decal created by Colin 'Fenris' Muir
+<>
+Available Events:
+<>
+Available Aircraft:
+<>
+Arcade Battles — 8 vs 8
+Realistic Battles — 6 vs 6
+Simulator — 4 vs 4
+USA: F-86F-25 Sabre, F-86F-2 Sabre, F9F-5
+Germany: MiG-15bis, CL-13A Sabre Mk.5
+USSR: MiG-15,MiG-15bis, MiG-17
+Britain: Hunter F.1, Venom FB.4, Meteor F.Mk.8 G.41K
+Japan: F-86F-30 Sabre, Ki-200
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

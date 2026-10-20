@@ -1,0 +1,82 @@
+[Event] Participate in the “Battle Of Britain” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Participate in the “Battle Of Britain”
+Attention! Outdated news format. Content may not display correctly.
+14 September 2018
+Event
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<> From 15:00 GMT on the 14th of September till 07:00 GMT on the 17th of September
+<> Take part in events “Battle of Britain” in British and German aircraft and get special Trophies!
+<>The largest-scale aircraft battle of WWII - battle for supremacy in the skies of the Great Britain in which the Luftwaffe failed to break neither the air defense of the British Isles nor the spirit of the People. The courageous pilots of the Royal Air Force repulsed the Luftwaffe attacks and prevented the German command from achieving superiority.
+<>In the United Kingdom, the Battle for Britain is commemorated on the 15th of September. We invite you to re-enact the events in our game this weekend and get rewards for winning.
+<>How to get rewards
+<>Take part in the "Battle of Britain" event, and get a trophy for every 5 victories with a German or a British aircraft.
+<>
+<>Other terms
+<>Trophies can only be earned in the special event [Air Domination] Britain (AB) and [Operation] Britain (RB and SB).
+<>During the special you may only earn a maximum of 3 trophies for each of the two nations.
+<>Battle activity should be at least 60%.
+<>
+<>You can follow your progress by clicking on your nickname → Achievements → Battle of Britain.
+<>
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,100 @@
+[Shop] Pre-order Premium Jets: AV-8S, Su-22M4 and JA37DI - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-order Premium Jets: AV-8S, Su-22M4 and JA37DI
+5 November 2024
+Shop
+<>Pre-orders for three store packs have started today! Meet the AV-8S Harrier for Japan, the Su-22M4 for Germany and the formidable JA37DI Viggen for Sweden.
+<> AV-8S Harrier — Japan, Rank VI
+Pre-order - AV-8S Matador Pack
+The Kit Includes:
+AV-8S Matador (Rank VI, Japan)
+2000 Golden Eagles
+Premium account for 15 days
+Pre-order bonus: unique title "Matador"
+Pre-order bonus: unique decal “Naga”
+59.99
+Store
+<>The AV-8S represents the Spanish, and later Thai, export variant of the AV-8A Harrier, which is already well familiar to the game. As such, the aircraft inherits much of its flight characteristics from the AV-8A, including the Harrier’s signature VTOL ability, allowing it to act both as a fixed wing aircraft, but also as a helicopter, thanks to its hover capabilities. As with other Harriers, this feature in addition to an extensive suite of suspended weapons makes it particularly well suited for Ground Battles. Furthermore, being able to carry the AIM-9P Sidewinder missile as well as countermeasures ensures that the AV-8S can hold its own in a dogfight. Lastly, with the AV-8S being a Premium aircraft, you can use its additional bonuses to speed up progression towards some of the top Japanese aircraft!
+<> Su-22M4 — Germany, Rank VII
+Pre-order - Su-22M4 WTD 61 Pack
+<>
+The Kit Includes:
+Su-22M4 WTD 61 (Rank VII, Germany)
+2500 Golden Eagles
+Premium account for 20 days
+Pre-order bonus: unique title "Fitter"
+Pre-order bonus: unique "Ingolstadt coat of arms" decal
+Pre-order bonus: unique camouflage
+69.99
+Store
+<>The Su-22M4 comes to the game as the pinnacle of the Su-17/22 family in German service. This advanced variant is able to employ cutting-edge guided ordnance, including TV-guided weapons, as well as laser-guided munitions. Furthermore, the Su-22M4 proves formidable in air-to-air combat, equipped with over 250 countermeasures and the potent all-aspect R-60MK missiles. Its upgraded engine and avionics ensure rapid delivery of these deadly weapons to enemy targets. In essence, the Su-22M4 embodies a true multirole masterpiece for German high-tier air operations. It excels in both air-to-air and air-to-ground engagements, making it a formidable force on the battlefield.
+<> JA37DI — Sweden, Rank VIII
+Pre-order - Saab JA37DI Viggen F21 Pack
+<>
+The Kit Includes:
+Saab JA 37DI Viggen F21 (Rank VIII, Sweden)
+3000 Golden Eagles
+Premium account for 30 days
+Pre-order bonus: unique title "Lightning strike"
+Pre-order bonus: unique "Mjölnir" decal
+Pre-order bonus: unique green camouflage
+79.99
+Store
+<>The JA37DI represents a further modification of the JA37D, which itself became available during the mid 1990s. Building upon the upgrades of the standard D variant of the Viggen, the DI modification focused on streamlining the aircraft’s systems and avionics for international operations. Most notably however, the JA37DI brings with it the ability to mount the Rb99 missile. Being the Swedish designation for the American AIM-120, its addition to the Viggen greatly increases the aircraft’s effectiveness in aerial combat, giving it the ability to hunt down targets which are beyond visual range. In addition to this, the Viggen retains its signature superb flight characteristics culminating in the aircraft’s excellent maneuverability thanks to its sleek delta wing design!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

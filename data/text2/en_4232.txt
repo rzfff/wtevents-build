@@ -1,0 +1,121 @@
+[Special] Tanker’s Day Specials! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tanker’s Day Specials!
+Attention! Outdated news format. Content may not display correctly.
+9 September 2016
+Special
+Download Wallpaper: 1280 | 1920 | 2560
+This weekend, from 15:00 GMT on the 9th of September
+till 09:00 GMT on the 12th of September
+"Tanker’s Day" Special Bundle - 30% off!
+Win the M3 medium tank (USSR)
+Event “Tug of War”
+<> Dear players!
+<>We have prepared a special offer for you this weekend – a special bundle with a 30% discount dedicated to celebrating the Tanker’s day.
+The final price of the bundle will depend on whether you already have some of the packs or not.
+Be sure to login to the store to see your individual price!
+<>
+<> "Tanker ’ s Day" Special Bundle - 30% off!
+This Bundle includes:
+IS-2 Revenge for the Hero brother Advanced Pack;
+T-34-85E, 1945 Advanced Pack;
+KV-2 ZIS 6 Advanced Pack.
+<>
+94.97
+66.48
+The offer is valid for PC, Mac and Linux users only.
+<>
+<>
+Upon purchase, you will receive the included vehicles, a sum of Golden Eagles and Premium Account time from packs that weren’t deducted from the bundle price. Note - owning a vehicle from one of the packs alone will not be counted towards the price reduction. You have to own the whole pack as described. You can check this in your purchase history.
+The offer is valid for PC, Mac and Linux users only.
+Win the M3 medium tank (USSR)
+<>
+Play War Thunder in vehicles of rank III-V and complete special tasks. In each specified type of ground vehicle (light, medium, heavy tanks and tank destroyers) you will have to complete 3 stages:
+<>Destroy 30 (for AB) enemy vehicles (15 for RB and SB).
+<>Destroy 60 (for AB) enemy vehicles (30 for RB and SB).
+<>Destroy 100 (for AB) enemy vehicles (50 for RB and SB).
+For each completed stage you will receive a “M3 Resupply Box” , which contains
+one of the following items:
+"Destroy 10 units" wager
+Random +40% RP or SL booster for 10 battles
+Random "Order"
+Random back-up vehicle x5 for ranks I-III for USSR
+Discount for one of the USSR premium ground vehicles
+M3 Medium (USSR)
+With each opened “Resupply Box”, the probability of obtaining the most valuable content increases. If you complete all 9 tasks, you are guaranteed to receive the main prize - a M3 medium tank (USSR) with decals.
+If you don’t have enough time to complete some tasks and receive the premium vehicle, you can purchase the same “M3 Resupply Box” using the in-game shop (available soon until the 14th of September)!
+<> Question : Is it possible to win the main prize (M3 Medium) if I complete less than 9 tasks?
+Answer : Yes, it is possible. You are guaranteed to receive the premium “M3 Medium (USSR)” in one of twelve “Resupply Boxes” - and each time, the probability of obtaining it will be increased. You may also skip some tasks, but purchase the “M3 Resupply Box” using the in-game store.
+Example: You can unlock 9 resupply boxes if you complete 6 of the tasks in game and purchase 3 boxes using the in-game shop.
+Welcome to the special event “Tug of War”
+Do you remember how to use towing cable?
+You better make sure you can as It will be useful in this challenge!
+The main goal is to recover and evacuate a Gepard SPAA. The vehicle’s engine is out of service so the only way to deliver it is to use the towing cable to drag it to your team’s zone. The enemy team will do everything to prevent you from doing it and towing is not an easy task on rough surfaces - if you want to be the one who does it you will need to choose a vehicle with a powerful engine and enough mass. The main victory condition is that the enemy team should lose all its points. You can do this by delivering the “recovered” tank to the special zone for your team. As soon as the above named vehicle reaches the zone - your enemy will start to lose points.
+<> Terms:
+<>Capture and hold the Gepard SPAA at your base.
+<>A destroyed “disputed” SPAAG will reappear in the central zone after 10 seconds.
+<>A team loses 500 points if one of its members is knocked out.
+<>The longer the recovered SPAAG is in the evac zone the faster the enemies lose their points.
+<>The towed Gepard is vulnerable and can be destroyed but for destroying it the team will receive a 2000 point penalty.
+<>You may want to destroy the evacuated Gepard in a no-win situation, or when the “disputed” SPAAG is almost delivered to the enemy zone. By sacrificing some points, you can still create a chance of gaining victory.
+<>Each team consists of 4 players.
+<>You can respawn with all ground vehicles in your lineup.
+Happy Tankers day!
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

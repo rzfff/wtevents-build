@@ -1,0 +1,159 @@
+[Event] Wargame “Strategist” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Wargame “Strategist”
+Attention! Outdated news format. Content may not display correctly.
+23 September 2020
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>The paper battlefield has been rolled out and the rules are in front of you! Prepare the figures and get exclusive vehicles from the enemy: the Merkava Mk.3D main battle tank, a BI fighter interceptor, the Lübeck frigate and the Sd.Kfz.251/10 armoured vehicle.
+<>From 11:00 GMT on the 24th of September until 12:00 GMT on the 5th of October
+<>Get components from battles, assemble plastic models and capture classified documents with them that can be exchanged for prizes!
+<>Awards
+<>
+Merkava Mk.3D (USA) — event vehicle, coupon, rank VII
+<> Exchangeable for 3 classified documents
+<>The Israeli “Merkava” with a new smoothbore 120mm cannon and enhanced turret protection.
+<> More details in DevBlog
+<>
+BI (USSR) — event vehicle, coupon, rank V
+<> Exchangeable for a Merkava Mk.3D coupon
+<>An experimental Soviet interceptor and the first “rocket engine” aircraft in the soviet research tree in War Thunder!
+<> More details in DevBlog
+<>
+Lübeck F224 (Germany) — premium, coupon, rank II
+<> Exchangeable for 2 classified documents
+<>An excellent frigate of the Köln class - A premium version with additional torpedo launchers.
+<> More details in DevBlog
+<>
+Sd.Kfz.251/10 (Germany) — premium, coupon, rank I
+<> Exchangeable for 1 classified document
+<>A semi-tracked vehicle with a 37mm cannon. A perfect vehicle for early battles in War Thunder.
+<> More details in DevBlog
+<>How to participate
+<>Fight in Arcade, Realistic or Simulator battles! After each battle, the necessary components for assembling the models can be found in “Workshop → Strategist”.
+<>In the “ Strategist ” event you need to collect figures from components that you have obtained in battles and then use them in the offensive on the playing battlefield. Each completed offensive brings you classified documents which can be exchanged for exclusive versions of the game vehicles.
+<>
+<>Key items
+Modeling materials
+<>This box contains components for assembling the figures. Open it after a battle.
+Intelligence
+<>This data is necessary to start an assault on the main defence lane. Will be gathered in an offensive plan.
+Assault group
+<>Soldiers capable of accelerating an assault on the main defence lane several times. Will be assembled in a company, battalion or regiment.
+For every 10 minutes spent in battle (in a vehicle of rank II or above and with an in-game activity of 50% or higher).
+Contains 8 to 10 units of the components.
+Sometimes contains 1 ready-made figure.
+No more than 40 boxes per day.
+For every 10 minutes spent in battle (in a vehicle of rank II or above and with an in-game activity of 50% or higher).
+No more than 40 units per day.
+For first place at the end of a battle.
+<>The modeling container and Intelligence can be obtained several times in one battle and the remaining accumulated time will be saved and transferred to the next battle.
+<>Offensive
+<>Click “To the map” in the “Workshop → Strategist” window to get to the playing field. The offensive travels in 5 columns: Alpha, Bravo, Charlie, Delta and Echo. You need to complete them all.
+<>Each type of enemy army will require a specific number of your forces and the time to complete an attack which can be done during the next game battle.
+Your forces
+<>Will be assembled from components. Press "Recipe" under the desired figure.
+Can be assembled from components or created from reinforcements purchased on the market.
+Deployed reinforcements can no longer be traded on the market.
+Enemy forces
+<>Enemy companies, fortifications, armoured vehicles and buildings. An attack on each of them reduces the number of your figures indicated in the description.
+You can sabotage enemy structures and gain a useful bonus or advantage on the map.
+Sabotage group
+<>Unique forces that can not be assembled but can be rescued on the board every time you attack. Only they can sabotage buildings.
+There will be three such groups on the map in each offensive.
+<>Reinforcements require double the assembly material as ordinary figures, but they can be traded on the market .
+<>Assault
+<>An assault on the main defence line is available after the destruction of all enemies on five offensive columns, sabotage of three buildings and preparation of an offensive plan from separate intelligence.
+<>If all conditions are met, all that remains is to wait and pick up the classified documents. They can be exchanged in the same card window for prize vehicles.
+<>An assault can be significantly accelerated by using an assault company, battalion or regiment assembled from assault groups or purchased on the market.
+<>To receive more valuable prizes it is necessary to complete the offensive and assault several times. Every subsequent offensive and assault will be held on the already explored map and will bring new classified documents. Have fun!
+<>How to receive awards
+<>You can exchange classified documents for vehicles in the “Workshop → Strategist” window at the specified time.
+<>The Merkava Mk.3D and the BI can be obtained from the event start and until 12:00 GMT on the 19th of October.
+<>The Sd.Kfz.251/10 and Lübeck F224 can be obtained from 12:00 GMT on the 12th of October till 12:00 GMT on the 19th of October.
+<>
+For PlayStation® 4 and Xbox One ▼
+<>A lack of Marketplace won’t slow your progress. Obtain special items for Golden Eagles right in “Workshop → “Strategist”:
+“Reconnaissance group”
+<>Allows you to receive additional intelligence in battles, 4 units for every 10 minutes spent in battle without any limitations.
+“Set of divisions”
+<>37 unit figures ready for your instructions.
+<>Terms
+All event items can be obtained in the following game modes:
+Ground arcade, realistic and simulator battles.
+Aircraft arcade and realistic battles.
+Naval arcade and realistic battles.
+The number of items received in battles is limited.
+“Modeling materials” container — up to 40 per day and up to 400 for the whole event (until 12:00 GMT on the 5th of October).
+Intelligence — up to 40 per day and up to 320 for the whole event (until 12:00 GMT on the 5th of October).
+Assault group — up to 200 for the whole event (until 12:00 GMT on the 5th of October).
+“Offensive plan” item - apart from assembly, it is rarely possible to get it in random battles.
+The possibility of trading items on the market is indicated in their description.
+Assaulting the main defence lane takes time. It can be shortened by gathering assault teams into larger units and using them to assault.
+Event times:
+Containers, intelligence and assault groups will be given from 11:00 GMT on the 24th of September till 12:00 GMT on the 5th of October.
+You can assemble units from components and use them to attack the enemy as well as collect reinforcements and trade them on the market until 12:00 GMT on the 12th of October inclusive.
+At 12:00 GMT on the 12th of October all event items, except classified documents and vehicle coupons will be removed from inventory and market.
+At 12:00 GMT on the 19th of October classified documents will be removed from inventory and market. Be sure to exchange them to the vehicles before that moment!
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

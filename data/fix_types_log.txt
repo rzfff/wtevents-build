@@ -1,0 +1,177 @@
+== site: 改 175 条 ==
+  sale_202609_d                    sale -> memorial  [历史/国别/军种纪念] 不列颠空战纪念日贴花与折扣活动开启！
+  festive_202609                festive -> memorial  [历史/国别/军种纪念] Get two new decals for the Victory o
+  special_202608_b              special -> sale      [预购/预售属促销] PLZ45 开放预购！
+  sale_202608_b                    sale -> memorial  [人物/机构/装备纪念] 纪念圣斯蒂芬节，匈牙利 PzH2000 开启限时折扣！
+  sale_202608                      sale -> memorial  [人物/机构/装备纪念] 勇气时刻：印度
+  sale_202607_f                    sale -> memorial  [历史/国别/军种纪念] F-89 蝎首飞纪念日，F-89D 型开启限时折扣！
+  sale_202607_e                    sale -> memorial  [历史/国别/军种纪念] 欢庆八一建军节，贴花与限时折扣活动开启！
+  sale_202607_d                    sale -> memorial  [人物/机构/装备纪念] Discounts for P.O. Sukhoi’s Birthday
+  sale_202607_b                    sale -> memorial  [人物/机构/装备纪念] 秃鹰 IIN 限时折扣开启，巴士底日纪念贴花物资箱上线！
+  sale_202607                      sale -> memorial  [人物/机构/装备纪念] July 4th: Discounts, Rewards & Rare 
+  special_202607_c              special -> memorial  [历史/国别/军种纪念] 美国独立 250 周年纪念活动盛大开启！
+  festive_202606                festive -> memorial  [历史/国别/军种纪念] 法国空军成立纪念日贴花物资箱上架
+  special_202605_b              special -> memorial  [人物/机构/装备纪念] 瑞典乡土防卫队成立纪念日，SAV 20.12.48 限时返售！
+  special_202605                special -> memorial  [历史/国别/军种纪念] 欧洲战场胜利日纪念活动开启！
+  festive_202604_b              festive -> memorial  [历史/国别/军种纪念] 美国武装部队纪念日返场贴花物资箱上线
+  special_202604_c              special -> memorial  [人物/机构/装备纪念] 庆祝圣乔治节，英格兰旗帜贴花限时返场！
+  anniversary_202604_b       anniversary -> sale      [纪念由头的返售/折扣] The A-6E Intruder is Back with a Dis
+  sale_202604                      sale -> memorial  [历史/国别/军种纪念] The AMX A-1A Returns with a Discount
+  anniversary_202604         anniversary -> memorial  [人物/机构/装备纪念] Celebrating Vasily Matsievich’s Birt
+  festive_202603_c              festive -> memorial  [历史/国别/军种纪念] 载人航天飞行 65 周年纪念活动开启！
+  anniversary_202603_c       anniversary -> sale      [纪念由头的返售/折扣] Get the German La-5FN as it Temporar
+  anniversary_202603_b       anniversary -> memorial  [历史/国别/军种纪念] The M728 CEV is Available at a Disco
+  sale_202603                      sale -> memorial  [人物/机构/装备纪念] Discounts on a Hungarian Tank and so
+  anniversary_202603         anniversary -> memorial  [人物/机构/装备纪念] The P-39N-0 is Temporarily Available
+  anniversary_202602         anniversary -> sale      [纪念由头的返售/折扣] Get the IAR 316B at a Discount for t
+  special_202602_d              special -> memorial  [人物/机构/装备纪念] 苏联红军成立纪念日，载具返售与装饰道具活动开启！
+  special_202602_b              special -> festive   [传统节日] 南非国防军成立纪念日贴花与折扣活动开启！
+  sale_202601_c                    sale -> memorial  [人物/机构/装备纪念] The XM1 (GM) Returns for Operation D
+  sale_202601_b                    sale -> memorial  [历史/国别/军种纪念] The SAV 20.12.48 for Swedish Armed F
+  sale_202601                      sale -> memorial  [历史/国别/军种纪念] The German Sea Hawk Mk.100 is on Sal
+  sale_202512_b                    sale -> memorial  [历史/国别/军种纪念] The Centauro RGO Returns With a Disc
+  special_202511_b              special -> memorial  [人物/机构/装备纪念] Decals and Rare German Premium Tanks
+  festive_202511                festive -> memorial  [历史/国别/军种纪念] Get a Themed Decal for Chinese Air F
+  sale_202511                      sale -> memorial  [人物/机构/装备纪念] The Tu-1 is Returning to Sale with a
+  special_202511                special -> memorial  [历史/国别/军种纪念] 纪念意大利国家统一与武装部队日，载具折扣与贴花物资箱上架！
+  special_202510_c              special -> anniversary [游戏本体周年/生日] 周年庆 Gaijin 商城折扣现已开启！
+  sale_202510                      sale -> memorial  [人物/机构/装备纪念] 铁公爵号下水纪念日，游戏内限时折扣开启！
+  special_202509_c              special -> memorial  [历史/国别/军种纪念] 俄罗斯坦克手纪念日装饰挂件与折扣活动上线！
+  sale_202509_c                    sale -> memorial  [人物/机构/装备纪念] A Decoration and Discounts on Tanker
+  sale_202509                      sale -> memorial  [人物/机构/装备纪念] CF-188A 与澳大利亚 F/A-18：英联邦在召唤！
+  special_202509_b              special -> memorial  [历史/国别/军种纪念] 抗战胜利暨二战结束 80 周年纪念活动正式开启！
+  sale_202508                      sale -> memorial  [历史/国别/军种纪念] 瑞士空军成立纪念日，P-16 限时返场，贴花活动同步开启！
+  sale_202507_c                    sale -> memorial  [人物/机构/装备纪念] 勇气时刻：法国
+  sale_202507                      sale -> memorial  [人物/机构/装备纪念] A Decal and Discounts on Japanese Ve
+  festive_202506                festive -> memorial  [历史/国别/军种纪念] 意大利海军纪念日，工兵号限时返售，贴花活动同步开启！
+  sale_202505_c                    sale -> memorial  [历史/国别/军种纪念] 鸢首飞纪念日，游戏内限时返售！
+  sale_202505                      sale -> memorial  [人物/机构/装备纪念] 纪念英帝国末代航空节，喷火魏兹曼座机正式回归！
+  marathon_202505              marathon -> memorial  [历史/国别/军种纪念] 英国武装部队纪念日贴花活动上线！
+  festive_202504_c              festive -> memorial  [历史/国别/军种纪念] 意大利解放 80 周年纪念贴花上线！
+  sale_202504_c                    sale -> memorial  [人物/机构/装备纪念] England's Flag for St. George's Day!
+  special_202504_d              special -> memorial  [历史/国别/军种纪念] 载人航天飞行日纪念贴花活动上线！
+  sale_202503_c                    sale -> memorial  [历史/国别/军种纪念] The M728 CEV for the Anniversary of 
+  sale_202503_b                    sale -> memorial  [人物/机构/装备纪念] Discounts on Hungarian Vehicles for 
+  special_202502_c              special -> sale      [预购/预售属促销] 公羊“坚定信念”开启预购！
+  sale_202501                      sale -> memorial  [人物/机构/装备纪念] 苏-7B 服役纪念日，BMK 型限时折扣开启！
+  special_202501                special -> memorial  [历史/国别/军种纪念] The SAV 20.12.48 for Swedish Armed F
+  festive_202501                festive -> memorial  [历史/国别/军种纪念] 德国空军成立纪念日贴花活动开启！
+  sale_202412_b                    sale -> memorial  [人物/机构/装备纪念] 庆祝俄罗斯直升机飞行员纪念日，米-24D 限时返售！
+  special_202412_b              special -> sale      [纪念由头的返售/折扣] 赫德森巡逻机首飞纪念日，Mk V 型限时返售！
+  sale_202412                      sale -> memorial  [历史/国别/军种纪念] 印度武装部队旗帜纪念日，“胜利”与米格-21“野牛”限时特卖！
+  special_202411_d              special -> memorial  [人物/机构/装备纪念] The Scottish Saltire for St. Andrew’
+  special_202411                special -> anniversary [游戏本体周年/生日] 战争雷霆十二周年庆典活动开启！
+  special_202411_b              special -> sale      [预购/预售属促销] AV-8S、苏-22M4 与 JA 37DI 礼包开放预购！
+  sale_202410_c                    sale -> anniversary [游戏本体周年/生日] J 35 首飞纪念，A 型限时返售 & 同享折扣！
+  sale_202410                      sale -> memorial  [人物/机构/装备纪念] 铁公爵号下水纪念日，游戏内重新上架！
+  sale_202409_c                    sale -> memorial  [历史/国别/军种纪念] 美国空军成立纪念日贴花、载具返场与折扣活动启动！
+  sale_202409_b                    sale -> memorial  [人物/机构/装备纪念] 勇气时刻：巴西
+  special_202409                special -> sale      [纪念由头的返售/折扣] 秃鹰 IIN 首飞纪念，返售折扣活动开启！
+  festive_202409                festive -> memorial  [历史/国别/军种纪念] 纪念对日作战胜利日，贴花活动开启！
+  festive_202408_b              festive -> memorial  [历史/国别/军种纪念] 巴黎解放 80 周年纪念，贴花与挂件活动上线！
+  festive_202408                festive -> memorial  [人物/机构/装备纪念] The Type 69-IIa and a Decal to Comme
+  marathon_202407              marathon -> memorial  [历史/国别/军种纪念] 英国武装部队纪念日，贴花活动上线！
+  special_202406                special -> memorial  [历史/国别/军种纪念] 幻影“鸢”原型机首飞纪念，稀有载具限时返场！
+  special_202405                special -> memorial  [历史/国别/军种纪念] 庆祝法国海军节：纪念贴花活动 + 迪盖·特鲁安号重新上架！
+  festive_202405_b              festive -> memorial  [历史/国别/军种纪念] 美国武装部队纪念日贴花活动开启！
+  festive_202405                festive -> memorial  [历史/国别/军种纪念] 欧洲战场胜利日纪念活动揭开序幕！
+  special_202404                special -> memorial  [历史/国别/军种纪念] 意大利解放日纪念活动开启！
+  festive_202403_c              festive -> memorial  [历史/国别/军种纪念] Get a Decal for the Anniversary of t
+  special_202403_d              special -> sale      [纪念由头的返售/折扣] 拉-5 首飞纪念，稀有高级载具返场活动开启！
+  special_202403_b              special -> sale      [纪念由头的返售/折扣] 纪念亚历山大·波克雷什金诞辰，P-39N-0 限时返售！
+  festive_202403                festive -> memorial  [历史/国别/军种纪念] 芬兰空军成立纪念日贴花活动开启！
+  special_202403                special -> sale      [预购/预售属促销] 庆祝圣大卫日，威尔士红龙旗限时回归！
+  special_202402_b              special -> sale      [纪念由头的返售/折扣] 石茶隼首飞周年纪念，游戏内重新上架！
+  sale_202402                      sale -> memorial  [人物/机构/装备纪念] 日本建国纪念日，下架载具限时返售！
+  festive_202401_b              festive -> memorial  [历史/国别/军种纪念] Anniversary of lifting the Siege of 
+  special_202401                special -> memorial  [历史/国别/军种纪念] 列宁格勒解围纪念贴花活动 & KV-2/ZiS-6 重新上架！
+  sale_202312_b                    sale -> festive   [传统节日] Gaijin 商城开启新年特卖！
+  anniversary_202311         anniversary -> sale      [anniversary 误挂→实为促销] 庆祝圣安德鲁日，苏格兰十字旗限时上架！
+  special_202308                special -> memorial  [历史/国别/军种纪念] 库尔斯克战役 80 周年纪念
+  special_202307_b              special -> memorial  [人物/机构/装备纪念] The Israeli A-4E is Back for the Ann
+  special_202307                special -> market    [IP 联动] 哈士奇行动 80 周年纪念贴花及装饰品
+  special_202306_d              special -> sale      [纪念由头的返售/折扣] The MiG-21 SPS-K Returns to Celebrat
+  festive_202306_b              festive -> memorial  [历史/国别/军种纪念] 德国海军日活动：两艘舰船及纪念贴花
+  festive_202305_c              festive -> memorial  [历史/国别/军种纪念] 加拿大武装部队纪念日贴花与载具返场活动
+  festive_202305                festive -> memorial  [人物/机构/装备纪念] WT ♥ Poland. Happy Constitution Day!
+  special_202304_b              special -> memorial  [人物/机构/装备纪念] Vasily Matsievich’s Birthday
+  festive_202303_d              festive -> memorial  [历史/国别/军种纪念] 100th Anniversary of the Italian Air
+  special_202303                special -> memorial  [人物/机构/装备纪念] First Flight of the La-5
+  special_202302_b              special -> memorial  [人物/机构/装备纪念] First Flight of the Bo 105
+  special_202302                special -> memorial  [历史/国别/军种纪念] 意大利空军成立 100 周年纪念日
+  festive_202211_d              festive -> memorial  [历史/国别/军种纪念] 诺曼底-涅曼飞行团成立八十周年
+  special_202211                special -> anniversary [游戏本体周年/生日] 战争雷霆十周年 Twitch 掉宝活动！
+  sale_202211                      sale -> anniversary [游戏本体周年/生日] War Thunder Birthday Sale in Gaijin.
+  festive_202210_c              festive -> anniversary [游戏本体周年/生日] 战争雷霆十周年庆典 Twitch 掉宝活动！
+  festive_202210_b              festive -> memorial  [历史/国别/军种纪念] US Navy Birthday
+  festive_202209_c              festive -> memorial  [历史/国别/军种纪念] US Air Force Birthday
+  festive_202207_b              festive -> memorial  [人物/机构/装备纪念] Bastille Day!
+  festive_202207                festive -> memorial  [历史/国别/军种纪念] US Independence Day!
+  festive_202206_d              festive -> memorial  [人物/机构/装备纪念] 日本自卫队成立日
+  festive_202206_c              festive -> memorial  [历史/国别/军种纪念] 法国空军纪念日
+  festive_202206_b              festive -> memorial  [人物/机构/装备纪念] Bundeswehr Day!
+  festive_202206                festive -> memorial  [历史/国别/军种纪念] 80th Anniversary of the Battle of Mi
+  festive_202204                festive -> memorial  [人物/机构/装备纪念] Happy cosmonautics day!
+  special_202202_e              special -> sale      [纪念由头的返售/折扣] Spitfire Mk.IX first flight
+  special_202201_b              special -> memorial  [人物/机构/装备纪念] Birthday of the MiG-17
+  special_202201                special -> festive   [传统节日] 圣诞节快乐！
+  sale_202112                      sale -> festive   [传统节日] The New Year Sale!
+  anniversary_202112         anniversary -> memorial  [历史/国别/军种纪念] 80th Anniversary of the Battle of Mo
+  special_202111_b              special -> memorial  [人物/机构/装备纪念] Mosquito first flight
+  anniversary_202111         anniversary -> memorial  [历史/国别/军种纪念] 103 Year Anniversary of Poland Regai
+  sale_202111                      sale -> anniversary [游戏本体周年/生日] War Thunder在线商店生日特卖！
+  festive_202109                festive -> memorial  [人物/机构/装备纪念] Happy Tankers’ Day!
+  festive_202108                festive -> memorial  [人物/机构/装备纪念] Russian Airborne Forces Day!
+  anniversary_202107         anniversary -> memorial  [历史/国别/军种纪念] Russian Navy 325th Anniversary!
+  festive_202107_c              festive -> memorial  [人物/机构/装备纪念] Happy Bastille Day!
+  festive_202107                festive -> memorial  [历史/国别/军种纪念] 加拿大国庆节
+  festive_202106                festive -> memorial  [人物/机构/装备纪念] Russia Day!
+  festive_202105                festive -> memorial  [历史/国别/军种纪念] Happy Victory Day!
+  anniversary_202104         anniversary -> memorial  [人物/机构/装备纪念] 60 year anniversary of the first man
+  sale_202012                      sale -> festive   [传统节日] New Year Sale!
+  festive_202011                festive -> memorial  [历史/国别/军种纪念] 102 Year Anniversary of Poland Regai
+  sale_202011                      sale -> anniversary [游戏本体周年/生日] War Thunder Birthday Sale in Gaijin.
+  special_202009                special -> memorial  [历史/国别/军种纪念] 80-year Anniversary of Battle of Bri
+  festive_202009                festive -> memorial  [人物/机构/装备纪念] Happy Tankers’ Day!
+  festive_202007                festive -> memorial  [人物/机构/装备纪念] Happy Bastille Day!
+  festive_202006                festive -> memorial  [人物/机构/装备纪念] Russia Day!
+  sale_201912                      sale -> festive   [传统节日] The New Year Sale!
+  festive_201906                festive -> memorial  [人物/机构/装备纪念] Russia Day!
+  anniversary_201906         anniversary -> memorial  [历史/国别/军种纪念] D-Day 75th anniversary - Normandy la
+  festive_201905                festive -> memorial  [历史/国别/军种纪念] Victory Day!
+  festive_201901                festive -> memorial  [历史/国别/军种纪念] The liberation of Leningrad 75th ann
+  festive_201808_b              festive -> memorial  [历史/国别/军种纪念] The 75th anniversary of the end of t
+  anniversary_201711         anniversary -> sale      [纪念由头的返售/折扣] 75th anniversary of the “Normandie-N
+  sale_201711_b                    sale -> memorial  [人物/机构/装备纪念] Take advantage of special Black Frid
+  anniversary_201709         anniversary -> special   [anniversary 误挂→归特别] US Air Force day - get the XF5F Skyr
+  festive_201709                festive -> memorial  [人物/机构/装备纪念] Happy tanker’s day!
+  anniversary_201708         anniversary -> memorial  [历史/国别/军种纪念] Russian Air Force 105th anniversary
+  special_201703                special -> sale      [纪念由头的返售/折扣] Spitfire Day - In honor of the first
+  sale_201611_b                    sale -> festive   [传统节日] Black Friday & Thanksgiving [Discoun
+  special_201509                special -> memorial  [历史/国别/军种纪念] 75 Years Anniversary - Battle of Bri
+  sale_201411_b                    sale -> festive   [传统节日] Thanksgiving Day - 30% off assorted 
+  special_201411_c              special -> memorial  [人物/机构/装备纪念] 'Normandie-Niemen' Anniversary
+  special_201411                special -> memorial  [人物/机构/装备纪念] Jack Northrop's Anniversary
+  anniversary_201410_b       anniversary -> sale      [纪念由头的返售/折扣] Tupolev Construction Bureau Annivers
+  anniversary_201410         anniversary -> memorial  [人物/机构/装备纪念] William Edward Boeing's birthday
+  anniversary_201408_b       anniversary -> memorial  [历史/国别/军种纪念] Russian Air Force - 102nd Anniversar
+  anniversary_201408         anniversary -> memorial  [人物/机构/装备纪念] The Birthday of Artem Mikoyan
+  anniversary_201407         anniversary -> memorial  [历史/国别/军种纪念] Russian Navy Air Force anniversary
+  sale_201406                      sale -> memorial  [人物/机构/装备纪念] Birthdays of Nikolai Polikarpov and 
+  special_201403_b              special -> memorial  [人物/机构/装备纪念] Sergey Ilyushin's anniversary
+  sale_201402_b                    sale -> memorial  [人物/机构/装备纪念] Kurt Tank Anniversary
+  special_201402_c              special -> memorial  [历史/国别/军种纪念] 庆祝中国人民解放军空军成立纪念日！
+  special_201401_e              special -> memorial  [历史/国别/军种纪念] 70th Anniversary of the lifting of t
+  special_201401                special -> memorial  [人物/机构/装备纪念] “军工大亨”：莫霍克人号驱逐舰
+  special_201312                special -> memorial  [人物/机构/装备纪念] 'Normandie - Niemen' Anniversary
+  special_201311                special -> memorial  [历史/国别/军种纪念] Stalingrad counter-offensive anniver
+  special_201310_b              special -> sale      [纪念由头的返售/折扣] Tupolev Construction Bureau annivers
+  special_201310                special -> memorial  [人物/机构/装备纪念] Birthdays of two aces
+  special_201309_e              special -> memorial  [人物/机构/装备纪念] Richard Ira Bong Birthday
+  special_201309_d              special -> memorial  [人物/机构/装备纪念] USAF Anniversary: 66 years
+  special_201309_b              special -> memorial  [人物/机构/装备纪念] Lavochkin's Birthday
+  special_201308_b              special -> memorial  [历史/国别/军种纪念] Russian Air Force - 101st Anniversar
+  special_201308                special -> memorial  [人物/机构/装备纪念] Birthday of Artem Mikoyan
+  special_201304                special -> memorial  [人物/机构/装备纪念] The Premium Day!
+  special_201303                special -> memorial  [历史/国别/军种纪念] 70th Anniversary of the Battle of Gu
+== build: 改 175 条 ==

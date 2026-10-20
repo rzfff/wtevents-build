@@ -1,0 +1,1784 @@
+{
+ "battlepass_season4": [
+  {
+   "id": "a6m6c",
+   "name_en": "A6M6c",
+   "release_date": "2021-07-28",
+   "image": "/wtapi/assets/images/a6m6c.png"
+  },
+  {
+   "id": "fr_panhard_ebr_1963",
+   "name_en": "E.B.R. (1963)",
+   "release_date": "2021-07-28",
+   "image": "/wtapi/assets/images/fr_panhard_ebr_1963.png"
+  },
+  {
+   "id": "germ_sdkfz_251_22",
+   "name_en": "Sd.Kfz.251/22",
+   "release_date": "2021-07-28",
+   "image": "/wtapi/assets/images/germ_sdkfz_251_22.png"
+  },
+  {
+   "id": "us_cruiser_omaha_class_detroit",
+   "name_en": "USS Detroit",
+   "release_date": "2021-07-28",
+   "image": "/wtapi/assets/images/us_cruiser_omaha_class_detroit.png"
+  }
+ ],
+ "craft_2023_spring": [
+  {
+   "id": "a_7k",
+   "name_en": "A-7K",
+   "release_date": "2023-04-06",
+   "image": "/wtapi/assets/images/a_7k.png"
+  },
+  {
+   "id": "cn_qn506",
+   "name_en": "QN506",
+   "release_date": "2023-04-06",
+   "image": "/wtapi/assets/images/cn_qn506.png"
+  },
+  {
+   "id": "fr_amd_35_sa35",
+   "name_en": "AMD.35 (SA35)",
+   "release_date": "2023-04-06",
+   "image": "/wtapi/assets/images/fr_amd_35_sa35.png"
+  },
+  {
+   "id": "ussr_cruiser_shcherbakov",
+   "name_en": "Shcherbakov",
+   "release_date": "2023-04-01",
+   "image": "/wtapi/assets/images/ussr_cruiser_shcherbakov.png"
+  }
+ ],
+ "summer_2020": [
+  {
+   "id": "arado-196a-3",
+   "name_en": "Ar 196 A-3",
+   "release_date": "2020-08-25",
+   "image": "/wtapi/assets/images/arado-196a-3.png"
+  },
+  {
+   "id": "f11f_1_late",
+   "name_en": "F11F-1",
+   "release_date": "2020-08-25",
+   "image": "/wtapi/assets/images/f11f_1_late.png"
+  },
+  {
+   "id": "germ_leopard_c2_mexas",
+   "name_en": "C2A1",
+   "release_date": "2020-08-25",
+   "image": "/wtapi/assets/images/germ_leopard_c2_mexas.png"
+  },
+  {
+   "id": "it_p493_freccia",
+   "name_en": "Freccia P-493",
+   "release_date": "2020-08-25",
+   "image": "/wtapi/assets/images/it_p493_freccia.png"
+  },
+  {
+   "id": "sw_ikv_73",
+   "name_en": "Ikv 73",
+   "release_date": "2020-08-25",
+   "image": "/wtapi/assets/images/sw_ikv_73.png"
+  },
+  {
+   "id": "ussr_cruiser_maxim_gorky",
+   "name_en": "Maxim Gorky",
+   "release_date": "2020-08-25",
+   "image": "/wtapi/assets/images/ussr_cruiser_maxim_gorky.png"
+  }
+ ],
+ "battlepass_season12": [
+  {
+   "id": "b7a2_homare_23",
+   "name_en": "B7A2 (Homare 23)",
+   "release_date": "2023-07-26",
+   "image": "/wtapi/assets/images/b7a2_homare_23.png"
+  },
+  {
+   "id": "germ_spz_12_3",
+   "name_en": "SPz 12-3 LGS",
+   "release_date": "2023-07-26",
+   "image": "/wtapi/assets/images/germ_spz_12_3.png"
+  },
+  {
+   "id": "it_mc_485",
+   "name_en": "MC-485",
+   "release_date": "2023-07-26",
+   "image": "/wtapi/assets/images/it_mc_485.png"
+  }
+ ],
+ "nuclear_thunder": [
+  {
+   "id": "b_52h",
+   "name_en": "B-52H",
+   "release_date": "2026-04-01",
+   "image": "/wtapi/assets/images/b_52h.png"
+  },
+  {
+   "id": "tu_95m",
+   "name_en": "Tu-95M",
+   "release_date": "2026-04-01",
+   "image": "/wtapi/assets/images/tu_95m.png"
+  }
+ ],
+ "battlepass_season5": [
+  {
+   "id": "beaufighter_mk1_40mm",
+   "name_en": "Beaufighter Mk I (40 mm)",
+   "release_date": "2021-10-26",
+   "image": "/wtapi/assets/images/beaufighter_mk1_40mm.png"
+  },
+  {
+   "id": "fr_lvt_bofors",
+   "name_en": "LVT-4/40",
+   "release_date": "2021-10-26",
+   "image": "/wtapi/assets/images/fr_lvt_bofors.png"
+  },
+  {
+   "id": "us_higgins_78ft_pt658",
+   "name_en": "PT-658",
+   "release_date": "2021-10-26",
+   "image": "/wtapi/assets/images/us_higgins_78ft_pt658.png"
+  },
+  {
+   "id": "ussr_pt_76_57",
+   "name_en": "PT-76-57",
+   "release_date": "2021-10-26",
+   "image": "/wtapi/assets/images/ussr_pt_76_57.png"
+  }
+ ],
+ "battlepass_season10": [
+  {
+   "id": "bf-109f-4_hungary",
+   "name_en": "Bf 109 F-4",
+   "release_date": "2023-01-25",
+   "image": "/wtapi/assets/images/bf-109f-4_hungary.png"
+  },
+  {
+   "id": "fr_amx_50_1950",
+   "name_en": "AMX-50 (TO90/930)",
+   "release_date": "2023-01-25",
+   "image": "/wtapi/assets/images/fr_amx_50_1950.png"
+  },
+  {
+   "id": "ussr_pr_183_egypt_bm_21",
+   "name_en": "Pr.183 BM-21",
+   "release_date": "2023-01-25",
+   "image": "/wtapi/assets/images/ussr_pr_183_egypt_bm_21.png"
+  }
+ ],
+ "summer_2019": [
+  {
+   "id": "bf-110c-6",
+   "name_en": "Bf 110 C-6",
+   "release_date": null,
+   "image": "/wtapi/assets/images/bf-110c-6.png"
+  },
+  {
+   "id": "it_aubl_74_60_70m",
+   "name_en": "AUBL/74 HVG",
+   "release_date": "2018-12-18",
+   "image": "/wtapi/assets/images/it_aubl_74_60_70m.png"
+  },
+  {
+   "id": "jp_destroyer_yuudachi",
+   "name_en": "IJN Yuudachi",
+   "release_date": null,
+   "image": "/wtapi/assets/images/jp_destroyer_yuudachi.png"
+  },
+  {
+   "id": "p-59a",
+   "name_en": "P-59A",
+   "release_date": null,
+   "image": "/wtapi/assets/images/p-59a.png"
+  },
+  {
+   "id": "uk_frigate_river",
+   "name_en": "HMS Spey",
+   "release_date": null,
+   "image": "/wtapi/assets/images/uk_frigate_river.png"
+  },
+  {
+   "id": "ussr_bt_7a_f32",
+   "name_en": "BT-7A (F-32)",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_bt_7a_f32.png"
+  }
+ ],
+ "craft_2020_autumn": [
+  {
+   "id": "bi",
+   "name_en": "BI",
+   "release_date": "2020-09-30",
+   "image": "/wtapi/assets/images/bi.png"
+  },
+  {
+   "id": "germ_frigate_koln_lubeck",
+   "name_en": "Lübeck",
+   "release_date": "2020-09-30",
+   "image": "/wtapi/assets/images/germ_frigate_koln_lubeck.png"
+  },
+  {
+   "id": "germ_sdkfz_251_10",
+   "name_en": "Sd.Kfz.251/10",
+   "release_date": "2020-09-30",
+   "image": "/wtapi/assets/images/germ_sdkfz_251_10.png"
+  },
+  {
+   "id": "us_merkava_mk_3d",
+   "name_en": "Merkava Mk.3D",
+   "release_date": "2020-09-30",
+   "image": "/wtapi/assets/images/us_merkava_mk_3d.png"
+  }
+ ],
+ "summer_2021": [
+  {
+   "id": "buccaneer_s1",
+   "name_en": "Buccaneer S.1",
+   "release_date": "2021-08-06",
+   "image": "/wtapi/assets/images/buccaneer_s1.png"
+  },
+  {
+   "id": "germ_type143_bussard",
+   "name_en": "Bussard",
+   "release_date": "2021-08-06",
+   "image": "/wtapi/assets/images/germ_type143_bussard.png"
+  },
+  {
+   "id": "it_destroyer_soldati_serie1",
+   "name_en": "RN Aviere",
+   "release_date": "2021-08-06",
+   "image": "/wtapi/assets/images/it_destroyer_soldati_serie1.png"
+  },
+  {
+   "id": "jp_type_3_ka_chi",
+   "name_en": "Ka-Chi",
+   "release_date": "2021-08-06",
+   "image": "/wtapi/assets/images/jp_type_3_ka_chi.png"
+  },
+  {
+   "id": "ussr_bmd_4",
+   "name_en": "BMD-4",
+   "release_date": "2021-08-06",
+   "image": "/wtapi/assets/images/ussr_bmd_4.png"
+  },
+  {
+   "id": "vl_myrsky_2_late",
+   "name_en": "VL Myrsky II",
+   "release_date": "2021-08-06",
+   "image": "/wtapi/assets/images/vl_myrsky_2_late.png"
+  }
+ ],
+ "battlepass_season8": [
+  {
+   "id": "bv-155b-1",
+   "name_en": "BV 155 B-1",
+   "release_date": "2022-07-27",
+   "image": "/wtapi/assets/images/bv-155b-1.png"
+  },
+  {
+   "id": "jp_t51a",
+   "name_en": "Type T-51a",
+   "release_date": "2022-07-27",
+   "image": "/wtapi/assets/images/jp_t51a.png"
+  },
+  {
+   "id": "ussr_object_248",
+   "name_en": "Object 248",
+   "release_date": "2022-07-27",
+   "image": "/wtapi/assets/images/ussr_object_248.png"
+  }
+ ],
+ "2024_04_tank": [
+  {
+   "id": "cn_plz_83_130",
+   "name_en": "PLZ83-130",
+   "release_date": "2024-04-24",
+   "image": "/wtapi/assets/images/cn_plz_83_130.png"
+  }
+ ],
+ "winter_2025": [
+  {
+   "id": "cn_t_80ud_478be",
+   "name_en": "T-80UD/BE",
+   "release_date": "2024-12-20",
+   "image": "/wtapi/assets/images/cn_t_80ud_478be.png"
+  },
+  {
+   "id": "jp_battlecruiser_kirishima",
+   "name_en": "IJN Kirishima",
+   "release_date": "2024-12-20",
+   "image": "/wtapi/assets/images/jp_battlecruiser_kirishima.png"
+  },
+  {
+   "id": "kfir_c10_colombia",
+   "name_en": "Kfir C.10",
+   "release_date": "2024-12-20",
+   "image": "/wtapi/assets/images/kfir_c10_colombia.png"
+  },
+  {
+   "id": "mb_151c1",
+   "name_en": "M.B.151C.1",
+   "release_date": "2024-12-20",
+   "image": "/wtapi/assets/images/mb_151c1.png"
+  }
+ ],
+ "battlepass_season6": [
+  {
+   "id": "cn_type_64",
+   "name_en": "M64",
+   "release_date": "2022-01-26",
+   "image": "/wtapi/assets/images/cn_type_64.png"
+  },
+  {
+   "id": "it_41m_turan_2",
+   "name_en": "Turan II",
+   "release_date": "2022-01-26",
+   "image": "/wtapi/assets/images/it_41m_turan_2.png"
+  },
+  {
+   "id": "su-8",
+   "name_en": "Su-8",
+   "release_date": "2022-01-26",
+   "image": "/wtapi/assets/images/su-8.png"
+  },
+  {
+   "id": "uk_higgins_78ft_mtb422",
+   "name_en": "MTB-422",
+   "release_date": "2022-01-26",
+   "image": "/wtapi/assets/images/uk_higgins_78ft_mtb422.png"
+  }
+ ],
+ "battlepass_season20": [
+  {
+   "id": "cn_wz_141",
+   "name_en": "WZ141-1",
+   "release_date": "2025-07-23",
+   "image": "/wtapi/assets/images/cn_wz_141.png"
+  },
+  {
+   "id": "sb_25j_netherlands",
+   "name_en": "SB-25J",
+   "release_date": "2025-07-23",
+   "image": "/wtapi/assets/images/sb_25j_netherlands.png"
+  }
+ ],
+ "battlepass_season9": [
+  {
+   "id": "douglas_a_1h",
+   "name_en": "A-1H",
+   "release_date": "2022-10-26",
+   "image": "/wtapi/assets/images/douglas_a_1h.png"
+  },
+  {
+   "id": "uk_a_22f_mk_7_churchill_crocodile",
+   "name_en": "Churchill Crocodile",
+   "release_date": "2022-10-26",
+   "image": "/wtapi/assets/images/uk_a_22f_mk_7_churchill_crocodile.png"
+  },
+  {
+   "id": "us_lcm_zippo",
+   "name_en": "LCM(6) Zippo",
+   "release_date": "2022-10-26",
+   "image": "/wtapi/assets/images/us_lcm_zippo.png"
+  }
+ ],
+ "craft_2021_spring": [
+  {
+   "id": "f-4f",
+   "name_en": "F-4F Early",
+   "release_date": "2021-04-01",
+   "image": "/wtapi/assets/images/f-4f.png"
+  },
+  {
+   "id": "jp_destroyer_yugure",
+   "name_en": "JDS Yūgure (DD-184)",
+   "release_date": "2021-04-01",
+   "image": "/wtapi/assets/images/jp_destroyer_yugure.png"
+  },
+  {
+   "id": "us_xm_8",
+   "name_en": "XM8",
+   "release_date": "2021-04-01",
+   "image": "/wtapi/assets/images/us_xm_8.png"
+  },
+  {
+   "id": "ussr_su_76d",
+   "name_en": "SU-76D",
+   "release_date": "2021-04-01",
+   "image": "/wtapi/assets/images/ussr_su_76d.png"
+  }
+ ],
+ "craft_2021_autumn": [
+  {
+   "id": "f-5a",
+   "name_en": "F-5A",
+   "release_date": "2021-09-23",
+   "image": "/wtapi/assets/images/f-5a.png"
+  },
+  {
+   "id": "germ_leopard_2_pt14",
+   "name_en": "PT-16/T14 mod.",
+   "release_date": "2021-09-23",
+   "image": "/wtapi/assets/images/germ_leopard_2_pt14.png"
+  },
+  {
+   "id": "sw_pbil_m40",
+   "name_en": "Pbil m/40",
+   "release_date": "2021-09-23",
+   "image": "/wtapi/assets/images/sw_pbil_m40.png"
+  },
+  {
+   "id": "uk_destroyer_tribal_mohawk",
+   "name_en": "HMS Mohawk",
+   "release_date": "2021-09-15",
+   "image": "/wtapi/assets/images/uk_destroyer_tribal_mohawk.png"
+  }
+ ],
+ "2025_02_air": [
+  {
+   "id": "f-5ag_norway",
+   "name_en": "F-5A(G)",
+   "release_date": "2025-02-06",
+   "image": "/wtapi/assets/images/f-5ag_norway.png"
+  }
+ ],
+ "battlepass_season1": [
+  {
+   "id": "f2g-1",
+   "name_en": "F2G-1",
+   "release_date": "2020-11-15",
+   "image": "/wtapi/assets/images/f2g-1.png"
+  },
+  {
+   "id": "uk_destroyer_g_garland",
+   "name_en": "ORP Garland",
+   "release_date": "2020-11-15",
+   "image": "/wtapi/assets/images/uk_destroyer_g_garland.png"
+  },
+  {
+   "id": "uk_matilda_hedgehog",
+   "name_en": "Matilda Hedgehog",
+   "release_date": "2020-11-15",
+   "image": "/wtapi/assets/images/uk_matilda_hedgehog.png"
+  },
+  {
+   "id": "ussr_t_10a",
+   "name_en": "T-10A",
+   "release_date": "2020-11-15",
+   "image": "/wtapi/assets/images/ussr_t_10a.png"
+  }
+ ],
+ "summer_2022": [
+  {
+   "id": "f4d_1",
+   "name_en": "F4D-1",
+   "release_date": "2022-08-23",
+   "image": "/wtapi/assets/images/f4d_1.png"
+  },
+  {
+   "id": "germ_leopard_2av",
+   "name_en": "Leopard 2AV",
+   "release_date": "2022-08-23",
+   "image": "/wtapi/assets/images/germ_leopard_2av.png"
+  },
+  {
+   "id": "it_44m_zrinyi_1",
+   "name_en": "Zrinyi I",
+   "release_date": "2022-08-15",
+   "image": "/wtapi/assets/images/it_44m_zrinyi_1.png"
+  },
+  {
+   "id": "jp_battlecruiser_haruna",
+   "name_en": "IJN Haruna",
+   "release_date": "2022-08-23",
+   "image": "/wtapi/assets/images/jp_battlecruiser_haruna.png"
+  }
+ ],
+ "summer_2018_good_old": [
+  {
+   "id": "f4f-4_martlet_mk4",
+   "name_en": "Martlet Mk IV",
+   "release_date": null,
+   "image": "/wtapi/assets/images/f4f-4_martlet_mk4.png"
+  },
+  {
+   "id": "fj_4b_agm_12b",
+   "name_en": "FJ-4B VMF-232",
+   "release_date": "2018-08-31",
+   "image": "/wtapi/assets/images/fj_4b_agm_12b.png"
+  },
+  {
+   "id": "germ_sdkfz_234_3",
+   "name_en": "Sd.Kfz.234/3",
+   "release_date": null,
+   "image": "/wtapi/assets/images/germ_sdkfz_234_3.png"
+  }
+ ],
+ "craft_2020_spring": [
+  {
+   "id": "f4u-6_au-1",
+   "name_en": "AU-1",
+   "release_date": null,
+   "image": "/wtapi/assets/images/f4u-6_au-1.png"
+  },
+  {
+   "id": "germ_sdkfz_234_1",
+   "name_en": "Sd.Kfz.234/1",
+   "release_date": null,
+   "image": "/wtapi/assets/images/germ_sdkfz_234_1.png"
+  },
+  {
+   "id": "uk_sgb_309",
+   "name_en": "SGB Grey Goose",
+   "release_date": null,
+   "image": "/wtapi/assets/images/uk_sgb_309.png"
+  },
+  {
+   "id": "ussr_object_279",
+   "name_en": "Object 279",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_object_279.png"
+  }
+ ],
+ "summer_2016": [
+  {
+   "id": "f7f3",
+   "name_en": "F7F-3",
+   "release_date": null,
+   "image": "/wtapi/assets/images/f7f3.png"
+  },
+  {
+   "id": "fw-189a-1",
+   "name_en": "Fw 189 A-1",
+   "release_date": null,
+   "image": "/wtapi/assets/images/fw-189a-1.png"
+  },
+  {
+   "id": "uk_mk1_grant",
+   "name_en": "Grant I",
+   "release_date": null,
+   "image": "/wtapi/assets/images/uk_mk1_grant.png"
+  },
+  {
+   "id": "ussr_kv_220",
+   "name_en": "KV-220",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_kv_220.png"
+  }
+ ],
+ "craft_2023_autumn": [
+  {
+   "id": "f_100f_china",
+   "name_en": "F-100F",
+   "release_date": "2023-09-26",
+   "image": "/wtapi/assets/images/f_100f_china.png"
+  },
+  {
+   "id": "jp_armoredcruiser_kurama",
+   "name_en": "IJN Kurama",
+   "release_date": "2023-09-26",
+   "image": "/wtapi/assets/images/jp_armoredcruiser_kurama.png"
+  },
+  {
+   "id": "ki_48_2_otsu",
+   "name_en": "Ki-48-II Otsu",
+   "release_date": "2023-09-26",
+   "image": "/wtapi/assets/images/ki_48_2_otsu.png"
+  },
+  {
+   "id": "us_losat_ccv",
+   "name_en": "LOSAT",
+   "release_date": "2023-09-26",
+   "image": "/wtapi/assets/images/us_losat_ccv.png"
+  }
+ ],
+ "2025_08_air": [
+  {
+   "id": "f_106a_1972",
+   "name_en": "F-106A",
+   "release_date": "2025-08-13",
+   "image": "/wtapi/assets/images/f_106a_1972.png"
+  }
+ ],
+ "2024_08_air": [
+  {
+   "id": "f_14a_iriaf",
+   "name_en": "F-14A IRIAF",
+   "release_date": "2024-08-08",
+   "image": "/wtapi/assets/images/f_14a_iriaf.png"
+  }
+ ],
+ "2026_02_air": [
+  {
+   "id": "f_16a_block_5_netherlands",
+   "name_en": "F-16A",
+   "release_date": "2026-02-19",
+   "image": "/wtapi/assets/images/f_16a_block_5_netherlands.png"
+  }
+ ],
+ "2026_09_air": [
+  {
+   "id": "f_16xl",
+   "name_en": "F-16XL",
+   "release_date": "2026-09-16",
+   "image": "/wtapi/assets/images/f_16xl.png"
+  }
+ ],
+ "2026_04_air": [
+  {
+   "id": "f_6c_pakistan",
+   "name_en": "F-6C",
+   "release_date": "2026-04-15",
+   "image": "/wtapi/assets/images/f_6c_pakistan.png"
+  }
+ ],
+ "worldwar_recon_fire": [
+  {
+   "id": "fr_amx_50_surblinde",
+   "name_en": "AMX-50 Surblindé",
+   "release_date": "2017-12-18",
+   "image": "/wtapi/assets/images/fr_amx_50_surblinde.png"
+  }
+ ],
+ "battlepass_season22": [
+  {
+   "id": "fr_amx_elc_901",
+   "name_en": "ELC 901",
+   "release_date": "2026-01-21",
+   "image": "/wtapi/assets/images/fr_amx_elc_901.png"
+  },
+  {
+   "id": "mosquito_j30_sweden",
+   "name_en": "Mosquito J30",
+   "release_date": "2026-01-21",
+   "image": "/wtapi/assets/images/mosquito_j30_sweden.png"
+  }
+ ],
+ "battlepass_season19": [
+  {
+   "id": "fr_arras_class_amiens",
+   "name_en": "Amiens",
+   "release_date": "2025-04-23",
+   "image": "/wtapi/assets/images/fr_arras_class_amiens.png"
+  },
+  {
+   "id": "ussr_t_44_po",
+   "name_en": "T-44 (FM)",
+   "release_date": "2025-04-23",
+   "image": "/wtapi/assets/images/ussr_t_44_po.png"
+  }
+ ],
+ "2025_02_ship": [
+  {
+   "id": "fr_battleship_strasbourg",
+   "name_en": "Strasbourg",
+   "release_date": "2025-02-27",
+   "image": "/wtapi/assets/images/fr_battleship_strasbourg.png"
+  }
+ ],
+ "battlepass_season14": [
+  {
+   "id": "fr_destroyer_le_fantasque_class_le_triomphant",
+   "name_en": "Le Triomphant",
+   "release_date": "2024-01-24",
+   "image": "/wtapi/assets/images/fr_destroyer_le_fantasque_class_le_triomphant.png"
+  },
+  {
+   "id": "il_8_1944",
+   "name_en": "IL-8 (1944)",
+   "release_date": "2024-01-24",
+   "image": "/wtapi/assets/images/il_8_1944.png"
+  },
+  {
+   "id": "us_m551_76",
+   "name_en": "M551(76)",
+   "release_date": "2024-01-24",
+   "image": "/wtapi/assets/images/us_m551_76.png"
+  }
+ ],
+ "chronicles_2018": [
+  {
+   "id": "fr_lorraine_155",
+   "name_en": "Lorraine 155 Mle.50",
+   "release_date": null,
+   "image": "/wtapi/assets/images/fr_lorraine_155.png"
+  },
+  {
+   "id": "tandem_mai",
+   "name_en": "Tandem MAI",
+   "release_date": null,
+   "image": "/wtapi/assets/images/tandem_mai.png"
+  },
+  {
+   "id": "us_t18_e2",
+   "name_en": "T18E2",
+   "release_date": null,
+   "image": "/wtapi/assets/images/us_t18_e2.png"
+  },
+  {
+   "id": "whirlwind_p9",
+   "name_en": "Whirlwind P.9",
+   "release_date": "2017-12-18",
+   "image": "/wtapi/assets/images/whirlwind_p9.png"
+  }
+ ],
+ "battlepass_season18": [
+  {
+   "id": "fr_m46_patton",
+   "name_en": "M46",
+   "release_date": "2025-01-22",
+   "image": "/wtapi/assets/images/fr_m46_patton.png"
+  },
+  {
+   "id": "sb2c_5_thailand",
+   "name_en": "SB2C-5",
+   "release_date": "2025-01-22",
+   "image": "/wtapi/assets/images/sb2c_5_thailand.png"
+  }
+ ],
+ "winter_2021": [
+  {
+   "id": "fr_panhard_ebr_1954",
+   "name_en": "E.B.R. (1954)",
+   "release_date": "2020-12-17",
+   "image": "/wtapi/assets/images/fr_panhard_ebr_1954.png"
+  },
+  {
+   "id": "germ_th_800_bismark",
+   "name_en": "Class 3 (P)",
+   "release_date": "2020-12-17",
+   "image": "/wtapi/assets/images/germ_th_800_bismark.png"
+  },
+  {
+   "id": "jp_kusen_tei_13_1942",
+   "name_en": "Type K-8 No.13",
+   "release_date": "2020-12-17",
+   "image": "/wtapi/assets/images/jp_kusen_tei_13_1942.png"
+  },
+  {
+   "id": "mig-21_pfm",
+   "name_en": "MiG-21PFM",
+   "release_date": "2020-12-17",
+   "image": "/wtapi/assets/images/mig-21_pfm.png"
+  },
+  {
+   "id": "ro_57_quadriarma",
+   "name_en": "Ro.57 Quadriarma",
+   "release_date": "2020-12-17",
+   "image": "/wtapi/assets/images/ro_57_quadriarma.png"
+  },
+  {
+   "id": "us_cruiser_baltimore_class",
+   "name_en": "USS Baltimore",
+   "release_date": "2020-12-17",
+   "image": "/wtapi/assets/images/us_cruiser_baltimore_class.png"
+  }
+ ],
+ "2026_05_ship": [
+  {
+   "id": "fr_trident_class_glaive_p671",
+   "name_en": "Glaive",
+   "release_date": "2026-05-20",
+   "image": "/wtapi/assets/images/fr_trident_class_glaive_p671.png"
+  }
+ ],
+ "winter_2018": [
+  {
+   "id": "fw-190a-8_france",
+   "name_en": "NC.900",
+   "release_date": "2017-12-18",
+   "image": "/wtapi/assets/images/fw-190a-8_france.png"
+  },
+  {
+   "id": "germ_pzkpfw_V_ersatz_m10",
+   "name_en": "germ_pzkpfw_V_ersatz_m10",
+   "release_date": "2017-12-18",
+   "image": "/wtapi/assets/images/germ_pzkpfw_V_ersatz_m10.png"
+  },
+  {
+   "id": "p-40c",
+   "name_en": "P-40C",
+   "release_date": "2017-12-18",
+   "image": "/wtapi/assets/images/p-40c.png"
+  },
+  {
+   "id": "uk_armored_car_aec_mk_2",
+   "name_en": "AEC Mk II",
+   "release_date": "2017-12-18",
+   "image": "/wtapi/assets/images/uk_armored_car_aec_mk_2.png"
+  }
+ ],
+ "winter_2019": [
+  {
+   "id": "fw-190c",
+   "name_en": "Fw 190 C",
+   "release_date": "2019-01-18",
+   "image": "/wtapi/assets/images/fw-190c.png"
+  },
+  {
+   "id": "mb_152c1",
+   "name_en": "M.B.152C1",
+   "release_date": "2019-01-18",
+   "image": "/wtapi/assets/images/mb_152c1.png"
+  },
+  {
+   "id": "us_t30",
+   "name_en": "T30",
+   "release_date": "2018-12-18",
+   "image": "/wtapi/assets/images/us_t30.png"
+  },
+  {
+   "id": "ussr_su_85a",
+   "name_en": "SU-85A",
+   "release_date": "2018-12-18",
+   "image": "/wtapi/assets/images/ussr_su_85a.png"
+  }
+ ],
+ "summer_2023": [
+  {
+   "id": "germ_amd_35_kwk",
+   "name_en": "P204(f) KwK 38",
+   "release_date": "2023-08-08",
+   "image": "/wtapi/assets/images/germ_amd_35_kwk.png"
+  },
+  {
+   "id": "su_25_558arz",
+   "name_en": "Su-25BM",
+   "release_date": "2023-08-08",
+   "image": "/wtapi/assets/images/su_25_558arz.png"
+  },
+  {
+   "id": "sw_patria_amv_ctcv_105",
+   "name_en": "CT-CV 105HP",
+   "release_date": "2023-08-08",
+   "image": "/wtapi/assets/images/sw_patria_amv_ctcv_105.png"
+  },
+  {
+   "id": "uk_battlecruiser_renown",
+   "name_en": "HMS Renown",
+   "release_date": "2023-08-08",
+   "image": "/wtapi/assets/images/uk_battlecruiser_renown.png"
+  }
+ ],
+ "2025_09_ship": [
+  {
+   "id": "germ_battlecruiser_mackensen_class",
+   "name_en": "Mackensen",
+   "release_date": "2025-09-04",
+   "image": "/wtapi/assets/images/germ_battlecruiser_mackensen_class.png"
+  }
+ ],
+ "2024_03_ship": [
+  {
+   "id": "germ_battleship_baden",
+   "name_en": "SMS Baden",
+   "release_date": "2024-03-14",
+   "image": "/wtapi/assets/images/germ_battleship_baden.png"
+  }
+ ],
+ "craft_2022_autumn": [
+  {
+   "id": "germ_battleship_ostfriesland",
+   "name_en": "SMS Ostfriesland",
+   "release_date": "2022-09-22",
+   "image": "/wtapi/assets/images/germ_battleship_ostfriesland.png"
+  },
+  {
+   "id": "jaguar_e",
+   "name_en": "Jaguar E",
+   "release_date": "2022-09-22",
+   "image": "/wtapi/assets/images/jaguar_e.png"
+  },
+  {
+   "id": "po-2m",
+   "name_en": "Po-2M",
+   "release_date": "2022-09-22",
+   "image": "/wtapi/assets/images/po-2m.png"
+  },
+  {
+   "id": "us_ccvl",
+   "name_en": "CCVL",
+   "release_date": "2022-09-22",
+   "image": "/wtapi/assets/images/us_ccvl.png"
+  }
+ ],
+ "2024_10_tank": [
+  {
+   "id": "germ_boxer_3105",
+   "name_en": "Boxer MGS",
+   "release_date": "2024-10-03",
+   "image": "/wtapi/assets/images/germ_boxer_3105.png"
+  }
+ ],
+ "winter_2020": [
+  {
+   "id": "germ_destroyer_class1924_jaguar1941",
+   "name_en": "Jaguar",
+   "release_date": "2019-12-16",
+   "image": "/wtapi/assets/images/germ_destroyer_class1924_jaguar1941.png"
+  },
+  {
+   "id": "j6k1",
+   "name_en": "J6K1",
+   "release_date": "2019-12-16",
+   "image": "/wtapi/assets/images/j6k1.png"
+  },
+  {
+   "id": "tis_ma",
+   "name_en": "TIS MA",
+   "release_date": "2019-12-16",
+   "image": "/wtapi/assets/images/tis_ma.png"
+  },
+  {
+   "id": "uk_ram_90mm_aa",
+   "name_en": "QF 3.7 Ram",
+   "release_date": "2019-12-16",
+   "image": "/wtapi/assets/images/uk_ram_90mm_aa.png"
+  },
+  {
+   "id": "us_merkava_mk_2b_late",
+   "name_en": "Merkava Mk.2B",
+   "release_date": "2019-12-16",
+   "image": "/wtapi/assets/images/us_merkava_mk_2b_late.png"
+  },
+  {
+   "id": "us_pt811",
+   "name_en": "PT-811",
+   "release_date": "2019-12-16",
+   "image": "/wtapi/assets/images/us_pt811.png"
+  }
+ ],
+ "battlepass_season2": [
+  {
+   "id": "germ_destroyer_class1936a_z25",
+   "name_en": "Z25",
+   "release_date": "2021-02-24",
+   "image": "/wtapi/assets/images/germ_destroyer_class1936a_z25.png"
+  },
+  {
+   "id": "itp_m1",
+   "name_en": "ITP (M-1)",
+   "release_date": "2021-02-24",
+   "image": "/wtapi/assets/images/itp_m1.png"
+  },
+  {
+   "id": "uk_centurion_mk_5_raac",
+   "name_en": "Centurion Mk.5/1",
+   "release_date": "2021-02-24",
+   "image": "/wtapi/assets/images/uk_centurion_mk_5_raac.png"
+  },
+  {
+   "id": "us_t55e1",
+   "name_en": "T55E1",
+   "release_date": "2021-02-24",
+   "image": "/wtapi/assets/images/us_t55e1.png"
+  }
+ ],
+ "battlepass_season7": [
+  {
+   "id": "germ_panzerjager_tiger_P_elefant",
+   "name_en": "germ_panzerjager_tiger_P_elefant",
+   "release_date": "2022-04-27",
+   "image": "/wtapi/assets/images/germ_panzerjager_tiger_P_elefant.png"
+  },
+  {
+   "id": "p-51c-10_france",
+   "name_en": "F-6C-10-NA",
+   "release_date": "2022-04-27",
+   "image": "/wtapi/assets/images/p-51c-10_france.png"
+  },
+  {
+   "id": "uk_destroyer_battle_cadiz",
+   "name_en": "HMS Cadiz",
+   "release_date": "2022-04-27",
+   "image": "/wtapi/assets/images/uk_destroyer_battle_cadiz.png"
+  }
+ ],
+ "craft_2018_spring": [
+  {
+   "id": "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
+   "name_en": "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
+   "release_date": null,
+   "image": "/wtapi/assets/images/germ_pzkpfw_VI_ausf_h1_tiger_animal_version.png"
+  },
+  {
+   "id": "p-63c-5_kingcobra_animal_version",
+   "name_en": "Kingcobra",
+   "release_date": null,
+   "image": "/wtapi/assets/images/p-63c-5_kingcobra_animal_version.png"
+  }
+ ],
+ "winter_2016": [
+  {
+   "id": "germ_pzkpfw_VI_tiger_P",
+   "name_en": "germ_pzkpfw_VI_tiger_P",
+   "release_date": null,
+   "image": "/wtapi/assets/images/germ_pzkpfw_VI_tiger_P.png"
+  },
+  {
+   "id": "p-63c-5_ussr",
+   "name_en": "P-63C-5",
+   "release_date": null,
+   "image": "/wtapi/assets/images/p-63c-5_ussr.png"
+  }
+ ],
+ "battlepass_season11": [
+  {
+   "id": "germ_s_700_s_701",
+   "name_en": "S-701",
+   "release_date": "2023-04-26",
+   "image": "/wtapi/assets/images/germ_s_700_s_701.png"
+  },
+  {
+   "id": "p-51b_7_sweden",
+   "name_en": "J26 David",
+   "release_date": "2023-04-26",
+   "image": "/wtapi/assets/images/p-51b_7_sweden.png"
+  },
+  {
+   "id": "uk_centurion_mk_2",
+   "name_en": "Centurion Mk.2",
+   "release_date": "2023-04-26",
+   "image": "/wtapi/assets/images/uk_centurion_mk_2.png"
+  }
+ ],
+ "summer_2017": [
+  {
+   "id": "germ_sdkfz_234_4",
+   "name_en": "Sd.Kfz.234/4",
+   "release_date": null,
+   "image": "/wtapi/assets/images/germ_sdkfz_234_4.png"
+  },
+  {
+   "id": "ki_94_2",
+   "name_en": "Ki-94-II",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ki_94_2.png"
+  },
+  {
+   "id": "p-43a-1",
+   "name_en": "P-43A-1",
+   "release_date": null,
+   "image": "/wtapi/assets/images/p-43a-1.png"
+  },
+  {
+   "id": "ussr_type_65_aa",
+   "name_en": "Phòng không T-34",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_type_65_aa.png"
+  }
+ ],
+ "sturmtiger_dream": [
+  {
+   "id": "germ_sturmmorser_sturmtiger",
+   "name_en": "38 cm Sturmmörser",
+   "release_date": "2022-10-26",
+   "image": "/wtapi/assets/images/germ_sturmmorser_sturmtiger.png"
+  }
+ ],
+ "2025_11_tank": [
+  {
+   "id": "germ_th_400",
+   "name_en": "R400",
+   "release_date": "2025-11-19",
+   "image": "/wtapi/assets/images/germ_th_400.png"
+  }
+ ],
+ "winter_2024": [
+  {
+   "id": "germ_vilkas",
+   "name_en": "Vilkas",
+   "release_date": "2023-12-14",
+   "image": "/wtapi/assets/images/germ_vilkas.png"
+  },
+  {
+   "id": "j9_early",
+   "name_en": "J9 Early",
+   "release_date": "2023-12-14",
+   "image": "/wtapi/assets/images/j9_early.png"
+  },
+  {
+   "id": "mirage_2000c_s4",
+   "name_en": "Mirage 2000C-S4",
+   "release_date": "2023-12-14",
+   "image": "/wtapi/assets/images/mirage_2000c_s4.png"
+  },
+  {
+   "id": "us_battleship_mississippi",
+   "name_en": "USS Mississippi",
+   "release_date": "2023-12-14",
+   "image": "/wtapi/assets/images/us_battleship_mississippi.png"
+  }
+ ],
+ "craft_2019_spring": [
+  {
+   "id": "germ_vsw_flak_41",
+   "name_en": "VFW",
+   "release_date": "2019-04-11",
+   "image": "/wtapi/assets/images/germ_vsw_flak_41.png"
+  },
+  {
+   "id": "i_180",
+   "name_en": "I-180S",
+   "release_date": "2019-04-11",
+   "image": "/wtapi/assets/images/i_180.png"
+  },
+  {
+   "id": "ju-388j",
+   "name_en": "Ju 388 J",
+   "release_date": "2019-04-11",
+   "image": "/wtapi/assets/images/ju-388j.png"
+  },
+  {
+   "id": "uk_cruiser_tiger",
+   "name_en": "HMS Tiger",
+   "release_date": "2019-04-11",
+   "image": "/wtapi/assets/images/uk_cruiser_tiger.png"
+  },
+  {
+   "id": "us_merkava_mk_1",
+   "name_en": "Merkava Mk.1",
+   "release_date": "2019-04-11",
+   "image": "/wtapi/assets/images/us_merkava_mk_1.png"
+  },
+  {
+   "id": "ussr_mpk_122bis",
+   "name_en": "MPK Pr.122bis",
+   "release_date": "2019-04-11",
+   "image": "/wtapi/assets/images/ussr_mpk_122bis.png"
+  }
+ ],
+ "craft_2019_autumn": [
+  {
+   "id": "germ_vt_1_2",
+   "name_en": "VT1-2",
+   "release_date": "2019-10-02",
+   "image": "/wtapi/assets/images/germ_vt_1_2.png"
+  },
+  {
+   "id": "h_34",
+   "name_en": "H-34",
+   "release_date": "2019-10-02",
+   "image": "/wtapi/assets/images/h_34.png"
+  },
+  {
+   "id": "ussr_mbk_161_1943",
+   "name_en": "MBK-161 early",
+   "release_date": "2019-10-02",
+   "image": "/wtapi/assets/images/ussr_mbk_161_1943.png"
+  }
+ ],
+ "winter_2026": [
+  {
+   "id": "h-75m_china",
+   "name_en": "H-75M",
+   "release_date": "2025-12-16",
+   "image": "/wtapi/assets/images/h-75m_china.png"
+  },
+  {
+   "id": "jp_battleship_tosa",
+   "name_en": "IJN Tosa",
+   "release_date": "2025-12-16",
+   "image": "/wtapi/assets/images/jp_battleship_tosa.png"
+  },
+  {
+   "id": "mig_25pd",
+   "name_en": "MiG-25PD",
+   "release_date": "2025-12-16",
+   "image": "/wtapi/assets/images/mig_25pd.png"
+  },
+  {
+   "id": "uk_boxer_crv_block2",
+   "name_en": "CRV Block 2",
+   "release_date": "2025-12-16",
+   "image": "/wtapi/assets/images/uk_boxer_crv_block2.png"
+  }
+ ],
+ "battlepass_season17": [
+  {
+   "id": "he-177a-3",
+   "name_en": "He 177 A-3",
+   "release_date": "2024-10-23",
+   "image": "/wtapi/assets/images/he-177a-3.png"
+  },
+  {
+   "id": "ussr_cruiser_omaha_class_murmansk",
+   "name_en": "Murmansk",
+   "release_date": "2024-10-23",
+   "image": "/wtapi/assets/images/ussr_cruiser_omaha_class_murmansk.png"
+  }
+ ],
+ "battlepass_season24": [
+  {
+   "id": "iar_81c_db_605",
+   "name_en": "IAR-81C (DB 605)",
+   "release_date": "2026-07-22",
+   "image": "/wtapi/assets/images/iar_81c_db_605.png"
+  },
+  {
+   "id": "it_fiat_6616_ub",
+   "name_en": "FIAT 6616UB",
+   "release_date": "2026-07-22",
+   "image": "/wtapi/assets/images/it_fiat_6616_ub.png"
+  }
+ ],
+ "2024_11_air": [
+  {
+   "id": "iar_93b",
+   "name_en": "IAR-93B",
+   "release_date": "2024-11-27",
+   "image": "/wtapi/assets/images/iar_93b.png"
+  }
+ ],
+ "worldwar_road_to_the_west": [
+  {
+   "id": "il_2_m82",
+   "name_en": "IL-2 M-82",
+   "release_date": "2020-07-01",
+   "image": "/wtapi/assets/images/il_2_m82.png"
+  },
+  {
+   "id": "us_m60a3_slep",
+   "name_en": "M60 AMBT",
+   "release_date": "2020-07-01",
+   "image": "/wtapi/assets/images/us_m60a3_slep.png"
+  }
+ ],
+ "battlepass_season16": [
+  {
+   "id": "il_sholef",
+   "name_en": "Sholef",
+   "release_date": "2024-07-24",
+   "image": "/wtapi/assets/images/il_sholef.png"
+  },
+  {
+   "id": "pbm_5a",
+   "name_en": "PBM-5A \"Mariner\"",
+   "release_date": "2024-07-24",
+   "image": "/wtapi/assets/images/pbm_5a.png"
+  }
+ ],
+ "2024_07_ship": [
+  {
+   "id": "it_albatros_class_f544",
+   "name_en": "Alcione",
+   "release_date": "2024-07-24",
+   "image": "/wtapi/assets/images/it_albatros_class_f544.png"
+  }
+ ],
+ "battlepass_season13": [
+  {
+   "id": "it_breda_52_autocannone",
+   "name_en": "Breda 90/53",
+   "release_date": "2023-10-25",
+   "image": "/wtapi/assets/images/it_breda_52_autocannone.png"
+  },
+  {
+   "id": "strikemaster_mk88",
+   "name_en": "Strikemaster Mk.88",
+   "release_date": "2023-10-25",
+   "image": "/wtapi/assets/images/strikemaster_mk88.png"
+  },
+  {
+   "id": "uk_gay_class_archer",
+   "name_en": "HMS Gay Archer",
+   "release_date": "2023-10-25",
+   "image": "/wtapi/assets/images/uk_gay_class_archer.png"
+  }
+ ],
+ "battlepass_season21": [
+  {
+   "id": "it_cruiser_cadorna_class_cadorna",
+   "name_en": "RN Luigi Cadorna",
+   "release_date": "2025-10-22",
+   "image": "/wtapi/assets/images/it_cruiser_cadorna_class_cadorna.png"
+  },
+  {
+   "id": "re_2005_vdm",
+   "name_en": "Re.2005 (VDM)",
+   "release_date": "2025-10-22",
+   "image": "/wtapi/assets/images/re_2005_vdm.png"
+  }
+ ],
+ "2025_03_tank": [
+  {
+   "id": "it_fiat_6614_firos",
+   "name_en": "FIROS 6",
+   "release_date": "2025-03-13",
+   "image": "/wtapi/assets/images/it_fiat_6614_firos.png"
+  }
+ ],
+ "battlepass_season3": [
+  {
+   "id": "it_toldi_II_a",
+   "name_en": "it_toldi_II_a",
+   "release_date": "2021-05-12",
+   "image": "/wtapi/assets/images/it_toldi_II_a.png"
+  },
+  {
+   "id": "p-39q_25_france",
+   "name_en": "P-39Q-25",
+   "release_date": "2021-05-12",
+   "image": "/wtapi/assets/images/p-39q_25_france.png"
+  },
+  {
+   "id": "us_m6a2e1",
+   "name_en": "M6A2E1",
+   "release_date": "2021-05-12",
+   "image": "/wtapi/assets/images/us_m6a2e1.png"
+  },
+  {
+   "id": "ussr_cruiser_voroshilov",
+   "name_en": "Voroshilov",
+   "release_date": "2021-05-12",
+   "image": "/wtapi/assets/images/ussr_cruiser_voroshilov.png"
+  }
+ ],
+ "2024_02_air": [
+  {
+   "id": "jaguar_is",
+   "name_en": "Jaguar IS",
+   "release_date": "2024-02-22",
+   "image": "/wtapi/assets/images/jaguar_is.png"
+  }
+ ],
+ "winter_2022": [
+  {
+   "id": "jp_destroyer_hayanami",
+   "name_en": "IJN Hayanami",
+   "release_date": "2021-12-17",
+   "image": "/wtapi/assets/images/jp_destroyer_hayanami.png"
+  },
+  {
+   "id": "mc-202_d",
+   "name_en": "C. 202D",
+   "release_date": "2021-12-17",
+   "image": "/wtapi/assets/images/mc-202_d.png"
+  },
+  {
+   "id": "mig_23mf_germany",
+   "name_en": "MiG-23MF",
+   "release_date": "2021-12-17",
+   "image": "/wtapi/assets/images/mig_23mf_germany.png"
+  },
+  {
+   "id": "uk_ac1_sentinel",
+   "name_en": "A.C.I",
+   "release_date": "2021-12-17",
+   "image": "/wtapi/assets/images/uk_ac1_sentinel.png"
+  },
+  {
+   "id": "us_ags_teledyne",
+   "name_en": "AGS",
+   "release_date": "2021-12-17",
+   "image": "/wtapi/assets/images/us_ags_teledyne.png"
+  },
+  {
+   "id": "ussr_mpk_201k",
+   "name_en": "MPK Pr.201K",
+   "release_date": "2021-12-17",
+   "image": "/wtapi/assets/images/ussr_mpk_201k.png"
+  }
+ ],
+ "battlepass_season23": [
+  {
+   "id": "jp_destroyer_suzutsuki",
+   "name_en": "IJN Suzutsuki",
+   "release_date": "2026-04-22",
+   "image": "/wtapi/assets/images/jp_destroyer_suzutsuki.png"
+  },
+  {
+   "id": "spitfire_lf_mk9c_cw_greece",
+   "name_en": "Spitfire LF Mk IXc (CW)",
+   "release_date": "2026-04-22",
+   "image": "/wtapi/assets/images/spitfire_lf_mk9c_cw_greece.png"
+  }
+ ],
+ "2025_07_ship": [
+  {
+   "id": "jp_escort_hiburi_class_shisaka",
+   "name_en": "Shisaka",
+   "release_date": "2025-07-23",
+   "image": "/wtapi/assets/images/jp_escort_hiburi_class_shisaka.png"
+  }
+ ],
+ "craft_2022_spring": [
+  {
+   "id": "kfir_c2",
+   "name_en": "Kfir C.2",
+   "release_date": "2022-04-07",
+   "image": "/wtapi/assets/images/kfir_c2.png"
+  },
+  {
+   "id": "uk_alecto_mk_1",
+   "name_en": "Alecto I",
+   "release_date": "2022-04-07",
+   "image": "/wtapi/assets/images/uk_alecto_mk_1.png"
+  },
+  {
+   "id": "us_destroyer_somers_davis",
+   "name_en": "USS Davis",
+   "release_date": "2022-04-07",
+   "image": "/wtapi/assets/images/us_destroyer_somers_davis.png"
+  },
+  {
+   "id": "ussr_t_72m2_moderna",
+   "name_en": "T-72M2 Moderna",
+   "release_date": "2022-04-07",
+   "image": "/wtapi/assets/images/ussr_t_72m2_moderna.png"
+  }
+ ],
+ "winter_2017": [
+  {
+   "id": "ki_21_1hei",
+   "name_en": "Ki-21-I Hei",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ki_21_1hei.png"
+  },
+  {
+   "id": "me-262a-2a",
+   "name_en": "Me 262 A-2a",
+   "release_date": null,
+   "image": "/wtapi/assets/images/me-262a-2a.png"
+  },
+  {
+   "id": "us_lvt_4_zis_2",
+   "name_en": "LVT(A)(4) (ZIS-2)",
+   "release_date": null,
+   "image": "/wtapi/assets/images/us_lvt_4_zis_2.png"
+  },
+  {
+   "id": "ussr_type_62",
+   "name_en": "Type 62",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_type_62.png"
+  }
+ ],
+ "winter_2015": [
+  {
+   "id": "lagg-i-301",
+   "name_en": "I-301",
+   "release_date": null,
+   "image": "/wtapi/assets/images/lagg-i-301.png"
+  },
+  {
+   "id": "us_m8a1",
+   "name_en": "M8A1 GMC",
+   "release_date": null,
+   "image": "/wtapi/assets/images/us_m8a1.png"
+  }
+ ],
+ "winter_2023": [
+  {
+   "id": "late_298d",
+   "name_en": "Late 298D",
+   "release_date": "2022-12-20",
+   "image": "/wtapi/assets/images/late_298d.png"
+  },
+  {
+   "id": "tornado_ids_de_mfg",
+   "name_en": "Tornado IDS MFG",
+   "release_date": "2022-12-20",
+   "image": "/wtapi/assets/images/tornado_ids_de_mfg.png"
+  },
+  {
+   "id": "us_cruiser_des_moines_class_newport_news",
+   "name_en": "USS Newport News",
+   "release_date": "2022-12-20",
+   "image": "/wtapi/assets/images/us_cruiser_des_moines_class_newport_news.png"
+  },
+  {
+   "id": "ussr_t_80um2",
+   "name_en": "T-80UM2",
+   "release_date": "2022-12-20",
+   "image": "/wtapi/assets/images/ussr_t_80um2.png"
+  }
+ ],
+ "2025_05_air": [
+  {
+   "id": "marut_mk1",
+   "name_en": "HF-24",
+   "release_date": "2025-05-22",
+   "image": "/wtapi/assets/images/marut_mk1.png"
+  }
+ ],
+ "chronicles_2016": [
+  {
+   "id": "mbr-2",
+   "name_en": "MBR-2-M-34",
+   "release_date": null,
+   "image": "/wtapi/assets/images/mbr-2.png"
+  },
+  {
+   "id": "p-38j_marge",
+   "name_en": "Bong's P-38J-15",
+   "release_date": null,
+   "image": "/wtapi/assets/images/p-38j_marge.png"
+  },
+  {
+   "id": "uk_a_34_comet_iron_duke",
+   "name_en": "Comet I \"Iron Duke IV\"",
+   "release_date": null,
+   "image": "/wtapi/assets/images/uk_a_34_comet_iron_duke.png"
+  },
+  {
+   "id": "ussr_kv_2_1940",
+   "name_en": "KV-2 (1940)",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_kv_2_1940.png"
+  }
+ ],
+ "2025_04_air": [
+  {
+   "id": "meteor_frmk9_iaf",
+   "name_en": "Meteor FR.9",
+   "release_date": "2025-04-16",
+   "image": "/wtapi/assets/images/meteor_frmk9_iaf.png"
+  }
+ ],
+ "battlepass_season15": [
+  {
+   "id": "p-51c-11-nt_china",
+   "name_en": "P-51C-11-NT",
+   "release_date": "2024-04-24",
+   "image": "/wtapi/assets/images/p-51c-11-nt_china.png"
+  },
+  {
+   "id": "sw_kungstiger",
+   "name_en": "Kungstiger",
+   "release_date": "2024-04-24",
+   "image": "/wtapi/assets/images/sw_kungstiger.png"
+  },
+  {
+   "id": "us_flagstaff_pgh1",
+   "name_en": "USS Flagstaff",
+   "release_date": "2024-04-24",
+   "image": "/wtapi/assets/images/us_flagstaff_pgh1.png"
+  }
+ ],
+ "winter_2019_ship": [
+  {
+   "id": "pbm_3",
+   "name_en": "PBM-3 \"Mariner\"",
+   "release_date": "2019-03-12",
+   "image": "/wtapi/assets/images/pbm_3.png"
+  },
+  {
+   "id": "ussr_destroyer_leningrad",
+   "name_en": "Leningrad",
+   "release_date": "2019-03-12",
+   "image": "/wtapi/assets/images/ussr_destroyer_leningrad.png"
+  }
+ ],
+ "chronicles_2017": [
+  {
+   "id": "pv_2d",
+   "name_en": "PV-2D",
+   "release_date": null,
+   "image": "/wtapi/assets/images/pv_2d.png"
+  },
+  {
+   "id": "uk_a_33_excelsior",
+   "name_en": "Excelsior",
+   "release_date": null,
+   "image": "/wtapi/assets/images/uk_a_33_excelsior.png"
+  },
+  {
+   "id": "ussr_a_12_mk_2_matilda_2A_F96",
+   "name_en": "ussr_a_12_mk_2_matilda_2A_F96",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_a_12_mk_2_matilda_2A_F96.png"
+  },
+  {
+   "id": "yak-3t",
+   "name_en": "Yak-3T",
+   "release_date": null,
+   "image": "/wtapi/assets/images/yak-3t.png"
+  }
+ ],
+ "2026_06_air": [
+  {
+   "id": "spitfire_mk5b_float",
+   "name_en": "Spitfire Mk Vb (Float)",
+   "release_date": "2026-06-03",
+   "image": "/wtapi/assets/images/spitfire_mk5b_float.png"
+  }
+ ],
+ "2024_09_ship": [
+  {
+   "id": "uk_battleship_q_elizabet_class_barham",
+   "name_en": "HMS Barham",
+   "release_date": "2024-09-05",
+   "image": "/wtapi/assets/images/uk_battleship_q_elizabet_class_barham.png"
+  }
+ ],
+ "2024_06_tank": [
+  {
+   "id": "uk_churchill_avre",
+   "name_en": "Churchill AVRE Petard",
+   "release_date": "2024-06-19",
+   "image": "/wtapi/assets/images/uk_churchill_avre.png"
+  }
+ ],
+ "2026_07_tank": [
+  {
+   "id": "uk_fv107_scimitar_mk2",
+   "name_en": "Scimitar Mk.2",
+   "release_date": "2026-07-22",
+   "image": "/wtapi/assets/images/uk_fv107_scimitar_mk2.png"
+  }
+ ],
+ "2025_01_tank": [
+  {
+   "id": "uk_shir_2",
+   "name_en": "FV4030/3",
+   "release_date": "2025-01-17",
+   "image": "/wtapi/assets/images/uk_shir_2.png"
+  }
+ ],
+ "tog2_dream": [
+  {
+   "id": "uk_tog_2",
+   "name_en": "TOG II",
+   "release_date": "2023-11-07",
+   "image": "/wtapi/assets/images/uk_tog_2.png"
+  }
+ ],
+ "2026_03_ship": [
+  {
+   "id": "us_battleship_oklahoma",
+   "name_en": "USS Oklahoma",
+   "release_date": "2026-03-12",
+   "image": "/wtapi/assets/images/us_battleship_oklahoma.png"
+  }
+ ],
+ "worldwar_attack_from_the_sea": [
+  {
+   "id": "us_destroyer_porter_1944",
+   "name_en": "USS Phelps",
+   "release_date": null,
+   "image": "/wtapi/assets/images/us_destroyer_porter_1944.png"
+  },
+  {
+   "id": "ussr_ba_11",
+   "name_en": "BA-11",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_ba_11.png"
+  }
+ ],
+ "2025_10_tank": [
+  {
+   "id": "us_efv_p1",
+   "name_en": "EFV",
+   "release_date": "2025-10-02",
+   "image": "/wtapi/assets/images/us_efv_p1.png"
+  }
+ ],
+ "2025_06_tank": [
+  {
+   "id": "us_t86",
+   "name_en": "T86",
+   "release_date": "2025-06-06",
+   "image": "/wtapi/assets/images/us_t86.png"
+  }
+ ],
+ "2026_08_ship": [
+  {
+   "id": "ussr_battleship_oktyabrskaya_revolutsiya",
+   "name_en": "Oktyabrskaya Revolutsiya",
+   "release_date": "2026-08-13",
+   "image": "/wtapi/assets/images/ussr_battleship_oktyabrskaya_revolutsiya.png"
+  }
+ ],
+ "may_2023": [
+  {
+   "id": "ussr_bm_31_12",
+   "name_en": "BM-31-12",
+   "release_date": "2023-05-09",
+   "image": "/wtapi/assets/images/ussr_bm_31_12.png"
+  }
+ ],
+ "may_2022": [
+  {
+   "id": "ussr_is_2_1944_321",
+   "name_en": "IS-2 No.321",
+   "release_date": "2022-05-19",
+   "image": "/wtapi/assets/images/ussr_is_2_1944_321.png"
+  }
+ ],
+ "summer_2018_craft": [
+  {
+   "id": "ussr_is_7",
+   "name_en": "IS-7",
+   "release_date": null,
+   "image": "/wtapi/assets/images/ussr_is_7.png"
+  }
+ ],
+ "kv_7_dream": [
+  {
+   "id": "ussr_kv_7_u13",
+   "name_en": "KV-7 (U-13)",
+   "release_date": "2024-10-29",
+   "image": "/wtapi/assets/images/ussr_kv_7_u13.png"
+  }
+ ],
+ "2026_05_tank": [
+  {
+   "id": "ussr_kv_8",
+   "name_en": "KV-8",
+   "release_date": "2026-05-06",
+   "image": "/wtapi/assets/images/ussr_kv_8.png"
+  }
+ ],
+ "2024_02_tank": [
+  {
+   "id": "ussr_object_292",
+   "name_en": "Object 292",
+   "release_date": "2024-02-01",
+   "image": "/wtapi/assets/images/ussr_object_292.png"
+  }
+ ],
+ "2025_12_ship": [
+  {
+   "id": "ussr_pr_205pe_k225",
+   "name_en": "AK-225",
+   "release_date": "2025-12-03",
+   "image": "/wtapi/assets/images/ussr_pr_205pe_k225.png"
+  }
+ ],
+ "2025_05_tank": [
+  {
+   "id": "ussr_t_34_85_zis_53_v80",
+   "name_en": "T-34-85 \"Partisan\"",
+   "release_date": "2025-05-08",
+   "image": "/wtapi/assets/images/ussr_t_34_85_zis_53_v80.png"
+  }
+ ],
+ "2026_01_tank": [
+  {
+   "id": "ussr_t_72b3_arena",
+   "name_en": "T-72B3 \"Arena\"",
+   "release_date": "2026-01-23",
+   "image": "/wtapi/assets/images/ussr_t_72b3_arena.png"
+  }
+ ],
+ "xf5u_dream": [
+  {
+   "id": "xf5u_1",
+   "name_en": "XF5U-1",
+   "release_date": "2025-11-01",
+   "image": "/wtapi/assets/images/xf5u_1.png"
+  }
+ ],
+ "2024_05_air": [
+  {
+   "id": "yak-3_eremin",
+   "name_en": "Eremin's Yak-3(e)",
+   "release_date": "2024-05-08",
+   "image": "/wtapi/assets/images/yak-3_eremin.png"
+  }
+ ]
+}

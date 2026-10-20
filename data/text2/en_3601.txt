@@ -1,0 +1,108 @@
+[Shop] How can you get the Pz III N and Boomerang Mk.I? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get the Pz III N and Boomerang Mk.I? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+1 March 2016
+Shop
+<>Premium vehicles for active War Thunder players!
+<>Pilots and tankers, we now have new offers for you in the renewed “Warbonds” shop. Now, there is the premium Pz III N tank and the Boomerang Mk.I fighter.
+<>In order to receive them, just complete daily Battle tasks in War Thunder battles and earn a special currency - “Warbonds”, which can be used to purchase vehicles previously only obtainable with Golden Eagles!
+Command reminds our troops, that the opportunity to receive the current “War bonds” is over. The current war bonds will not be removed immediately at this time, you will still be able to use them only until the 7th of March for the purchase of some goods in the war bond shop.
+The total amount and remaining time left for receiving specific war bonds appears at the bottom left of the battle tasks tab.
+From the 1st of March you will receive new “War bonds” for the completion of battle tasks , which will be valid for the whole month and once again the range of purchases in the shop will be updated!
+<>
+You will be able to purchase the following items:
+Pz III N ;
+F4U-1a (Japan);
+Boomerang Mk.I;
+Ki-61-Ib (USA);
+P-40E-1 (USSR);
+Decal "Emblem of No. 1831 Naval Air Squadron, Fleet Air Arm of the Royal Navy";
+Supply box with booster:
+50% for 10 battles;
+150/300/500/700% for 1 battle;
+200% booster for 1 battle.
+Supply box with following vehicles for rent from 1 hour up to 24 hours:
+J2M4 Kai ;
+AC IV Thunderbolt;
+Т-34-100;
+Tempest Mk.V (Germany);
+M46 "Tiger".
+You can read more about battle tasks and war bonds in our devblog .
+Enjoy the new items available and see you on the battlefield!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

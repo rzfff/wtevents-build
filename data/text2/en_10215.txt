@@ -1,0 +1,169 @@
+[Market] 40 New Camouflages Now Available in the WTCS Trophy VI! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+40 New Camouflages Now Available in the WTCS Trophy VI!
+10 September 2026
+Market
+<>Introducing the WTCS Trophy VI, containing 40 unique camouflages in both semi-historical and fictional styles for air and ground vehicles! For this trophy, we’ve continued our trend of covering new and older vehicles across various Battle Ratings, alongside some that have no camouflage options as well.
+<> Contents of the Trophy VI:
+<>Coupons for rare vehicles
+<>18 camouflage coupons for aircraft
+<>22 camouflage coupons for ground vehicles
+<> Aircraft
+<>Tornado F.3 Late — “60163 Tornado” camouflage
+<>F/A-18C MLU 2 — “Blue Sisu” camouflage
+<>F-16AM — “Centurion” camouflage
+<>Me 262 A-1a/U1 — “Night Raven” camouflage
+<>Hunter F.58 — “Gespenst” camouflage
+<>F-2000A (AESA) — “32o Stormo Demo Team” camouflage
+<>Breda 88 (P.XI) — “Scylla” camouflage
+<>F-16V — “Digital Viper” camouflage
+<>JAS39C — “Hai Leng’s Breath” camouflage
+<>Yak-9UT — “Firebird” camouflage
+<>Yak-130 — “Zimniy Soldier” camouflage
+<>Tu-2S — “Nocturne Raider” camouflage
+<>F-14D — “Atomic Summer” camouflage
+<>F3D-1 — “Hell Raider” camouflage
+<>F4U-4B — “Flak Magnet” camouflage
+<>A-10A — “Sand Shark” camouflage
+<>F-101C — “Loa” camouflage
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<> Ground Vehicles
+<>Type 90 (B) — “Thunder Claw” camouflage
+<>M47 — “Jingai” camouflage
+<>Type 87 RCV — “Metro Police” camouflage
+<>Hummel — “Fritz” camouflage
+<>Kpz-70 — “Falke” camouflage
+<>LvKv 9040C — “Volundarhus” camouflage
+<>ELC bis — “Corsique” camouflage
+<>Leopard 1A5BE — “Quick Fix” camouflage
+<>Leclerc — “Alpine Guard” camouflage
+<>Raketenautomat — “Blue Reaper” camouflage
+<>ZBD04A — “A Theme For Kadia” camouflage
+<>T-90M (Arena-M) — “Delta 1” camouflage
+<>ASU-57 — “Ashwalker” camouflage
+<>2S1 — “Ekaterina” camouflage
+<>T-80U-E1 — “Grey Ghost” camouflage
+<>M1A2 SEPv3 — “Coldwave” camouflage
+<>M56 — “Sky Solider” camouflage
+<>XM803 — “Sioux Chief” camouflage
+<>Super Hellcat — “Black Shards” camouflage
+<>MBT-70 — “Death” camouflage
+<>Stingray — “Blue Stingray” camouflage
+<>M36B2 — “Red Devil” camouflage
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>Like the previous Esports trophy , the new trophy can be obtained by simply playing regular War Thunder battles. In the future, it’ll also be possible to obtain by participating in Esports events in War Thunder tournaments with an increased chance! PlayStation and Xbox players can purchase the trophy in the Item Shop for Golden Eagles.
+<> Read more on our Wiki
+<>
+<>To open it, you’ll need to purchase a key on the Market (income is shared with the authors of the camouflages). You can either activate the coupon on your account, or trade it on the Market to get Gaijin Coins (GJN). A trophy can be sold as well!
+<>To unlock the trophy, you’ll need an “Esports” key that can be purchased on the Market for GJN.
+WTCS Trophy VI Box
+WTCS Trophy VI Key
+<> To the markET
+<>Previous trophies:
+<> WTCS Esports Trophy V
+<> WTCS Esports Trophy IV
+<> WTCS Esports Trophy III
+<> WTCS Esports Trophy II
+<> WTCS Esports Trophy I
+Esports Bundle - 2026 Season -15%
+This Bundle includes:
+Esports Veteran Pack - Season 2026
+Winter Warrior Esports Pack - Season 2026
+15.98 13.58
+Store
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

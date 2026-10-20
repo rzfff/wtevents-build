@@ -1,0 +1,265 @@
+[Event] The Snow Globe for Silver Lions! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Snow Globe for Silver Lions!
+18 December 2024
+Event
+<>A snow globe is a traditional holiday decoration and a great gift during the winter season. You can now treat yourself to one in War Thunder — only this one will bring you magical rewards when you open it!
+<>The Snow Globe can be purchased in the in-game Item Shop for Silver Lions from December 18th (11:00 GMT) until January 14th (11:00 GMT). It can only be purchased by players who have at least one researchable vehicle at rank II or higher on their account.
+<> What’s in the Snow Globe?
+<>The Snow Globe will reward you with vehicles, camouflages, decals, decorations and player profile icons from previous winter events, plus useful consumables, including boosters, universal backups, wagers and orders. Some items are here for the first time as coupons, meaning you’ll be able to sell them on the Market!
+<>The Snow Globe can be purchased for 60,000 Silver Lions.
+<>
+<>On January 14th (12:00 GMT), all Snow Globes will disappear from your inventory, so make sure open them before then!
+<>
+<>Some rewards you can find in the Snow Globe:
+"Christmas tree marks" decal
+"Snowboarder" Player Icon
+"Pin-up pilot (Japan)" decal
+"Christmas Gnome" decoration
+"Sparkler" decoration
+"Cuckoo clock" decoration
+TIS MA
+USS Mississippi
+QF 3.7 Ram
+<>The “Snow Globe” contains the following rewards (open spoiler)
+Vehicles: ▼
+<> Vehicles (both immediately activated on the account and available as coupons)
+<>Mirage 2000C-S4
+<>Vilkas
+<>USS Mississippi
+<>J9 Early (only direct to the account)
+<>Tornado IDS MFG
+<>T-80UM2
+<>USS Newport News
+<>Late 298D (only direct to the account)
+<>MiG-23MF (Germany)
+<>C. 202D (only direct to the account)
+<>AGS
+<>A.C.I (only direct to the account)
+<>IJN Hayanami (only direct to the account)
+<>MPK Pr.201K
+<>MiG-21PFM
+<>Ro.57 Quadriarma (only direct to the account)
+<>Class 3 (P)
+<>E.B.R. (1954) (only direct to the account)
+<>USS Baltimore
+<>Type K-8 No.13 (only direct to the account)
+<>TIS MA
+<>J6K1
+<>Merkava Mk.2B (USA)
+<>QF 3.7 Ram
+<>Jaguar
+<>PT-811
+<>Fw 190 C
+<>M.B.152C1
+<>T30
+<>SU-85A
+<>PBM-3 “Mariner” (only direct to the account)
+<>Leningrad (only direct to the account)
+<>P-40C
+<>NC.900 (only direct to the account)
+<>Ersatz M10 (only direct to the account)
+<>AEC Mk II
+<>Me 262 A-2a
+<>Ki-21-I hei
+<>LVT(A)(4) ZIS-2 (USA)
+<>Type 62 (USSR)*
+<>P-63C-5 (USSR) (only direct to the account)
+<>VK 45.01 (P)
+<>M8A1 GMC
+<>I-301
+<>* the chances of receiving the Type 62 (USSR) are far lower than the other vehicles and are around 0.001%.
+<>All vehicles will be immediately credited to your account, but there’s a chance to get it in the form of a coupon unless otherwise specified.
+<>
+Camouflages ▼
+<> Camouflages (coupons only):
+<>Mirage 2000C-S4: "Vendée" camouflage (first time as a coupon)
+<>Vilkas: Tricolor spotted camouflage (first time as a coupon)
+<>USS Mississippi: Tricolor geometric camouflage (first time as a coupon)
+<>Tornado IDS MFG: Anniversary camouflage MFG 2
+<>T-80UM2: Bicolor summer camouflage
+<>USS Newport News: Deforming camouflage
+<>MiG-23MF (Germany): Tricolor camouflage
+<>AGS: Snow w/Open Terrain camouflage MERDC
+<>MPK Pr.201K: Deforming camouflage
+<>MiG-21PFM: Demonstration camouflage
+<>Class 3 (P): PATRIA camouflage
+<>USS Baltimore: Deforming camouflage Design 33 16D
+<>TIS MA: Bicolor green camouflage
+<>J6K1: Experimental camouflage
+<>Merkava Mk.2B (USA): Tricolor camouflage
+<>QF 3.7 Ram: Late bicolor camouflage
+<>Jaguar: Deforming camouflage Bow sea
+<>PT-811: Deforming camouflage Design 20L
+<>Fw 190 C: Nonstandard tricolor camouflage
+<>M.B.152C1: Early camouflage
+<>T30: Winter verdant camouflage MERDC
+<>SU-85A: Bicolor summer camouflage
+<>P-40C: Olive-green camouflage
+<>
+Decorations ▼
+<> Decorations (both immediately activated on your account and available as coupons)
+<>Snowbike (first time as a coupon)
+<>Ratrack (first time as a coupon)
+<>New Year's sign (first time as a coupon)
+<>Christmas gnome
+<>Christmas sleigh
+<>Christmas mill
+<>Cuckoo watch
+<>Christmas sock
+<>Christmas deer
+<>New Year Tree
+<>Snowman
+<>Sparkler
+<>Snowboard
+<>Snowshoe
+<>Biathlon rifle
+<>Ice Climber’s Backpack
+<>Snowmobile NKL-16/41
+<>DUKW
+<>Assault rifle with grenade launcher (USSR)
+<>Assault rifle with grenade launcher (China)
+<>Assault rifle with grenade launcher (Germany)
+<>Assault rifle with grenade launcher (Britain)
+<>Assault rifle (Sweden)
+<>Carl Gustaf M/45
+<>Assault rifle (China)
+<>Type 63
+<>Assault rifle (Japan)
+<>Assault rifle (USA)
+<>Assault rifle (Britain)
+<>Assault rifle (Germany)
+<>Assault rifle (France)
+<>Assault rifle (USSR)
+<>Christmas Wreath
+<>Sleigh
+<>Ski
+<>Skates
+<>
+Decals ▼
+<> Decals (both immediately activated on your account and available as coupons)
+<>"Ice cross downhill" decal
+<>"Kitewing" decal
+<>"Freestyle" decal
+<>"Snowkiting" decal
+<>"Snowmobiling" decal
+<>"Dragon Warrior" decal (only direct to the account)
+<>“We can climb it” decal
+<>“Christmas Lights” decal
+<>“Powder Day” decal
+<>“Secret Santa” decal
+<>“Times to Travel” decal
+<>Metal Bull (only direct to the account)
+<>“Raging Tiger” decal (only direct to the account)
+<>Battle Rabbit (only direct to the account)
+<>“Warrior of the North” decal
+<>“Warrior of the Slavs” decal
+<>“Desert Warrior” decal
+<>“Guard Warrior” decal
+<>“Warrior of the Rising Sun” decal
+<>“The Sherwood Warrior” decal
+<>“Warrior of the East” decal
+<>“Legion Warrior” decal
+<>Pin-up pilot China
+<>Pin-up pilot Sweden
+<>Pin-up pilot Italy
+<>New Year’s pin-up (China)
+<>New Year’s pin-up (France)
+<>New Year’s pin-up (Germany)
+<>New Year’s pin-up (Italy)
+<>New Year’s pin-up (Japan)
+<>New Year’s pin-up (Sweden)
+<>New Year’s pin-up (Britain)
+<>New Year’s pin-up (USA)
+<>New Year’s pin-up (Russia)
+<>Pin-up pilot USA
+<>Pin-up pilot Russia
+<>Pin-up pilot Britain
+<>Pin-up pilot Japan
+<>Pin-up pilot Germany
+<>Pin-up pilot France
+<>Shark Jaws (1)
+<>Shark Jaws (2)
+<>Shark Jaws (3)
+<>Shark Jaws (4)
+<>“Christmas tree” victory marks
+<>Xmas Rocket
+<>Xmas Sock
+<>Xmas Tree
+<>
+Other rewards ▼
+<> Profile Icons (will be immediately activated on your account and in the form of the coupons)
+<>Snowboarder (first time as a coupon)
+<>Winter Pilot
+<> Aerobatic Smokes (only activated on your account)
+<>New Year Aerobatic Smoke
+<> Naval Flags (only activated on your account)
+<>New Year's flag
+<> Silver Lions
+<>10000 — 1000000
+<> Expendable items
+<>Battle trophy (Research points booster)
+<>Battle trophy (Silver lions booster)
+<>Universal backup
+<>Universal backup x2
+<>Universal backup x3
+<>Random wager
+<>Random order
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

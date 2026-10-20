@@ -1,0 +1,133 @@
+[Shop] [Special] Welcome to the Year of the Snake! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Welcome to the Year of the Snake!
+29 January 2025
+Shop
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>January 29th marks the Lunar New Year, and we at War Thunder have traditionally prepared a ton of activities and discounts for you to celebrate it properly!
+<> Earn the “Red envelope” decal!
+<>Get this Year of the Snake related decal!
+<> When: From today until February 5th (11:00 GMT).
+<> T ask: Play 3 battles using Chinese vehicles to receive the “Red envelope” decal!
+<>
+<>"Red envelope" decal
+<> Additional details:
+<>You must use vehicles at rank III or above.
+<>Your activity must not be below 70%.
+<>You can complete the task in random battles, except for Enduring Confrontation missions, [Assault] mode and Helicopter PVE battles.
+<>Track your progress in the hangar by clicking Nickname → Achievements → Holidays → Lunar New Year.
+<>You can find the decal in the “Holidays” tab in the customization menu.
+<> The ZTZ96A (P) and A-5C are back for good for Golden Eagles!
+<>These two vehicles are back on sale and will not be going away. Each cost 9,270 Golden Eagles.
+<> When: From January 29 (12:00 GMT).
+<> Where: China > Aviation / Army > Premium vehicles.
+<>The ZTZ96A (P) is an MBT that features a unique turret armor layout and the JD-3 optical-electronic suppression system. This tank can fire 125mm HEAT-FS, or a heavy hitting APFSDS shell with over 450 mm of armor penetration. Additionally, the ZTZ99A (P) can find enemies with a thermal imager, and fire these rounds accurately with its laser rangefinder, making it a strong tank at rank VII!
+<>The A-5C is a rank VI export variant of the Q-5, created at the request of the Pakistan Air Force. This attack aircraft features two 23 mm cannons, countermeasures and powerful Matra Magic air-to-air missiles. For ground targets, it features large high-explosive rockets as well as bombs, which can be aimed accurately with the ballistic computer.
+<> The Type 69-IIa and Т-62 №545 are temporarily available for Golden Eagles!
+<>These two tanks are temporarily available for 8,380 and 8,730 Golden Eagles respectively.
+<> When: From January 29th (12:00 GMT) until February 5th (11:00 GMT).
+<> Where: China > Army > Premium vehicles.
+<>The Type 69-IIa is an export variant of the Type 69, created for the Iraqi Army. This tank is better protected and equipped with a laser rangefinder and smoke grenades. Thanks to its 100 mm rifled gun found on the Type 59, the Type 69-IIA is great in the sniper role at rank V!
+<>The Т-62 №545 is a Soviet tank that was captured by the Chinese Army. It has everything needed for a good MBT — mobility, a two-plane stabilizer that allows you to maintain accuracy, good frontal armor and powerful shells. This tank can be found at rank VI in the Chinese ground forces tree.
+<> Gaijin.net Store discounts in honor of the Lunar New Year!
+<> When: From January 29th (12:00 GMT) until February 5th (11:00 GMT).
+<>Special bundles and starter packs are temporarily available at a discount for the Lunar New Year!
+<>USA Starter Pack -50%
+<>Chinese Starter Pack -50%
+<>USSR Starter Pack -50%
+<>Swedish Starter Pack -50%
+<>Japanese Starter Pack -50%
+<>Italian Starter Pack -50%
+<>French Starter Pack -50%
+<>German Beginner’s Pack -50%
+<>British Starter Pack -50%
+<> Lunar Sale 2025
+“Snake Charmer” Bundle -50%
+The Bundle Includes:
+A-5C Pack
+Type 96A Prototype Pack
+Unique title: “Snake Charmer”
+Unique decal: “ Beauty rat snake ”.
+125 62.49
+Store
+“Serpent Rising” Bundle -50%
+The Bundle Includes:
+Al-Khalid Pack;
+J-7D Pack;
+Unique title: “Serpent Rising”;
+Unique decal: “ Horned pit viper ”.
+140 69.99
+Store
+<>Players on all platforms who already own the A-5C and ZTZ96A (P) can earn the “Snake Charmer” title and the “Beauty rat snake” decal by playing 3 battles with either vehicle before February 5th.
+<>Players on all platforms who already own the Al-Khalid and J-7D can earn the “Serpent Rising” title and the “Horned pit viper” decal by playing 3 battles with either vehicle before February 5th.
+<> Note! This offer is valid for PC, Mac and Linux users only. PlayStation and Xbox users will be able to purchase the “Snake Charmer” Bundle and the “Serpent Rising” Bundle in their respective stores.
+<> Participate in the ongoing Enter the Serpent event!
+<> When: From January 17th (11:00 GMT) until February 4th (11:00 GMT).
+<>This event is dedicated to the Lunar New Year where you can get fantastic snake decals and the awesome British FV4030/3 Shir 2 tank!
+<>
+<> Check out the details of this event here
+<> The Snake Box
+<> When: From January 29th (11:00 GMT) until February 28th (11:00 GMT).
+<>You can purchase the Snake Box from the in-game Item Shop for 60,000 Silver Lions. This box contains vehicles and items from past events and doesn’t need a key to be opened!
+<> Check out the Snake Box details here
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

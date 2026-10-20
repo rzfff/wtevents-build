@@ -1,0 +1,990 @@
+{
+  "results": [
+    {
+      "aid": 663,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Birthday of Jiro Horikoshi - The Father of the mighty Zero",
+      "name_en": "Birthday of Jiro Horikoshi - The Father of the mighty Zero",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史人物传记(零战设计师堀越二郎),无任何游戏内活动、折扣或任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 668,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "New premium packs available!",
+      "name_en": "New premium packs available!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "商城新礼包上架公告,无折扣无时间窗:Heavy Armor / Defenders / Victory is Ours / Tank Destroyers 四款 Advanced Pack 及 LaGG-3 34、Guards、IL-2 Avenger、Shielded KV-1E、Attacker、Hunter 六款 Starter Pack(各含金币车/机、金鹰与高级账户)",
+      "confidence": 0.5
+    },
+    {
+      "aid": 676,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "T-34 Prototype and M4A2 Sherman - the Final Sale!",
+      "name_en": "T-34 Prototype and M4A2 Sherman - the Final Sale!",
+      "name_zh": null,
+      "start": "2014-06-25T15:00:00Z",
+      "end": "2014-06-30T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "You can purchase them with a 25% discount from 15:00 GMT June 25th to 10:00 GMT June 30th!",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Starter Pack - M4A2 Sherman 44.99→33.74",
+          "percent": 25,
+          "note": "含 M4A2 Sherman 缴获金币坦克+2000 金鹰+1 个月高级账户;币种原文未注明"
+        },
+        {
+          "target": "礼包",
+          "item": "Starter Pack - T-34 Prototype 34.99→26.74",
+          "percent": 25,
+          "note": "含 T-34 原型金币坦克+2000 金鹰+1 个月高级账户;币种原文未注明"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "T-34 Prototype 与 M4A2 Sherman 两款新手包从商店永久下架",
+          "when": "2014-06-30"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "清仓最后促销(final sale),折扣窗口结束后两包下架",
+      "confidence": 0.92
+    },
+    {
+      "aid": 678,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Marathon \"It’s going to be hot!\"",
+      "name_en": "Marathon \"It’s going to be hot!\"",
+      "name_zh": null,
+      "start": "2014-06-26T10:00:00Z",
+      "end": "2014-07-03T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "The event lasts seven days, From 10:00 GMT 26th of June till 10:00 GMT 3rd of July.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "T-26 1-GvTBr",
+        "Pz.Kpfw.II (DAK)",
+        "最多 700,000 银狮(每任务 50,000)"
+      ],
+      "tasks": "7 天每日任务,苏/德双线(出战场次、击毁数、胜场等);完成任意 3-4 项得金币车,可两辆都拿;每完成一项另得 5 万银狮。",
+      "sub_events": [],
+      "notes": "文内「4 out of 7」与「any 3 of the 7」两个完成任务数口径不一致;新玩家首战可免费得一辆;两车亦可以 250 金鹰购买",
+      "confidence": 0.9
+    },
+    {
+      "aid": 681,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "War Thunder Guinness Record - 300+ unique aircraft!",
+      "name_en": "War Thunder Guinness Record - 300+ unique aircraft!",
+      "name_zh": null,
+      "start": "2014-06-27T12:00:00Z",
+      "end": "2014-06-30T02:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 12:00 GMT June 27th to 02:00 GMT June 30th +30% RP gain bonus for EACH battle with EVERY ground and air vehicle!",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "每场战斗 +30% RP 加成(所有陆空载具)"
+      ],
+      "tasks": "无需任务:周末活动期间每场战斗自动获得 +30% 研发加成。",
+      "sub_events": [],
+      "notes": "庆祝吉尼斯世界纪录(303 架机型,至 E3 2014 达 345 架)的周末特惠",
+      "confidence": 0.9
+    },
+    {
+      "aid": 687,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Operation \"Epsom\"",
+      "name_en": "Operation \"Epsom\"",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史文章(1944 年 6 月诺曼底「叶泊」行动战史),无游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 697,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "All you need to know about aircraft crews",
+      "name_en": "All you need to know about aircraft crews",
+      "name_zh": null,
+      "start": "2014-07-04T15:00:00Z",
+      "end": "2014-07-07T02:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT July 4 to 02:00 GMT July 7: 20% Discount on crews accelerated training for Golden Eagles",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "机组加速训练(Accelerated Training,金鹰购买)-20%",
+          "percent": 20,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "\"Expert\" 资格认证 -20%",
+          "percent": 20,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "\"Ace\" 资格认证 -30%",
+          "percent": 30,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "无需任务,限时购:金鹰加速训练与 Expert 认证 8 折、Ace 认证 7 折。",
+      "sub_events": [],
+      "notes": "主体为机组技能/资格机制教学长文,优惠窗口列于文首",
+      "confidence": 0.88
+    },
+    {
+      "aid": 718,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "Russian Navy Air Force anniversary",
+      "name_en": "Russian Navy Air Force anniversary",
+      "name_zh": null,
+      "start": "2014-07-17T13:00:00Z",
+      "end": "2014-07-18T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 13:00 GMT July 17th to 13:00 GMT July 18th 50% discount on the purchase of the IL-2 “Black sea fleet” camouflage",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "IL-2 “Black sea fleet” 涂装 -50%",
+          "percent": 50,
+          "note": "折扣对象为涂装而非载具本体;纪念 1916-07-14 俄罗斯海军航空兵首胜"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "无需任务,限时购:IL-2「Black sea fleet」纪念涂装 5 折。",
+      "sub_events": [],
+      "notes": "俄罗斯海军航空兵成立纪念日特惠(24 小时)",
+      "confidence": 0.88
+    },
+    {
+      "aid": 742,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Flying Aircraft Carriers",
+      "name_en": "Flying Aircraft Carriers",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史文章(苏联 Zveno「空中航母」项目史),无游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 748,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Summertime madness!",
+      "name_en": "Summertime madness!",
+      "name_zh": null,
+      "start": "2014-07-31T12:30:00Z",
+      "end": "2014-08-17",
+      "end_precision": "day",
+      "end_raw": "From August 15th to August 17th Golden Battles ! Earn up to 1000 !",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "改装(Modifications)30% 折扣",
+          "percent": 30,
+          "note": "8/1 00:01 至 8/4 00:01 GMT"
+        },
+        {
+          "target": "多种商品",
+          "item": "折扣活动 I(8/8-8/10)",
+          "percent": null,
+          "note": "折扣力度与明细见另文 aid 767"
+        },
+        {
+          "target": "多种商品",
+          "item": "折扣活动 II(8/15-8/17)",
+          "percent": null,
+          "note": "折扣力度与明细见另文 aid 784"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Pz.Kpfw. III Ausf. N",
+        "T-34-57",
+        "A6M2 (USA)",
+        "Wellington Mk.I (Germany)",
+        "I-16 type 28",
+        "Boomerang Mk.I",
+        "Bf.109 E-3 (Japan)",
+        "Pz.Bfw. Jagdpanther",
+        "Su-122P",
+        "P-63A-10",
+        "Fw.190 A-5",
+        "La-5-Fn",
+        "Mustang Mk.IA",
+        "Spitfire Mk. IX",
+        "Golden Battles 最多 1000 金鹰"
+      ],
+      "tasks": "按日历参与:7/31-8/6 摧毁 90 个玩家载具得金币坦克;8/4-8/10 与 8/11-8/17 分周完成任务得金币飞机/载具;穿插银狮/RP 加成与折扣窗口。",
+      "sub_events": [
+        {
+          "name": "任务:Pz.Kpfw. III Ausf. N 与 T-34-57",
+          "start": "2014-07-31T12:30:00Z",
+          "end": "2014-08-06T12:30:00Z",
+          "desc": "用苏/德坦克或坦歼摧毁 90 个玩家载具,得对应国家金币坦克"
+        },
+        {
+          "name": "x1.5 银狮加成",
+          "start": "2014-08-02T02:00:00Z",
+          "end": "2014-08-03T20:00:00Z",
+          "desc": "8/2 与 8/3 每日 02:00-06:00 及 16:00-20:00 GMT,全载具每场 1.5 倍银狮"
+        },
+        {
+          "name": "改装 30% 折扣",
+          "start": "2014-08-01T00:01:00Z",
+          "end": "2014-08-04T00:01:00Z",
+          "desc": "30% Discount for modifications"
+        },
+        {
+          "name": "任务:金币飞机第一周(Sky High Fliers)",
+          "start": "2014-08-04",
+          "end": "2014-08-10",
+          "desc": "A6M2(美)、Wellington Mk.I(德)、I-16 type 28、Boomerang Mk.I、Bf.109 E-3(日);详情见 aid 756"
+        },
+        {
+          "name": "折扣活动 I",
+          "start": "2014-08-08",
+          "end": "2014-08-10",
+          "desc": "详情见 aid 767"
+        },
+        {
+          "name": "x2 RP 加成",
+          "start": "2014-08-09T02:00:00Z",
+          "end": "2014-08-10T20:00:00Z",
+          "desc": "8/9 与 8/10 每日 02:00-06:00 及 16:00-20:00 GMT 每场双倍研发"
+        },
+        {
+          "name": "任务:金币载具第二周(The will to win)",
+          "start": "2014-08-11",
+          "end": "2014-08-17",
+          "desc": "Jagdpanther、Su-122P、P-63A-10、Fw.190 A-5、La-5-Fn、Mustang Mk.IA、Spitfire Mk. IX;详情见 aid 774"
+        },
+        {
+          "name": "每日首胜 x4 RP",
+          "start": "2014-08-11",
+          "end": "2014-08-17",
+          "desc": "全阵营每日首胜 4 倍研发"
+        },
+        {
+          "name": "折扣活动 II",
+          "start": "2014-08-15",
+          "end": "2014-08-17",
+          "desc": "详情见 aid 784"
+        },
+        {
+          "name": "Golden Battles",
+          "start": "2014-08-15",
+          "end": "2014-08-17",
+          "desc": "最多赢 1000 金鹰;详情见 aid 784"
+        }
+      ],
+      "notes": "「夏日疯狂」系列活动总时间表,多个子活动细节在另文(756/767/774/784);原文国别标注疑有错置(如 Wellington Mk.I→Germany、Bf.109 E-3→Japan)",
+      "confidence": 0.85
+    },
+    {
+      "aid": 756,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "«Summertime Madness!» Hunting Frenzy",
+      "name_en": "«Summertime Madness!» Hunting Frenzy",
+      "name_zh": null,
+      "start": "2014-08-04T17:30:00Z",
+      "end": "2014-08-11T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 17:30 GMT, August 4th to 09:00 GMT, August 11th",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "A6M2 (USA)",
+        "Wellington Mk.I (Germany)",
+        "I-16 type 28 (USSR)",
+        "Boomerang Mk.I (Britain)",
+        "Bf.109 E-3 (Japan)",
+        "最高 2,250,000 银狮",
+        "活动后抽奖发放 5,000 架金币机"
+      ],
+      "tasks": "战斗活跃度≥50%,完成 Sky High Fliers 成就得 5 架金币机;Hunting Frenzy 成就抽取 5000 架金币机并可得最高 225 万银狮;已拥有则折算金鹰。",
+      "sub_events": [],
+      "notes": "「夏日疯狂」第一周打飞机马拉松;已解锁对应机的玩家改发等值金鹰",
+      "confidence": 0.9
+    },
+    {
+      "aid": 757,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "The Birthday of Artem Mikoyan",
+      "name_en": "The Birthday of Artem Mikoyan",
+      "name_zh": null,
+      "start": "2014-08-05T12:00:00Z",
+      "end": "2014-08-06T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 5th August 12:00 GMT to 6th August 12:00 GMT",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "MiG-9、MiG-9/L 售价 -30%",
+          "percent": 30,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "MiG-15、MiG-15bis 售价 -20%",
+          "percent": 20,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "+30% 研发:MiG-3-15 / MiG-3-15(BK) / MiG-3-34"
+      ],
+      "tasks": "无需任务:24 小时内 MiG-3 系每场 +30% 研发,MiG-9 系 7 折、MiG-15 系 8 折。",
+      "sub_events": [],
+      "notes": "米高扬诞辰(1905-08-05)纪念特惠,主体含米高扬生平传记",
+      "confidence": 0.9
+    },
+    {
+      "aid": 764,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Playstation Store Discounts!",
+      "name_en": "Playstation Store Discounts!",
+      "name_zh": null,
+      "start": "2014-08-06",
+      "end": "2014-08-21T00:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "Special offer price valid from 6th August 2014 to 12am GMT 21st August 2014",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Mustang Advanced Pack €29.99→€21.99",
+          "percent": null,
+          "note": "约 -27%;PS Plus 会员额外再享 9 折"
+        },
+        {
+          "target": "礼包",
+          "item": "Dora Advanced Pack €19.99→€14.99",
+          "percent": null,
+          "note": "约 -25%;PS Plus 额外 9 折"
+        },
+        {
+          "target": "礼包",
+          "item": "Pacific Advanced Pack €49.99→€39.99",
+          "percent": null,
+          "note": "约 -20%;PS Plus 额外 9 折"
+        },
+        {
+          "target": "礼包",
+          "item": "Peshka Advanced Pack €19.99→€14.99",
+          "percent": null,
+          "note": "约 -25%;PS Plus 额外 9 折"
+        },
+        {
+          "target": "礼包",
+          "item": "Shielded T-34E Advanced Pack €24.99→€17.99",
+          "percent": null,
+          "note": "约 -28%;PS Plus 额外 9 折"
+        },
+        {
+          "target": "礼包",
+          "item": "Starter Pack SdKfz 140/1 and T-26E €9.99→€7.99",
+          "percent": null,
+          "note": "约 -20%;PS Plus 额外 9 折"
+        },
+        {
+          "target": "礼包",
+          "item": "Typhoon Advanced Pack €19.99→€14.99",
+          "percent": null,
+          "note": "约 -25%;PS Plus 额外 9 折"
+        },
+        {
+          "target": "礼包",
+          "item": "Ultra Advanced Pack €79.99→€59.99",
+          "percent": null,
+          "note": "约 -25%;PS Plus 额外 9 折"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "无需任务:PSN 欧服商店限时特价,PS Plus 会员结账时额外再享 9 折。",
+      "sub_events": [],
+      "notes": "仅限欧洲 PlayStation Store,部分国家可能不适用;「12am GMT 21st」按 21 日零点理解;折扣幅度原文未给百分数,不逐条折算",
+      "confidence": 0.85
+    },
+    {
+      "aid": 765,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Luck Plays a Large Role: Operation Watchtower",
+      "name_en": "Luck Plays a Large Role: Operation Watchtower",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史文章(1942 年瓜达尔卡纳尔「瞭望塔」行动),无游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 767,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "\"Summertime madness!\" Up to 30% discounts and x2 RP gain bonus for many battles!",
+      "name_en": "\"Summertime madness!\" Up to 30% discounts and x2 RP gain bonus for many battles!",
+      "name_zh": null,
+      "start": "2014-08-08T15:00:00Z",
+      "end": "2014-08-11T00:01:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT August 8th to 00:01 GMT August 11th",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "全部 II 级载具最高 -30%",
+          "percent": 30,
+          "note": "up to 30%"
+        },
+        {
+          "target": "载具",
+          "item": "全部 III 级载具最高 -20%",
+          "percent": 20,
+          "note": "up to 20%"
+        },
+        {
+          "target": "载具",
+          "item": "全部 IV 级载具 -10%",
+          "percent": 10,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "全部 V 级载具 -5%",
+          "percent": 5,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "全部金币载具 -10%",
+          "percent": 10,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "x2 RP 加成(8/9-8/10 指定时段每场)"
+      ],
+      "tasks": "无需任务:周末全系 II-V 级与金币载具限折;8/9-8/10 每日 02:00-06:00 与 16:00-19:59 GMT 每场 x2 RP。",
+      "sub_events": [
+        {
+          "name": "x2 RP 加成时段",
+          "start": "2014-08-09T02:00:00Z",
+          "end": "2014-08-10T19:59:00Z",
+          "desc": "8/9 与 8/10 每日 02:00-06:00 及 16:00-19:59 GMT"
+        }
+      ],
+      "notes": "「夏日疯狂」折扣周末,与 Hunting Frenzy 马拉松(aid 756)并行",
+      "confidence": 0.9
+    },
+    {
+      "aid": 774,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "“Summertime madness!” - “The will to win”",
+      "name_en": "“Summertime madness!” - “The will to win”",
+      "name_zh": null,
+      "start": "2014-08-11T18:00:00Z",
+      "end": "2014-08-18T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 18:00 GMT August 11th to 09:00 GMT August 18th complete the tasks and get premium vehicles of ranks 3 and 4 and up to 3.150.000",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Pz.Bfw. Jagdpanther",
+        "Su-122P",
+        "P-63A-10",
+        "Fw.190 A-5",
+        "La-5FN",
+        "Mustang Mk.IA",
+        "Spitfire Mk. IX",
+        "最高 3,150,000 银狮",
+        "Hunter's Luck 任务:100,000 / 150,000 / 200,000 银狮"
+      ],
+      "tasks": "完成对应国家 The will to win 任务(胜场+计分板名次,活跃度≥50%)得 3-4 级金币载具,已有折金鹰;Hunter's Luck 得 10-20 万银狮或金币车。",
+      "sub_events": [
+        {
+          "name": "每日首胜 x4 RP(全阵营)",
+          "start": "2014-08-11T00:01:00Z",
+          "end": "2014-08-18T00:01:00Z",
+          "desc": "All the week starting on August 11th 00:01 GMT and till August 18th 00:01 GMT"
+        }
+      ],
+      "notes": "「夏日疯狂」终周;AB 计分板门槛 900/600 分、RB/SB 600/300 分;完成任一 will to win 任务保底得车",
+      "confidence": 0.9
+    },
+    {
+      "aid": 775,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "Russian Air Force - 102nd Anniversary",
+      "name_en": "Russian Air Force - 102nd Anniversary",
+      "name_zh": null,
+      "start": "2014-08-12T12:00:00Z",
+      "end": "2014-08-13T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from 12:00GMT August 12th to 12:00GMT August 13th",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "全部苏联飞机 -20%",
+          "percent": 20,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "苏联飞机护身符(Talisman)-25%",
+          "percent": 25,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "苏联经验转换(exp. conversion)-30%",
+          "percent": 30,
+          "note": "经验转换为金鹰付费项目"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "无需任务:24 小时内全苏系飞机 8 折、护身符 7.5 折、经验转换 7 折。",
+      "sub_events": [],
+      "notes": "俄罗斯空军节 102 周年(1912-08-12 帝国空军成立)纪念特惠",
+      "confidence": 0.9
+    },
+    {
+      "aid": 784,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Golden finale of the \"Summertime madness!\"",
+      "name_en": "Golden finale of the \"Summertime madness!\"",
+      "name_zh": null,
+      "start": "2014-08-15",
+      "end": "2014-08-17",
+      "end_precision": "day",
+      "end_raw": "Participate in the “Golden Battles” from 15th of August to 17th of August and earn up to one thousand Golden Eagles!",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "机组加速训练 -15%",
+          "percent": 15,
+          "note": "窗口 8/15 16:00 至 8/18 09:00 GMT"
+        },
+        {
+          "target": "金鹰",
+          "item": "Ace 机组资格认证 -10%",
+          "percent": 10,
+          "note": "窗口 8/15 16:00 至 8/18 09:00 GMT"
+        },
+        {
+          "target": "高级账户",
+          "item": "7 天与 15 天高级账户 -20%",
+          "percent": 20,
+          "note": "窗口 8/15 16:00 至 8/18 09:00 GMT"
+        },
+        {
+          "target": "高级账户",
+          "item": "30 天高级账户 -10%",
+          "percent": 10,
+          "note": "窗口 8/15 16:00 至 8/18 09:00 GMT"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Golden Battles 最多 1000 金鹰(第 3/5/7 胜各 100,另加 100)"
+      ],
+      "tasks": "8/15-8/17 每日 02:00-05:00 与 16:00-19:00 GMT 打 Golden Battles:第 3/5/7 胜各得 100 金鹰并再 +100,合计至多 1000 金鹰。",
+      "sub_events": [
+        {
+          "name": "高级账户与机组训练折扣窗口",
+          "start": "2014-08-15T16:00:00Z",
+          "end": "2014-08-18T09:00:00Z",
+          "desc": "加速训练 15%、Ace 认证 10%、高级账户 7/15 天 20%、30 天 10%"
+        },
+        {
+          "name": "The will to win 任务与每日首胜 x4 RP 持续",
+          "start": "2014-08-15",
+          "end": "2014-08-18",
+          "desc": "Until the end of the event “The will to win” achievements will still be active"
+        }
+      ],
+      "notes": "「夏日疯狂」收官文;正文奖励表格在纯文本中排版混乱,以文首句为准",
+      "confidence": 0.85
+    },
+    {
+      "aid": 800,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Flying by Bushido: The Birthday of Saburo Sakai",
+      "name_en": "Flying by Bushido: The Birthday of Saburo Sakai",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史人物传记(日本王牌坂井三郎),无游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 804,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Revenue Share - Player created aircraft skins to be added to War Thunder!",
+      "name_en": "Revenue Share - Player created aircraft skins to be added to War Thunder!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Revenue Share 计划公告+首批入选玩家涂装名单(含作者署名,性质近似得奖公示),无玩家可参与的时间窗活动",
+      "confidence": 0.75
+    },
+    {
+      "aid": 809,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "World's first operational rotorcraft",
+      "name_en": "World's first operational rotorcraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史文章(旋翼机/直升机发展史),无游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 822,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Arcade Events Marathon!",
+      "name_en": "Arcade Events Marathon!",
+      "name_zh": null,
+      "start": "2014-09-05T15:00:00Z",
+      "end": "2014-09-23T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "September 19 15:00 - September 23 10:00 Curling",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "活动期间 RP 与银狮 +20%"
+      ],
+      "tasks": "按时间表在街机模式参加 Floats!(9/5-9/9)、Biathlon(9/12-9/16)、Curling(9/19-9/23)特殊任务,期间 RP 与银狮 +20%。",
+      "sub_events": [
+        {
+          "name": "Floats!",
+          "start": "2014-09-05T15:00:00Z",
+          "end": "2014-09-09T10:00:00Z",
+          "desc": "美日水上飞机与飞船争夺水面据点的街机任务"
+        },
+        {
+          "name": "Biathlon",
+          "start": "2014-09-12T15:00:00Z",
+          "end": "2014-09-16T10:00:00Z",
+          "desc": "街机特殊任务,期间 RP 与银狮 +20%"
+        },
+        {
+          "name": "Curling",
+          "start": "2014-09-19T15:00:00Z",
+          "end": "2014-09-23T10:00:00Z",
+          "desc": "街机特殊任务,期间 RP 与银狮 +20%"
+        }
+      ],
+      "notes": "名为 Marathon 实为三段街机特殊任务轮换,无载具奖励",
+      "confidence": 0.85
+    },
+    {
+      "aid": 841,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "New Aircraft Incoming",
+      "name_en": "New Aircraft Incoming",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发博客(Devblog):1.43 版本新机预览合集(Ki-43-II、B-57A、Ho.229、I-16 type 5、IL-28、Lancaster、Venom、J7W1、Kikka 等),无游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 852,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Birthday of the USAF",
+      "name_en": "Birthday of the USAF",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史文章(美国空军建军史,1947-09-18 独立成军),无折扣或游戏内活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 869,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "War Thunder’s Birthday - Celebrate with us!",
+      "name_en": "War Thunder’s Birthday - Celebrate with us!",
+      "name_zh": null,
+      "start": "2014-11-01",
+      "end": "2014-11-01",
+      "end_precision": "day",
+      "end_raw": "we will throw a big party to celebrate the birthday of the game in the Cyber Stadium club in Moscow, Russia, on November 1st, 2014",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "现场抽奖奖品(MSI / Nvidia / ROCCAT 等合作厂商)"
+      ],
+      "tasks": "线下活动:11/1 莫斯科 Cyber Stadium 两周年派对,凭票入场(售票另行公告),或看 Twitch 直播;有 Gladiators 4x4 决赛、坦克表演赛与抽奖。",
+      "sub_events": [],
+      "notes": "线下活动预告,游戏内庆典 specials 另行公布(见 aid 2589);无游戏内时间窗",
+      "confidence": 0.55
+    },
+    {
+      "aid": 875,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "William Edward Boeing's birthday",
+      "name_en": "William Edward Boeing's birthday",
+      "name_zh": null,
+      "start": "2014-10-01T12:00:00Z",
+      "end": "2014-10-02T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From October 1st 12.00 GMT to October 2nd 12.00 GMT",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "B-17E、B-17E/L -15%",
+          "percent": 15,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "B-17G -15%",
+          "percent": 15,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "B-17E / B-17E/L / B-17G 护身符(Talisman)-20%",
+          "percent": 20,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "无需任务,限时购:B-17E/E-L/G 金币机 85 折、对应护身符 8 折。",
+      "sub_events": [],
+      "notes": "波音创始人威廉·波音诞辰(1881-10-01)纪念特惠,主体为人物传记",
+      "confidence": 0.9
+    },
+    {
+      "aid": 880,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "100th anniversary of the first air-to-air victory",
+      "name_en": "100th anniversary of the first air-to-air victory",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯历史文章(1914-10-05 人类首次机炮空战击落 100 周年),无游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 901,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "New packs available in the store!",
+      "name_en": "New packs available in the store!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "商城上架公告,无折扣无时间窗:「Scout」(Pz.Kpfw.II Ausf.H+1000 金鹰+7 天高账)、「Gustav」(Bf.109G-2+500 金鹰+7 天高账)、「Fire and Maneuver」Advanced Pack(双载具+1500 金鹰+15 天高账)",
+      "confidence": 0.5
+    },
+    {
+      "aid": 909,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "Tupolev Construction Bureau Anniversary",
+      "name_en": "Tupolev Construction Bureau Anniversary",
+      "name_zh": null,
+      "start": "2014-10-22T15:00:00Z",
+      "end": "2014-10-23T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT 22nd October till 15:00 GMT 23rd October 25% discount on the purchase of Tu-2S and Tu-2S-44",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Tu-2S 与 Tu-2S-44 -25%",
+          "percent": 25,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "无需任务,限时购:图-2 系金币轰炸机 75 折。",
+      "sub_events": [],
+      "notes": "图波列夫设计局成立(1922-10-22)纪念特惠",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2589,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "War Thunder Anniversary Celebration in Moscow",
+      "name_en": "War Thunder Anniversary Celebration in Moscow",
+      "name_zh": null,
+      "start": "2014-11-01T09:00:00Z",
+      "end": "2014-11-01",
+      "end_precision": "day",
+      "end_raw": "we invite you to join us on the 1st of November (12:00 Moscow time) in the Moscow Cyber Stadium",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "War Thunder 纪念品与硬件奖品",
+        "Game Zone 可赢金鹰"
+      ],
+      "tasks": "线下活动:11/1 12:00(莫斯科时间)Cyber Stadium 周年庆典:开发者见面、项目未来演示、Gladiators 4x4 决赛、坦克试演、抽奖与 VR 体验区。",
+      "sub_events": [],
+      "notes": "aid 869 的后续详情文;开始时刻按 2014 年 11 月 MSK=UTC+3 由 12:00 莫斯科时间折算为 09:00 GMT;文内提及「planned specials」但未给出具体窗口",
+      "confidence": 0.6
+    }
+  ]
+}

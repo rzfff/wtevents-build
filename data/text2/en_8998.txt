@@ -1,0 +1,83 @@
+[Warbonds] War Bonds: "Skilled Marksman" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+War Bonds: "Skilled Marksman"
+24 July 2024
+Warbonds
+<>The ‘Skilled Marksman’ Battle Pass War Bond Shop will be open from July 24th to October 23rd.
+<>Check out the War Bonds store and the bonds that you earn by completing Battle Pass challenges! As usual, we’ve prepared decals, decorations, player icons, camouflages, a new stylish pin-up that starts a new series, and six premium vehicles. The themed decal trophy will allow you to complete the new Zodiac collection, and reward you with a special decal if you manage to collect every decal!
+<>This time, three vehicles are available for the first time in the War Bonds store: the Finnish Fokker fighter, the Soviet A-20G-30 frontline bomber and the French destroyer, Aigle!
+<>The War Bond Shop is available from Rank III and is part of the Battle Pass . You can purchase goods with a special currency - War Bonds, which can be obtained by unlocking Battle Pass levels.
+<> More about Warbonds
+<> Fokker D.XXI (Sweden) - first time in the store
+<>The Finnish licensed copy of the Dutch Fokker D.XXI fighter is a master of agility. Two 20 mm cannons and two 7.7 mm Browning machine guns are ready to shred hesitant opponents!
+<> Aigle (France) - first time in the store
+<>A very mobile and tenacious destroyer, its guns are protected with anti-fragmentation armor. Great for fighting other destroyers and smaller boats!
+<> A-20G-30 (USSR) - first time in the store
+<>A US bomber and attack aircraft, supplied to the USSR under Lend-Lease. Six 12.7 mm machine guns will easily destroy weakly protected ground targets - while bombs and torpedoes will deal with the rest!
+<> Chi-Ha Short Gun (Japan)
+<>A late modification of the Japanese Chi-Ha Kai medium tank with a 120 mm naval gun. Despite the fact that it only fires HE shells, their power allows it to effectively destroy almost all ground vehicles at its BR!
+<> PT-174 (USA)
+<>Mounted on the bow of this nimble torpedo boat is an excellent 40mm Bofors autocannon—accurate and fast-firing. A salvo of torpedoes will spoil the day for larger naval targets, and 12.7 mm machine guns and a 20 mm Oerlikon autocannon will ward off annoying enemy aircraft.
+<> Pz.Bef.Wg.IV J (Germany)
+<>A Pz.IV J medium tank with additional mesh screens on its sides. Great for sniper and ambush roles: its 75mm cannon can penetrate almost any enemy from afar, and five crew members make the tank a little more survivable.
+Pinup "Muerte"
+<>The decals this time around include a trophy with Zodiac collection decals, as well as a new pin-up, "Muerte", which starts a new series of themed decals. In the “Road Signs” trophy you will find decorations geared towards motor enthusiasts. The player icons in the corresponding trophy this time depict German tankers. Trophies with random camouflages like always will become available as new store levels are unlocked.
+<>A large number of useful items are also available in the store: boosters, universal backups, wagers and orders, rentals of premium vehicles, and at high store levels - talismans.
+<>You can see the full inventory of the War Bonds store for the current season, as well as the conditions for receiving them in the game by opening the Battle Pass window or “Store” → “War Bonds Store”.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

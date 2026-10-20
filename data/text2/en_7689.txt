@@ -1,0 +1,120 @@
+[Event] Pages of History (June) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (June)
+Attention! Outdated news format. Content may not display correctly.
+30 May 2022
+Event
+<>For the whole month you will have 8 tasks available to you one by one. Completion of each task will bring you a trophy with a reward and completion of all of them will bring a unique in-game player icon.
+<>A detailed description of the task for current game and your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>Richard Winters — one of the “D-Day” heroes. After landing in Normandy, he led his squad of 13 paratroopers against German artillery crews shelling Utah Beach. His team not only defeated the enemy forces in the battle at Brecourt Manor but also captured a map of other artillery batteries in the area. This operation is cited to this day as an example of a skillful tactical attack of a small formation on the enemy’s stationary positions.
+Richard Winters
+<>You can immediately purchase the profile icon for Golden Eagles until July 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (June)
+<>Trophy with a reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles
+20-50% SL booster for 3-10 battles
+3-5 universal backup vehicles
+1 day premium account
+Random camouflage for ground vehicles from among those available to obtain in the game through achievements or purchase for Golden Eagles.
+<>June 2nd — June 5th
+Battle of Midway
+<>From 4th until 7th of June 1942 took place the Battle of Midway Atoll - the decisive battle in the Pacific theater of WWII. The US was able to decipher the Japanese naval code and prepare for a surprise attack. As a result of the battle the Japanese fleet lost four heavy aircraft carriers and has since been forced to turn to the defense of captured territories.
+<>June 5th — June 8th
+D-Day
+<>The most important event of the Western Front. Allied forces under air cover landed on the shores of Normandy. beginning the liberation of France and then the rest of the Western Europe. On the 6h of June, also known as “D-Day” more than 150,000 troops crossed the English Channel in the largest naval landing operation in history.
+<>June 9th — June 12th
+The Battle of Sultan Yacoub
+<>Over the 10th-11th of June 1982 the Israeli army was severely tested during the Lebanese war: three companies of its tank battalion were surrounded by Syrian armed forces. 11 battalions of Artillery fire supported a breakthrough of armored vehicles trying to compensate for reconnaissance failure, most of them succeeded in escaping the trap.
+<>June 12th — June 15th
+Battle of Villers-Bocage
+<>Just one week after D-Day there were fierce battles in the territory of Normandy. One of them took place near the town of Villers-Bocage where Germans with small forces were able to surround and rough up the British tanks realizing the surprise and superiority of the Tiger heavy tanks. It took the Brits two months to capture the city.
+<>June 15th — June 18th
+Battle for Ancona
+<>On the 18th of June ended the month-long battle for Ancona - an important port in eastern Italy from which the 2nd Polish Army Corps knocked out the German forces. It was the only battle of the Western Front in which only Polish troops took part on the Allied side.
+<>June 19th — June 22nd
+Battle of the Philippine Sea
+<>On the 19th-20th of June 1944 the US fleed inflicted a crushing defeat on the Japanese fleet at the Battle of the Marianas. At the beginning of the battle Japan possessed the most powerful carrier corps in its history which practically ceased to exist by the end of the battle - there were not enough aircraft for defense.
+<>June 23rd — June 26th
+Operation Bagration
+<>In honor of the prince Pyotr Bagration, the hero and an outstanding military leader of the Patriotic War of 1812 was named the large-scale operation which began on the 23rd of June 1944 to liberate Belarus and Lithuania from German occupation. The Red Army gained a confident victory over the Army Group “Center” of Wehrmacht and pushed it far away to the territory of Poland.
+<>June 27th — June 30th
+F4U-1 first flight
+<>One of the most effective US aircraft of WWII was the Chance Vought F4U named the “Corsair”. Its first model designed for mass production was imported over the prototype: the cockpit was somewhat raised and the hull strengthened to withstand landing on aircraft carriers. The first flight of the F4U-1 took place at the end of June 1942.
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

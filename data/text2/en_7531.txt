@@ -1,0 +1,78 @@
+[Warbonds] “Firepower”: Warbonds - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Firepower”: Warbonds
+Attention! Outdated news format. Content may not display correctly.
+26 January 2022
+Warbonds
+<>The items for the Battle pass in the Warbond shop is as usual, will available throughout the entire “Firepower” season + 1week, available from 26th of January until 3rd of May (one week after the end of the season).
+<>The Warbond shop is available to players that have vehicles from rank III and is part of Battle Pass . You purchase items with the special “Warbond” currency that that can be obtained by unlocking Battle Pass levels.
+<>Premium vehicles in the new season
+<> ★ Crusader “The Saint” [Wiki] (first time in the warbond shop)
+<> ★ Celere Sahariano [Wiki] (first time in the warbond shop)
+<> ★ Mörkö-Morane [Wiki]
+<> ★ VS-8 [Wiki] (first time in the warbond shop)
+<> ★ P-51C-11-NT [Wiki] (first time in the warbond shop)
+<> ★ T14 [Wiki]
+"Shoo Shoo Shoo BABY" pinup of the 401st BS, 91 BG, USAF, 1944
+<>An updated “Road Signs” trophy, trophy with emblems and decals of the tiger images from the past and a "Shoo Shoo Shoo BABY" pinup of the 401st BS, 91 BG, USAF, 1944 (decal by Colin 'Fenris' Muir ).
+<>Open “Shop” → “Warbond shop” to see an assortment where some of the more interesting items can be seen.
+<>Check out the full assortment of available Warbond items in the new season in the game, as well as the terms for purchasing them!
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

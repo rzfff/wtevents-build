@@ -1,0 +1,98 @@
+[Event] Warfare 2077 in War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Warfare 2077 in War Thunder
+Attention! Outdated news format. Content may not display correctly.
+1 April 2021
+Event
+<>What will military technology be like in the future? Welcome to the battlefield of 2077: laser tanks, smart missiles, military drones and optical camouflage!
+<>War does change!
+<>From 11:00 GMT on the 1st of April till 12:00 GMT on the 5th of April
+<>You get control of combat vehicles, the concept of which is considered perspective in modern armies of the world. This is war in a new way, using digital technology, the latest types of weapons and camouflage.
+<>"Minotaur" main battle tank
+<>Developed in the late 2050’s, the Minotaur MBT is one of the best examples of 6th generation tanks. An unmanned turret, high-precision kinetic ammunition and missile weaponry, a complex of active protection, as well as an optical camouflage system that allows you to camouflage a tank in the visible and infrared spectrums.
+<>The 140mm gun with composite barrel bore operates with several types of projectiles, including APFSDS, an armor-piercing cumulative projectile with a multifunctional remote fuse, as well as a guided shell able to detonate over a target. The Minotaur is the most heavily defended combat unit on the battlefield, capable of surviving multiple hits and, at the same time, effectively conduct combat operations, guaranteeing the highest level of safety for the crew.
+<>The armoring around the crewed compartment is made from a special composite that does not create secondary fragments after penetration. This tank has the heaviest frontal armor package on the battlefield, supplemented by ERA modules on the hull’s upper and lower plates that gives the Minotaur protection against its own shell types at point-blank range. An unique complex of active protection capable of detecting and destroying most types of weapons at distance, including kinetic armor-piercing projectiles and airborne guided weapons.
+<>"Hydra" rocket tank
+<>The Hydra missile tank is built on the single base with the Minotaur MBT. The vehicle is devoid of most active protection systems, but it provides a unique ability to engage targets from cover, including without direct visual contact with the enemy.
+<>In the fighting compartment of the "Hydra" there is an installation for monitoring and launching vertical take-off missiles, the operation of which is provided in automatic or semi-automatic mode. To detect and lock onto targets outside of direct visual contact, the missile tank is equipped with a retractable periscope with a complex of digital-optical equipment, as well as an installation for launching "Gryphon" series reconnaissance drones/loitering munitions. The passive protection in the Hydra tank provides all-round protection and protection in the upper hemisphere from single hits of cumulative ammunition and missiles.
+<>"Harpy" universal air/missile defense complex
+<>The unified “Harpy” air and missile defense complex is designed to detect and engage low-flying air targets of all types, including unmanned aerial vehicles and guided missiles.
+<>The main calibre of the complex is a rapid-fire automatic cannon, with armor-piercing rounds, high-explosive fragmentation shells with an intelligent contact-remote fuse, as well as guided shells. The “Harpy” features surface-to-air “fire and forget” missiles. The automatic radar system “Aegis-11” includes a radar and a high-energy laser for detecting and hitting light air targets without operator input.
+<>"Wyvern" heavy attack drone
+<>Designed to intercept and destroy air targets, as well as deliver missile and bomb strikes and defeat armored vehicles with high-precision weapons. It is controlled remotely via a digital encrypted communication channel.
+<>The construction from high-strength composites and alloys allows the vehicle to withstand significant overload, which ensures a high level of maneuverability even at maximum combat loads. The modular pre-launch preparation of the drone makes it possible in the shortest possible time to configure the device to perform the combat missions of a fighter-interceptor, attack aircraft or fighter-bomber. Light-absorbing panels in the hull plating provide the device with an average level of resistance to laser weapons.
+<>"Gryphon-3" reconnaissance drone/loitering munition
+<>A British-Israeli project of loitering munition/surveillance and reconnaissance drone. Being part of the "Hydra" complex, this drone is equipped with an encrypted module for broadcasting targets to the gunner-operator's active monitor. The drone works in both manual and automatic modes, maintaining the flight settings specified by the operator. The power plant is represented by a piezomagnetic engine with a push propeller; a multi-mode digital camera with interchangeable lenses is located in the nose of the drone. In the drone’s hull there is a shaped-charge warhead for destruction of armored vehicles and enemy fortifications.
+<>Commemorative insignia for participation in the project
+Memorable chevron
+“ SDI Forces - Minotaur ”
+for 10 defeated opponents or kill assistance.
+Memorable chevron
+“ SDI Forces - Harpy ”
+for 30 defeated opponents or kill assistance.
+Memorable chevron
+“ SDI Forces - Hydra ”
+for 50 defeated opponents or kill assistance.
+SDI Forces avatar
+for 100 defeated opponents or kill assistance.
+“ Veteran 2077 ” title for 300 defeated opponents or kill assistance.
+<>As well as normal random battles, containers with materials for the “Future Technologies” crafting event might also be obtained in both TailSpin and Warfare 2077 events! Every 10 minutes spent in battles grants one container.
+<>
+<>The Future Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

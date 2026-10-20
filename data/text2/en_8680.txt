@@ -1,0 +1,102 @@
+[Event] Pages of History (January): Ace in a Day! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (January): Ace in a Day!
+28 December 2023
+Event
+<>In this month’s Pages of History, you’ll be at the center of events that took place in different theaters of war. Many important battles ranging from the end of World War II, as well as major battles in the Middle East: take part in battles with the vehicles corresponding to these historic battles and receive prizes.
+<>
+<>From January 1st until January 31st, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, and completing all of them will earn you a unique player icon.
+<>William Arthur Shomo was an American reconnaissance pilot during the Battle of Luzon. On January 11th 1945, during one of his flights, Shomo noticed a squadron of Japanese fighters escorting a bomber. Despite being outnumbered, he went on to attack and after six minutes shot down seven enemy aircraft (with his wingman hitting three more), becoming an “Ace in a Day”. For this feat he was promoted to major and received the Medal of Honor.
+William Arthur Shomo
+<>You can immediately purchase this profile icon for Golden Eagles until February 3rd, 11:30 GMT without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles except for “Assault” mode.
+<>January 1st — January 4th
+Operation Bodenplatte
+<>On January 1st 1945, the Luftwaffe began its last large-scale operation with the purpose to support the Wehrmacht ground offensive in the Ardennes. The operation was conducted in such secrecy that some planes were shot down by German air defense. Many Allied planes were hit on the ground, but these losses were made up within a week — Germany lost over 200 pilots and never recovered.
+<>January 4th — January 7th
+Operation Nasr
+<>The largest tank battle of the Iran-Iraq War took place from January 5th to 9th 1981 near the city of Dezful in Southwestern Iran. Iran’s superior armored forces advanced the attack hoping to push out Iraqi troops. However the numerical advantage was not high enough, and the Iranians also lacked artillery support, coordination with the air force, and even fuel and ammunition. The Iraqis lured enemy troops into a trap and subsequently defeated them.
+<>January 8th — January 11th
+Battle for Luzon
+<>On January 9th 1945, the battle for the Philippine island of Luzon began and lasted until the very end of the war. Japanese troops fought to the end, suffering huge losses. At the end of the battle, only a number of small scattered groups remained, leading guerrilla resistance in the jungles.
+<>January 12th — January 15th
+Operation Blackcock
+<>From January 13th to January 27th 1945 the Allies pushed out the last remnants of the Wehrmacht from the border of the Netherlands and Germany. The operation, named after the black grouse bird, was carried out mainly by British troops near the confluence of the Ruhr and Meuse rivers. As a result, the bulge at the front occupied by German forces was eliminated.
+<>January 16th — January 19th
+Breaking the blockade of Leningrad
+<>The blockade of Leningrad, which began in September 1941 cut off the city from receiving fuel and food supplies. The Soviet Army made many attempts to lift the blockade but until January 1943 these attempts were all unsuccessful. Finally, as part of Operation Iskra, troops of the Leningrad and Volkhov fronts managed to unite on January 19th. By the beginning of February, a road and railway were built to the city, where Leningrad began to receive supplies again.
+<>January 20th — January 23rd
+Battle of Anzio
+<>During the Italian Campaign, Anglo-American forces landed and fortified themselves in the city of Anzio, located on the west coast of Italy behind the heavily fortified Gustav Line. The landing command did not dare to advance further, but Anzio remained under Allied control until the victory at Monte Cassino.
+<>January 24th — January 27th
+Heiligenbeil Pocket
+<>In 1945 Soviet troops were already advancing through German territories. At the end of January, the 4th Army of the Wehrmacht was surrounded near the city of Heiligenbeil in East Prussia. After two months of fierce fighting, it was completely destroyed with German command refusing to evacuate it.
+<>January 28th — January 31st
+Battle of Khafji
+<>The first major land battle of the Gulf War. On January 29th 1991, Iraqi troops, hoping to draw the international coalition forces into exhausting ground clashes, attacked Saudi Arabia taking the city of Khafji. However, lacking air cover they were driven out of the city within two days after suffering noticeably heavy losses.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

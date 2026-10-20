@@ -1,0 +1,819 @@
+{
+  "results": [
+    {
+      "aid": 4875,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Players who surprised us in July",
+      "name_en": "Players who surprised us in July",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Glorious5 七月玩家集锦(150场坦克胜利不击毁、地图组合最多等趣味纪录),入选者获游戏内头衔「Five minutes of fame」;纯玩家盘点,非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 4880,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Operation S.U.M.M.E.R.: declassified",
+      "name_en": "Operation S.U.M.M.E.R.: declassified",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Panzerfaust 60 3d decoration",
+        "Symbol of Italy decal",
+        "Camouflage for P-43А-1",
+        "Camouflage for Sd.Kfz.234/4",
+        "Camouflage for Ki-94-II",
+        "Camouflage for Type 65 AA"
+      ],
+      "tasks": "夏季马拉松全服共同推进阶段目标;个人按飞行员/坦克手荣誉徽章数(7/7、13/13)领取对应事件载具迷彩,中途公布最终奖品",
+      "sub_events": [],
+      "notes": "Operation S.U.M.M.E.R. 夏季马拉松中途战报(进度过半+解密最终奖品),正文无起止时间窗;主活动时间窗见同系列更早文章",
+      "confidence": 0.8
+    },
+    {
+      "aid": 4890,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle Royale",
+      "name_en": "Battle Royale",
+      "name_zh": null,
+      "start": "2017-08-11",
+      "end": "2017-08-14T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11th of August till 14th of August 07:00 GMT",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "AB/RB 单人(不可组队)参加 Battle Royale 大逃杀,BR 4.7-6.7 缩圈混战,存活到最后;打满20场解锁排行榜,前三名有额外奖励;地图新增新罗西斯克港/废弃工厂/芬兰,场内可拾取火炮支援、维修包、医疗包、灭火器",
+      "sub_events": [],
+      "notes": "游戏模式限时活动,无具名奖励(仅前三名额外奖励);可下载壁纸",
+      "confidence": 0.9
+    },
+    {
+      "aid": 4892,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "Russian Air Force 105th anniversary",
+      "name_en": "Russian Air Force 105th anniversary",
+      "name_zh": null,
+      "start": "2017-08-11",
+      "end": "2017-08-14T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From August 11th to August 14th (07:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Flag of the USSR Air Force (decal)",
+        "Emblem of the USSR Air Force (decal)"
+      ],
+      "tasks": "用苏系3-5级飞机(EC不计)且战斗活动≥60%:AB/RB/SB 胜10/5/5场得空军旗贴花,击毁20/10/10架得空军徽贴花;进度看 成就→Special",
+      "sub_events": [],
+      "notes": "俄罗斯空军节(8月12日)105周年贴花任务特别活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 4928,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Team Deathmatch 100",
+      "name_en": "Team Deathmatch 100",
+      "name_zh": null,
+      "start": "2017-11-10T15:00:00Z",
+      "end": "2017-11-13T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on November 10th to 07:00 GMT on November13th",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "街机团队死斗「100」:两队3级载具先摧毁100敌者胜,无限重生;空战哈拉哈河,陆战波兰/突尼斯,在事件与锦标赛列表进入",
+      "sub_events": [],
+      "notes": "异常:正文时间窗为11月10-13日,晚于文章发布日2017-08-25,疑为同页后续更新复用(另有同名文章 aid 5109);按正文+文章年份提取",
+      "confidence": 0.6
+    },
+    {
+      "aid": 4935,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Updated Battle Tasks",
+      "name_en": "Updated Battle Tasks",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "universal backup vehicle"
+      ],
+      "tasks": "1.71 大版本战斗任务改版:战争债券不再月底清零;完成任务升级个人债券商店,每级解锁新商品与礼物;难任务改为特嘱任务,得奖牌解锁高级商品;新增 Activist/Grand-Scale Game/Bird Hunt 任务",
+      "sub_events": [],
+      "notes": "战争债券/战斗任务系统机制改版公告(随 1.71 上线),无活动时间窗,属功能介绍/开发日志类,非活动",
+      "confidence": 0.85
+    },
+    {
+      "aid": 4943,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Players who surprised us in August",
+      "name_en": "Players who surprised us in August",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Glorious5 八月玩家集锦(夏季马拉松最快完成者 PiekielnyZiom/Mainframe7 等),入选者获头衔「Five minutes of fame」;纯玩家盘点,非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 4954,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Happy tanker’s day!",
+      "name_en": "Happy tanker’s day!",
+      "name_zh": null,
+      "start": "2017-09-08T12:00:00Z",
+      "end": "2017-09-11T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 12.00 GMT on the 8th of September till 10:00 on the 11th of September (extended till 10:00 GMT on the 11th September)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "⭐M3 Medium (USSR)",
+        "SU-76M 5th Gv.Kav.Corps",
+        "set of decals",
+        "Red Star decoration"
+      ],
+      "tasks": "在专页激活码 TANKERSDAY 后,用3级及以上地面载具赢5场且战斗活动≥70%,得 M3 Medium(苏)或 SU-76M 5th Gv.Kav.Corps+贴花套装;两车皆有则得 Red Star 装饰",
+      "sub_events": [],
+      "notes": "坦克兵节活动(曾延期至9月11日10:00 GMT);同文另附「Tug of War」拔河玩法说明(4v4 拖拽回收 Gepard SPAA 到己方区域),无独立时间窗",
+      "confidence": 0.85
+    },
+    {
+      "aid": 4961,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The La-174 is back!",
+      "name_en": "The La-174 is back!",
+      "name_zh": null,
+      "start": "2017-09-11T15:00:00Z",
+      "end": "2017-09-18T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on September 11th until 09:00 GMT on September 18th",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "La-174"
+      ],
+      "tasks": "纪念 Lavochkin 诞辰(9月11日):稀有喷气机 La-174 限时开放研发与购买;须在9月18日前研发并购买才能保留",
+      "sub_events": [],
+      "notes": "稀有载具限时回归(special)",
+      "confidence": 0.9
+    },
+    {
+      "aid": 4970,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle Of Britain",
+      "name_en": "Battle Of Britain",
+      "name_zh": null,
+      "start": "2017-09-15T15:00:00Z",
+      "end": "2017-09-18T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 15th 15:00 GMT to September 18th 07:00 GMT",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "special Trophies"
+      ],
+      "tasks": "在不列颠空战特别任务 [Air Domination] Britain(AB)/[Operation] Britain(RB/SB) 中用英/德飞机作战,战斗活动≥60%,每5胜得1奖杯,每国最多3个",
+      "sub_events": [],
+      "notes": "9月15日不列颠空战纪念日主题活动;奖杯内容未具名",
+      "confidence": 0.9
+    },
+    {
+      "aid": 4976,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The New E.R.A. bundles",
+      "name_en": "The New E.R.A. bundles",
+      "name_zh": null,
+      "start": "2017-09-18",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Object 120 Advanced Pack(预售)$49.99:Object 120「Taran」+2000金鹰+15天高级+Battering Ram 贴花头衔",
+          "percent": null,
+          "note": "1.71 更新后不久交付"
+        },
+        {
+          "target": "礼包",
+          "item": "KPz M47/G Advanced Pack $49.99:KPz M47/G(德5级)+2000金鹰+15天高级",
+          "percent": null,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "Be-6 Advanced Pack $29.99:Be-6(苏4级)+1000金鹰+15天高级",
+          "percent": null,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "Type 5 Ho-Ri Advanced Pack $34.99:Type 5 Ho-Ri(日4级)+1000金鹰+7天高级",
+          "percent": null,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "商店直接购买新礼包;无折扣,上架公告",
+      "sub_events": [],
+      "notes": "新 E.R.A. 礼包上架公告(非折扣);PS4 欧美区当周稍晚上架,日/亚区月底前;商店新增按等级/国家/类型筛选",
+      "confidence": 0.7
+    },
+    {
+      "aid": 4978,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "US Air Force day - get the XF5F Skyrocket",
+      "name_en": "US Air Force day - get the XF5F Skyrocket",
+      "name_zh": null,
+      "start": "2017-09-19T15:00:00Z",
+      "end": "2017-09-22T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 19th 15:00 GMT to September 22nd 12:00 GMT",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "XF5F Skyrocket",
+        "USAF Emblem decal",
+        "USAF flag decal"
+      ],
+      "tasks": "9月22日前在专页激活码 USAF 并重登,之后用美系3级及以上飞机(EC/PvE 除外):赢5场(活动≥60%)得 USAF Emblem 贴花;3场累计1947分得 USAF flag 贴花;击毁50/25/25(AB/RB/SB)玩家载具得3级礼物 XF5F",
+      "sub_events": [],
+      "notes": "美国空军成立70周年(1947-2017)纪念任务活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 4979,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Premium vehicles for Warbonds until the 31st of October - FAQ Update",
+      "name_en": "Premium vehicles for Warbonds until the 31st of October - FAQ Update",
+      "name_zh": null,
+      "start": "2017-09-25",
+      "end": "2017-10-31",
+      "end_precision": "day",
+      "end_raw": "This assortment will be available for over a month (until the 31st of October)! ... shop upgrade is available from September 25th to October 31st",
+      "discounts": [
+        {
+          "target": "任务奖券商店",
+          "item": "9月档战争债券商店:高级载具 Ki-100-II、Nb.Fz.、A6M2(美)、Hampden TB Mk.I(苏);Sorci Verdi 贴花;3D装饰;租借 AC IV/Tempest Mk.V(德)/B-17E(日)/Super Hellcat/Fw 190D-9(苏);补给箱",
+          "percent": null,
+          "note": "债券购买,9月25日-10月31日"
+        },
+        {
+          "target": "任务奖券商店",
+          "item": "特嘱任务购买成本降低25%;每日任务奖励提高25%;特嘱任务奖杯改给25,000银狮",
+          "percent": 25,
+          "note": "9月28日服务器更新生效,仅对新接任务"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Ki-100-II",
+        "Neubaufahrzeug (Nb.Fz.)",
+        "A6M2 (USA)",
+        "Hampden TB Mk.I (USSR)",
+        "Emblem Sorci Verdi",
+        "universal backup vehicle",
+        "Order trophy"
+      ],
+      "tasks": "任意国家3级解锁战斗任务,完成每日任务赚战争债券并升级商店(9/25-10/31);特嘱任务给奖牌用于解锁高级商品;用债券在商店购买货架物品",
+      "sub_events": [],
+      "notes": "月度战争债券商店档期公告+FAQ;债券不再过期,商店等级与奖牌每月重置,月末另有1周消费期",
+      "confidence": 0.85
+    },
+    {
+      "aid": 4993,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle Royale and Enduring Confrontation!",
+      "name_en": "Battle Royale and Enduring Confrontation!",
+      "name_zh": null,
+      "start": "2017-09-29",
+      "end": "2017-10-02T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 29th to October 2nd 07:00 GMT",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "AB/RB 单人 Battle Royale(BR 4.7-6.7),地图新罗西斯克港/废弃工厂/斯大林格勒/芬兰,前三名有额外奖励,本期排行榜关闭",
+      "sub_events": [
+        {
+          "name": "[Enduring Confrontation] Zhengzhou and Ardennes (RB)",
+          "start": null,
+          "end": null,
+          "note": "EC 模式开放郑州(苏/日)与阿登(英/美/德)地图,正文附可用机清单,未给独立时间窗"
+        }
+      ],
+      "notes": "Battle Royale 为主体限时窗口;EC 部分仅地图/机型轮换预告,无独立日期",
+      "confidence": 0.85
+    },
+    {
+      "aid": 4994,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "German Unity Day",
+      "name_en": "German Unity Day",
+      "name_zh": null,
+      "start": "2017-10-03T14:00:00Z",
+      "end": "2017-10-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 14:00 GMT on the 3rd of October until 09:00 GMT on the 5th of October",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Flegel's Bf 109A",
+        "Pz.II DAK",
+        "250 Golden Eagles"
+      ],
+      "tasks": "10月5日09:00 GMT 前在专页激活码 GERMANY 并重登,用德系3级及以上载具(EC/PvE 除外)赢5场且活动≥60%,得 Flegel's Bf 109A 或 Pz.II DAK;两车皆有则得250金鹰",
+      "sub_events": [],
+      "notes": "德国统一日(10月3日)纪念任务活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 4996,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Players who surprised us in September",
+      "name_en": "Players who surprised us in September",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Glorious5 九月玩家集锦(电影主题分类),入选者获头衔「Five minutes of fame」;纯玩家盘点,非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 5020,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Friday the 13th: True Slasher",
+      "name_en": "Friday the 13th: True Slasher",
+      "name_zh": null,
+      "start": "2017-10-13T13:00:00Z",
+      "end": "2017-10-16T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From October 13th, 13:00 GMT till October 16th 09:00 GMT.",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "Slasher 奖杯贴花/装饰可在道具商店直接购买(免做任务);活动准入13金鹰或130,000银狮",
+          "percent": null,
+          "note": "直购价,非折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "+113% RP booster for 1 battle",
+        "+113% SL booster for 1 battle",
+        "Bloody Friday decal",
+        "Friday 13th decal",
+        "Slasher's Mask + title Slasher",
+        "Slasher's Hatchet + title Slasher"
+      ],
+      "tasks": "在成就区花13金鹰或道具店130,000银狮购买任务准入,再用3级及以上载具在单场完成三连杀;按达成成就数(3/9/13)在 Slasher 奖杯 I/II/III 级各选一件奖励",
+      "sub_events": [],
+      "notes": "黑色星期五13日主题特别活动;奖励仅在所有13日星期五可用,2017年最后一次机会;每级奖杯只能选一件",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5037,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Still Waters",
+      "name_en": "Still Waters",
+      "name_zh": null,
+      "start": "2017-10-20T14:00:00Z",
+      "end": "2017-10-23T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 14:00 GMT on 20th of October to 07:00 GMT on 23rd of October",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "多人 PvE 任务(RB/SB):4人小队驾驶系统配发 LaGG-3-66 沿河谷低空(<40米)渗透,避开巡逻艇,摧毁载有加密设备的运输机即胜;需拥有2-5级载具,无重生,一次性任务",
+      "sub_events": [],
+      "notes": "玩家社区用 CDK 自制任务(作者 _Gilard_/Gyts/Ontt);奖励未具名",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5062,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Halloween (Update - winners list!)",
+      "name_en": "Halloween (Update - winners list!)",
+      "name_zh": null,
+      "start": "2017-10-27T15:00:00Z",
+      "end": "2017-11-01T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT, 27th of October to 07:00 GMT, 1st of November",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "Witches Cauldron 奖杯可在游戏商店以199金鹰购买",
+          "percent": null,
+          "note": "直购,非折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Witches Cauldron trophy",
+        "Lancaster Phantom of the Ruhr emblem",
+        "Fork-Tailed Devil emblem",
+        "Flying Skull emblem",
+        "The Cat's Mouth Hellcat noseart",
+        "3D Decoration Jack-o-lantern",
+        "3D Decoration Witch Hat",
+        "Red Devils emblem",
+        "Po-2 (unique, top 1000)"
+      ],
+      "tasks": "空中赛「Witch Hunt」驾驶 Night Witch 特制 Po-2 走蜿蜒赛道,地面赛「Tank race on the dark path」驾驶附魔版 M18 Hellcat(仅夜间)争先;两项第一名随机得奖杯物品,总排行各前1000得独特 Po-2",
+      "sub_events": [
+        {
+          "name": "Witch Hunt (air race)",
+          "start": "2017-10-27T15:00:00Z",
+          "end": "2017-11-01T07:00:00Z",
+          "note": "与主窗口相同"
+        },
+        {
+          "name": "Tank race on the dark path (ground race)",
+          "start": "2017-10-27T15:00:00Z",
+          "end": "2017-11-01T07:00:00Z",
+          "note": "与主窗口相同"
+        }
+      ],
+      "notes": "万圣节活动;文章后更新了获奖名单,获奖者已发放 Po-2;排行榜刷新可能有15分钟延迟",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5079,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Hurry up and get rare packs!",
+      "name_en": "Hurry up and get rare packs!",
+      "name_zh": null,
+      "start": "2017-11-01T15:00:00Z",
+      "end": "2017-11-06T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on November 1st until 15:00 GMT on November 6th.",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "全店所有载具礼包五折(不含1.71/1.73更新礼包与海军礼包)",
+          "percent": 50,
+          "note": "War Thunder 五周年庆典促销,Gaijin.net 商店 11/1-11/6"
+        },
+        {
+          "target": "礼包",
+          "item": "PSN 商店同范围载具礼包五折(11月1-8日,亚洲区晚一周开始)",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "促销结束后 Gaijin.net 商店下架:Fiat CR32bis Starter Pack、Chi-Ha 12 cm Advanced Pack;PSN 另下架 Dewoitine D520 Starter Pack、IS-2 Revenge for Hero brother Advanced Pack",
+          "when": "2017-11-06 (促销结束)"
+        },
+        {
+          "what": "T-34 prototype 与缴获型 Sherman M4 748(a) 限量特惠已全部售罄下架",
+          "when": "已结束(公告发布时)"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": "促销窗口内在 Gaijin.net 商店/PSN 购买五折礼包;注意多款入门/高级礼包促销后将永久下架",
+      "sub_events": [],
+      "notes": "五周年庆典五折促销公告",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5097,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Players who surprised us in October",
+      "name_en": "Players who surprised us in October",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Glorious5 十月玩家集锦(Still Waters/Halloween 赛事主题分类),入选者获头衔「Five minutes of fame」;纯玩家盘点,非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 5109,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Team Deathmatch 100",
+      "name_en": "Team Deathmatch 100",
+      "name_zh": null,
+      "start": "2017-11-10T15:00:00Z",
+      "end": "2017-11-13T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on November 10th to 07:00 GMT on November13th",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "街机团队死斗「100」回归:两队3级载具先摧毁100敌者胜,无限重生;空战哈拉哈河,陆战波兰/突尼斯,在事件与锦标赛列表进入",
+      "sub_events": [],
+      "notes": "11月复跑场次(与 aid 4928 同文案)",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5117,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Bonus Golden Eagles when using Razer zGold!",
+      "name_en": "Bonus Golden Eagles when using Razer zGold!",
+      "name_zh": null,
+      "start": "2017-11-16T11:00:00Z",
+      "end": "2017-12-01T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11.00 GMT on the 16th of November to 11.00 GMT on the 1st of December",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "zGold 支付购金鹰加赠:2500+500=3000 / 5000+1000=6000 / 10000+2000=12000 / 15000+3000=18000 / 20000+4000=24000 / 25000+5000=30000",
+          "percent": null,
+          "note": "仅限 Razer zGold 结算通道;中国/日本/台湾不参加"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期内在 Gaijin Online Store 选购金鹰礼包并走 Razer zGold 付款,按档位额外获赠金鹰",
+      "sub_events": [],
+      "notes": "Razer zGold 支付渠道加赠活动(加赠约16.7%,正文未以百分比表述)",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5132,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Take advantage of special Black Friday!",
+      "name_en": "Take advantage of special Black Friday!",
+      "name_zh": null,
+      "start": "2017-11-24T13:00:00Z",
+      "end": "2017-11-27T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From November 24th 13:00 GMT till November 27th 09:00 GMT",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "«Black Friday» bundle(M18 Black Cat Advanced Pack + A43 Black Prince Advanced Pack + P-61A-1 Black Widow)76.97 → 38.49",
+          "percent": 50,
+          "note": "最终价取决于已拥有礼包;此前(11/24 08:00 GMT 前)金鹰购入的 P-61A-1 也计入折价"
+        },
+        {
+          "target": "礼包",
+          "item": "PS4:M18 Black Cat 礼包与 P-61A-1 Black Widow 各五折",
+          "percent": 50,
+          "note": "PSN 商店"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "M18 Black Cat Advanced Pack",
+        "A43 Black Prince Advanced Pack",
+        "P-61A-1 Black Widow"
+      ],
+      "tasks": "活动窗口内购买 Black Friday 捆绑包(50% off);捆绑包含车辆与未折抵礼包的高级账户时间;仅限 PC/Mac/Linux",
+      "sub_events": [],
+      "notes": "黑色星期五促销",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5139,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "75th anniversary of the “Normandie-Niemen”",
+      "name_en": "75th anniversary of the “Normandie-Niemen”",
+      "name_zh": null,
+      "start": "2017-11-24T14:00:00Z",
+      "end": "2017-11-27T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From November 24th 14:00 GMT to November 27th 09:00 GMT",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Marcel Albert's “Normandie-Niemen” Yak-3 迷彩五折",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "René Challe's 高级 Yak-9T(法国)限时开放金鹰购买",
+          "percent": null,
+          "note": "仅活动期内"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "René Challe's Yak-9T (France) 金鹰购买窗口关闭",
+          "when": "2017-11-27T09:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Normandie-Niemen emblem",
+        "René Challe's Yak-9T (France)",
+        "Marcel Albert's Yak-3 Normandie-Niemen camo"
+      ],
+      "tasks": "用 Yak-3/Yak-9 系飞机(含 Yak-3 VK-107/Yak-3P/Yak-9B/Yak-9K/Yak-9M/Yak-9P/Yak-9T/Yak-9U/Yak-9UT 等)击毁60/40/20(AB/RB/SB)敌机,得 Normandie-Niemen 中队徽章;进度看 成就→Special",
+      "sub_events": [],
+      "notes": "诺曼底-涅曼航空团成立75周年(1942-11-25)纪念特别活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5147,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Rank VI: Mobilization",
+      "name_en": "Rank VI: Mobilization",
+      "name_zh": null,
+      "start": "2017-11-30",
+      "end": "2017-12-04T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From right now, the 30th of November until 11:00 GMT on the 4th of December",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "+100% RP booster for 10 battles"
+      ],
+      "tasks": "拥有任意国家至少一辆6级地面载具(含从5级移入6级的车)→专页激活码 I_HAVE_RANK_6→重启游戏并用6级车打一场,得10场+100% RP 加成",
+      "sub_events": [],
+      "notes": "6级地面载具玩家回馈活动,鼓励研发新车",
+      "confidence": 0.9
+    },
+    {
+      "aid": 5154,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "New Razer decal gift!",
+      "name_en": "New Razer decal gift!",
+      "name_zh": null,
+      "start": "2017-12-01T09:00:00Z",
+      "end": "2018-03-01T04:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 09.00 GMT on the December 1st until 04.00 GMT on the 1st of March 2018",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "活动期经 Razer zGold 在 Gaijin 商店任意购买,即赠 Razer Retro 贴花",
+          "percent": null,
+          "note": "购物赠品,非折扣;已有贴花不重复发放"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Razer Retro decal",
+        "Team Razer Decal",
+        "Razer decal"
+      ],
+      "tasks": "12月1日至2018年3月1日期间用 Razer zGold 完成任意商店购买即得 Razer Retro 贴花",
+      "sub_events": [],
+      "notes": "结束年份正文明确写 2018,无跨年歧义",
+      "confidence": 0.85
+    },
+    {
+      "aid": 5158,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Advent in War Thunder",
+      "name_en": "Advent in War Thunder",
+      "name_zh": null,
+      "start": "2017-12-17",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "Throughout the whole of December there will be plenty of giveaways - each Advent sunday we will announce a give-away ... winners announced each Saturday",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "获奖者须在中奖后1个月内提供联系方式,否则失去领奖资格",
+          "when": "中奖后1个月"
+        }
+      ],
+      "rewards_text": [
+        "Thrustmaster T.16000M FCS Joystick",
+        "G.55S Advanced Pack"
+      ],
+      "tasks": "在 War Thunder 官方 Facebook 帖子上点赞+评论+分享即参与抽奖;本期(12月17日第3个降临节周日)送 Thrustmaster 摇杆并加抽3份 G.55S 礼包(含法国陆军内测资格);获奖者每周六公布",
+      "sub_events": [],
+      "notes": "降临节(整个12月每个降临节周日)系列 Facebook 抽奖;本文为第3周篇,正文无整体结束日,仅按12月活动理解,结束时间未定",
+      "confidence": 0.7
+    },
+    {
+      "aid": 5165,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Players who surprised us in November",
+      "name_en": "Players who surprised us in November",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Glorious5 十一月玩家集锦(Normandie-Niemen 活动最高效、warbonds 赚最快等),入选者获头衔「Five minutes of fame」;纯玩家盘点,非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 5183,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Floats!",
+      "name_en": "Floats!",
+      "name_zh": null,
+      "start": "2017-12-08T15:00:00Z",
+      "end": "2017-12-11T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on 8th of December to 07:00 GMT on 11th of December",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "水上飞机/飞船限时活动回归:在航母附近水面降落并占领控制点得分,队伍分高者胜;限用机型清单(OS2U-1/OS2U-3/PBY-5/PBY-5a/He 51B-2/H/BV.238/PBY-5a(苏)/MBR-2/Catalina Mk.IVa/Sunderland Mk.IIIa/Mk.V/F1M2/H6K4/H8K2/H8K3/N1K1)",
+      "sub_events": [],
+      "notes": "游戏模式限时活动,无具名奖励",
+      "confidence": 0.9
+    }
+  ]
+}

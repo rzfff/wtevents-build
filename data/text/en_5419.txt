@@ -1,0 +1,84 @@
+Silent Thunder: the first test of the new game - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Silent Thunder: the first test of the new game
+Attention! Outdated news format. Content may not display correctly.
+1 January 2018
+<>
+<> Download Game
+<>In clashes between three of the major military powers of the 21st century, players will battle against each other in combat in the some of the world’s most powerful nuclear submarines. The three dimensional depths of the ocean, realistic physics and modern strategic weaponry will become available this weekend! All players will be able to take part in the initial first test.
+<>The test session will be held from 12:00 GMT on March 31st until 12:00 GMT on April 3rd
+<>In the test version of the game, players will be able to try modern nuclear submarines from the three major military powers, the United States, Great Britain and Russia, where each vessel is armed with a unique selection of guided torpedoes and missiles.
+<>The test will be held in a location inspired by the Spitzbergen ocean area, players will battle to capture one of the strategic zones, and once it’s captured cruise or ballistic missiles will be launched.
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>Among the powerful armament of the Russian Yasen-class, for example, are the destructive 3M-14K ‘Kalibr’ anti-ship and land-attack cruise missiles, famous from their presence in recent conflicts. The only British nuclear missile platform Vanguard-class, excels in its guided anti-submarine torpedo armament, and at a weight of 2 tons each boasts unparallelled anti-submarine power. The American Virginia-class may have less potent torpedoes on offer, but more than makes up for it with nuclear warheads, each with a yield of up to 200 kilotons, fitted on dozens of the famous Tomahawk missiles.
+<>Silent Thunder aims for a completely new vehicular combat experience. Deep down below in the darkest depths of the world’s oceans, players will have to navigate and detect enemies using sonar and other detection devices, while trying to stay hidden from the ever watchful eyes of their enemies. The slightest sound can reveal their location - so players need to be careful when activating their active sonar, firing a torpedo, even scraping their outer hull against a rock or iceberg can give the game away. This is a game for true naval tacticians!
+<>Break the chilling silence in the Arctic Ocean this weekend!
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>Check our Development Blogs:
+<> Yasen-Class Nuclear Sub Now Out on Watch
+<> Virginia-Class Nuclear Submarines: Ultima Ratio
+<> Vanguard-Class Nuclear Submarines: On Guard for the Queen
+<> The Silent Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

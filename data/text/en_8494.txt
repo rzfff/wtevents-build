@@ -1,0 +1,195 @@
+[Event] Tokushu Heiki: Assemble and test an honorable missile to obtain prizes! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tokushu Heiki: Assemble and test an honorable missile to obtain prizes!
+25 September 2023
+Event
+<>The wait is over — the crafting event has returned, and this time we’ve got some very interesting vehicles coming which have already had dev blogs! To sum it up, build the Ki-148 missile (called the Tokushu Heiki in this event) from WWII, test its flight performance in a special flight test mission, then prepare and create a report which can be exchanged for exclusive prizes during this event!
+<>In this article, we’ve detailed each part of the event step-by-step, which will help with understanding what you’ll need to complete to earn these amazing vehicle prizes. So without further ado, let’s dive into the details!
+<> When: From September 26th (12:00 GMT) until October 9th (12:00 GMT)!
+<>What can you obtain during this event? We’ve prepared cool prizes in the form of 1 premium and 3 event vehicles, with information about these vehicles below!
+Ki-48-II otsu (Rank II) — premium vehicle, coupon.
+Cost: 1 “Test Report”
+<> More about this vehicle
+<>The Ki-48-II can carry the scary Ki-148, which is an experimental Japanese WWII air-to-ground missile! This aircraft will certainly be a special addition to your Japanese aircraft tree.
+IJN Kurama (Rank V) — event vehicle, coupon.
+Cost: 3 “Test Report”
+<> More about this vehicle
+<>A pre-WW1 Battlecruiser, derived from the Tsukuba-class of ships. The Kurama features very powerful main battery 305 mm guns, as well as additional 203 mm guns on the side — really strong!
+LOSAT (Rank VII) — event vehicle, coupon.
+Cost: 3 “Test Report”
+<> More about this vehicle
+<>A peculiar and unique vehicle, the LOSAT features 12 ATGMs with kinetic armor-piercing cores on a highly mobile chassis and will be sure to pack a punch in matches.
+F-100F (China) (Rank VI) — event vehicle, coupon.
+Cost: 3 “Test Report”
+<> More about this vehicle
+<>A twin-seat version of the Super Sabre, arriving at the Chinese air tree! This variant is supersonic and is aimed towards being more CAS oriented, as it features many great CAS options, such as bombs and Bullpups.
+The IJN Kurama , LOSAT and F-100F can be obtained from the start of the event until October 23rd (12:00 GMT).
+The Ki-48-II otsu can be obtained from October 16th (12:00 GMT) until October 23rd (12:00 GMT). PlayStation and Xbox players can get this vehicle from October 9th (12:00 GMT) until October 23rd (12:00 GMT).
+<>All vehicles that you obtain from this event are given in the form of coupons that can be activated onto your account, or sold on the Gaijin Marketplace.
+<>How to participate
+<>Written simply: Play matches in multiplayer modes, earn a mission score in matches and at the end of each match you’ll receive a drop, the “Resource Box”. Opening this box will give you materials, and with these materials you can assemble parts of the missile!
+An exciting addition to the Tokushu Heiki event that you’ve been asking for is that Simulator players can now earn “Resource Box” drops in Air simulator matches, which wasn’t the case in previous crafting events.
+The “Tokushu Heiki” event differs from previous crafting build events in its duration and limit on the number of items dropped during your matches. Items and crates will drop in matches over 13 days instead of 11. In addition to this, the maximum possible number of dropped items has been increased, so that there is enough for 6 builds instead of 4. This means that during this event, you’ll be able to get 2 main prizes that cost 3 “Test Reports” instead of 1 main prize, which was the case in previous craft build events.
+<>Read on, as we’ll be explaining more about how this event works.
+Click here to open this spoiler to see detailed instructions ▼
+<>Dropped boxes and materials required
+<>Finding this event is easy from the hangar: Workshop → Tokushu Heiki .
+<>From this event window, you can open “Resource Boxes” that you received from a match. To start building your missile, click on the “To the Factory” button in the bottom left. In this window under the “Missile production and testing” section, you’ll be able to assemble missile parts once you’ve collected enough materials. Simply click on the Produce button under each part. Once completed, click on Finish — now that missile part is ready!
+Missile parts to be assembled will appear at the top line of the window, so Produce all parts in order.
+<>Be sure to earn and use plenty of materials, as there’s 16 missile parts in total that are required to build a missile.
+Resource Box
+<>1 x Resource Box is given for every 2500* earned points in battles.
+Opening a Resource Box will give you Materials.
+<> * — the base number of mission score, without taking into account the game mode multiplier and vehicle rank.
+Materials
+<>Opening a Resource Box will give you 3 to 5, or sometimes 10 materials.
+With these materials, you can assemble missile parts.
+<>More details on missile parts are below.
+<>Let’s move onto how you can Test the missile.
+<>Missile production and Testing
+<>After all 16 missile parts have been produced, in the same section as mentioned above, you’ll now be able to assemble the “Tokushu Heiki” missile. Click on the Assemble button and the assembly will start.
+The “Missile production and testing” section of the event window, with all 16 missile parts having been completed. The missile is now ready to Assemble!
+<>Once complete, click Finish and then you’ll need to test the performance of the missile. Click the Test button on the missile, and you’ll be sent into a special mission by yourself. Here, you’ll need to look at the missile and decide if it’s working or not by finding defective parts. We recommend checking the controls, looking at the engine and fuel system for any issues, and to check that all other parts are working as look normal.
+After fully assembling the missile, it is ready to be Tested!
+In the test mission, you’ll see the Ki-48-II otsu, which carries the special missile!
+<>After you’ve done your inspections on the missile and you think you’ve found the defective part, you can leave the mission and return to the hangar. Prepare the report by clicking on the Prepare the report button in the same section as mentioned above. This is where your inspections come into play, as from here you’ll need to choose the faulty part after testing the missile. Once you’ve made your choices, click on the different Prepare the report button in the faulty parts window. If you answered correctly, you’ll receive three “Resource Boxes” to help with assembling another missile, but if you answered incorrectly, you’ll only receive one “Resource Box”.
+Which part is faulty? Select it here and press Prepare the report. To make your selection easier, you can mark a known working part as incorrect.
+<>You won’t get a combat-ready missile on the first and on each try — you’ll get defective missiles for several builds, but eventually you’ll get a combat-ready missile that can only be determined in a test mission. The order of obtaining broken and combat-ready missiles is the same for all players. This means all players are on equal and pre-thought-out conditions. For successfully testing a combat-ready missile, you’ll receive a commemorative decal so that you can remember your work in the future! And importantly, for preparing a report (correct and incorrect) on a combat-ready missile, you’ll earn the important “Target Destruction Report” .
+Target Destruction Report
+<>
+<>You will receive a “Target Destruction Report” after creating a combat-ready missile.
+<>
+This report can then be used to create a “Test Report” (more on that below).
+<>Let’s move onto how you can get your vehicle prizes.
+<>Data sheets, reports and receiving vehicle prizes
+<>So, you’ve now assembled and tested the combat-ready missile and you’ve now received a “Target Destruction Report”. What now?
+<>A “Development Progress Data” sheet can be earned the same way as “Resource Boxes” — after matches for mission points. Once you’ve collected enough, you can create a “Development Progress Report" by using “Development Progress Data” sheets under the “Valuable materials and components” section in the event window.
+<>Now, you can use your “Development Progress Report” and “Target Destruction Report” to create a “Test Report” in the “Creating a test report and receiving prize vehicles” section!
+From left to right: “Development Progress Data” → to create “Development Progress Report”
+From left to right: “Development Progress Report” → “Test Report” ← “Target Destruction Report”
+<> That’s it — nice work! Your created “Test Reports” can now be used to obtain the vehicles in this event! The amount required for each vehicle is specified at the top of this article.
+Development Progress Data
+<>1 x Development Progress Data sheet is given for every 7500* mission points.
+<>Note: You can use this sheet to create a Development Progress Report.
+<> * — the base number of mission score, without taking into account the game mode multiplier and vehicle rank.
+Development Progress Report
+<>1 x Development Progress Report can be created from 20 x Development Progress Data sheets.
+<>Note: You can use this sheet to create a Test Report.
+Test
+Report
+<>1 x Test Report can be created by having:
+1 x Development Progress Report.
+1 x Target Destruction Report.
+<>A Test Report can be used to redeem vehicle prizes (specified at the top of this article)!
+<>Improving the time it takes to assemble parts in your Workshop
+<>Since assembling each missile part takes time, you’ll be able to cut this time by upgrading your Workshop to a higher level. To improve the Workshop, you’ll need to have a “Factory Upgrade”, either level 1 or level 2, which you can create by using the Factory Upgrade Toolkit, or buy it from the Gaijin Marketplace. You can create upgrades from “Factory Upgrade Toolkits” under the “Valuable materials and components” section in the event menu.
+From left to right: “Level 1 Factory Upgrade” ← “Factory Upgrade Toolkit” → “Level 2 Factory Upgrade”
+<>Once you’ve got a Factory Upgrade, you can upgrade the level of your factory by going to the “Missile production and testing” section in the event menu. Click on the Upgrade button on the Factory — improvements made are applied sequentially: first the level 1 upgrade, and then level 2. The Workshop level is reset to Base Level Factory after successfully completing a test of the missile, so be sure to upgrade your workshop at the beginning of the assembly cycle and not at the end!
+The Factory that you can upgrade!
+<>Workshop upgrades: Level 1 Factory Upgrade and Level 2 Factory Upgrade can be bought or sold on the Gaijin Marketplace.
+Factory Upgrade Toolkit
+<>1 x Factory Upgrade Toolkit is given every time you come 1st place in a match.
+Factory Upgrade
+<>Created from the Factory Upgrade Toolkit .
+<>Apply improvements to your Workshop to raise its level.
+Factory
+<>Upgrading the Base Level Factory to Level 1 and 2 will speed up the time it takes to assemble missile parts.
+<>This will only occur for the current missile build playthrough. After a successful test, the factory level is reset to Base Level Factory for the next test, and can be upgraded again.
+<>Trading materials on the Gaijin Marketplace
+<>Purchasing materials on the Gaijin Marketplace will come in handy if you want to speed up the assembly process. If you find yourself having a shortage of materials and an excess of others, you can sell and purchase them on the Marketplace with other players instead of waiting for the materials you need out of the “Resource Box”. In the case of a large supply and low demand for certain materials, trading items becomes difficult, and therefore changes in the rules for exchanging materials introduced in the “Repair Factory”' event have been further developed in the “Tokushu Heiki” event!
+<>To create a tradable container with materials, you’ll need an “Empty Tradable Container”, which will drop for you out of the “Resource Box” after testing 2 missiles. Around this time, if you’d like, you may want to sell excess materials for ones that you need. No more than 20 “Empty Tradable Containers” drop out of the “Resource Box” — this is enough to start selling materials, and when you open a Tradable Container with materials, you’ll receive an “Empty Tradable Container” along with the materials in the tradable container that you need.
+In “Marketable materials (bought and sold on the Market)” you can Assemble the Tradable Container!
+Empty Tradable Container
+<>The “Empty Tradable Container” drops from the “Resource Box” that we mentioned above after testing 2 missiles, with a maximum of 20 able to be obtained from a “Resource Box”.
+<>Used to pack materials into a tradable container that can be sold on the Gaijin Marketplace.
+<>
+Tradable Container With Materials
+<>Material that has been packed into a tradable container that can be sold or bought on the Gaijin Marketplace.
+<>A purchased Tradable Container can be opened to obtain the corresponding material and it'll turn into an Empty Tradable Container once opened.
+<>
+<>Information for PlayStation and Xbox players
+<>The lack of the Gaijin Marketplace on consoles will not slow your progress during this event. Due to this, we’ve made it so that you can purchase the following items for Golden Eagles.
+Materials — 42 pieces
+<>Contains the materials needed to assemble missile parts.
+Typewriter
+<>The Typewriter allows you to receive additional “Development Progress Data” in battles without any limitation.
+<>4 x “Development Progress Data” are given for every 7500* mission points.
+<> * — the base number of mission score, without taking into account the game mode multiplier and vehicle rank.
+<>
+<>
+<>Terms of the event
+All event items can be obtained in the following game modes:
+Ground Arcade, Realistic and Simulator battles.
+Aircraft Arcade, Realistic and Simulator battles.
+Naval Arcade and Realistic battles.
+The number of items received in battle is limited.
+“Resource Boxes” — up to 30 per day and up to 360 for the whole event.
+“Development Progress Data” — up to 10 per day and up to 120 for the whole event.
+“Factory Upgrade Toolkit ” — up to 450 for the whole event.
+You can track the progress of obtaining event items as well as the daily and total limits by clicking on your nickname and selecting in the menu Achievements → Tokushu Heiki.
+Multipliers for earning mission points depend on the game mode and the maximum rank of the vehicle used in the battle and are specified in the description of each task.
+“Resource Boxes” and “ Development Progress Data” can be earned not only on the vehicles of rank III or higher but also on all event vehicles that were obtained in major game events. The vehicle cards of such vehicles contain the names of the events in which they first became available in the game.
+The possibility of whether or not an item can be traded on the Marketplace is indicated in their description.
+Event times:
+The “ Resource Box ”, “ Development Progress Data ” and “ Factory Upgrade Toolkit ” can be earned in battles from 12:00 GMT on the 26th September until 12:00 GMT on the 9th of October.
+You can assemble parts from materials until 12:00 GMT on the 16th of October.
+All event items except vehicle coupons can be traded on the market until 11:30 GMT on the 16th of October.
+At 12:00 GMT on the 16th of October all materials and missile parts will be deleted from the inventory and the Marketplace.
+<>At 12:00 GMT on the 23rd of October all event items, except coupons for vehicles, will be deleted from the inventory and the Marketplace. Be sure to exchange “ Test Reports ” for vehicles before this date!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

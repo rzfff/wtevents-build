@@ -1,0 +1,79 @@
+[Special] End of the Battle of Stalingrad - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+End of the Battle of Stalingrad
+Attention! Outdated news format. Content may not display correctly.
+2 February 2022
+Special
+<>The Battle of Stalingrad was one of the turning points in the history of World War II. The German offensive towards Stalingrad threatened the USSR with the loss of the Caucasian oil fields and the region itself, but the exhausting counterattacks of the Red Army prevented German plans. During months of intense action, Germany and Axis nations lost the initiative, and the last decisive blow from the Soviets resulted in an encirclement of German troops, followed by capitulation at the beginning of February 1943.
+<>From 11:00 GMT on the 2nd of February until 11:30 GMT on the 7th of February
+<>Rewards
+<>Completing the “End of the Battle of Stalingrad” task will bring you a battle trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles
+<>20-50% SL booster for 3-10 battles
+<>3-5 universal backup vehicles
+<>Random camouflage for ground vehicles of rank I-III for USSR or Germany from amongst those available to obtain in-game through achievements or purchase with GE.
+<>1 day premium account
+<>Task
+<>Destroy 40/20/20 (AB/RB/SB) player vehicles whilst controlling specified vehicles in random battles
+<>Tasks can be completed only on vehicles from the list:
+<> USSR : Т-70, GAZ-MM (72K), Т-34 (1941), Т-34 (1st Gv.T.Br.), Т-34 (1942),Т-34E STZ, М-3 Medium, BM-8-24, BM-13N, KV-1S, KV-1 (L-11), Il-2 (1941), Il-2 (1942), Il-2-37, Yak-1B, La-5, Yak-9
+<> Germany : Sd.Kfz 6/2, Pz.III L, StuG III F, Panzerjäger 1, Marder III, Pz.IV F2, Pz.IV G, Pz.35 (t), Pz.38 (t) F, Sd.Kfz. 251/10, Bf 109 F-4, Bf 109 G-2, Bf 109 G-2 (Romania), Ju 87 B-2, Ju 87 D-3
+<>
+<>Follow the progress by clicking on your nickname → Achievements → Memorial Date.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,109 @@
+[Shop] May Sale! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+May Sale!
+Attention! Outdated news format. Content may not display correctly.
+5 May 2022
+Shop
+<>From the 5th of May at 11:00 GMT until the 9th of May at 11:00 GMT
+<>Customizable bundles with rare vehicles!
+<>The new discount mechanism will allow you to create your own bundle of several rare packs with a discount, by adding them to your Cart. Each additional pack increases the discount by 5%, so if you add two packs from the list below in your Shopping Cart, you will receive a 10% discount, if you add three the discount will increase to 15%, and so on up to a maximum discount of 60% when buying all 12 packs!
+<> Special packs :
+John Plagis' Spitfire LF Mk. IX Pack;
+Ray Wetmore`s P-51D-10 Pack;
+George Bostwick's P-47M-1-RE Thunderbolt Pack;
+Pavel Golovachev's Yak-9M Pack;
+Sergei Dolgushin's La-7 Pack;
+Prendergast`s Spitfire FR Mk.XIVe Pack;
+M5A1 5th Canadian Armoured Division Pack;
+IS-2 Revenge for the Hero brother Pack;
+T-34-85E, 1945 Pack;
+M18 Black Cat Pack;
+M10 Achilles Pack;
+A43 Black Prince Pack.
+<> Gaijin.Net Store
+<>Note! The discount is assigned only if you add these packs to the Shopping Cart and make a one-time purchase. These packs can also be purchased separately without a discount. Other vehicle packs as well as Golden Eagles and Premium account packs are not included in the promotion.
+<>PlayStation and Xbox users will be able to purchase these packs and discounted bundles from their respective stores from May 3rd (13:00 GMT) till the end of May.
+<>From the 9th of May at 11:00 GMT until the 16th of May at 11:00 GMT
+<>Discounted packs!
+Type 69-IIG Pack -50%
+VL Pyorremyrsky Pack -50%
+MiG-17AS Pack -50%
+SAV 20.12.48 Pack -50%
+OF-40 Mk.2 (MTCA) Pack -50%
+Starter packs -50%
+<>Note! These packs will be removed from the store after the end of the sale (except for “Starter packs”).
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

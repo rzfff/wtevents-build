@@ -1,0 +1,105 @@
+[Special] Twitch Drops: watch Enlisted streams and get rewards! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Twitch Drops: watch Enlisted streams and get rewards!
+Attention! Outdated news format. Content may not display correctly.
+7 January 2021
+Special
+<>There will be a gathering for Enlisted and War Thunder players where you can get rewards in both games simply by watching the Enlisted live stream!
+<>From 15:00 GMT on the 8th of January until 15:00 GMT on the 11th of January - watch Enlisted streams on the Twitch page and get ingame items via Twitch Drops.
+<>Enlisted items:
+<>Troops reinforcement
+<>Weapons delivery
+<>BT-7 (Veteran)
+<>Elite fighter
+<>Requests for a special pistol (Astra 300 Lux or Engraved Walther PP)
+<>War Thunder items:
+<>Emblem of the 11th Panzer Division of the Wehrmacht
+<>BT-7 TD (USSR) in unique camouflage
+<> Watch Enlisted streams
+<>FAQ
+<> What is Enlisted?
+<> Enlisted is an MMO squad based shooter for PC and the Xbox Series X|S in World War II where you act as an infantry squad leader, tank crew or an aircraft pilot. The weaponry, soldier’s uniform, appearance and capabilities of the vehicles in the game are in line with historical facts.
+<> What are Twitch Drops?
+<>They are rewards that viewers get in the specific games, when they watch streams of these games on Twitch.
+<> Can I get something for Enlisted and War Thunder?
+<>Yes! The longer you watch Enlisted Streams the higher your chances of getting a reward in both games.
+<> Awesome! What do I need to do to have a chance of getting these rewards?
+<>You need to link your Gaijin and Twitch accounts:
+<>Register or enter your Twitch account login details on the website .
+<>Enter the login details for the Gaijin account you use to play Enlisted or War Thunder on this page , then click on the “Link” button.
+<>Click the “Allow” button!
+<> What streams do I need to watch to have a chance of getting the rewards?
+<>Watch Enlisted streams with the “Drops enabled!” enabled.
+<> How can I find out if I have received a reward?
+<>If you get a reward, you will see a message on the Twitch page with the stream in the upper right corner. After that, you can find rewards in your inventory in the game.
+<> What is the “Request for a special gun”?
+<>By watching Enlisted streams you will occasionally receive requests for a special gun. Once you have collected 5 requests you will be able to order one special gun in Enlisted. In total you can get 2 of these guns.
+<> What platforms are these rewards available for?
+<>Rewards for Enlisted can be obtained on the PC and Xbox Series X|S game versions.
+<>Rewards for War Thunder can be obtained for PC, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X|S owners
+<>If you play on PlayStation 4 or Xbox One, you will need to link your PlayStation Network/Xbox Live account to your Gaijin account.
+<> Guide for PlayStation 4 and PlayStation 5 owners
+<> Guide for Xbox One and Xbox Series X|S owners
+<> What happens to my rewards if i don’t have access to Enlisted right now (don’t have the game)?
+<>You will get your rewards as soon as you access the game on that platform. The main thing is to remember that you need to link your Gaijin and Twitch accounts. For now, you can get access to the Enlisted CBT by purchasing one of the Founder packs on PC or on Xbox .
+<> How can I turn on Drops on my channel?
+<>Just enable it in your Dashboard and stream the game!
+<>
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

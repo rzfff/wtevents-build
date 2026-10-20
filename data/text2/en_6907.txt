@@ -1,0 +1,140 @@
+[Special] 8th Anniversary of War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+8th Anniversary of War Thunder
+Attention! Outdated news format. Content may not display correctly.
+26 October 2020
+Special
+Desktop Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>For 8 years, all connoisseurs of military history and fans of war games meet each other on the battlefields of War Thunder. Over the years the game has become a global encyclopedia of military vehicles and battles from the last 100 years and gives the player the opportunity of choices that you cannot find anywhere else!
+<>We can see that you appreciate this and we are sincerely grateful for your loyalty and support. Let us celebrate the eight years of your favourite game together!
+<>In-game discounts from the 26th of October until the 2nd of November
+<>50% discount for all modifications, backup vehicles and talismans for all types of vehicles.
+<>50% discount for premium account: in game 90 and 365 days. In the Gaijin.Net Store for 180 days.
+<>50% discount for all in-game vehicles for SL and GE, for all nations:
+Britain, Italy, Japan
+<>26th of October (11:00 GMT) — 28th of October (11:00 GMT)
+China, Sweden, France
+<>28th of October(11:00 GMT) — 30th of October (11:00 GMT)
+USSR, Germany, USA
+<>30th of October (11:00 GMT) — 2 nd of November (09:00 GMT)
+<>Vehicles from update “ Raining Fire ” and vehicles obtainable via in-game activity in squadrons are not included.
+<>Removed premium vehicles available again for Golden Eagles. From 2nd November.
+<>Traditionally we open the purchase for Golden Eagles some vehicles that are no longer available in the store as part of the bundles.
+<>Curtiss Hawk H-81A-2 (Rank 2, China) — 850 GE
+<>Strv-81 Centurion tank (Rank 4, Sweden) — 6090 GE
+<>M60A1 "D.C. Ariete" (Rank 5, Italy) — 7480 GE
+<>AMX-30 (Rank 5, France) — 7480 GE
+<>Meteor F.Mk.8 Reaper (Rank 5, Great Britain) — 8090 GE
+<>Note: This premium Strv-81 is similar to the Great Britain one, and will be placed in the Swedish tree. Owners of British one will keep it in the British tree and may purchase Swedish one as well.
+<>PlayStation™Store sale start!
+<>Don't miss 50% discounts on vehicle packs in the PlayStation™Store!
+<>Note, the sale will run until November the 13th.
+<>Big sale! From the 2nd of November
+<>50% discount in the Gaijin.Net Store. From 11:00 GMT on the 2nd of November until 11:00 GMT on the 9th of November.
+<>More information about the discounts as well as about sales can be found here .
+<>Gaming activities. Between 30th of October and 2nd of November
+<>“8 years of Victories” decal
+<>You will get this memorable pinup for 1 battle in a vehicle of rank II or higher in any game mode.
+<>
+<>The Maus is back!
+<> The king of the heavy tanks — “Maus” will be available again for research and purchase for Silver Lions from 11:00 GMT on the 30th of October until 09:00 GMT on the 3nd of November.
+<> Note: we extended the research time, from November 2 to November 3.
+<>Spend some Research points or convert your free research points to Maus within the specified period of time. Any research progress on the vehicle begun will not be lost and you can continue your research at any time after the 2nd of November. To begin the research you need to open rank V of the ground vehicles in the German research tree.
+“8 years of Victories” decal
+<>“The Phantom Menace” event
+<>Don’t create any noise if you don’t want to hear the sound of a torpedo heading your way in your earphones. In this event you can submerge to a depth of tens of metres below the surface of the sea and fight against other commanders in enemy submarines!
+<> More in the article!
+<>“Tank race on the dark path” race and “Witch Hunt”
+<>Halloween is a holiday which is traditionally celebrated on the 31st of October. Night races in special aircraft and tanks and also a festive hangar will allow you to immerse yourself in the atmosphere of the occult.
+<> More in the article!
+<>Celebration tournaments
+<>From 28th of October until the 8th of November
+<>You can take part in the automatic tournaments on the tss.warthunder.com daily.
+<>Duel tournaments in the format “1 vs 1” and “2 vs 2” for aircraft and ground vehicles, naval “Corsairs 5 vs 5” tournament and many others - in total 23 tournaments with a total prize pool of more than 160,000 Golden Eagles, with a special award of the “8 Years of War Thunder” decal.
+<> Scheduling for the Tournaments
+<>“Redragon” tournament
+<>18:00 GMT on the 6th of November until 19:45 GMT on the 8th of November
+<>The prize fund of the tournament “5 vs 5” in combined battles includes Redragon gaming sets for the winners and the new “Thunder front” in-game title.
+“8 Years of War Thunder” decal
+<>Summary of terms:
+<>Format: 5х5.
+<>Difficulty: RB with markers.
+<>End of registration 06.11.20, 17:40 GMT.
+<>Tournament will be held in 2 stages: group + playoff with a single elimination system (G2+SE).
+<> Register
+<>1st Place
+<>Winners will receive:
+<> Gaming keyboard Redragon + gaming mouse Redragon Tiger2
+<>1,500 Golden Eagles, Premium Account for 7 days, "Thunder front" title, "Golden Fire Front" and "8 years of War Thunder!" decals.
+<>2nd Place
+<>Winners will receive:
+<> Gaming mouse Redragon Phoenix2
+<>1,000 Golden Eagles, Premium Account for 7 days, "Thunder front" title, "Fire Front" and "8 years of War Thunder!" decals.
+<>3rd Place
+<>Winners will receive:
+<> Gaming combo Redragon M601WL-BA
+<>700 Golden Eagles, Premium Account for 7 days, "Thunder front" title, "Fire Front" and "8 years of War Thunder!" decals.
+<>Gaming sets will be given out to 5 players in each team that will be chosen by the captain. The rest of the awards will be given out to all team members in accordance with the tournament regulations.
+<>The list of the all tournament awards can be seen on this page .
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,81 @@
+[Warbonds] Updated Battle Tasks - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Updated Battle Tasks
+Attention! Outdated news format. Content may not display correctly.
+31 August 2017
+Warbonds
+In the new War Thunder major update 1.71 you will see updated Battle Tasks. We have increased Warbonds rewards and added new features that will make Battle tasks more interesting whilst the mechanics remain the same.
+Updated Battle Tasks
+Updated Battle Tasks with an overhaul of the current version of Battle Tasks. We have increased the rewards and added new features that are designed to make Battle Tasks more interesting and attractive to players while preserving the existing mechanics.
+Fireproof War Bonds
+In the updated version of Battle Tasks, players don’t have to worry about the disappearance of their War Bonds at the end of the month – they no longer have a time limit. Now you can start earning bonds in the current month and spend them during the following month.
+War Bonds Shop Progress
+One of the main changes to the updated Battle Tasks is progress in the personal shop interface. Now, successfully completing Battle Tasks allows the player to not only earn War Bonds, but to also upgrade the shop itself by increasing its level. New goods and a special gift will be unlocked every time the player increases the shop level.
+Special Tasks
+Difficult Battle Tasks have been replaced with a new type – Special Tasks. By successfully completing these, the player will earn medals that unlock access to premium goods and a valuable reward. Special Tasks do not have a time limit and more than one can be completed per day.
+Special Tasks can be found in a separate tab in the Battle Tasks window and you can unlock them by spending a few bonds in the shop.
+New Battle Tasks
+In honour of the update, we have added several new Battle Tasks for all modes and difficulties:
+Activist – achieve victory in a mission by earning the required activity percentage (all modes).
+Grand-Scale Game – destroy bases belonging to the enemy team to win (aviation AB and RB).
+Bird Hunt – destroy enemy aircraft in tank battles (tank AB and RB).
+New Goods
+In addition to Special Tasks, another new item will also appear in the shop – the universal backup vehicle. The player can activate this item to backup any one vehicle of their choice.
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

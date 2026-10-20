@@ -1,0 +1,112 @@
+[Event] Winner vehicles for the Victory anniversary - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Winner vehicles for the Victory anniversary
+Attention! Outdated news format. Content may not display correctly.
+7 May 2020
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Dedicated to the great Victory Day we have prepared unique vehicles from the victorious nations for you in War Thunder, a memorable decal and many discounts in the in-game store and in the shop!
+<>From 11:00 GMT on the 8th of May until 11:00 GMT on the 11th of May
+<>Complete the tasks and get unique premium vehicles from the victorious nations!
+<> LVT(A)(4) (USA)
+<>An assault modification of a light US amphibious vehicle designed for fire support for landing forces. The main feature of this version is the short 75mm howitzer in the tank turret. The tank was actively used in battles for islands in the Pacifics, where powerful high-explosive fragmentation shells helped to crack open the firing points and fortifications of the Japanese coastal defenses. The LVT (A)-4 will be a good addition to the initial lineup of the US ground forces: the short-barreled howitzer works great at close distances, and the ability to swim will allow attacking opponents from unexpected directions!
+<> Swordfish Mk.II (Britain)
+<>The second modification of the cult British Fairey Swordfish biplane, designed to be used for air assault attacks on naval targets. Version II received a metal sheathing below the wing, to make possible the mounting of RP.3 rocket launchers, which significantly expand the combat potential of this biplane. In particular, the Swordfish can now be successfully used in low-rank mixed battles, as well as for ground attack missions in aviation game modes. A living legend, a beautiful and very combat effective aircraft, it is must-have in your collection!
+<> G-5 TKA 106 (USSR)
+<>The G-5 torpedo boats became the most common small vessel of this kind in the Soviet fleet during WWII. At the end of 1942, an experimental series of artillery boats was built, in which torpedo equipment was replaced with rocket launchers. During the tests, the project was recognized as successful and all 6 experimental boats were included in the second brigade of torpedo boats in the Black Sea Fleet. In War Thunder, the high-speed ‘sea Katyusha’ plays actively and boldly - sharp turns at high speed, non-stop machine-gun bursts and the grim howl of rockets! You need to give this a try!
+<>Tasks
+<>To get the unique prize vehicles you need to complete any 3 tasks out of 5 in vehicles of rank III or higher (for naval battles of rank II or higher) in random battles.
+<> LVT(A)(4)
+<>whilst controlling ground vehicles:
+<>Destroy 75 enemy vehicles (AB, RB) (38 in SB);
+<>Win 20 times (with an activity of 70% or higher);
+<>Capture 25 points, (helicopter captures count also);
+<>Destroy 11 enemy vehicles in 1 battle (6 for RB and 4 for SB);
+<>Help allies to destroy enemy vehicles 45 times.
+<> Swordfish Mk.II
+<>whilst controlling aircraft:
+<>Destroy 75 enemy vehicles (38 in RB, SB);
+<>Win 15 times (with an activity of 60% or higher);
+<>Deal 15 tons of damage to enemy bases;
+<>Destroy 11 enemy vehicles in one battle (4 for RB and 2 for SB);
+<>Help allies to destroy enemy vehicles 15 times.
+<> G-5 TKA 106
+<>whilst controlling naval vessels:
+<>Deal 30,000 damage;
+<>Win 15 times (with an activity of 50% or higher);
+<>Capture 10 points, (seaplane/hydroplane captures count also);
+<>Destroy 3 enemies with torpedoes (aircraft launched torpedoes count also);
+<>Be in first place at the end of a battle once.
+<>You can purchase the achievement for Golden Eagles before 13th of May and get the appropriate vehicle immediately without completing the tasks from the menu “Nickname → Achievements → 75 years of Victory”.
+<>Decal for Victory Day
+<>The “ Dove of peace ” decal will be given to each player that wins 3 times in vehicles of rank II or higher with an activity of 50% or higher.
+<>Terms
+<>Tasks can be completed in the random battles in all game modes except “Assault” and “Enduring Confrontation” missions in vehicles of ranks III-VII (for ships II-V). Exact conditions can be specified in the game client.
+<>You can follow your progress by clicking on your nickname Achievements → 75 years of Victory.
+<>Achievements can be purchased in the window “Nickname → Achievements → 75 years of Victory” until the 13th of May.
+<>All event awards will be issued to the accounts immediately.
+“ Dove of peace ” decal
+<>
+Discounts in game
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

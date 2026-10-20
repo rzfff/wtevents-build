@@ -1,0 +1,107 @@
+[Shop] How can you get premium vehicles? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get premium vehicles? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+31 October 2016
+Shop
+<>
+War Thunder has reached its 4th Birthday!​
+We are celebrating not only with interesting events, but throughout November, unique premium vehicles will be available in the Warbonds shop will delight even the most experienced players. - join the battle and receive war bonds!
+In order to receive them, just complete daily Battle tasks in War Thunder battles and earn a special currency - “Warbonds”, which can be used to purchase vehicles previously only obtainable with Golden Eagles!
+<> М8А1
+Who ever said beginner ranks couldn’t be interesting? Take in the awesome design of this vehicle, which the boasts characteristics of a tank destroyer that can reach 55 km/h, while equipped with a 75mm cannon. Considering it’s in the first rank of the US tree, the benefits should be clear to all. The M8A1 tank destroyer is for those who wish to practice ‘hurricane dynamics’ in battle; it’s perfect for fast and resolute players and you can count on the the 75mm cannon to dispatch your enemy effectively!
+<> D.521 (Britain)
+This aircraft is capable of effectively competing against all opponents of the same rank, but remember the most important rule: be careful with your ammunition because you only have 60 shells for your 20mm Hispano 404 cannon. Of course, it is also supported by four 7.5mm МАС 1934 machine guns with 2700 rounds. Use this aircraft’s maneuverability to your advantage. Climb to higher altitudes and use its high acceleration speed to complete dive-attacks effectively. Be sure to proudly shout "Vive la France!" before your attack!
+<> А7М1 (NK9H)
+Fast, well-armed, and multi-functional; an aircraft loved by all. The A7M1 is the fastest Japanese carrier-based fighter, which is beneficial when facing enemies on the ground which may not expect such a sudden assault. Its considerable armament proves to further this advantage: two 20mm Type 99 mod. 2 cannons (200 shells for each cannon) and two 13.2mm Type 3 machine guns. You may want to keep in mind that you are controlling a Japanese aircraft and so, take extra care in avoiding enemy fire, as at times, they can’t take as much of a beating. This is arguably the one ‘negative’ of this aircraft. In terms of its general performance otherwise, everything is solid.
+The pilot is safely protected with bulletproof glass, capable of withstanding hits even from 20mm HE projectiles. This is coupled with 13mm plate of armour. No one should underestimate the effectiveness of a Japanese aircraft, and the A7M1 re-enforces this.
+<> ТB-3
+While this may be one of the of the most unique and truly epic bombers in-game, that alone will not win a battle. Who is your enemy? At this rank, you can expect mostly biplanes. What are you defences? 5 x 7.62mm turrets. In terms of offence, 3 tonnes of bomb-load capacity allow you to easily eliminate a single bombing point and several smaller targets. Remember: you need to actually ‘reach’ your target. The speed of the “soviet fortress” is very low - only 190 km/h. Additionally, given that it's a huge aircraft, it is quite difficult to miss. And so, stick close to your wingman for extra protection!
+<> KV-1B (Germany)
+This seemingly invincible tank can be found at rank three of the German tree (despite being a Finnish tank). It goes without saying that the KV-1 is a vehicle which has very good armour. This version is equipped with screens, 25-30mm armour plates protecting most of the vulnerable parts around the vehicle and even so, the mobility remains at a very decent level. The 76mm F-32 cannon is certainly capable of causing some grief to opponents; you may not be able to defeat all enemies, but that’s not necessarily how you win a battle! The KV-1B is a damage farmer and hence, you can expect enemies to become nervous at the very least.
+<>
+You can get these machines just by playing!
+5 different premium vehicles from different nations and other items will be available in the “Warbonds” shop this month:
+<>
+<>KV-1B (Germany);
+<>M8A1;
+<>D.521;
+<>А7М1 (NK9H);
+<>TB-3;
+<>"Bar Fly" nose art, 635BS, 407th BG, USAF, Alaska, 1943, Decal by Colin 'Fenris' Muir
+<>Supply boxes (Decals - all decals from old Warbonds)
+<>Supply boxes (3D decorations - Signs)
+<>Supply boxes (3D decorations - other)
+<>Supply boxes containing 100/200/300/500/700/900% and boosts valid for 1 battle
+<>Premium booster: + 250% for 1 battle.
+<>Supply box with vehicle rent for 1 to 24 hours for the following vehicles:
+<>Super Hellcat;
+<>Do.335B-2;
+<>Т-44-122;
+<>AC IV Thunderbolt;
+<>B-17E.
+<>Order
+<>
+<>
+"Bar Fly" nose art, 635BS, 407th BG, USAF, Alaska, 1943
+Decal by Colin 'Fenris' Muir
+Battle tasks - these individual tasks bring variety into the game and prevent situations when all the players in a battle try to complete one specific task ignoring mission objectives needed for a victory. They are available for players that have reached the 3rd rank of any nation. For completion, the player will receive Silver Lions and Warbonds , a special in-game currency with their own shop where you can purchase a lot of different items.
+<>You can read more about battle tasks and war bonds in our devblog .
+Enjoy the new items available and see you on the battlefield!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

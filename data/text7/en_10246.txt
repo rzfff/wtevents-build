@@ -1,0 +1,132 @@
+[Special] [Shop] Discounts and a Decal for the National Day of the PRC! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Discounts and a Decal for the National Day of the PRC!
+1 October 2026
+Special
+Shop
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>The founding of the People’s Republic of China is celebrated annually on October 1st. The most solemn ceremonies take place in Beijing’s Tiananmen Square, where the founding of the PRC was proclaimed in 1949. The festivities last for a full week, with many people using this autumn holiday for domestic travel.
+<>Customizable bundles with rare vehicle packs!
+<> From October 1st (09:00 GMT) until October 8th (09:00 GMT) discounts of up to 50% are available in the Gaijin store.
+<>List of packs included in the special promotion:
+<>Type 96A Prototype Pack
+<>J-7D Pack
+<>JH-7A Prototype Pack
+<>Su-30MKK (China) Pack
+<>ZTZ96B Pack
+<>Z-19E Pack
+<>Type 69-IIa Pack
+<> Store
+<>Our discount mechanism allows you to create your own bundle of multiple packs by adding them to your Cart. Adding one item from the list to your Cart grants a 30% discount, while adding two or more packs grants a 50% discount.
+<> Please note! The discount only applies when you’ve added the packs from the list above to your Cart and completed a single purchase. The packs can also be purchased individually with a 30% discount. Other vehicle packs, Golden Eagles or Premium account are not included in this promotion.
+<>The Type 69-IIa, Т-62 №545 and JH-7A Prototype are temporarily available at a 30% discount for Golden Eagles!
+<> When: From October 1st (11:00 GMT) until October 8th (11:00 GMT) .
+<> Where: China > Army / Aviation > Premium vehicles.
+<>All vehicles can only be purchased during the event.
+<>
+<>
+<>
+<>
+<>
+<>Type 69-IIa (China, rank V)
+<> 5,866 Golden Eagles
+<>About the Type 69-IIa
+<>The Type 69-IIa is one of the most popular Chinese export tanks. Although based on the Type 69-II, it replaced its predecessor's smoothbore gun with the 100 mm rifled gun from the Type 59. With high-penetration shells, a smoke-laying system, night vision, and a laser rangefinder, this tank has everything it needs to perform well in combat at its rank!
+<>
+<>
+<>
+<>
+<>
+<>Т-62 №545 (China, rank VI)
+<> 6,111 Golden Eagles
+<>About the Т-62 №545
+<>The Т-62 №545 is a Soviet tank that saw action during the battle for Damansky Island in 1969; it was knocked out and subsequently fell into the hands of Chinese engineers. It is best deployed in a second-line role, taking careful aim: while the 115 mm gun has a rather long reload time, its HEAT and APFSDS rounds are capable of dealing devastating damage to the enemy.
+<>
+<>
+<>
+<>
+<>
+<>JH-7A Prototype (China, rank VIII)
+<> 6,860 Golden Eagles
+<>About the JH-7A Prototype
+<>The JH-7A Prototype is a strike aircraft distinguished from its research-tree counterpart by a unique camouflage scheme. Its extensive arsenal of suspended weaponry includes precision bombs with laser, satellite and infrared guidance and Kh-29T air-to-surface missiles featuring the “fire-and-forget” capability. In air combat, it relies on advanced PL-8 and PL-5EII air-to-air missiles, as well as a comprehensive suite of countermeasures.
+<>Open the “National Day of the PRC” trophy!
+<> When: From October 1st (09:00 GMT) until October 8th (09:00 GMT)
+<> Task: Earn 3,000 mission points in battles where you used Chinese vehicles at rank III or higher to receive the “National Day of the PRC” trophy!
+<>Inside this trophy, you’ll receive one of four decals:
+“Huabiao”
+decal
+“Emblem of PRC”
+decal
+“National Day of the People’s Republic of China 2024” decal
+“National Day of the People’s Republic of China 2025” decal
+<>The decals can be found in the “Holidays” customization section.
+<>If you already have all four decals, you’ll receive a trophy containing one of the following items:
+<>20-50% Research Point booster for 3-10 battles
+<>20-50% Silver Lion booster for 3-10 battles
+<>3-5 universal backups
+<>1 day of Premium account
+<> Please note: After finishing the task, you need to collect the reward manually.
+<> Additional details:
+<>You can complete the task in random battles, except for [Assault] mode.
+<>Track your progress in the hangar by clicking Nickname → Achievements → Holidays → National Day of the PRC.
+Read more:
+Get the AMV (BMP-3) in the Desert Predator Event!
+28 September 2026
+Battle Pass Season 25: Steel Fury and Its Warbond Shop!
+19 October 2026
+Pre-order: HMS Duke of York
+19 October 2026
+Official Snail Plushie Collaboration with Makeship!
+16 October 2026
+Share the news with your friends!
+<

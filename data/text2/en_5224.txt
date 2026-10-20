@@ -1,0 +1,179 @@
+[Special] Festive Quest - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Festive Quest
+Attention! Outdated news format. Content may not display correctly.
+19 January 2018
+Special
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>Even if you missed some Christmas toys, you can still purchase them in the achievement list until January 29th 11:00 GMT
+<>Christmas is almost here and Santa is already preparing his reindeers for the sleigh ride, but the trouble is - we are so well hidden that he simply will not find us! The situation must be urgently fixed, we need all need to show ourselves to him! For sure we can set few tanks on fire, but one beautiful Christmas tree with lights will be more beautiful, more noticeable and more appropriate. You just need to collect the toys and light up the light bulbs on the Christmas tree and that is exactly what we will all do.
+<>Gathering Christmas toys
+<> From 11:00 GMT on December the 22nd until 07:00 GMT on January the 22nd
+<>Gather Christmas toys to get rare vehicles and other valuable prizes.
+AEC Mk.II (Premium rank II)
+For 7 tanker’s Christmas toys
+P-40C (Premium rank II)
+For 7 pilot’s Christmas toys
+Ersatz M10 (Premium rank III)
+For 13 tanker’s Christmas toys
+NC.900 (Premium rank III)
+For 13 pilot’s Christmas toys
+<> For every 2 “Christmas toys for tankers” you will receive one of the following items: 50-200% SL booster, 50-200% RP booster, 5 random back-up vehicles for ground vehicles of rank 2-5, random camouflage for ground vehicles of rank 2-4, random talisman for ground vehicles of rank 2-4.
+<> For every 2 “Christmas toys for pilots” you will receive one of the following items: 50-200% SL booster, 50-200% RP booster, 5 random back-up vehicles for aircraft of rank 2-5, random camouflage for aircraft of rank 2-4, random talisman for aircraft of rank 2-4.
+<>How to collect the Christmas toys
+<>In order to receive a Christmas toy you need to complete any 3 tasks of 5 available. They remain the same for a specific time period but you have only 48 hours to complete a single task.
+<>Tankers
+<>Destroy 40/20/14 player controlled enemies (AB/RB/SB).
+<>Gain a “Supporting fire" achievement 5 times in a squad.
+<>Receive at least 2018 points in 8/4/4 battles (AB/RB/SB).
+<>Gain 10 victories with a minimum 70% activity.
+<>Destroy 11/6/4 (AB/RB/SB) enemy player controlled vehicles in one battle, whilst driving ground vehicles.
+<>Pilots
+<>Destroy 30/15/10 player controlled enemies (AB/RB/SB).
+<>Gain a “Supporting fire" achievement 4 times in a squad.
+<>Receive at least 2018 points in 7/4/4 battles (AB/RB/SB).
+<>Gain 10 victories with a minimum 60% activity.
+<>Destroy 11/3/2 (AB/RB/SB) enemy player controlled vehicles in one battle, whilst flying an aircraft.
+<>Terms
+<>To get the Christmas toy for tankers or pilots you need to complete any 3 from 5 tasks for the appropriate type of vehicle. To receive the special, ground vehicles vehicles will only register marks of distinction for tankers and aircraft, only marks of distinction for pilots.
+<>The tasks can be completed in any random battle for rank 3-6 vehicles, except enduring confrontation.
+<>The tasks will be updated at 11:00 GMT every two days.
+<>The tasks are divided into pilot and tanker objectives, but you can complete both and get all the prizes.
+<>Camouflages and talismans in supply boxes will be given only for vehicles which are already researched by the player.
+<>You can follow your progress in your profile -> achievements -> Festive Quest
+<>A Christmas toy has been received if its achievement has turned golden.
+<>You can purchase missed Christmas toys in the Achievement tab.
+<> Lighting up the Christmas tree
+<> From 11:00 GMT on December the 22nd until 07:00 GMT on January the 22nd
+<>You may get even more presents if you work together with other War Thunder players! Follow the progress on the main page and each new achievement will bring a new gift.
+100 000 lights on the tree
+<>Grants 77% RP boosters for 7 battles for 1 “Christmas toy”
+If at least one task has been completed.
+200 000 lights on the tree
+<>Grants a “Notes on the victories: Christmas trees” decal for 5 “Christmas toys for pilots” and “Christmas Wreath” 3D decoration for 5 “Christmas toys for tankers”
+350 000 lights on the tree
+<>Grants a pack of unique camouflages for following Festive Quest vehicles: AEC Mk.II, P-40C, Ersatz M10, NC.900
+500 000 lights on the tree
+<>Grants a premium Fw 189 for 10 “Christmas toys for pilots” and a premium KV-2 mod.1940 for 10 “Christmas toys for tankers”
+<>How do you light the tree up?
+<>Just complete the tasks (they will change every 8 days) and the gifts from War Thunder will be yours
+<>Whilst controlling ground vehicles:
+<>from December 22nd to December 30th
+<>Destroy 150 enemy ground vehicles whilst controlling light or medium tank.
+<>Set 50 enemy vehicles on fire.
+<>Capture 50 capture points.
+<>Destroy an enemy vehicle 1 rank higher than yours 20 times.
+<>Whilst controlling aircraft:
+<>from December 22nd to December 30th
+<>Destroy 100 enemy aircraft whilst flying a fighter.
+<>Receive an “Unguided” achievement 3 times (destroy any enemy aircraft using rockets).
+<>Capture enemy airfield in Arcade Battles once.
+<>Destroy an enemy vehicle 1 rank higher than yours 20 times.
+<>from 30th of December until 7th of January
+<>Destroy 10 enemies from a range not less than 800 meters.
+<>Destroy 60 enemies whilst controlling tank destroyers.
+<>Get “Eye for Eye” achievement (destroy enemy which destroyed you) 15 times.
+<>Destroy 5 enemies in a row without getting damaged.
+<>from 30st of December till 7th of January
+<>Destroy 15 ships.
+<>Drop a total of 20 tons of bombs on enemy bases whilst controlling bombers.
+<>Get the achievement "Eye for Eye" (destroy the enemy that destroyed you) 10 times.
+<>Destroy 5 aircraft in a row without getting damaged.
+<>from 7th of January till 15th of January
+<>Destroy 110 medium tanks, 80 heavy tanks, 55 tank destroyers and 30 AAA.
+<>Destroy 20 aircraft whilst controlling tank.
+<>Destroy 11/6/4 enemies by not losing your vehicle (AB/RB/SB).
+<>Destroy 5 enemies with artillery strikes.
+<>from 7th of January till 15th of January
+<>Destroy 100 fighters, 50 attackers, 50 bombers.
+<>Destroy 3 enemy aircraft whilst controlling defensive aircraft machine guns.
+<>Destroy 9/5/5 enemy aircraft whilst not losing your vehicle (AB/RB/SB).
+<>Destroy enemy aircraft with a bomb.
+<>from 15th of January till 22nd of January
+<>Win in the mission "Assault" for ground vehicles (on any rank).
+<>"Try something new" — win mission in AB, RB, SB.
+<>Destroy 125 enemies whilst controlling a heavy tank.
+<>Win one battle in ground vehicles of rank II and higher for each nation.
+<>from 15th of January till 22nd of January
+<>Win in the "Assault" mission for aircraft (on any rank).
+<>"Try something new" — win mission in AB, RB, SB.
+<>Destroy 25 ground targets whilst controlling attackers.
+<>Win one battle in aircraft of rank II and higher for each nation.
+<> Complete 16 air challenges or 16 ground challenges from the “Lighting Up the Christmas Tree” list and get the unique title “Perfectionist”.
+<>Terms
+<>To complete the task you must have at least one "Christmas toy"
+<>The tasks can be completed in random battles whilst using rank III-VI vehicles in any game modes, except Enduring Confrontation
+<>The tasks will be updated every 8 days at 11:00 GMT.
+<>You can purchase missed tasks for “Light the lights on the Christmas tree” in the Achievement tab.
+<>The tasks are divided into pilots and tankers objectives, but of course you can complete them all and get all the prizes.
+<>You can follow your progress in your profile → Achievements → Festive Quest → “Light the lights on the Christmas tree”.
+<>Every task you complete will be added to the War Thunder main page counter.
+<>Data on the total number of tasks performed by all players will be updated once per hour on the counter on the main page.
+<>Prizes for “Light the lights on the Christmas tree” will be given out during 2 days after the required stage has been achieved.
+<>More information regarding achievements like “Supporting fire”, “Eye for Eye” etc can be found here following link .
+<>We have no doubt that friendship will win during this festive period too!
+Christmas wreath decoration
+<>
+<>
+Christmas trees decal
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,96 @@
+[Historical] 100th anniversary of the first air-to-air victory - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+100th anniversary of the first air-to-air victory
+Attention! Outdated news format. Content may not display correctly.
+6 October 2014
+Historical
+<>
+<>
+Joseph Frantz & Louis Quenault
+It was on the 5th of October, 1914, that French Sergeant Joseph Frantz and Corporal Louis Quenault managed to achieve the honour of being the first aviators to shoot down an enemy aircraft with gunfire. Frantz was piloting the aircraft, while his mechanician and gunner, Quenault, was shooting the enemy. Onboard of their Voisin III, they engaged the German Aviatik I on their way back after taking off from Lhéry and bombarding enemy troops over Fort Brimont with six 90mm hand-dropped shells.
+<>
+<>
+Voisin III
+Frantz manage to approach the enemy aircraft without being noticed until the critical moment, Quenault was armed with a light machine gun, an Hotchkiss 8mm. He start firing on the Aviatik, piloted by Sergeant Wilhelm Schlichting and his observator, Oberleutnant Fritz von Zangen, first using small bursts then finaly switching to single shot until his machine gun jammed after only 47 shots fired. While he was trying to fix it, Quenault saw the german aircraft flipping over and subsequently heading for the ground, crashing and bursting in flames. All of the action was observed on the ground by General Franchet D’Esperey.
+<>
+<>
+Aviatik B.I
+Frantz was decorated with the 'Croix du Chevalier de la Légion d’Honneur' for his action, later became a test pilot for the Voisin company and also founded the 'Pionniers' magazine. His career achievements as a pilot are impressive: 8000 hours of flight, 62 years of straight service. He died on 12th of September 1979.
+For this historical achievement and to honour the victors and the fallen, there is now a memorial at Jonchery-sur-Vesle, in French, about the first air-to-air victory involving gunfire in the history of mankind.
+<>
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

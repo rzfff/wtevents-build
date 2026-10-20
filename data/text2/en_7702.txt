@@ -1,0 +1,102 @@
+[Event] The “Advance” Event - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The “Advance” Event
+Attention! Outdated news format. Content may not display correctly.
+26 May 2022
+Event
+<>From May 26th (10:00 GMT) until May 30th (7:00 GMT)
+<>The “Advance” event is an asymmetrical mission for ground vehicles where each team has its own task: the attackers have to consecutively capture all the points on a map, while the defenders have to protect them!
+<>Event features:
+The event takes place in the AB and RB game modes.
+When activated, each point belongs to the defending team.
+The points activate consecutively one by one: after the attackers capture the current point, the next one unlocks.
+The capture points alternate:
+A, C and E (key points) — small, but take longer to capture.
+B & D (interim points) — completely cover the previous respawn zone of the defenders, so their size is much larger than that of key points, but they are quicker to capture. After the interim point is captured, a new respawn point is unlocked for the attackers to push the next key point, while the previous respawn point becomes locked.
+If the final key point (E) is captured or, if all the defenders are destroyed, the attackers win.
+If the points are held throughout the mission duration or if all the attackers are destroyed, the defenders win.
+The number of spawn points for each player is limited and differs depending on their team.
+The maximum number of players in the teams are not the same.
+in the RB game mode, the ground vehicles don’t require spawn points to respawn, while the aircraft do.
+Repeated respawns that do not require backup vehicles are available.
+To participate in the event, ground vehicles with a BR of 4.7 — 5.7 are required.
+Vehicles with BR 3.7 — 5.7 can be used in this event.
+The event takes place on the “Port Novorossiysk” map.
+The event may end prematurely for technical reasons.
+<> Please leave your feedback for Arcade Battle version of the Event
+<> Please leave your feedback for Realistic Battle version of the Event
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

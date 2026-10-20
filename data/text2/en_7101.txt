@@ -1,0 +1,82 @@
+[Event] Testing of the missions for the new PvE game mode - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Testing of the missions for the new PvE game mode
+Attention! Outdated news format. Content may not display correctly.
+22 March 2021
+Event
+<>We are starting to work on a new game mode for ground vehicles! It features story-driven PvE missions that you will be able to complete with your friends.
+<>The test is available for everyone from 13:00 GMT on the 22nd of March until 13:00 GMT on the 24th of March in the Events and Tournaments tab.
+<>We invite you to try the first 3 missions of the game mode:
+<> Eastern Front 1941 (Poland) - German Pz. III F’s are under the control of players. To participate it is necessary to have one vehicle in the hangar of rank II or above.
+<> Eastern Front 1943 (Fire Arc) - Soviet Т-34-57’s are under the control of players. To participate it is necessary to have one vehicle in the hangar of rank IV or above.
+<> Middle East 1973 (Sinai) - US M48A1’s are under the control of players. To participate it is necessary to have one vehicle in the hangar of rank V or above.
+<>Scenario of the test missions
+<>Each mission consists of 3 stages: offensive, clearance and defense.
+<>As part of the offensive, your team must break through to the capture zone, while destroying the forces of the defending AI opponents which have anti-tank cannons and ground vehicles.
+<>The cleanup stage will take place on the city streets. At the end of it you will have time to prepare for the most important part of the battle.
+<>In the final phase the enemy will try to re-capture the city in a massive offensive. Enemy vehicles that break into the city will take the advantage scores until you will destroy them. You will lose if you allow the enemy to dominate the city.
+<>Game mode mechanics
+<>Testing will be carried out in AB game mode.
+<>In a mission, the player will receive a vehicle with a preset crew level and all modifications except artillery support.
+<>Economy and achievements in the missions are switched off. There are no additional or other special awards in this testing phase.
+<>The test may be closed ahead of schedule for technical reasons.
+<>We plan to improve missions based on your feedback and test results. We also plan to add random events and secondary tasks, introduce new game mechanics and also develop a few more scenarios.
+<> Leave your feedback!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+<

@@ -1,0 +1,94 @@
+[Special] Halloween (Update - winners list!) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Halloween (Update - winners list!)
+Attention! Outdated news format. Content may not display correctly.
+28 October 2017
+Special
+From 15:00 GMT, 27th of October to 07:00 GMT, 1st of November
+Take part in races in the air and on the ground, get “Witch's Cauldron” trophy with 3D Decorations and decals.
+<>On “All Hallows eve”, diabolical beasties and spirits run amok, causing mischief and mayhem. Fight the good fight, defeat evil, see off the ghosts and the ghoulies, the witches and warlocks. War Thunder pilots and tankers will not stand idle while chaos reigns, grab some of the action and compete for the right to grab a souvenir chunk of Halloween.
+<>Aircraft event: “Witch Hunt”
+<>Fly a special "Night Witch" aircraft! Get ahead of your rivals on a twisting track.
+Achieve first place in the race to win the “Witches Cauldron” trophy in which you can get:
+<>
+<>
+Lancaster "Phantom of the Ruhr" emblem, No. 100 Squadron, RAF, 1943;
+"Fork-Tailed Devil" emblem of VMB-433 Marine Bombing Squadron, USMC
+"Flying Skull" emblem, 85th FS, 79th FG, USAF
+"The Cat's Mouth" Hellcat noseart of VF-27 Squadron, USS Princeton, 1944;
+<> Ground event: “Tank race on the dark path”
+Drive an enchanted modification of the M18 “Hellcat” and be the first to reach the finish line. The races will take place only at night!. Oh, and watch out! Player hangars are also affected by the dark magic of Halloween.
+Get first place in the race to win the “Witches Cauldron” trophy in which you can get:
+<>
+<>
+3D Decoration “Jack-o-lantern”
+3D Decoration “Witch Hat”
+<>"Red Devils"
+Emblem of 702nd Tank Battalion USA
+When the races are over, the top 1000 pilots and top 1000 tank racers will get the unique Po-2 biplane
+Terms: ▼
+<>The trophy will be available to purchase through the in-game shop for 199 GE.
+<>Trophies can be won in the races.
+<>The award for achieving first place - random item from the “Witches Cauldron” trophy
+<>There may be a delay in updating the leaderboard up to 15 minutes.
+<>Decals can be found in the “Allies” section. "Red Devils" emblem is in the “Allies (tanks)” section and “Cat’s mouth” in the “nose art” section, "Phantom of the Ruhr" in the “Britain (tanks)” section, and 3d decorations in decorators->other.
+<> Decals authors: Jej 'CharlieFoxtrot' Ortiz and Colin 'Fenris' Muir
+The winners have already received their Po-2's! You may check the final results here
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

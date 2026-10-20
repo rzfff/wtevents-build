@@ -1,0 +1,93 @@
+Mozdok-Malgobek defensive operation - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Mozdok-Malgobek defensive operation
+Attention! Outdated news format. Content may not display correctly.
+29 September 2013
+<>
+By the end of August 1942, the German army had captured most of Kuban. One after another, they had seized Krasnodar, Armavir, and Maykop. The 17th Army, proceeding further south to Tuapse, was stopped by Soviet troops, but the 1st Panzer Army continued to advance eastward, intending to seize the oilfields of Baku and Grozny.
+<>
+War Thunder adds Mozdok map for the Events Mode - Arcade Battle difficulty, with historical plane line-up and without respawns. Rewards for taking part in the event are 15% higher than usual.
+<>
+Thus the German army came to face the Soviet line, which was evenly spread over the entire front on the bank of the river Terek.
+<>
+The battle began on the night of September 1, when German forces launched a series of diversionary attacks east of Mozdok. On the morning of September 2, with the help of air support and artillery, German troops began crossing the Terek River south of Mozdok, overwhelming the few Soviet troops in the area. They seized a bridgehead on the right bank of the river and advanced another 12 kilometers south. Soviet command responded by sending reinforcements from its reserves and from the areas unaffected by the attack, forcing the enemy back north 9 kilometers.
+<>
+But the Germans were not about to give up and, with the support of their motorized Viking division, they captured several settlements by September 29. Nevertheless, they had suffered heavy losses and were unable to advance further.
+<>
+<>
+The Soviet attack had forced the Germans to defend their position. The advance towards Grozny was halted.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

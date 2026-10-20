@@ -1,0 +1,951 @@
+{
+  "results": [
+    {
+      "aid": 6032,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Valentine's day with War Thunder!",
+      "name_en": "Valentine's day with War Thunder!",
+      "name_zh": null,
+      "start": "2019-02-14T11:00:00Z",
+      "end": "2019-02-15T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February the 14th (11:00 GMT) until February the 15th (21:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "30% RP squad booster (Team Booster)",
+        "St. Valentine's trophy",
+        "A Shot to the Heart!",
+        "Don't Shoot I love you!",
+        "Cupid",
+        "Miss Behaven",
+        "To the depths of love",
+        "Love",
+        "February 14",
+        "Kiss",
+        "Heart and Arrow",
+        "Heart and Spitfire"
+      ],
+      "tasks": "两个任务:3级+载具在胜场拿第一得30%RP小队加成;3场随机战斗胜利(活跃度≥60%,3级+)得圣瓦伦丁战利品(随机主题贴花)",
+      "sub_events": [],
+      "notes": "贴花可在道具商店的 St. Valentine's trophy 以 199 金鹰购买;进度见 成就→Valentine's Day;同期另有情人节涂装比赛",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6048,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Defender of the Fatherland",
+      "name_en": "Defender of the Fatherland",
+      "name_zh": null,
+      "start": "2019-02-22T14:00:00Z",
+      "end": "2019-02-25T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 14:00 GMT on the 22nd of February until 07:00 GMT on the 25th of February",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "金鹰直购(原捆绑包限定):T-34 mod.1941 1st Guards tank brigade、Pe-2-205 Peshka、KV-1E",
+          "percent": 30,
+          "note": "苏联科技树内直购;折扣至 2019-02-25T12:00Z(比活动结束晚5小时)"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Decal \"Shield Star\"",
+        "Decal \"Shield\"",
+        "Decal \"Defender\""
+      ],
+      "tasks": "3级+载具随机战斗赢3场(活跃度≥60%)得三选一独特活动贴花",
+      "sub_events": [],
+      "notes": "3辆原捆绑包限定高级车限时开放金鹰直购并7折",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6058,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Update 1.87: get INTEL Nuc Mini PC and French helicopters - winners announced",
+      "name_en": "Update 1.87: get INTEL Nuc Mini PC and French helicopters - winners announced",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "INTEL NUC Kit NUC6i7KYK (Skull Canyon)",
+        "IAR 316B Premium Helicopter Pack"
+      ],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Facebook 抽奖(评论期望的游戏改进参与)中奖名单公告,非游戏内活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6072,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Update 1.87 pre-orders!",
+      "name_en": "Update 1.87 pre-orders!",
+      "name_zh": null,
+      "start": "2019-03-02",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "\"Type 74 and JASDF Sabre\" pre-order bundle $109.98→$76.99",
+          "percent": 30,
+          "note": "含 JASDF Sabre Pack + Type 74 mod G/Kai Pack 预购"
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"Leopard and Sea Hawk\" pre-order bundle $109.98→$76.99",
+          "percent": 30,
+          "note": "含 Sea Hawk Pack + Leopard Pack"
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"AMX-30 and IAR 316B\" pre-order bundle $84.98→$59.49",
+          "percent": 30,
+          "note": "文中标题误写为 IAR 31B,内容为 IAR 316B Pack + AMX-30 Pack"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Type 74 mod G/Kai",
+        "F-86F-40 (JASDF) Sabre",
+        "Hawker Sea Hawk Mk.100",
+        "S.O.4050 Vautour IIA",
+        "IAR 316B"
+      ],
+      "tasks": "在 Gaijin 商店购买预购礼包/捆绑包;载具 1.87 更新后在游戏内解锁",
+      "sub_events": [],
+      "notes": "无明确起止日期,开始取文章发布日。单包:Type 74 mod G/Kai $59.99、JASDF Sabre $49.99、Sea Hawk $49.99、Vautour IIA $49.99、IAR 316B $34.99,均含 2000 金鹰+15天高级+预购专属贴花/头衔/涂装;PS4/Xbox 版更新后两周内可领预购奖励",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6104,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Bonus Golden Eagles when using Paysafecard!",
+      "name_en": "Bonus Golden Eagles when using Paysafecard!",
+      "name_zh": null,
+      "start": "2019-03-21T13:00:00Z",
+      "end": "2019-03-28T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 13.00 GMT on the 21st of March to 09.00 GMT on the 28th of March",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "Paysafecard 购金鹰包赠 +20%:3000/6000/12000/18000/24000/30000 GE 各档",
+          "percent": 20,
+          "note": "实为 +20% 赠送而非折扣;仅 Paysafecard 结算有效"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "以 Paysafecard 支付方式购买指定金鹰包即额外获得 +20% 奖励金鹰",
+      "sub_events": [],
+      "notes": "额外金鹰仅当结账走 Paysafecard 选项时发放",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6112,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Get ROCCAT® SKELTR keyboard and Japanese Sabre + winners",
+      "name_en": "Get ROCCAT® SKELTR keyboard and Japanese Sabre + winners",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "ROCCAT SKELTR keyboard",
+        "JASDF F-86F-40 Sabre Pack"
+      ],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Facebook 抽奖(猜愚人节玩笑)中奖名单公告,非游戏内活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6122,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "“Spring camo” contest results",
+      "name_en": "“Spring camo” contest results",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Object 120 pack (nomination winner pick)",
+        "Z-20 Karl Galster pack (nomination winner pick)",
+        "G55S pack (nomination winner pick)",
+        "15 days premium (jury prize)",
+        "1 month premium (most productive participant)"
+      ],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "春季涂装比赛结果公告;评审奖由7天提高至15天高级;前十名涂装免费开放下载;获奖者留意论坛私信",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6170,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Victory Day!",
+      "name_en": "Victory Day!",
+      "name_zh": null,
+      "start": "2019-05-08T11:00:00Z",
+      "end": "2019-05-13T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT 8th of May until 09:00 GMT 13th of May",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "同盟国载具(SL/GE 游戏内购买,含高级,1.87 Locked On! 新车除外)",
+          "percent": 30,
+          "note": "游戏内"
+        },
+        {
+          "target": "高级账户",
+          "item": "90 天与 365 天高级账户",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"Wings of Victory\" bundle $148.94→$74.47(6个高级载具包)",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"Tracks of Victory\" bundle $102.96→$51.48(4个高级载具包)",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "M.B.5 / SO.8000 Narval / MTB Fairmile D 清仓",
+          "percent": 50,
+          "note": "5月13日后全平台停售"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "M.B.5、SO.8000 Narval、MTB Fairmile D 礼包全平台停售",
+          "when": "2019-05-13"
+        }
+      ],
+      "rewards_text": [
+        "DP-27 MG",
+        "Victory decals (Victory symbols)",
+        "\"Victory Star\" emblem",
+        "Ceremonial camouflage for Т-80B",
+        "Ceremonial camouflage for Т-64B",
+        "1,500 GE (tournament 1st place)"
+      ],
+      "tasks": "①5.9-5.11每日首胜2xRP;②3场胜利(活跃度≥60%,2级+)得胜利贴花;③完成指定任务得DP-27 MG;④柏林行动历史事件+30%RP;⑤胜利4v4锦标赛",
+      "sub_events": [
+        {
+          "name": "Daily 2x RP first victory bonus",
+          "start": "2019-05-09T00:01:00Z",
+          "end": "2019-05-11T00:01:00Z",
+          "note": "每阵营每天一次"
+        },
+        {
+          "name": "Victory decals & DP-27 MG tasks",
+          "start": "2019-05-08T15:00:00Z",
+          "end": "2019-05-13T09:00:00Z",
+          "note": "2级+载具,活跃度≥60%"
+        },
+        {
+          "name": "Operation \"Berlin\" historical events (+30% RP)",
+          "start": "2019-05-08T15:00:00Z",
+          "end": "2019-05-13T09:00:00Z",
+          "note": null
+        },
+        {
+          "name": "\"Victory\" 4v4 team tournaments",
+          "start": "2019-05-10T17:00:00Z",
+          "end": "2019-05-12T18:39:00Z",
+          "note": "AB/RB/SB 三模式;冠军 1500 GE + Т-80B 礼仪涂装"
+        }
+      ],
+      "notes": "捆绑包内单包亦可单独7折购买;PS4/Xbox 可游戏内金鹰折价购;主机商店另有同盟国捆绑包折扣",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6196,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Update 1.89: Get IIYAMA monitor and Kiyoshimo destroyer + winners announced",
+      "name_en": "Update 1.89: Get IIYAMA monitor and Kiyoshimo destroyer + winners announced",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "IIYAMA G-MASTER GB2730QSU monitor",
+        "Kiyoshimo destroyer pack"
+      ],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Facebook 抽奖(许愿新科技树)中奖名单公告,非游戏内活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6201,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "OF-40 Mk.2 MTCA pre-order",
+      "name_en": "OF-40 Mk.2 MTCA pre-order",
+      "name_zh": null,
+      "start": "2019-05-18",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "OF-40 Mk.2 (MTCA) Pre-Order Pack $59.99;已购 M60A1 Ariete pack 者 7 折",
+          "percent": 30,
+          "note": "折扣仅限已购 M60A1 Ariete 礼包的 PC/Mac/Linux 玩家"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "OF-40 Mk.2 (MTCA) (Rank 6 Italy)",
+        "2000 Golden Eagles",
+        "15 days premium account",
+        "\"United Arab Emirates Armed Forces emblem\" decal",
+        "\"Nomad\" title"
+      ],
+      "tasks": "在 Gaijin 商店购买预购礼包;载具 1.89 更新后解锁",
+      "sub_events": [],
+      "notes": "无明确起止,开始取文章发布日。M60A1(意大利)1.89 后将从商店下架、移除炮稳、BR 降至 7.7",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6223,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Japanese “Cobra” available for purchase!",
+      "name_en": "The Japanese “Cobra” available for purchase!",
+      "name_zh": null,
+      "start": "2019-05-29",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "\"Type 74 mod G/Kai and AH-1S Cobra\" Bundle $109.98→$76.99",
+          "percent": 30,
+          "note": null
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "购买 AH-1S Cobra Pack 或捆绑包加赠 4ATH Kisarazu 徽章 + Orochi 头衔的截止",
+          "when": "2019-06-12T12:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "AH-1S Cobra (Rank 5 Japan)",
+        "2000 Golden Eagles",
+        "\"4ATH Kisarazu emblem\"",
+        "\"Orochi\" title",
+        "15 days premium account",
+        "Kisarazu Sisters camouflage",
+        "limited pilot model Kisarazu Wakana"
+      ],
+      "tasks": "购买 AH-1S Cobra Pack($49.99,含2000金鹰+15天高级)或 Type 74+AH-1S 捆绑包;6月12日12:00 UTC 前购买额外赠送徽章与头衔",
+      "sub_events": [],
+      "notes": "无明确下架时间,开始取文章发布日;Kisarazu Sisters 涂装为 DMM GAMES 协力授权内容",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6232,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "D-Day 75th anniversary - Normandy landings",
+      "name_en": "D-Day 75th anniversary - Normandy landings",
+      "name_zh": null,
+      "start": "2019-06-06T10:00:00Z",
+      "end": "2019-06-10T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 10:00 GMT on the 6th of June till 10:00 GMT on the 10th of June",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "\"First in deed\" Bundle $98.36→$59.02(Jumbo Cobra King、M18 Black Cat、P-47M、Mustang)",
+          "percent": 40,
+          "note": null
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"Sledgehammer\" Bundle $93.96→$56.38(M10 Achilles、Firefly Ic、Spitfire XIVe、Typhoon)",
+          "percent": 40,
+          "note": null
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"Overlord\" Bundle $192.32→$75(前两捆绑包合集+SHAEF贴花头衔)",
+          "percent": 61,
+          "note": null
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "购齐全部单包+6至10日登录胜1场者,Overlord 头衔与 SHAEF 贴花于 6月11日后发放",
+          "when": "2019-06-11"
+        }
+      ],
+      "rewards_text": [
+        "609 Squadron camouflage for Typhoon Mk.Ib/Late",
+        "\"Hurricane\" camouflage for M4",
+        "Emblem of 101st Airborne Division, USA",
+        "Emblem of 2nd Canadian Armoured Brigade",
+        "Emblem of 1st Infantry Division, US Army",
+        "Emblem of 23rd Hussars Cavalry Regiment, Britain",
+        "Emblem of the SKG 10 of Luftwaffe, 1944",
+        "Emblem of the KG II/30 of Luftwaffe, 1944",
+        "Emblem of the JG 3 of Luftwaffe, 1944",
+        "Emblem of the 21st Panzer Division, Wehrmacht",
+        "George Bostwick's P-47M-1-RE Thunderbolt (tournament 1st)",
+        "M18 Black Cat (tournament 1st)",
+        "5000 GE",
+        "\"Fire Front\" decals",
+        "\"Normandy Ace\" title",
+        "M4A5 premium tank",
+        "Yak-9T (France)"
+      ],
+      "tasks": "历史事件+30%RP/SL;飞机/地面事件拿6/8次队内第一得两涂装;美英与德系各4项任务得8枚纪念贴花(2-4级,活跃度要求见文);D-DAY锦标赛",
+      "sub_events": [
+        {
+          "name": "D-Day bundles discounts",
+          "start": "2019-06-06T09:00:00Z",
+          "end": "2019-06-10T09:00:00Z",
+          "note": "最终价视已有单包而定,登录商店看个人价;仅 PC/Mac/Linux"
+        },
+        {
+          "name": "Historical events (6 setups, +30% RP/SL)",
+          "start": "2019-06-06T12:00:00Z",
+          "end": "2019-06-10T07:00:00Z",
+          "note": null
+        },
+        {
+          "name": "\"D-DAY\" tournaments",
+          "start": null,
+          "end": null,
+          "note": "TSS 锦标赛,文中未给具体时间;冠军得 P-47M、M18 Black Cat、5000 GE、金贴花、Normandy Ace 头衔"
+        }
+      ],
+      "notes": "贴花/涂装亦可不经任务直接在 成就→D-Day 75th anniversary 页面购买",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6241,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Russia Day!",
+      "name_en": "Russia Day!",
+      "name_zh": null,
+      "start": "2019-06-12T09:00:00Z",
+      "end": "2019-06-14T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 9:00 GMT on the 12th of June till 07:00 GMT on the 14th of June",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "\"Russia Day\" decal"
+      ],
+      "tasks": "苏联2级+载具打3场随机战斗(活跃度≥60%,除持久对抗与突击)得 Russia Day 贴花",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 6245,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle Royale — the training",
+      "name_en": "Battle Royale — the training",
+      "name_zh": null,
+      "start": "2019-06-28T10:30:00Z",
+      "end": "2019-07-01T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 10:30 GMT on the 28th of June until 07:00 GMT on the 1st of July",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Additional rewards for top 3 players in training battles (unspecified)"
+      ],
+      "tasks": "参加 AB/RB 大逃杀训练战(BR 6.0-7.0,仅单人),拾取火炮/维修包/医疗包/灭火器道具,为 King of the Hill 锦标赛热身",
+      "sub_events": [],
+      "notes": "地图:新罗西斯克港、废弃工厂、斯大林格勒、芬兰及首次登场的越南;排名按天梯位置匹配",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6251,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Get INTEL i7 8700K bundle and AMX-30 Super + winners announced",
+      "name_en": "Get INTEL i7 8700K bundle and AMX-30 Super + winners announced",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Intel Core i7-8700K + EVGA Z370 Micro ATX motherboard",
+        "AMX-30 Super premium pack"
+      ],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Facebook 抽奖(许愿新功能)中奖名单公告,非游戏内活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6253,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Maginot Line",
+      "name_en": "Maginot Line",
+      "name_zh": null,
+      "start": "2019-06-21T15:00:00Z",
+      "end": "2019-06-24T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 21st of June until 07:00 GMT on the 24th of June",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "RB 历史战斗(1940法国战役):坦克打 [Domination] 联合作战(3重生,飞机需重生点),飞行员打持久对抗;+30% SL/RP",
+      "sub_events": [],
+      "notes": "部分战斗有额外奖励;战斗编成与随机战不同",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6256,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Meltdown Discounts",
+      "name_en": "Meltdown Discounts",
+      "name_zh": null,
+      "start": "2019-06-25T11:00:00Z",
+      "end": "2019-07-01T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "Discounts from the 25th of June until the 1st of July! Discounts will replace each other and end at 11:00 GMT on the dates stated.",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "Talisman、备用载具、改装件",
+          "percent": 50,
+          "note": "6月25日-7月1日全程"
+        },
+        {
+          "target": "载具",
+          "item": "美系、苏系载具(SL/GE 购买)",
+          "percent": 50,
+          "note": "6月25-27日"
+        },
+        {
+          "target": "载具",
+          "item": "德系、英系载具",
+          "percent": 50,
+          "note": "6月27-29日"
+        },
+        {
+          "target": "载具",
+          "item": "日系、法系、意系载具",
+          "percent": 50,
+          "note": "6月29日-7月1日"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "窗口内在游戏/商店购买即享折扣;各档折扣按 11:00 GMT 轮换",
+      "sub_events": [],
+      "notes": "开始时刻 11:00 GMT 为按\"各档于所述日期 11:00 GMT 截止\"倒推;1.89 Imperial Navy 新载具不参与;预告 7月2-9日 Gaijin.net 商店另有折扣",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6263,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "War Thunder Summer Sale!",
+      "name_en": "War Thunder Summer Sale!",
+      "name_zh": null,
+      "start": "2019-07-02T11:00:00Z",
+      "end": "2019-07-09T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 2nd of July at 11:00 GMT until the 9th July at 09:00 GMT",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "US/USSR/German/British/Japanese Summer Bundle $109.98→$65.98",
+          "percent": 40,
+          "note": "各含2个高级载具包+Jet Snail贴花+专属头衔"
+        },
+        {
+          "target": "捆绑包",
+          "item": "French / Italian Summer Bundle $109.98→$76.98",
+          "percent": 30,
+          "note": null
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"The Lightning\" Bundle $44.98→$31.49(P-38K+太平洋战役)",
+          "percent": 30,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "BO 105 CB-2 $39.99→$20、Huey Hog $39.99→$20、Hind $39.99→$20、Z-20 Karl Galster $49.99→$25",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "清仓:G.55S $29.99→$14.99、KPz M47/G $49.99→$24.99、Semovente 105/25 $24.99→$12.49、7U Stroyny $49.99→$24.99、Heavy Tank №6 $29.99→$14.99",
+          "percent": 50,
+          "note": "活动结束后从 Gaijin store 与 PlayStation Store 下架"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "清仓5礼包(Fiat G.55S、KPz M47/G、Semovente 105/25、Project 7U Stroyny、Heavy Tank №6)从 Gaijin store 与 PS Store 下架",
+          "when": "2019-07-09"
+        },
+        {
+          "what": "集齐某捆绑包全部单包+登录胜1场者的贴花头衔(含 Snail Lord)于 7月10日后发放",
+          "when": "2019-07-10"
+        }
+      ],
+      "rewards_text": [
+        "\"USA/USSR/Germany/Britain/Japan/France/Italy Jet Snail\" decals",
+        "Titles: Hotshot / Comrade / Meister / Dab hand / Meijin / Virtuoso / Maestro",
+        "\"Snail Lord\" title",
+        "\"The Lightning\" title"
+      ],
+      "tasks": "购买国家夏日捆绑包或单包;7月2-9日登录并胜1场且拥有某捆绑包内全部单包得对应贴花头衔;集齐7枚 Jet Snail 贴花得 Snail Lord 头衔",
+      "sub_events": [],
+      "notes": "捆绑包最终价视已有单包而定;仅 PC/Mac/Linux 可购,主机玩家拥有全部单包同样可领头衔贴花",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6269,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Sicilian Campaign",
+      "name_en": "Sicilian Campaign",
+      "name_zh": null,
+      "start": "2019-07-05T15:00:00Z",
+      "end": "2019-07-08T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 5th of July until 07:00 GMT on the 8th of July",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "RB 历史战斗(1943西西里登陆):坦克打 [Domination] Italy 联合作战(3重生),飞行员打持久对抗;+30% SL/RP",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 6278,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Tournament - King of the Hill",
+      "name_en": "Tournament - King of the Hill",
+      "name_zh": null,
+      "start": "2019-07-12T15:00:00Z",
+      "end": "2019-07-15T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 12th of July until 07:00 GMT on the 15th of July",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "天梯前100名金头盔装饰券经额外核查后发放(赛后3天内)",
+          "when": "2019-07-18"
+        }
+      ],
+      "rewards_text": [
+        "100% RP or SL booster (per 10 kills, max 3)",
+        "\"Gladiator helmet\" decoration (1 victory)",
+        "\"Gladiator helmet\" (silver) decoration (3 victories)",
+        "Coupon for the \"Gladiator helmet\" (gold) decoration (top 100)"
+      ],
+      "tasks": "AB/RB 大逃杀锦标赛(BR 6.0-7.0,单人):每10杀得100%加成(至多3个);胜1场得铜盔,胜3场得银盔,各模式天梯前100得金盔券",
+      "sub_events": [],
+      "notes": "地图含 Rhine、Novorossiysk、Abandoned factory、Stalingrad、Finland、El Alamein、越南;场内道具与训练赛相同",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6284,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Korean War",
+      "name_en": "Korean War",
+      "name_zh": null,
+      "start": "2019-07-19T15:00:00Z",
+      "end": "2019-07-22T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 19th of July until 07:00 GMT on the 22nd of July",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "RB 历史战斗(朝鲜战争):[Operation] Korea 空战与 [Domination] 38th Parallel 联合作战(3重生,世界大战难度);+30% SL/RP",
+      "sub_events": [],
+      "notes": "美英苏载具参战,含喷气机;部分战斗有额外奖励",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6291,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Russian Navy Day",
+      "name_en": "Russian Navy Day",
+      "name_zh": null,
+      "start": "2019-07-26T11:00:00Z",
+      "end": "2019-07-29T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 26th of July until 07:00 GMT on the 29th of July",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "\"80 years on the sea\" decal",
+        "Pr. 7U \"Stroyny\" premium destroyer (24h rent)",
+        "3 vehicle backups"
+      ],
+      "tasks": "①苏联任意级别舰艇打3场海战(活跃度≥60%)得贴花;②任意国家舰艇赢3场海战(活跃度≥60%)得 Stroyny 24小时租用+3个备用载具",
+      "sub_events": [],
+      "notes": "高级驱逐舰 Pr. 7U \"Stroyny\" 同步开放游戏内金鹰直购",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6313,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle for Stalingrad",
+      "name_en": "Battle for Stalingrad",
+      "name_zh": null,
+      "start": "2019-08-09T15:00:00Z",
+      "end": "2019-08-12T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 9th of August until 07:00 GMT on the 12th of August",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "RB 历史战斗(斯大林格勒):[Enduring Confrontation] Stalingrad 空战与 Abandoned factory 联合作战(3重生,世界大战难度);+30% SL/RP",
+      "sub_events": [],
+      "notes": "苏德载具参战;部分战斗有额外奖励",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6315,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Russian Air Force Day",
+      "name_en": "Russian Air Force Day",
+      "name_zh": null,
+      "start": "2019-08-10T12:00:00Z",
+      "end": "2019-08-13T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 12:00 GMT on the 10th of August till 07:00 GMT on the 13th of August",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "\"Flag of the Russian Air Force\" decal",
+        "\"Emblem of the Red Army Air Force\" decal",
+        "\"Flag of Air forces of the USSR\" decal"
+      ],
+      "tasks": "苏联3级+飞机赢3场战斗(活跃度≥60%)得三选一纪念贴花(贴花入 Decals→USSR)",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 6337,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The Battle of Kursk",
+      "name_en": "The Battle of Kursk",
+      "name_zh": null,
+      "start": "2019-08-23T15:00:00Z",
+      "end": "2019-08-26T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 23rd of August until 07:00 GMT on the 26th of August",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "RB 历史战斗(库尔斯克):[Enduring Confrontation] Kursk 空战与 The Battle of Kursk 联合作战(3重生,世界大战难度);+30% SL/RP",
+      "sub_events": [],
+      "notes": "苏德载具参战;部分战斗有额外奖励",
+      "confidence": 0.9
+    },
+    {
+      "aid": 6368,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Tankers’ Day: celebrate with us!",
+      "name_en": "Tankers’ Day: celebrate with us!",
+      "name_zh": null,
+      "start": "2019-09-06T15:00:00Z",
+      "end": "2019-09-09T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 6th of September (15:00 GMT) until the 9th of September (9:00 GMT)",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "KV-2 (ZiS-6) 金鹰限时直购截止",
+          "when": "2019-09-09T09:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Decal \"Soviet Army roundel 1918-1943\"",
+        "\"Headset\" Decoration",
+        "\"Star\" Decoration",
+        "KV-2 (ZiS-6) (limited GE purchase)"
+      ],
+      "tasks": "①苏联3级+地面载具随机战斗5胜(活跃度≥60%)得贴花;②坦克特别事件(BR 8.0-9.3,8v8,AB/RB各3重生)各5胜得 Headset/Star 两装饰",
+      "sub_events": [],
+      "notes": "特别事件禁用飞机事件与重生分;地图:废弃工厂、波兰、东欧、Ash River、卡累利阿、库班、诺曼底、渡过莱茵河、斯大林格勒、中东",
+      "confidence": 0.85
+    },
+    {
+      "aid": 6383,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle of Britain",
+      "name_en": "Battle of Britain",
+      "name_zh": null,
+      "start": "2019-09-13T15:00:00Z",
+      "end": "2019-09-16T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "The event begins on September 13th (15:00 GMT) till September 16th (07:00 GMT) — The Battle of Britain",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "参加不列颠空战历史事件(AB/RB/SB 全模式);+30% 研发与银狮加成",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 6388,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "US Air Force day",
+      "name_en": "US Air Force day",
+      "name_zh": null,
+      "start": "2019-09-18T15:00:00Z",
+      "end": "2019-09-20T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 18th of September till 07:00 GMT on the 20th of September",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Emblem of the US Air Force decal",
+        "Flag of the US Air Force decal",
+        "\"Hap Arnold\" Wings emblem decal"
+      ],
+      "tasks": "美国3级+飞机赢3场(活跃度≥60%,除持久对抗与突击)得三选一纪念贴花(贴花入 Decals→USA)",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 6389,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Changes to bulk savings of Golden Eagles",
+      "name_en": "Changes to bulk savings of Golden Eagles",
+      "name_zh": null,
+      "start": "2019-09-26T09:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "1000/2500 GE 批量优惠取消(变为 6.6/16.5 USD,EUR 同);100天高级账户、20天+1500GE、20天+3000GE 组合停售",
+          "when": "2019-09-26T09:00:00Z"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "商店定价调整公告(疑似边界事件,按规则记 true 低置信):原句 \"On 9.00 AM GMT September 26th, bulk savings for purchases of 1000 and 2500 Golden Eagles (compared to the price of 150 GE) will be disabled\";影响 SMS 支付所得金鹰;20/60/180天高级暂不变价",
+      "confidence": 0.7
+    },
+    {
+      "aid": 6394,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Naval Enduring Confrontation",
+      "name_en": "Naval Enduring Confrontation",
+      "name_zh": null,
+      "start": "2019-09-20T15:00:00Z",
+      "end": "2019-09-23T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT on the 20th of September till 07:00 GMT on the 23rd of September",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "AB 海战持久对抗测试([Enduring Confrontation] Saipan):必配舰队 BR 3.7-4.3,可选 1.0-5.7;夺港积分先到15000胜;新场景:护航船队/港口攻防/海军轰炸机",
+      "sub_events": [],
+      "notes": "重生不限次但按维修费扣银狮,舰艇 BR≥4.7 需重生点;官方注明结束时间与奖励在测试期可能调整",
+      "confidence": 0.85
+    }
+  ]
+}

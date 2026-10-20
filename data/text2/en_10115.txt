@@ -1,0 +1,81 @@
+[Event] Nuclear Escalation Returns! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Nuclear Escalation Returns!
+26 June 2026
+Event
+<>After players tested Nuclear Escalation on the Heavy Cavalry dev server, we’re ready to launch the mode on the main servers again!
+<> When: From June 26th (12:00 GMT) until July 6th (11:00 GMT).
+<>Nuclear Escalation will run in the same format as it did on the dev server. Check out the changes since April below!
+<>We’ve refined and improved the large-scale nuclear conflict that you experienced back in April and made numerous changes, but the main ones include:
+<>Players can now fly their own aircraft from any nation
+<>An AI-controlled fleet has been added to the mission
+<>The overall front line has been increased
+<>There’s also changes to game mechanics, various tweaks, improvements and new features. Let’s take a look at them below!
+<> The Tension is Mounting!
+<>All in-game nations can now participate in this version of Nuclear Escalation! Battle Ratings now range from 13.0 to 14.7, and the matchmaking system utilizes Battle Rating brackets within this range as needed, ensuring balanced encounters in every battle.
+<>We’ve also expanded the front line: the line of contact has been extended to the mountains, increasing the map’s tactical depth. Carrier strike groups, supported by missile ships, have been added to control the coastal zone. More modern AI-controlled ground vehicles have been introduced for higher-rank battles in the mode as well.
+<> New Opportunities
+<>We’ve made some major changes to the general event mechanics. The escalation system has been reworked, removing the need for strategic bombers with megaton bombs. Nuclear strikes will now be carried out with bombs of 5 and 30 kiloton yields, carried by the same aircraft that carry nuclear bombs in Ground Battles, depending on the Battle Rating bracket. The behemoths from the April event, the B-52H and Tu-95M bombers, may return as a separate Nuclear Escalation event in the future.
+<>The match completion conditions have also changed. The main base is now easier to destroy, but destroying it no longer grants instant victory. Victory is now determined by the total number of points earned for destroying any target: enemy aircraft, AI-controlled vehicles, and airfields.
+<>In addition, the marker system has been improved when viewing from an aircraft. Markers for ground and surface targets are now displayed depending on the angular size of the target, meaning that markers for buildings are visible 3-5 times further than markers for ground vehicles.
+<>A new respawn mechanic has been introduced. Aircraft are now temporarily locked from respawing on the airfields from which they departed from. Respawning with the same aircraft from other airfields is possible immediately. This change is intended to prevent players from instantly returning to combat in the same position and encourage more cautious, tactical behavior.
+<>And finally, the minimap now features tooltips for respawn bases. Hovering over them provides information about the airfield’s status. This new feature simplifies navigation and improves situational awareness for the team.
+<>The fire control system for air defense vehicles has undergone significant changes here too. Target filters have been implemented, meaning that air defense systems will now engage guided missiles (especially air-to-air missiles and surface-to-air missiles) significantly less frequently. This will only occur if there are no aircraft in the firing range and the air defense system considers the missile an immediate threat.
+<>The event is already live, so buckle up and give ‘em hell!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,159 @@
+[Event] Operation W.I.N.T.E.R. - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation W.I.N.T.E.R.
+Attention! Outdated news format. Content may not display correctly.
+10 December 2021
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>“W.I.N.T.E.R.” begins in War Thunder and with it comes new unique vehicles for every taste, sets of winter gears and other cool prizes with which it will be more fun to welcome 2022.
+<>Happy holidays!
+<>From 11:00 GMT on the 17th of December, 2021 until 11:00 GMT on the 10th of January, 2022
+<>Earn stars ⭐ by completing tasks in the event. The more stars - the more prizes: premium and event vehicles, special decals in the “Female Warriors” series and “Winter gear” decorations!
+<>
+<> C. 202D
+Rank II, Italy, Premium
+<> More about vehicle
+<>
+<> A.C.I
+Rank II, Britain, Premium
+<> More about vehicle
+<>
+<> IJN Hayanami
+Rank II, Japan, Premium
+<> More about vehicle
+<>
+<> МiG-23МF
+Rank VII, Germany, Event
+<> More about vehicle
+<>
+<> TCM AGS
+Rank VI, USA, Event
+<> More about vehicle
+<>
+<> МPK Pr.201K
+Rank IV, USSR, Event
+<> More about vehicle
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+“Female Warriors” decals
+<>
+<>
+<>
+<>
+“Winter gear” decorations for ground forces
+<>
+<>
+“Winter gear” decorations for naval fleets
+<> Vehicle camouflages
+<>Event vehicles of ranks IV-VII and decals will be issued in the form of coupons while premium vehicles of ranks II, decorations and camouflages will be immediately activated on the account.
+<>You will receive an award by collecting the specified number of stars ⭐ in the appropriate vehicle type.
+<>For stars, you can get 7 coupons for “Female Warriors” decals and the 8th coupon for one of the decals is waiting for you on our social media!
+<> Complete the collection!
+<>Players who activate the key from our Facebook group before December the 16th 20:59 GMT will receive one of the “Female Warriors” decals immediately after completing any task for receiving one star.
+<>Activate all 8 decal coupons on your account to receive 9th decal.
+<>More about collections on the WT wiki !
+<> Tasks
+<>To get one Star ⭐ you need to perform any 3 tasks from 5 in random battles (in vehicles of rank III or higher).
+<>The tasks will not change and will be reset every 2 days at 11:00 GMT.
+<> Pilot Star ⭐
+<> whilst controlling aircraft :
+<>Destroy 40 enemies in AB (20 in RB, 14 in SB).
+<> Win 9 battles (with an activity of 70% or higher).
+<>Drop 12 tons of Bomb TNT on enemy bases in total.
+<>Destroy 12 enemies in one battle (4 in RB or 3 in SB).
+<> Help allies 12 times to destroy enemy vehicles.
+<> Tanker Star ⭐
+<> whilst controlling ground vehicles :
+<>Destroy 50 enemies.
+<> Win 11 battles (with an activity of 70% or higher).
+<> Destroy 10 enemies while on an allied point .
+<>Destroy 12 enemies in one battle (6 in RB, 6 in SB).
+<>Help allies 25 times to destroy enemy vehicles.
+<> Sailor Star ⭐
+<> whilst controlling naval vessels :
+<>Cause 30,000 damage whilst controlling a naval vessel.
+<> Win 7 battles in Naval battles (with an activity of 70% or higher).
+<> Destroy 5 enemies while on an allied point.
+<>Destroy 7 enemies with torpedoes whilst controlling a vessel or aircraft.
+<>Win the battle in first place in naval battles.
+<>Highlighted tasks can be performed not only on vehicles of rank III and higher, but also on any event vehicles (even of rank I and II)! Such vehicles has the event name in which it was received in its vehicle card.
+<>You can purchase Stars ⭐ with Golden Eagles without even completing a task until January the 13th, 2022 in the menu: Nickname → Achievements → Operation W.I.N.T.E.R. → Tasks for tankers/pilots/sailors
+<> Detailed terms
+<>The exact terms of the achievement can be found in the game client by clicking on your nickname → Achievements →Operation W.I.N.T.E.R.
+<>To receive a Star ⭐ you need to complete any 3 tasks from 5 for the respective type of vehicles.
+<>You can complete the tasks in random battles (excluding “Enduring Confrontation” and “Assault”).
+<>Tasks highlighted in blue can be completed not only on vehicles of rank III and higher, but also on any event vehicles of lower rank which were obtained as part of major game events. Such as winter and summer marathons, WWII chronicles, BP seasons and craft marathons. In the vehicle cards of such vehicles will be indicated the event names in which it first became available in the game.
+<>You can follow your progress and see the detailed tasks description by clicking on your nickname → Achievements → Operation W.I.N.T.E.R.
+<>A Star ⭐ will be counted as received if the achievements ★ are coloured gold ⭐.
+<>Performing tasks must be completed with the destruction, and assistance in the destruction of player controlled vehicles, NOT AI controlled vehicles.
+<>By completing the task “Win 11 times” in combined ground battles, the task will be counted as completed with the type of vehicle in which you finished the battle (ground vehicle or aircraft of the specified rank). By completing the same task in naval battles, the task will always be counted for naval vessels.
+<>Missed Stars ⭐ can be purchased in the Achievement window until the 13th of January (11:00 GMT), 2022. Don't make a mistake in choosing between the group of achievements - pilots, tankers and sailors.
+<>Prizes received in the form of coupons will be available for trading on the market from 14th of January, 2022. The time from which the coupon can be traded can be viewed in the game in the coupon description. The option of trading each coupon separately depends on the time of its receipt and doesn’t depend on the vehicle coupon.
+<>PlayStation and Xbox players will be able to exchange decal coupons for similar ones. The exchange is available in the “Workshop” - Exchange items “Operation W.I.N.T.E.R”.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,166 @@
+[Special] Event Series: Chronicles of World War II - Day 28 (FAQ added) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Event Series: Chronicles of World War II - Day 28 (FAQ added)
+Attention! Outdated news format. Content may not display correctly.
+7 May 2016
+Special
+1280x1024 | 1920x1080 | 2560x1440
+From April 11th to May 9th
+By popular demand, the “WW2 Chronicles” event series will be available for
+all pilots and tankers, but this time we are adding some cracking prizes!
+Visit the Calendar to see the current Event
+<> Dear players!
+We are launching the “WW2 Chronicles” event series which means that this year players will face new challenges and will able to win some rare, unique valuable prizes. Let’s take a look at the details.
+Like the previous year, the event series means the recreation of World War 2 battles that will be updated on a daily basis (at 13:00 GMT every day) will feature all the main theatres of operations, this year pilots and tankers will be able to receive a very special prize for completing a specific amount of daily tasks.
+Terms and Requirements
+From April the 11th till May the 9th, take part in the “WW2 Chronicles” event series and receive the rare vehicles A34 Comet “Iron Duke” IV, a KV-2 mod. 1940 , an MBR-2 , Richard Bong’s P-38J and other prizes:
+<>
+<> Daily Task for Tankers
+<> Daily Task for Pilots
+<>
+Whilst driving a ground vehicle, destroy 30 enemy ground vehicles (player controlled) to complete one “Tank Task” in the “WW2 Chronicles” event series and receive rewards as well as a “Victory Trophy” for every fourth task completed.
+Whilst flying in aircraft, destroy 30 enemy aircraft (player controlled) to complete one “Aircraft Task” in the “WW2 Chronicles” event series and receive rewards as well as a “Victory Trophy” for every fourth task completed.​
+<>Daily tasks may only be completed in the WW2 Chronicles Events.
+<>Tasks are available for 24 hours and are changed along with the events.
+<>There is a “x2” multiplier for RB and SB modes.
+<>Only vehicles controlled by players are counted towards progress.
+<>You can follow your progress in your Profile -> Achievements-> WW2 Chronicles -> Aircraft or Tanks.
+<>There might be days without tasks for Ground Forces. The requirements for GF achievements will be lower.
+<> Vehicles bellow (A34 Comet “Iron Duke” IV, a KV-2 mod. 1940, an MBR-2 and Richard Bong’s P-38J):
+<>
+<>
+A34 Comet “Iron Duke”
+KV-2 mod. 1940
+MBR-2
+Richard Bong's P-38J
+You are guaranteed to receive the following unique vehicles on completion of the tasks:​
+<>
+<>
+Unique Tanks
+<>
+The A34 Comet “Iron Duke” if you complete 11 ”Tank Tasks”
+<>
+The KV-2 mod. 1940 if you complete 14 ”Tank Tasks”
+<>
+Unique Aircraft
+<>
+The MBR-2 if you complete 15 “Aircraft Tasks”
+<>
+Richard Bong’s P-38J if you complete 22 “Aircraft Tasks”
+<>
+Besides this, for every fourth task you complete you will receive a tanker’s or pilot’s trophy respectively that will contain one of the following:​
+<>Random 50-200% SL or RP booster;
+<>Random camo for aircraft or tanks;
+<>Random talisman for vehicles of ranks II-IV;
+<>30-50% discount for Premium vehicles.
+<>
+If you do not have enough time to complete a daily task, you may purchase “Chronicle Rewards” in the item shop. The following are available and will unlock the respective achievement:
+“Chronicle” Rewards (Tanks)
+“Chronicle” Rewards (Aircraft)
+The announcements about any upcoming battles will be published in the calendar of the “WW2 Chronicles“. You can also follow the evolution of the chronicles event daily in the Event tab - WW2 chronicles.
+--> Visit the Calendar to see the current Event!
+<> Frequently Asked Questions
+<> How many Ground Events (missions) are planned? I missed three tank missions. I want to know whether I can get a KV-2 if I complete missions without skipping any?
+We have 17 ground vehicle missions and 28 aviation missions planned. If you missed 3 Events, you can still get the KV-2. We plan to return all previous missions to the store for a limited time, you’ll be able to buy the ones you’re missing. Keep an eye on our news!
+<> If my Chronicles battle ended after 13:00 GMT when the missions had already been changed, will my completion progress still count?
+Yes, it will still count.
+<> Can you forewarn us on the vehicles for each stage so that we can level them up in advance?
+Focus on the vehicles that took part in the battles up to May 1945.
+<> Do you plan to have a ‘break’ in completing these, say one day per week at least? I.e. days you can skip without losing opportunities to win prizes.
+Days like that have already been set within the event, i.e. you can skip several days and maintain your chance to get the grand prizes. We don’t have plans for additional days. The war waits for no one!
+<> The event is awesome! But the battles in combined RB are overshadowed by an abundance of pilots. Could you place a limit on aircraft?
+Right now we’re developing various options for limiting vehicles in combined Realistic Battles based on the vehicles that actually fought in those battles in real life. We very carefully consider reviews about separate missions in a special thread on the forum. Just try to describe the problem in as much detail as you can. The actual function for placing limits is available to us.
+<> In combined Realistic Battles, my enemy kills while piloting an aircraft aren’t counted.
+If you destroy a player’s tank while piloting an aircraft, this achievement contributes to the aviation mission progress.
+<> If I complete 14 missions, will I get the Iron Duke and KV-2, or only the KV-2?
+If you complete 11 missions, you get the Iron Duke. When you complete your 14th, you get the KV-2. In other ways, they stack – after your 11th mission, you’ll need to complete 3 more, not 14 more.
+<> Do achievements in AB and RB stack or are they counted separately?
+They stack based on a multiplier. I.e. 1 kill in RB/SB is equal to two kills in AB.
+<> So can I buy elapsed Chronicles rewards? I didn’t manage to complete the first mission for tanks. I wanted to buy it for Eagles, but they’re not for sale anymore. Please bring them back!
+We plan to return earlier missions to the store for a limited time, so you’ll be able to buy the ones you missed. Follow the news!
+<> Can I get only one reward in a day, or can I get both a tank reward and an aircraft reward?
+You can get both a tank reward and an aircraft reward in one day. You don’t have to choose between them.
+<> When can I see a full timetable of Events before the Chronicles of World War II event ends?
+The announcement of the Chronicles of World War II events timetable is published every week on Monday. You can see it here.
+<> Why are changes being introduced to the set of available vehicles and the numerical balance of sides before the start of the Chronicles event?
+All the events were balanced in previous launches. But because with each launch of the Events, different players participate in them with different gameplay styles, the balance of sides also changes. To make battles equally convenient for everyone, we keep a careful eye on the balance between victories and defeats and quickly correct the power of each side when necessary.
+<> Why are there less Chronicles tank events than aircraft events?
+Each day is dedicated to a specific battle. If there were no large battles on the ground that day, then there’ll be no tank battle. The requirements for the amount of completed missions to get prizes takes into account the available ground Events.
+<>
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

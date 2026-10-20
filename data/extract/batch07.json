@@ -1,0 +1,248 @@
+{
+ "results": [
+  {
+   "key": "2024_flight_of_the_vulture",
+   "start_override": "2024-11-27T11:00:00Z",
+   "end": "2024-12-11T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From November 27th (11:00 GMT) until December 11th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "长空鹰扬，IAR-93B 出击！",
+   "zh_id": 1858,
+   "deadlines": [
+    {"what": "“升级券”(Upgrade for coupon)道具有效期,可升级兑换券或换战争债券", "when": "2024-12-14T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-12-13"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "空战(街机/历史/全真)III级及以上攒任务分,每阶段35000分,共7阶段,每2天11:00 GMT刷新;7阶段得IAR-93B(意大利VI级活动机)不可交易券;另攒60万分得“升级券”,升级后5天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2024_legend_of_victory_eremin_s_yak_3",
+   "start_override": "2024-05-08T11:00:00Z",
+   "end": "2024-05-20T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From May 8th (11:00 GMT) until May 20th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "埃雷明座机登场，续写不朽胜利传奇！",
+   "zh_id": 1529,
+   "deadlines": [
+    {"what": "“升级券”道具有效期,可升级兑换券或换战争债券", "when": "2024-05-23T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-05-23"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度349金鹰,95%进度139金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "胜利传奇系列空战活动:空战III级及以上攒任务分,每阶段35000分,共6阶段,每2天刷新;6阶段得雅克-3埃雷明座机(苏联III级金币机)不可交易券;另攒50万分得“升级券”,升级后6天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "主奖励为金币高级载具而非活动树载具;胜利日(5月9日)纪念活动"
+  },
+  {
+   "key": "2024_inferno_cannon",
+   "start_override": "2024-04-24T11:00:00Z",
+   "end": "2024-05-08T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "When: From April 24th (11:00 GMT) until May 8th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "烈火雷鸣轰响，PLZ83/130 出击！",
+   "zh_id": 1508,
+   "deadlines": [
+    {"what": "“升级券”道具有效期,可升级兑换券或换战争债券", "when": "2024-05-11T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-05-11"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度449金鹰,95%进度179金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "陆战III级及以上攒任务分,每阶段35000分,共7阶段,每2天刷新;7阶段得PLZ83-130(中国V级活动车)不可交易券;另攒60万分得“升级券”,升级后6天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2024_imperial_flagship",
+   "start_override": "2024-03-14T11:00:00Z",
+   "end": "2024-04-01T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From March 14th (11:00 GMT) until April 1st (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "帝国旗舰奏响凯歌，巴登磅礴起航！",
+   "zh_id": 1464,
+   "deadlines": [
+    {"what": "“升级券”道具有效期,可升级兑换券或换战争债券", "when": "2024-04-04T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-04-04"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "海战街机/历史III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得巴登号战列舰(德国VI级活动船)不可交易券,9阶段得三色涂装+4随机改装件;另攒75万分得“升级券”,升级后6天可上市",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "新周期活动首轮海战事件;9阶段奖励改装件需巴登号已激活才能领取"
+  },
+  {
+   "key": "2024_sword_of_justice",
+   "start_override": "2024-02-22T11:00:00Z",
+   "end": "2024-03-11T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From February 22nd (11:00 GMT) until March 11th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "“正义之剑”出鞘，美洲虎 IS 强势来袭！",
+   "zh_id": 1415,
+   "deadlines": [
+    {"what": "“升级券”道具有效期,可升级兑换券或换1600战争债券(主机仅可换债券)", "when": "2024-03-14T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-03-14"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "空战III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得美洲虎IS(英国VII级活动攻击机)不可交易券,9阶段得专属涂装+4随机改装件;另攒75万分得“升级券”,升级后6天可上市",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2024_call_of_the_dragon",
+   "start_override": "2024-02-01T11:00:00Z",
+   "end": "2024-02-19T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From February 1st (11:00 GMT) until February 19th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "巨龙召唤：赢取 292 工程！",
+   "zh_id": 1382,
+   "deadlines": [
+    {"what": "“升级券”道具有效期,可升级兑换券或换战争债券", "when": "2024-02-22T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-02-22"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": null, "percent": 50, "note": "进度85%时购买阶段半价,95%时降至1/5;正文未给具体金鹰价格示例"}
+   ],
+   "tasks": "迎接龙年陆战活动:陆战III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得292工程(苏联VII级活动车)不可交易券,9阶段得加载背景;另攒75万分得“升级券”,升级后6天可上市",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "新周期活动首个事件,2024甲辰龙年(春节)主题;贴花装饰为龙元素"
+  },
+  {
+   "key": "2023_winter_extreme",
+   "start_override": "2023-12-20T11:00:00Z",
+   "end": "2024-01-09T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From December 20th 2023 (11:00 GMT) until January 9th 2024 (11:00 GMT)",
+   "type": "festive",
+   "name_zh": "冰暴狂潮：冬日佳节赢好礼！",
+   "zh_id": 1332,
+   "deadlines": [
+    {"what": "错过纪念印记金鹰补购截止", "when": "2024-01-11"},
+    {"what": "“雪人”与“胡萝卜”道具(含未开启)从仓库删除", "when": "2024-01-15T12:00:00Z"},
+    {"what": "“升级券”道具有效期,可升级兑换券或换战争债券", "when": "2024-02-01T12:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "冬季节日打分任务:陆/海/空对应模式III级以上(活动载具I级起)每40000分得1纪念印记,任务每2天刷新;8印记得对应活动车不可交易券(J9 Early为II级金币直发),10印记得“升级券”;错过印记可金鹰补购",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "奖励载具:J9 Early(瑞典II级金币)、Mirage 2000C-S4(法VIII级)、Vilkas(德VII级)、USS Mississippi(美VI级);“雪人”宝箱10000银狮/胡萝卜钥匙50000银狮复刻历届冬季活动物品,Type 62(苏联)掉率约0.001%;另有999金鹰圣诞宝箱(期望值约为售价1.5倍)"
+  },
+  {
+   "key": "2023_tokushu_heiki",
+   "start_override": "2023-09-26T12:00:00Z",
+   "end": "2023-10-09T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "When: From September 26th (12:00 GMT) until October 9th (12:00 GMT)!",
+   "type": "craft",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "材料市场交易截止", "when": "2023-10-16T11:30:00Z"},
+    {"what": "导弹部件组装截止;材料与导弹部件同时从库存及市场删除", "when": "2023-10-16T12:00:00Z"},
+    {"what": "测试报告兑换载具截止;除载具券外全部活动物品从库存与市场删除", "when": "2023-10-23T12:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "全模式打分:每2500分得资源箱(日限30/全场360)开材料,集料组装16个导弹部件并试飞找故障件交报告;每7500分得开发数据表(日限10/全场120),20张合进度报告,再与目标毁伤报告合成测试报告;Ki-48-II otsu兑1张,IJN Kurama/LOSAT/F-100F各3张",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "拼装活动;本期掉落窗口13天(此前11天)、最多可组装6次(此前4次),即最多可得2个3报告主奖;IJN Kurama/LOSAT/F-100F自活动开始至10-23可兑,Ki-48-II otsu自10-16(主机10-9)至10-23可兑;主机端无市场,可金鹰购买材料与打字机(每7500分4张数据表);首次开放全真空战掉落"
+  },
+  {
+   "key": "2023_summer_extreme",
+   "start_override": "2023-08-08T11:00:00Z",
+   "end": "2023-08-28T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 11:00 GMT on the 8th of August, until 11:00 GMT on the 28th of August",
+   "type": "marathon",
+   "name_zh": "夏日狂飙",
+   "zh_id": 1111,
+   "deadlines": [
+    {"what": "错过纪念印记金鹰补购截止", "when": "2023-08-31"},
+    {"what": "“冰淇淋桶”与“甜点勺”道具(含未开启)从仓库删除", "when": "2023-09-04T12:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "夏季打分任务:陆/海/空对应模式III级以上(活动载具I级起)每40000分得1纪念印记,任务每2天刷新;8印记得对应活动车不可交易券,10印记得“升级券”;错过印记可金鹰补购",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "奖励载具:Pz.Sp.Wg.P204(f) KwK(德I级金币直发)、HMS Renown(英V级)、CT-CV 105HP(瑞典VI级)、Su-25BM(苏VII级);可交易券9月1日起方可上市;“冰淇淋桶”复刻历届夏季活动物品,IS-7掉率约0.001%"
+  },
+  {
+   "key": "2023_repair_factory",
+   "start_override": "2023-04-06T12:00:00Z",
+   "end": "2023-04-17T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 12:00 GMT on the 6th of April until 12:00 GMT on the 17th of April",
+   "type": "craft",
+   "name_zh": "“机甲维修工厂”",
+   "zh_id": 961,
+   "deadlines": [
+    {"what": "材料市场交易截止", "when": "2023-04-24T11:30:00Z"},
+    {"what": "外骨骼拆装修复截止;除验收凭证与载具券外活动物品从库存与市场删除", "when": "2023-04-24T12:00:00Z"},
+    {"what": "验收凭证兑换载具截止,逾期凭证删除", "when": "2023-05-01T12:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "全模式打分(含机动步兵模式):每2500分得材料箱(日限30/全场300,每箱3-6材料),每7500分得装箱模块(日限10/全场80),战斗第一名得工厂升级工具包(全场300);拆修零件组装5台完好外骨骼装运得验收凭证;AMD 35兑1张,QN-506/Shcherbakov/A-7K各3张",
+   "sub_events": [],
+   "confidence": 0.92,
+   "notes": "拼装活动;材料交易规则改版:以空白智能合约1:1打包可交易材料,误打包仅损失合约;QN-506/A-7K/Shcherbakov自活动开始至5-1可兑,AMD 35自4-24(主机4-17)至5-1可兑"
+  },
+  {
+   "key": "2022_winter_quest",
+   "start_override": "2022-12-20T11:00:00Z",
+   "end": "2023-01-09T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 11:00 GMT on the 20th of December, 2022 until 11:00 GMT on the 9th of January, 2023",
+   "type": "festive",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "“冰箱”与“万能钥匙”道具(含未开启)从仓库删除", "when": "2023-01-09T12:00:00Z"},
+    {"what": "错过纪念印记金鹰补购截止", "when": "2023-01-12"}
+   ],
+   "discounts": [],
+   "tasks": "冬季节日打分任务:陆/海/空对应模式III级以上(活动载具I级起)每40000分得1纪念印记,任务每2天刷新;8印记得对应活动车不可交易券,10印记得“升级券”;错过印记可金鹰补购",
+   "sub_events": [],
+   "confidence": 0.85,
+   "notes": "奖励载具:Late 298D(法I级金币直发)、T-80UM2(苏VII级)、Tornado IDS Marineflieger(德VIII级)、USS Newport News(美V级);中文站3篇候选均非本活动,故无中文对照;可交易券1月13日起方可上市;“冰箱”复刻历届冬季活动物品,Type 62(苏联)掉率约0.001%;另有999金鹰新年宝箱"
+  },
+  {
+   "key": "2022_project_overpowered",
+   "start_override": "2022-09-22T12:00:00Z",
+   "end": "2022-10-06T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From September 22nd (12:00 GMT) until October 6th (12:00 GMT)",
+   "type": "craft",
+   "name_zh": "“太强了必须砍”计划",
+   "zh_id": 761,
+   "deadlines": [
+    {"what": "材料市场交易截止", "when": "2022-10-10T11:30:00Z"},
+    {"what": "零件组装截止;除成品/组装中波-2与载具券外活动物品从库存与市场删除", "when": "2022-10-10T12:00:00Z"},
+    {"what": "波-2“亲爹赐福”版全部回收,载具兑换截止", "when": "2022-10-17T12:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "全模式打分:每3000分得材料箱(日限25/全场250,每箱4-6材料),每15000分得胶带条(日限5/全场40),战斗第一名得航空工程师工具包(全场300);材料制零件并精修,组装波-2“亲爹赐福”版;波-2M兑1架,SMS Ostfriesland/CCVL/Jaguar E各3架",
+   "sub_events": [],
+   "confidence": 0.85,
+   "notes": "活动自原定10月3日延长至10月6日,延长期间追加3个材料/胶带任务;正文条款处仍残留10月3日旧掉落截止表述;SMS Ostfriesland/CCVL/Jaguar E自活动开始至10-17可兑,波-2M自10-10(主机10-3)至10-17可兑"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+[Warbonds] “Her Majesty’s Hussar”: Warbonds - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Her Majesty’s Hussar”: Warbonds
+26 April 2023
+Warbonds
+<>The Warbond shop for the “Her Majesty’s Hussar” Battle Pass season will be open from 26th of April until 26th of July.
+<>Noble hussars, it’s time to learn what you can spend your Warbonds on that you will earn in the Battle Pass! As usual, we have decals, decorations, camouflages, a new stylish pinup, and six premium vehicles, three of which are available in the shop for the first time!
+<>
+Pay special attention to the M4A4 (1st PTG), the famous American Rank II tank flying the Chinese flag — it’s a versatile vehicle that can fight off almost any enemy tank.
+<>The Warbond shop is available to players that have vehicles of rank III and up and is part of the Battle Pass . You can purchase items with the special ‘Warbond’ currency that can be obtained by unlocking Battle Pass levels.
+<> More on Warbonds
+<> KM-5 — first time in
+the shop
+<>A rank I German motor torpedo boat that was used in the Eastern front in World War II as a minelayer on lakes and rivers. Its fragility and lack of powerful armament are compensated by its high speed and low profile.
+<> VL Pyörremyrsky — first time in the shop
+<>You’ll find this Finnish “Hurricane” in Rank III of the Swedish aviation tree. This fighter, which was created to replace the Bf 109, has very good climb rate and maneuverability, and also boasts a powerful front 20 mm cannon and a couple of 12.7 mm machine guns. To deal with ground targets, it can carry four 50 kg or 100 kg bombs.
+<> M4A4 (1st PTG) — first time in the shop
+<>An American medium tank that arrived in China via Lend-Lease. Decent speed allows it to rush to tactically advantageous positions, while its 75 mm cannon with a vertical stabilizer rotates quite quickly. It can also frontally penetrate and even one-shot many opponents.
+<> Thunderbolt (PT-556)
+<>This rank III American motor torpedo boat has amazing speed: up to 106 km/h in Arcade battles! Onboard are four torpedoes, five 20 mm autocannons protecting its aft and front, two 12.7 mm machine guns and a frontal 37 mm gun that can be loaded with AP shells.
+<> Hudson Mk V
+<>A British Rank II bomber with an impressive suspended armament that’s capable of destroying an entire base and damaging another one. Featuring a double 7.7 mm Browning machine gun in its dorsal turret that can dismantle almost any enemy that approaches this aircraft!
+<> SU-57
+<>An American self-propelled tank destroyer T48 serving in the Soviet army. Thanks to its minimal armor, it’s quite agile and can easily move to a different place after each attack, while its 57 mm M1 cannon can easily penetrate armor of enemies on Ranks I-II.
+<>Other Items:
+<>"Taurus Zodiac" pinup
+<>decals
+<>player icon
+<>decorations
+<>
+<>"Taurus Zodiac" pinup
+<>Decals are represented in the trophy, alongside decals from the 2021 Warbonds shop, as well as a new “Taurus Zodiac” pinup which continues the series of themed decals. The camouflage decoration trophy will provide you with floral decorations that will help you make your vehicle less noticeable. The player icons in the corresponding trophy this time features USSR tankers. Trophies with random camouflages, as before, become available as new store levels are opened.
+<>A large number of usable items are also available in the store: boosters, universal backups, wagers and orders, test drives of premium vehicles — even talismans on the highest levels of the shop.
+<>Check out the full assortment of available Warbond items for the current Battle Pass season and the terms for purchasing them in the game by opening the Battle Pass window or “Shop -> Warbond Shop”!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

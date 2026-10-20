@@ -1,0 +1,76 @@
+[Special] The first combat mission of the "Flying Tigers" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The first combat mission of the "Flying Tigers"
+Attention! Outdated news format. Content may not display correctly.
+20 December 2021
+Special
+<>On the 20th of December 1941, a Chinese air force unit of volunteers from the United States under the informal designation "Flying Tigers" received its first baptism of fire. The “Tigers” had to repel an attack of Japanese bombers flying from the south towards the Burma road, which was of strategic importance for supply delivery to China.
+<>In this raid, the fighter group opened its own battle count and the Japanese were unable to deliver their bombs to their target, instead, turning and fleeing whilst losing four aircraft.
+<>Feel like one of the legendary squadron pilots in the P-40 series fighter!
+<>Complete the task from 11:00 GMT on the 20th of December until 11:30 GMT on the 22nd of December and get the reward!
+<>Rewards
+<>Completing the “First combat mission of "Flying Tigers” task will bring you a battle trophy with one of the following rewards:
+<> 10-30% RP booster for 3-10 battles
+<> 10-30% SL booster for 3-10 battles
+<>Task
+<>Destroy 20/10/10 (AB/RB/SB) player vehicles whilst controlling specified vehicles in random battles
+<>Tasks can be completed only on vehicles from the list:
+<> P-40C, P-40E-1, P-40E-1 TD, H-81A-2, P-40E-1 (China), P-40E-1 (USSR), P-40F-5 Lafayette
+<>Follow the progress by clicking on your nickname → Achievements → Memorial Date.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

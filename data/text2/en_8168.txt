@@ -1,0 +1,78 @@
+[Special] 100th Anniversary of the Italian Air Force - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+100th Anniversary of the Italian Air Force
+28 March 2023
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>The Italian Royal Army founded its air arm back in 1884, when it decided to use aerostats for military purposes. But a separate Air Force was founded on March 28th, 1923 — precisely 100 years ago. In the 1930s it participated in military operations in Ethiopia and Spain, in the 1940s it fought in WWII as a part of Axis powers (and then partially for Allies), and in 1990 it took part in the Gulf War in an international coalition.
+<>From March 28th (14:00 GMT) until March 31st (07:00 GMT), play 3 battles using Italian aircraft (rank III or higher, with an activity of not less than 70%) to receive the “100th Anniversary of the Italian Air Force” decal.
+<>Complete the task in random battles, except for Enduring Confrontation missions and [Assault] mode. Track your progress in the hangar by clicking Nickname → Achievements → Holidays → 100th Anniversary of the Italian Air Force.
+“100th Anniversary of the Italian Air Force” decal
+<>You can find the decal in the “Holidays” tab in the Customisation menu.
+<>C. 205 serie 3 anniversary camouflage
+<>
+<>
+<>
+<>
+<>As a part of the celebrations we’ve added an anniversary camouflage for C. 205 serie 3 — with a golden eagle, an Italian flag and a number commemorating the anniversary. To receive the camouflage, complete the following task.
+<>Win 5 battles in Italian aircraft (rank III or higher, with activity of not less than 70%) and receive the “100th Anniversary of the Italian Air Force” camouflage for C. 205 serie 3.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

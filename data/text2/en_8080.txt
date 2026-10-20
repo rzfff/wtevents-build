@@ -1,0 +1,108 @@
+[Event] World War Mode news - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+World War Mode news
+7 February 2023
+Event
+<>We would like to present to you the next batch of changes in the “World War” game mode and inform you about the upcoming opportunity to test your skill in historical battles.
+<> More about World War
+<>Nordwind
+<>From 12:00 GMT on the 16th of February until 12:00 GMT on the 20th of February
+<>Participate in the World War mode operation “Nordwind”
+<>Operation “Nordwind” has been updated. We have seriously redesigned the vehicle groups and army compositions to give you more tactical options. For example the M18 GMC has been moved from the SPG group (now this group will be designated “Medium SPG”) to a separate group “Light SPG” that also includes its premium version, so you no longer have to choose between the power of the M36 GMC or the mobility of the M18 GMC - both can be used in one battle. The aircraft groups have also undergone a noticeable change - fighters are now divided into separate groups according to the models. A small number of Me 262 A-1a/Jabo are available to the German side in reinforcements and along with significant rebalancing of army and reinforcements this operation can be played out in a new way
+<> Check out the current list of available vehicles.
+<>Past changes
+<>Right during the previous launch of the game mode in November last year we managed to make some important and noticeable changes that unfortunately we had no opportunity to talk about - now we are correcting this oversight.
+<>We have removed the timer for players to enter battles in all operations. Previously squadron players had a few minutes to prioritize entering the battle during which other players in that operation could only look at the battle on the global map and wait for their turn. In past implementations of player entry into WWM battles via the global battle list - this solution was justified and useful as a huge number of players from the global battle list scored the most relevant battles in a few seconds. Now we let a strictly limited number of players into each operation and the timer for entering a battle no longer makes sense. Squadron players have priority to enter their operation within the first 10 minutes of its start, during which time random players will not be able to join the operation through the main World War menu. Accordingly, if squadron players take all 80 available places in their operation during the first 10 minutes and will play in that composition until the end, no random player will be able to join them as was the case with previous global battle list mechanics.
+<>We have removed the restriction (ban) on random players entering the battle based on the imbalance of sides in the battle. Previously this restriction (ban) didn’t apply only to squadron players - they could stand in full against a less prepared opponent in battles with any numerical superiority. Random players in this situation were forced to look at this battle only on the global map, waiting for the next one or looking for a new operation. Now the system of searching for an operation by players balances the amount of players in the operation by not connecting players in the operation itself in which the chosen side is already outnumbered. Thus unbalanced battles can still occur in operations with difference in numbers of participants for each side (which could not be compensated by random players looking for an operation through the search menu) but all players in an operation can play all the battles of that operation and they no longer have to spend most of their time searching for the right battle.
+<>We have been actively collecting your questions and comments in the forum section for WWM and have compiled a summary of them with detailed answers.
+<>Improving the mechanics of the operation search
+<>In the previous paragraph we mentioned several times the new operation search mechanics that should distribute random players from the general search queue to suitable operations without allowing the number of players in them to overflow and become unbalanced. Under real life conditions we found flaws in this system that were not revealed by synthetic tests which in some cases led to ignoring our given constraints on the maximum allowed number of players in an operation and allowed imbalance. The system has been redesigned by taking into account the detected features and is ready now for a new test.
+<>Also, after quitting an operation and trying to find a new operation, the player has been removed from the player list of the operation only after 10 minutes (the maximum allowable time of inactivity in the operation) due to which such “dead souls” could accumulate in the player list of operations. Now when joining a new operation the player will be removed from the list of active players of the previous operation and the maximum time of inactivity has been reduced to 5 minutes. The activity of the player (not the commander) in this case is the presence of the player in the window of the selected WWM operation or in any of its battles.
+<>Thus the list of the players in operations should be more up-to-date that will allow the operation search system to find a more appropriate operation and the system itself has become noticeably better in technical terms.
+<>Deserved reward
+<>We have received a huge amount of comments from operation commanders that their work in the WWM between seasons wasn’t rewarded in any way, even though it was very difficult and important. It is hard to argue with these arguments so we have added a Silver Lions reward for commanders at the end of each operation. The reward will be calculated at the end of each operation based on the sum of the mission points of all players in all battles of the operation and distributed evenly to all commanders of that operation based on their activity (more about commanders activity). The additional reward multiplier is different in case of victory (1.1) or defeat (0.9). For example if there are two commanders with an activity of 25% and 75% and the sum of all players points in all battles of the operation is 100000 they will receive 0.25 * 100000 * 1.1 = 27500 and 0.75 * 100000 * 1.1 = 82500 Silver Lions respectively for their efforts in command. According to our calculations a full playable operation (1.5-2 hours) will bring their commanders about 250,000-500,000 Silver Lions.
+<>At the same time, we are wary of creating many rash operations whose commanders would like to get an easy reward without putting any effort in it. Therefore from now on the creation of WWM operation is a paid service. Its cost will currently be 70,000 SL that will be deducted from the player who has declared the squadron for a WWM operation at the time the squadron will enter the operation. Placing the squadron in the opponent’s search queue in case of an early withdrawal from the queue will not result in a waste of game currency.
+<>At the same time we are well aware of the situation of a quick victory over the enemy (primarily when its commanders are inactive). In such cases the winning team may not have enough time to score enough points in battles to make the requester commander's operation balance positive. Therefore for him the operation reward will be recalculated additionally to compensate the expenses: if his calculated commander reward will be less than the activity times the operation creation costs - it will increase to that value. For example in the case of a quick victory over the enemy in which only 20,000 mission points have been earned in battles if there are two commanders - 80% activity for applicant and 20% activity of second commander the commanders rewards will be calculated as follows. Calculated reward for applicant will be 0.8 * 20000 * 1.1 = 17600 SL which is less than the product of the activity by the creation cost of the operation (0.8 x 75,000 = 60,000), so his reward will be raised to 60,000 SL. For the second commander the reward will be 0.2 * 20000 * 1.1 = 4400 without any additional recalculations. Expenditure compensation applies only to the requesting commander as it is aimed only at compensating expenditures not at increasing the reward in quick operations. Spend compensation is proportional to the applicant commander's activity in order to avoid attempts to transfer game currency through it.
+<>Bonus reward for soldiers and operation results window
+<>Bonus reward based on the results of the WWM operation was always there but has been displayed only in the message with the results of the operation so few people guessed about it. Now at the end of the operation all its participants who made any contribution will be shown a pop-up window with details of personal achievements and bonus reward which will be calculated from the sum of the Silver Lions earned in all battles of the operation and is in case of victory 30% of this amount and in case of defeat 10%.
+<>For commanders the operation results window will also show the sum of all players' points in all battles of the operation and the commander's personal activity, the parameters from which the command reward will be calculated.
+<>All these values are also duplicated in the message with the operation results and you can always return to them to re-examine them.
+<>Battle group
+<>This is the name of a special type of squad of ten whose participation is only allowed in WWM battles. In the past, any change to the battle group would reset it back to a normal four man squad by making it almost impossible to use. We have corrected all the problems we found and are happy to announce that you can now play WWM battles again with as many as ten squads of comrades!
+<>Defense In Depth
+<>Tank armies in WWM differ markedly from infantry armies in both quantity and quality of available vehicles as well as some game mechanics. Infantry armies move noticeably slower than tank armies, but are faster to entrench, making them ideal for creating and replenishing front lines. Tank armies on the other hand are needed for breakthroughs and encircles although no one prevents them from being trenched on important parts of the front.
+<>By entrenching a tank army, the commander deprives himself of an important offensive and quickly maneuverable unit which he can not move in this state and has to wait again each time for a long entrenchment time in case the front line moves. The long entrenchment of a tank army is now reflected in the new mission mode - Onslaught / Defense In Depth.
+<>When attacking an entrenched tank army, be prepared to do more than just storm the enemy fortifications and seize a strategic point - now you have to do it twice! When you capture a point on the first line of defense, the mission combat area expands and shifts, a new capture point appears deeper in the rear of the defenders and the attackers must make another decisive dash to capture it and win the battle.
+<>Invitation to the operation
+<>One more point inspired by your ideas and wishes. Many of you have been playing War Thunder for a long time and have many friends with whom you play together from time to time. But at the same time you and your friends can be in different squadrons for some historical or game reasons. You can play WWM together in a squad but what if one of you is the commander? We added the mechanic of inviting other players from your contact list to the operation (similar to inviting a squad). Sending an invitation is available in the operation window for squadron players with the rank of Sergeant or higher.
+<>Other changes
+Current and maximum number of air armies has been added to the airfield panel.
+A hint about the impossibility to raise an air army if the army limit has been reached has been added on the airfield panel.
+The maximum number of the respawn scores has been reduced to 300. There are no more rare vehicles in operations on which you can respawn outside of the vehicle allocation for a significant amount of respawn scores (over 1000) and air and AAA have a significantly lower price (100-150 scores) so the former respawn score limit becomes severely overstated.
+The damage model for trucks used in convoys adds a second crew member to the passenger seat who can replace the driver if necessary.
+The damage model of trucks used in convoys has been replaced by a closer research tree model. Previously these trucks had an increased chance of fire and a more fragile damage model overall.
+AA Defence and Air Raid missions have been reworked:
+now, the AI vehicles that are not the mission objective and whose destruction doesn’t reduce the number of defender points don’t appear in the mission;
+now, when attacking an infantry army, infantry platoons from the army will be replaced in missions not with SPAAGs but with anti-tank guns as in the Advance to Contact / Defense missions;
+now, when attacking an artillery army, the AI vehicles will not fire at the aircraft.
+In all asymmetric missions, in which the loss of attacker points occurs with the time of the mission, a timer to the end of the mission has been added under the team points, the value of which corresponds to the timer in the statistics window of the mission.
+In all modes the marking of AI-controlled vehicles which are mission objectives has been removed. Thus, it will become impossible to determine the approximate location of the targets by the arrows on the edge of the screen.
+In the Column / Column Interception missions when the convoy advances, the old spawn points of the defenders will not be deleted but remain active along with the newly added ones.
+<> Discuss on the forum
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

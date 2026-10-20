@@ -1,0 +1,101 @@
+Flying Aircraft Carriers - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Flying Aircraft Carriers
+Attention! Outdated news format. Content may not display correctly.
+26 July 2014
+Everybody is familiar with naval aircraft carriers, the massive hulks of steel which carry upon them countless aircraft, ready to fly in a moment’s notice. What if the same could be done in the air, instead of on the sea?
+The “Zveno” project, (Проект «Звено», meaning Chain Link in Russian) was the first project to ever give wings to the concept of an air-based aircraft carrier. In June 1931, Vladimir Sergeyevich Vakhmistrov of the NII VVS (Научно Исследовательском Институте Военно Воздушных Сил– Scientific Test Institute of the Air Force) began work on a bomber design that could carry multiple smaller fighters on top of it.
+The idea behind this was to make a bomber with inherent defensive capabilities, launching its fighters when presented with danger, much like a carrier spacecraft would do with drones in many Sci-fi movies. It was also a means of transporting those same fighters beyond the range which they would be able to cover themselves. This would allow them to carry bombs with which they would never be able to take off, dropping them in a dive-bombing manoeuvre, then returning to their fighter roles.
+<>
+<>
+<>
+The Zveno-1, with the TB-1 and two I-4’s
+The ‘mothership’ proposed for the early prototype of the Zveno project, the Z-1, which successfully took flight in December 1931, was the Tupolev TB-1 heavy bomber, the biggest Soviet airplane at the time, while the fighters which were to be attached to it were Tupolev I-4’s, albeit with their bottom wings removed completely to allow room for the locking mechanism. It was continually upgraded, the Zveno-2 model featuring a TB-3 with three I-5’s, two on the wings and one on the fuselage. The Zveno-5 featured a single Grigorovich I-Z which was attached to the bottom of the TB-3. Due to a lack of ground clearance, the I-Z had to attach during flight, and was able to disengage and attach during flight, the first time something like that was ever achieved.
+<>
+<>
+<>
+The Zveno-5, a TB-3 docking with a Grigorovich I-Z
+The Zveno-7 consisted of the same TB-3 bomber, however with two Polikarpov I-16 fighters. These fighters had to dock in the air, and reattaching after disengaging from the bomber was possible. However, it proved to impractical to be produced. However, leading on from this idea, the TB-3-4AM-34FRN bomber, a better cousin of the Tupolev TB-3, was outfitted with two I-16 under its wings, each carrying a pair of 250 kg (550 lb) FAB-250 bombs. This outfit was then produced and used extensively in WW2. It was named the SPB (Составной Пикирующий Бомбардировщик - Combined Dive Bomber).
+<>
+<>
+<>
+The Zveno-SPB, the final iteration of the Zveno planes
+The Zveno-SPB saw limited but very successful combat use during the Soviet-German war. The target was the Constanza oil depot, which was given to them as a combat test. The reason for this was that the original target, the King Carol I bridge over Danube had several attempts made from the Soviet airforce to destroy it. However, all conventional bombers failed the mission. The Zveno planes were sent in to see if they could do better. 2 planes were sent in the direction of the Constanza harbor on the 26th July 1941.. The 4 I-16 Ishaks disengaged from their TB-3’s about 40km from the harbor. The I-16s successfully dropped their bombs on the depot with no losses whatsoever. THe FLAK cannons in the area did not even attempt to shoot down the planes, as they were in disbelief that 4 I-16’s could make it that far out from their base.
+Due to the success of the test operation, the Zveno planes were sent to the King Carol I bridge to destroy it on the 10th August 1941. Of the three that were launched, one of them had to turn back due to mechanical problems. However, the other two successfully launched their fighters, which returned back home with barely a scratch, despite heavy anti-aircraft fire. The second operation took place 3 days later, on the 13th of August, and all three Zvenos managed to launch their fighters successfully. The fighters managed five direct hits, and heavily damaged the bridge. They soon managed to bring another 2 Zveno-SPB’s to working condition, bringing the total to 5 planes. In the following days, the Zveno planes continued to participate in hit-and-run missions, all of which ended successfully, with only one I-16 being shot down. It is estimated that the planes flew around 30 missions. However, the TB-3 and I-16 were beginning to become obsolete, and the planes were expelled from service.
+<>
+Sergej "NuclearFoot" Hrustic
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

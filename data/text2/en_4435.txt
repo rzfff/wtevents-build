@@ -1,0 +1,123 @@
+[Shop] How can you get premium vehicles? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get premium vehicles? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+30 December 2016
+Shop
+<>
+Pilots and Tankers,
+Another month comes to a close as well as the end of the year. As War Thunder pilots and tankers are already participating in various winter holidays activities and events, we couldn't forget some new items in the Warbonds shop! January will bring completely new vehicles, that have never been available in the warbonds shop before.
+In order to receive them, just complete daily Battle tasks in War Thunder battles and earn a special currency - “Warbonds”, which can be used to purchase vehicles previously only obtainable with Golden Eagles!
+<>
+<> Three of the five available vehicles:
+<> A1E1 Independent
+<>
+From the nation that originally created the tank, comes the British multi-turret A1E1 that fathered almost all multi-turret tank designs of the period. An inter-war design, the Independent bares many of the classical WW1 style tank philosophies into its design, whilst also offering new possibilities. This iron “landship” will be sure to strike fear into the hearts of all who see this beast advancing towards them!
+<> P-51D-10
+The ever famous P-51D is a staple tier IV American fighter aircraft, this time adorned with the markings of Ray S. Wetmore’s “Daddy’s Girl”. This unique premium version of the P-51 is the D-10 variant, similar to its researchable D-5 counterpart, in that it can equip HVAR and M8 rockets, as well as 100, 250, 500 and even 1000lb bombs. This American icon is armed with the standard 6 x 12.7mm 50.cal M2 Browning machine guns, making it a formidable foe to targets both in the skies and on the ground.
+<> Neubaufahrzeug
+The German take on the multi-turret layout, the Neubaufahrzeug packs more of a punch than its British predecessor, with a combined 75mm and a coxal 37mm mounted within its primary turret as well as two machine gun turrets, mounted front and rear. This German multi-turret terror is a classic example of German efficiency and superb engineering!
+<>
+You can get these machines just by playing!
+<>The current war bonds will not be removed immediately at this time, you will still be able to use them only until the 7th of January for the purchase of some goods in the war bond shop.
+<>
+5 different premium vehicles from different nations and other items will be available in the “Warbonds” shop this month:
+<>
+<>A1E1 Independent
+<>P-51D-10
+<>Nb.Fz.
+<>Golovachev's Yak-9M
+<>Ki-96
+<>“Fly Navy” emblem; Decal by Colin 'Fenris' Muir
+<>Supply boxes (3D decorations - Signs)
+<>Supply boxes (3D decorations - other)
+<>Supply boxes containing 100/200/300/500/700/900% and boosts valid for 1 battle
+<>Premium booster: + 250% for 2 battles.
+<>Supply box with vehicle rent for 1 to 24 hours for the following vehicles:
+<>Fw.190D-9 (USSR)
+<>M26E1
+<>B-17E (Japan)
+<>Bfw. Jagdpanther
+<>AC IV Thunderbolt
+<>Order
+<>
+<>
+“Fly Navy” emblem; Decal by Colin 'Fenris' Muir
+Battle tasks - these individual tasks bring variety into the game and prevent situations when all the players in a battle try to complete one specific task ignoring mission objectives needed for a victory. They are available for players that have reached the 3rd rank of any nation. For completion, the player will receive Silver Lions and Warbonds , a special in-game currency with their own shop where you can purchase a lot of different items.
+You can read more about battle tasks and war bonds in our devblog .
+Enjoy the new items available and see you on the battlefield!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

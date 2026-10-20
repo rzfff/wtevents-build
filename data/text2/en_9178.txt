@@ -1,0 +1,95 @@
+[Special] It’s War Thunder’s 12th Birthday. Join the Celebrations! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+It’s War Thunder’s 12th Birthday. Join the Celebrations!
+1 November 2024
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>War Thunder celebrates its 12th birthday on November 1st. It was on this day in 2012 that the game entered open testing. Since then, it has become larger and has grown incredibly in scale and ambition, winning the love of millions of players around the world.
+<>We started the celebrations a week ago with in-game discounts and continued with discounts in the Gaijin.net Store, which is still ongoing. Now it’s time for the last stage of the celebration! Earn the premium KV-7 in the Dreams Come True event, get some awesome Esports camouflages from Twitch Drops, as well as a cinematic trailer for Dancing on the Edge with the opportunity to get unique decals, decorate your vehicles with an anniversary decal, and of course, the much-loved Maus temporarily returns to be researched, typical to our anniversary event.
+<> Dreams Come True: KV-7
+<> When: From November 1st (11:00 GMT) until November 13th (11:00 GMT).
+<>Take part in the Dreams Come True event to get two decals, a decoration and the KV-7 Soviet experimental premium tank destroyer.
+<>This vehicle first appeared in 1941 and combines the well-protected KV-1 heavy tank chassis with powerful APHE shells from the T-34-76 series of tanks. The KV-7 has three guns — one 76 mm and two 45 mm.
+<> Learn more about the KV-7 event here
+<> Twitch Drops and “Chasing the Older Brother” Event with a Chance to Win the IS-7!
+<> When: From November 15th (11:00 GMT) until November 18th (11:00 GMT) for the event and Twitch Drops from November 22nd.
+<>We wanted to spice it up a bit for you! We’re hosting KV-7 vs KV-7 battles during the “Chasing the Older Brother” event, where you can earn tickets for mission points. Those tickets will go into a draw, and 12 lucky winners will be drawn live on our anniversary stream, with each winning the IS-7, added directly to their account. During the anniversary stream there will also be Twitch Drops to earn some goodies.
+<> Learn more about this event here
+<> 12th Anniversary Decal!
+<> When: From November 1st (11:00 GMT) until November 6th (11:00 GMT).
+<>Get War Thunder’s 12th anniversary commemorative decal for playing one battle.
+<> Task: Play 1 battle with any vehicle at rank III or higher in any game mode to get the “War Thunder 12 years” decal.
+“War Thunder 12 years” decal.
+<> The Maus Returns!
+<> When: From November 1st (11:00 GMT) until November 6th (11:00 GMT).
+<>According to the glorious tradition, a giant has dropped by to pay us a visit: say hello to the legendary Maus tank. If you don’t yet have this tank, you’ll be able to research and purchase it for Silver Lions between the specified dates.
+<>To start researching the Maus, you need to have rank V of the German ground forces tree unlocked.
+<>Assign your Research Points from battles or convert research points into the Maus within the specified event time period! If you gained any research, the researchable Maus will not disappear after the event ends, meaning you’ll be able to finish researching it any time later.
+<> Gaijin.Net Sales!
+<> When: From October 29th (11:00 GMT) until November 4th (11:00 GMT).
+<>
+<>Up to 50% off in the Gaijin.Net Store.
+<> BIRTHDAY SALE
+<>A series of festive tournaments for the anniversary of War Thunder!
+<>Take part in tournaments dedicated to War Thunder’s birthday, or watch livestreams on Twitch and get valuable rewards from Twitch Drops!
+<> Air Superiority 2024
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

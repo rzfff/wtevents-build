@@ -1,0 +1,104 @@
+[Special] Update 1.77 “Advancing Storm” highlights - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Update 1.77 “Advancing Storm” highlights
+Attention! Outdated news format. Content may not display correctly.
+23 February 2018
+Special
+<>Dagor Engine 5.0 — a new War Thunder game engine version will bring improved graphics and effects, fog, puddles, mud, realistic landscapes and awesome sound.
+<> Download the game
+<>Graphics
+<>New Landscape
+<>A new level of detail for surfaces in all ground locations. The landscape has become more photorealistic, and vehicles suspension will work on lesser uneven ground like ruts, features on dirt roads, and broken ground..
+<>Illumination and anti-aliasing
+<>Thanks to new lighting and shadowing technologies, the visuals have become more volumetric and natural. Pay attention to anti-aliasing as well - how building sides, grass, leaves and other smaller details are rendered in motion.
+<>Weather effects
+<>
+<>Rain interacts with the environment - you can see water flowing down roofs, and mud and puddles appear on the roads. The fog drifts low over the surface, clouds float across the skies and the sun also moves from East to West in an astronomically correct way, according to the date and time of a battle and geographical latitude of a location.
+<>Not only the owners of powerful computers will be able to see the improved picture, but even those who use “UltraLow” quality settings. In Dagor Engine 5.0 we have worked hard on the optimization.
+<>Sound
+<>Great visuals need impressive sound!
+<>Close your eyes and listen, you will find yourself in a real battle. Gunshots, explosions, aircraft roaring above - they spread wide and sound differently depending on a players position, distance and environment - whether it is in the forest, field or urban area. Empty casings dropping, loading mechanisms and a breech shutter sounds will bring even more immersion.
+<>New tanks and aircraft
+<>About 20 new vehicles
+<> Leopard 2K
+<>Speed and power - a classic formula for the Leopard. Accurate weapon is combined with powerful 1500 h.p. engine!
+<> Т-64 B
+No need for introduction. Soviet MBT line that has improved year after year. A universal machine.
+<> M1 Abrams
+A true American legend, available soon in War Thunder!
+<> Martin-Baker M.B.5
+<>A British prop fighter that proved that even in the early jet era old school can still impress.
+<> Lа-200
+<>Soviet jet interceptor, fast and beautiful. Capable of traveling over 1000 km/h. Bombers, take heed!
+<>1.77 “Advancing Storm”. In War Thunder Soon!
+<> Download the game
+<>Check our previous DevBlogs:
+<> Dagor Engine 5.0: Temporal Anti-Aliasing (Variance Clipping TAA)
+<> Dagor Engine 5.0: Displacement mapping, mud and puddles
+<> Dagor Engine 5.0: Weather and environment: rain, fog, clouds and sun
+<> New sounds in update 1.77
+<> Leopard 2K: A Legend In The Making
+<> La-200: The High-Speed Kite
+<> Challenger 1: A Worthy Heir
+<> Martin-Baker M.B.5: Hold My Tea
+<> Magach 3 - Chariot of War
+<> AMX-30B2 Brenus: Modern Ironclad
+<> T-64B: When Good Is Not Good Enough
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

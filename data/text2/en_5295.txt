@@ -1,0 +1,98 @@
+[Event] Battle for Stalingrad - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Battle for Stalingrad
+Attention! Outdated news format. Content may not display correctly.
+2 February 2018
+Event
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>From February 2nd (15:00 GMT) to February 5th (07:00 GMT)
+<>Join special events devoted to the 75th anniversary of the Soviet triumph in the Battle of Stalingrad in all game modes.
+<>On July 16th 1942, the Soviet Army faced superior, more experienced and better equipped enemy forces on the bank of Volga. Near Stalingrad. After the “Barbarossa” plan failed Stalingrad became a priority target for Hitler.
+<>You may join the Battle of Stalingrad in all game modes using the vehicles that actually took part in it.
+<> Rewards
+<>3d decoration ” Sword of Stalingrad ” — gain 15 victories in the special event with 60% or more battle activity or purchase with Golden Eagles.
+<>Decal - destroy 40 enemy vehicles (20 for RB and SB) in the special event
+<>3d decoration
+<>” Sword of Stalingrad ” — gain 15 victories in the special event with 60% or more battle activity or purchase with Golden Eagles in the achievements menu.
+<>Decal
+<>destroy 40 enemy vehicles (20 for RB and SB) in the special event
+Smert za smert (Death for death) inscription
+Otvet Stalingrada (Stalingrad replies) inscription
+Emblem of 90th Tank Brigade USSR
+22nd Panzer Division emblem (Wehrmacht)
+24th Panzer Division emblem (Wehrmacht)
+16th Panzer Division emblem (Wehrmacht)
+<> Battle trophy
+<>Destroy 20 enemy vehicles (10 for RB and SB) in the special event
+<> Terms
+<>A battle trophy contains one of the following items:
+<>30% booster for SL gain for 10 battles
+<>30% booster for RP gain for 10 battles
+<>x3 back-ups for the vehicles that took part in battle
+<>You may receive 1 random decal for completing the task, other prizes may be purchased in the special trophy in the item shop;
+<>German decals may be obtained if you complete tasks using German ground vehicles or aircraft
+<>Soviet decals may be obtained if you complete tasks using Soviet ground vehicles or aircraft
+<>3d decoration ”Sword of Stalingrad” will be available for purchase for a limited amount of time!
+<>Tasks should be completed in the special event.
+<>Tasks can only be completed in German or Soviet vehicles
+<>You may follow your progress in your profile - Achievements - Battle of Stalingrad 75th anniversary
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

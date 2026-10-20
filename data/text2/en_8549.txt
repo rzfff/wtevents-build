@@ -1,0 +1,102 @@
+[Event] Pages of History (November) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (November)
+27 October 2023
+Event
+<>In this month's Pages of History, you'll find yourself at the centre of events that happened at numerous battlefronts. From North Africa and the Mediterranean, to Moscow and the Middle East — participate in battles using the vehicles that were used in these historic events and receive prizes!
+<>
+<>From November 1st until November 30th, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, completing all of them earns you a unique player icon.
+<>John "Jock" Campbell was a British Army officer who served in North Africa at the beginning of World War II. He favored rapid attacks on Axis forces using small groups of artillery, armored vehicles and motorized infantry: anecdotally called "Jock Columns". During Operation Crusader, Campbell's brigade defended Sidi Rezegh airport, south of Tobruk, for two days. Campbell personally led the battle, constantly being at the epicenter of events inspiring his subordinates with his courage. For his heroism he was awarded the highest military award in Britain — the Victoria Cross.
+John Campbell
+<>You can immediately purchase this profile icon for Golden Eagles until December 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (November).
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>November 1st — November 4th
+Barbara Line
+<>The Barbara Line was Germany's second line of defense in central Italy. In early October 1943, the Allies overran the southernmost Volturno Line, and by early November they decided to storm the Barbara Line. It lasted only two days: after the breakthrough German forces retreated to the Bernhardt Line.
+<>November 5th — November 8th
+Apatin-Kaposvar operation
+<>The Budapest operation, which began in late October 1944, was not easy for the Soviet forces. The command decided to transfer troops from Yugoslavia (putting it under the control of the local army) to southern Hungary. The operation was successful: from the outset, the Red Army captured a bridgehead near the town of Apatin on November 7th, and a month later took Kaposvár where it moved in to set up defenses.
+<>November 9th — November 12th
+Battle of Taranto
+<>On November 12th, 1940, British carrier aircraft attacked the Italian fleet at Taranto. The attack was carried out by 21 torpedo-bomber aircraft and resulted in the sinking of three battleships, half of those at Taranto Itself. The rebalance of naval might between Britain and Italy in the Mediterranean Sea demonstrated the effectiveness of torpedo aircraft. Consequently, non-participants of the conflict in the Japanese delegation studied the events in Taranto, and made a plan for a similar attack on Pearl Harbor.
+<>November 12th — November 15th
+Klinsko-Solnechnogorsk defensive operation
+<>On November 15th, 1941, the last defensive operation of the Red Army in the Battle of Moscow began. Soviet troops managed to hold off the enemy offensive — the front line was halted 14 kilometers from the capital. In December, the USSR launched a counter-offensive, and the Axis forces, thanks to the halt near Moscow, additionally had to defend in that direction.
+<>November 16th — November 19th
+Operation Crusader
+<>On November 18th, 1941, Allied forces under British leadership launched an operation to prevent the Axis forces from advancing to the Suez Canal into Egypt. It was successful: Britain defeated Wehrmacht forces for the first time, and New Zealand forces were able to lift the seven and a half month long siege of Tobruk.
+<>November 19th — November 22nd
+Operation Uranus
+<>On November 19th, 1942, the final operation of the Battle of Stalingrad began. Through the efforts of three fronts, Soviet forces surrounded, defeated and later forced surrender of about 20 German divisions. The victory at Stalingrad became a turning point in the course of the Second World War.
+<>November 23rd — November 26th
+Formation of the fighter regiment "Normandie-Niemen"
+<>On November 25th, 1942, the USSR and France concluded an agreement on the formation of a French aviation squadron on the territory of the USSR. It was named in honor of the French province of Normandy, and on November 28th, 1944, the unit, which by that time had already become a regiment, was named “Normandy-Neman” for its combat merits during the crossing of the Neman River during the liberation of Lithuania.
+<>November 27th — November 30th
+Operation Tariq al-Qods
+<>On November 29th, 1981, Iran launched an operation to liberate the city of Bostan, previously captured by Iraq. The Iranians suffered significant casualties as they relied heavily on massive frontal attacks, but they managed to dislodge the Iraqis from their positions and liberate one of their cities for the first time in the war. Subsequently, the offensive continued until southern Iran was completely liberated.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

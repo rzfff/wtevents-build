@@ -1,0 +1,72 @@
+[Event] Deep Strike Returns Again this Weekend! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Deep Strike Returns Again this Weekend!
+31 October 2025
+Event
+<>Deep Strike, an asymmetrical mode where one team attacks and the other defends important industrial facilities at several locations, returns again this weekend!
+<> When: From October 31st (12:00 GMT) until November 3rd (12:00 GMT)
+<> Where: Navigate to Events and Tournaments in the hangar -> Deep Strike
+<>We’re using Deep Strike as a testing ground for ideas that we’re exploring for a new type of operation in World War Mode, called Aerial Warfare. Catch up with all the details surrounding Deep Strike in our previous news article about it here . Below, we’ll go over what has changed since the first iteration of the mode.
+<>Changes:
+<>A new mission variant on the Vietnam map has been added.
+<>The durability of infrastructure buildings has been reduced, making them easier to destroy.
+<>Infrastructure has been made slightly damaged at the start of the mission, making it easier for the attackers to see it and destroy it. We’ve made this change in this test because in Aerial Warfare, the operation where Deep Strike will be available in within World War Mode, infrastructure will often already be damaged due to previous battles occurring. We want to test how it will be under regular battle conditions.
+<>Give Deep Strike another try this weekend from October 31st (12:00 GMT) until November 3rd (12:00 GMT) or try it out for the first time if you missed the first iteration!
+<> Get ready for intense aerial battles that will require teamwork and excellent piloting skills, and be sure to share your thoughts about this event with us. See you in the skies!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

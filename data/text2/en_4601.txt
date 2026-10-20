@@ -1,0 +1,78 @@
+[Event] Rhine operation "Plunder" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Rhine operation "Plunder"
+Attention! Outdated news format. Content may not display correctly.
+24 March 2017
+Event
+1280x1024 | 1920x1080 | 2560x1440
+From 15:00 GMT on the 24th of March to 07:00 GMT on the 27th of March
+Participate in the event “Operation Plunder” in all game modes
+with +30% and +30% bonuses!
+<>Aircraft: Battle of the Ruhr: Liquidating a surrounded force
+<>Ground vehicles: Battle of the Ruhr: Tank Battle
+1280x1024 | 1920x1080 | 2560x1440
+Operation Plunder was a World War II military operation in which the Allied forces crossed the Rhine River at Wesel, Rees, and at a point located south of the Lippe River, established a bridgehead on the east bank of the Rhine.
+Read more about historical background here ▼
+The operation started on the night of 23 March 1945, by the British 2nd Army commanded by Sir Miles Dempsey, and the US 9th Army under the command of Lieutenant General William Simpson.
+The overture for the operation started at 15:00 with a 4,000 cannon barrage and a massive smoke screen, while British aircraft pummeled ground targets both night and day on the 23rd of March. At 21:00 hours, the British 51st Highland Infantry Division (2nd Army) followed by the 7th Argyll and Sutherland Highlanders and the 15th Scottish Division, initiated their landing.
+At first there was no real opposition, although as the night wore on, they ran into fierce resistance. However after considerable violent battle, the 1st Commando Brigade managed to enter the Wesel and establish a foothold on the other side of the Rhine. The US 30th Division (9th Army) and the US 79th Division managed to land south of Wesel without major difficulties. By the evening of the 24th of March, the US forces had already built a pontoon bridge across the river.
+Together with operation Plunder, the allies started operation Varsity on the 24th of March with the aim to disrupt enemy communications. It was carried out by the British 6th Airborne Division and the US 17th Airborne Division, who were in charge of capturing the towns of Schnappenberg and Hamminkeln, clearing part of the Diersfordter Wald of German forces, and securing three bridges over the Issel River.
+<>
+Occurring also on the 24th of March, Winston Churchill crossed the Rhine River in an LCM (landing craft, mechanised), setting foot on the eastern bank of the river, symbolising the crossing of the top British political leader over the traditional border of Germany that no foreign army had crossed in 140 years.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

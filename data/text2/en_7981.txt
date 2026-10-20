@@ -1,0 +1,102 @@
+[Event] Pages of History (December) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (December)
+28 November 2022
+Event
+<>For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon.
+<>A detailed description of the current task as well as your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>A fighter ace who fought in WWII against Japan in the US volunteer group, the Flying Tigers, where he was a flight leader. Later he joined the US Marine Corps, where he was nicknamed "Pappy" on account of his age (he was 30). In two years Boyington downed 26 enemy planes, but was shot down in early 1944, and spent the rest of the war in captivity.
+<>You can immediately purchase the profile icon for Golden Eagles until January 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (December).
+Gregory Boyington
+<>Trophy with a reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>December 1st — December 4th
+Bernhardt Line
+<>The Bernhardt Line was the third defensive line the Wehrmacht built in Central Italy to defend from the advancing Allied forces. Unlike most other lines, it did not run across the entire Italy, but it included several strategic heights — so the battle for the Bernhardt Line that started on December 1st, 1943, lasted for a month and a half.
+<>December 5th — December 8th
+Battle for Moscow
+<>On December 5th, 1941 the Soviet Army under Moscow began its major counteroffensive that the Wehrmacht wasn’t prepared for. Rapid advance of the Red Army crushed the German forces and changed the course of the war. Blitzkrieg was over, and the German forces were pushed back over 100-200 km, having abandoned regional centers Kaluga and Tula.
+<>December 9th — December 12th
+Operation Compass
+<>In September of 1940 the Italian Army departed from Libya and took West Egypt, having pushed weak British forces from the region. But then the Italians stopped their advance, and yet haven’t mounted a good defense and haven’t established communication between their camps and posts. The Allies took advantage of that and in just four days, from December 9th to 12th, routed the Italian forces that were almost five times their numbers, and pushed them from Egypt.
+<>December 12th — December 15th
+Operation Winter Storm
+<>An attempt by the Axis powers to free General Paulus’ army from encirclement under Stalingrad lasted from December 12th to 24th of 1942. The German forces managed to get close to the Soviet circle, but took very heavy losses in the process, and they couldn’t breach it by themselves, while Paulus had orders to hold the city, and not abandon it. Operation Winter Storm ended in failure.
+<>December 16th — December 19th
+Ardennes Offensive
+<>On December 16th, 1944 a large-scale counteroffensive was launched by the German Army on the western front. Germany aimed to crush the Allied forces to bargain for a ceasefire on its terms, but it fell into a trap. The Allies foresaw the attack, purposefully weakened their defenses in Ardennes, and when the Germans advanced, encircled them. The fighting lasted for a month and a half and, even though Germany lost it, the Battle of the Bulge became the bloodiest battle in the entire American history.
+<>December 19th — December 22nd
+First combat mission of Flying Tigers
+<>Major Claire Lee Chennault was an advisor in the Chinese Army during the early years of WWII. It was on his initiative that a squadron of American volunteer pilots was formed in China. It was named Flying Tigers and fought for the first time on December 20th, 1941. The Tigers were very effective at fighting the Japanese forces, but were disbanded and replaced by regular US forces in half a year.
+<>December 23rd — December 26th
+Zhytomyr-Berdychiv operation
+<>The Dnieper-Carpathian offensive began on December 24th, 1943. The Axis powers were quite battered and lacked strategic reserves by that moment, and the Soviet Army went into offensive before the enemy could shore up its defenses. As a result of the Zhytomir–Berdychiv offensive Kyiv and Zhytomyr regions were liberated, and a large portion of German forces was encircled under Korsun-Shevchenkivskyi.
+<>December 27th— December 31st
+Operation Nordwind
+<>The last major offensive by the Wehrmacht on the western front began on December 31st, 1944. The Ardennes offensive was on the brink of collapse, so the German command attempted to destroy a weakened American army in Alsace. After a long and bloody battle the American forces withdrew, but soon managed to stop the Germans’ advance. The operation was a failure.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+<

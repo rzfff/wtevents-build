@@ -1,0 +1,85 @@
+[Shop] Hornet’s Sting Pre-orders: EC-665 Tigre HAD-E and F-16A Block 10 Netz - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Hornet’s Sting Pre-orders: EC-665 Tigre HAD-E and F-16A Block 10 Netz
+7 March 2025
+Shop
+<>Two new pre-order packs for the Hornet’s Sting major update have landed on the store, featuring unique bonuses, Premium Account time and Golden Eagles!
+<> EC-665 Tigre HAD-E (Germany, Rank VII)
+Pre-order - Tigre HAD-E Pack
+The Kit Includes:
+EC-665 Tigre HAD-E (Rank VII, Germany)
+2000 Golden Eagles
+Premium account for 15 days
+Pre-order bonus: unique "Support and Destruction" title
+Pre-order bonus: unique "Coat of Arms of the Attack Helicopter Battalion (BHELA I)" decal
+59.99
+Store
+<>The EC-665 Tigre HAD-E is a Spanish variant of the one of the best attack helicopters in War Thunder, coming to the German premium line. This helicopter features the potent Hellfire II with laser and inertial guidance for air-to-ground combat, and the Mistral for air-to-air combat. Hydra rockets are included with this Spanish variant as well.
+<> F-16A Block 10 Netz (Israel, Rank VIII)
+Pre-order - F-16A Netz Pack
+The Kit Includes:
+F-16A Block 10 Netz (Rank VIII, Israel)
+3000 Golden Eagles
+Premium account for 30 days
+Pre-order bonus: unique "Golden Eagle" title
+Pre-order bonus: unique "Emblem of the 140 Squadron of the Israeli Air Force" decal
+79.99
+Store
+<>The new F-16 will come to Israel as a premium aircraft. Featuring an excellent rate of climb, acceleration and thrust, the Netz differs from the researchable variant in that it has a different stabilizer design, additional countermeasures and an expanded arsenal featuring the GBU-31 JDAM.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

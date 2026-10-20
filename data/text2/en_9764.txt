@@ -1,0 +1,105 @@
+[Event] Celebrate the Spooky Season with Halloween in War Thunder! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Celebrate the Spooky Season with Halloween in War Thunder!
+24 October 2025
+Event
+<>Happy Halloween! Give your opponents hell in a demonic tank, fly through a dangerous ravine in a witch’s plane, and earn themed profile frames and decals this Halloween.
+<>Halloween Cosmetics & Races
+<> When: From October 24th (13:00 GMT) until November 3rd (13:00 GMT).
+<>Spooky Profile Frames and a Decal!
+<>Get yourself two profile frames, guaranteed to send shivers down your spine. Simply participate in spooky races and get some points, and they will be yours!
+“Through Creepy Places”
+profile frame
+<>For 750 rating points in the Ground event: “Through the dark forest” race you’ll receive this profile frame
+“Witch Hunt”
+profile frame
+<>For 750 rating points in the Air event: “Witch Hunt” race you’ll receive this profile frame
+“Grim Reaper”
+decal
+<>Earn 3000 mission points in any vehicle at rank III or higher with at least 70% activity to get this decal!
+<>For 500 rating points in the Ground event: “Through the dark forest” race you’ll receive one of the decorations in the “Witch’s Cauldron” trophy
+<>For 300 rating points in the Air event: “Witch Hunt” race you’ll receive one of the decals in the Dead Man’s Chest
+<>
+<>Decals in the Dead Man’s Chest
+<>The Dead Man’s Chest trophy is once again available to purchase in the in-game shop! In it, you’ll be able to get Halloween decals from previous Halloween events. Below are four of our favourites!
+“Killer Pumpkin” decal
+“Witch snail” decal
+“Angry Black Cat” decal
+“Snail killer” decal
+<>Decorations in the Witch’s Cauldron
+<>The Witch’s Cauldron trophy is once again available to purchase in the in-game shop! In it, you’ll be able to get Halloween related decorations from previous Halloween events. Below are four of our favourites!
+“Jack-o-lantern”
+decoration
+“Witch Hat”
+decoration
+“Chainsaw”
+decoration
+“Slasher’s Mask”
+decoration
+<>Ground event: “Through the dark forest”!
+<>Take part in fast-paced races through creepy places in the spooky M18 “Witch” tank !
+<>Earn 750 points to receive the “ Through Creepy Places ” profile frame!
+<>Air event: “Witch Hunt”!
+<>Welcome to the dangerous Po-2 “Night Witch” aircraft race! Her path lies between rocks and is full of dangers.
+<>Earn 750 points to receive the “ Witch Hunt ” profile frame!
+<>The top 1,000 pilots with the highest rating at the end of the air event will be awarded with the Po-2 (USSR) aircraft!
+<>This aircraft will be added to your account within 48 hours after the event ends.
+<>You can track your rating by clicking on the “Award” button in the “Events” window. The update time of the table can take up to 15 minutes.
+<>Let this Halloween be spookily fun!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

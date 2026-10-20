@@ -1,0 +1,102 @@
+[Event] Pages of History (December): The Heroic Nurse - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (December): The Heroic Nurse
+24 November 2023
+Event
+<>In this month’s Pages of History, you’ll find yourself at the center of events that took place in different theaters of war. Croatia, China, the Barents Sea and even Papua New Guinea: take part in battles with vehicles that were used in these historic battles and receive prizes.
+<>
+<>From December 1st until December 31st, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, and completing all of them will earn you a unique player icon.
+<>The beginning of the German invasion of the USSR found 15 year old Ekaterina Mikhailova near Smolensk, where she lied about her age and enlisted as a nurse into the local rifle unit. She went through the entirety of the war from February 1943 as a nurse instructor in the Marine battalion, where she repeatedly participated in dangerous landing operations. On December 4th 1944, during the battle of the fortress of IIok, while being seriously wounded and soaked in icy water, she saved drowning wounded soldiers and fought off advancing enemies. For this, she was presented with the title of Hero of the Soviet Union.
+Ekaterina Mikhailova
+<>You can immediately purchase this profile icon for Golden Eagles until January 3rd, 11:30 GMT without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>December 1st — December 4th
+Opatovatskiy Landing
+<>At the beginning of December 1944, Soviet command began a landing operation designed to prevent the transfer of German reinforcements to Budapest. Near the city of Ilok, a small reconnaissance group of marines, which included Ekaterina Mikhailova, distracted enemy fire for a long time on a flooded island in the middle of the river. The heroism of the reconnaissance group allowed the main forces of the USSR and Yugoslavia to take the enemy by surprise, defeat them and take the city of Ilok.
+<>December 5th — December 8th
+Battle of Sio
+<>From December 1943 to March 1944, battles took place for Sio on the Huon Peninsula (Papua New Guinea). Allied forces, at the cost of minor losses, crushed Japanese forces and captured their cryptographic systems, which significantly accelerated the liberation of nearby territories.
+<>December 9th — December 12th
+Operation Compass
+<>On December 9th 1940, Great Britain and its allies launched an offensive on the North African front. Despite having superiority in the number of troops and weapons, Italian forces were defeated and driven out of Egypt and most of Cyrenaica. The Allied advance was halted only to move a significant portion of troops into Greece to defend it from the German invasion.
+<>December 12th — December 15th
+Operation Winter Storm
+<>From December 12th to December 24th 1942, Germany carried out an operation to rescue the Sixth Army of Friedrich Paulus, surrounded in Stalingrad. However, good defense and a successful counter-offensive of the Red Army ruined German plans. As a result, having lost almost all of their equipment and having suffered heavy losses, they were forced to retreat.
+<>December 16th — December 19th
+Ardennes Offensive
+<>On December 16th 1944, the last large-scale German offensive on the Western Front began. Germany sought to recapture the port of Antwerp, divide and defeat the Allied armies in order to conclude a separate peace with them on favorable terms. More than a million people took part in the fighting, with both sides suffering heavy losses. But by the end of January, the Allies had won a landslide victory along the entire front line and began the invasion of Germany.
+<>December 19th — December 22nd
+Kursk-Oboyan Offensive Operation
+<>At the end of December 1941, when the threat of the enemy taking Moscow had passed, Soviet leadership launched a counteroffensive in different directions. In Kursk-Belgorod, the forces of the Red Army were clearly insufficient to achieve strategic goals — therefore, after long battles and significant losses, they stopped without much results.
+<>December 23rd — December 26th
+Battle of Changsha
+<>The commander of the Japanese 11th Army, Korechika Anami, disobeyed the orders of command, hoping to easily capture the Chinese city of Changsha at the end of December 1941. However, the city put up serious resistance — having captured it, the Japanese found themselves surrounded and, retreating, suffered serious losses.
+<>December 27th — December 31st
+Battle of the Barents Sea
+<>On December 31st 1942, the German Fleet, which included heavy cruisers Hipper and Lützow, as well as several destroyers, overtook a British Arctic convoy heading to Murmansk in the Barents Sea. Because of the date, this skirmish was called the “New Year’s Fight”. The stronger German forces failed to sink a single cargo ship in the convoy. This defeat forced Hitler to abandon operations involving ships and concentrate on the use of submarines.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

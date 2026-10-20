@@ -1,0 +1,148 @@
+[Special] Operation F.R.O.S.T. - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation F.R.O.S.T.
+Attention! Outdated news format. Content may not display correctly.
+13 December 2019
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>2020 comes for all our players whether you are a pilot, a tanker or a sailor and therefore everyone deserves worthy gifts and awards! Join Operation F.R.O.S.T..
+<>From 11:00 GMT on the 20th of December until 11:00 GMT on the 13th of January
+<>Earn stars by completing the tasks in the adventure. The more stars you get, the more prizes you will win including premium and event vehicles, New Year “Pin-up” decals and “Weapon” decorations!
+TIS MA
+USSR, premium, rank III
+<>The escort fighter will change the image of Soviet assault aviation in many ways. This twin-engine monster carries 2х37mm + 2х20mm or 2х45mm + 2х20mm cannons, bombs, two types of missiles and a large calibre defensive machine gun.
+QF 3.7 Ram
+Britain, premium, rank III
+<>The SPG QF 3.7 Ram — is an attempt to combine the excellent 94mm anti-aircraft gun and the reliable chassis of the Ram tank into a self-propelled artillery system. Now Great Britain also has a SPG vehicle with a powerful gun and quick reload.
+94 ft PT-811
+USA, premium, rank II
+<>The 94 ft PT-811 — is an experimental version of the successful American PT-810 torpedo boat. A small but formidable warship that combines all the best in the “mosquito fleet”: high speed, torpedo weaponry and small calibre rapid-fire artillery.
+J6K1
+Japan, premium, rank IV
+<>The premium Japanese naval interceptor fighter with a powerful engine. Excellent flight characteristics, serious weaponry - 6x20 mm cannons and 2x13,2 mm machine guns - all that pilots love about Japanese piston aircraft.
+Merkava Mk.2b
+USA, rank VI (event vehicle)
+<>The Israeli main battle tank has become even better! This is a further development of the Merkava series with enhanced turret protection. An excellent vehicle with high crew survivability, excellent angles of inclination in the armour and a wide range of shells.
+Тype 1924 Jaguar
+Germany, premium, rank III
+<>The Type 1924 Jaguar — German destroyer armed with 105mm rapid-fire guns and torpedoes. It has good speed and maneuverability. The best choice for connoisseurs of balanced and versatile warships.
+<>All event vehicles will be given out in the form of coupons, decorations and camouflages will be immediately activated on the account.
+<>All “Operation F.R.O.S.T.” awards will be given out for a specific number of stars⭐, received on certain types of vehicles.
+<>For pilot stars ⭐
+<>⭐x2 — one of the “Pin-up” decals
+<>⭐x4 — one of the “Pin-up” decals
+<>⭐x5 — TIS MA coupon
+<>⭐x6 — TIS MA camouflage
+<>⭐x6 — one of the “Pin-up” decals
+<>⭐x8 — one of the “Pin-up” decals
+<>⭐x10 — J6K1 coupon
+<>⭐x11 — J6K1 camouflage
+<>⭐x12 — one of the “Pin-up” decals
+<>For tanker stars ⭐
+<>⭐x3 — one of the “Weapon” decorations
+<>⭐x5 — QF 3.7 Ram coupon
+<>⭐x6 — QF 3.7 Ram camouflage
+<>⭐x6 — one of the “Weapon” decorations
+<>⭐x9 — one of the “Weapon” decorations”
+<>⭐x10 — Merkava Mk.2b coupon
+<>⭐x11 — Merkava Mk.2b camouflage
+<>⭐x12 — one of the “Weapon” decorations
+<>For sailor stars⭐
+<>⭐x3 — one of the “Pin-up” decals
+<>⭐x5 — 94 ft PT-811 coupon
+<>⭐x6 — 94 ft PT-811 camouflage
+<>⭐x6 — one of the “Pin-up” decals
+<>⭐x9 — one of the “Pin-up” decals
+<>⭐x10 — Тype 1924 Jaguar coupon
+<>⭐x11 — Тype 1924 Jaguar camouflage
+<>⭐x12 — one of the “Pin-up” decals
+<>Tasks
+<>To get one star ⭐ you need to complete any 3 tasks from an available 5 in vehicles of rank III or higher (for naval forces rank II and higher). Tasks are unchanged and will be updated every 2 days at 11:00 GMT.
+<>Pilot star ⭐ — Whilst controlling an aircraft
+<>Destroy 40 (20 in RB, 14 in SB) player-controlled enemy vehicles.
+<>Get 10 wins (with a minimal activity of 60% or higher).
+<>Deal 10 tons of bomb damage to enemy bases.
+<>Destroy 11 (4 in RB, 2 in SB) player-controlled enemy vehicles in one battle.
+<>Help allies to destroy an enemy vehicle 10 times.
+<>Tanker star ⭐ — Whilst driving a ground vehicle
+<>Destroy 55 (28 in RB, 19 in SB) player-controlled enemy vehicles.
+<>Get 12 wins (with a minimal activity of 70% or higher).
+<>Capture 15 points in ground battles whilst driving a tank or flying a helicopter.
+<>Destroy 11 (6 in RB, 4 in SB) player-controlled enemy vehicles in one battle.
+<>Help allies to destroy an enemy vehicle 30 times.
+<>Sailor star ⭐ — Whilst controlling a ship
+<>Deal 25,000 damage whilst commanding a naval vessel.
+<>Get 10 wins (with a minimal activity of 50% or higher).
+<>Capture 10 points in naval battles whilst controlling an aircraft or naval vessel.
+<>Destroy 3 enemies with torpedoes whilst controlling an aircraft or naval vessel.
+<>Play one battle and finish in first place in naval battles.
+<>You are able to purchase any missing stars ⭐ for Golden Eagles even without completing the tasks by clicking on your nickname → Achievements → Operation F.R.O.S.T. → Distinction Mark, until the 16th of January, 2020.
+<>Terms
+<>To get a “Star ⭐” you need to complete any 3 out of 5 tasks for the specific types of vehicles.
+<>Tasks can be completed in random battles in all game modes except “Assault” battles and [Enduring Confrontation] missions in vehicles of rank III-VII (for naval forces rank II-IV). See the specifics for the exact conditions for completing achievements in the game client.
+<>Completing tasks will be counted in the destruction and help in the destruction of player-controlled enemy vehicles.
+<>Completing tasks “Get 12 wins (with a minimal activity of 70% or higher)” in combined ground battles, the task will be counted with such type of vehicles in which you finish the battle (tank or aircraft of the specified rank). By completing a similar task in naval battles the task will be always counted only for naval vessels.
+<>You can follow your progress by clicking on your nickname → Achievements → Operation F.R.O.S.T.
+<>The “Star ⭐” will be counted as received if its achievement ★ will be gold colored ⭐.
+<>Missed “Stars⭐” are available for purchase in the achievement window until the 16th of January 2020. Don’t make an error when choosing between pilot, tanker and sailor stars.
+<>Coupons will be available for trading on the market no earlier than the 17th of January 2020. The time from which the coupon can be traded on the market can be seen in the game description of the coupon. The possibility of trading of each coupon separately depends on the time of its receipt and doesn’t depend on the coupon vehicle.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

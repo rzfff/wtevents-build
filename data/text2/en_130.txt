@@ -1,0 +1,103 @@
+War Thunder's Special: Operation Calendar - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+War Thunder's Special: Operation Calendar
+Attention! Outdated news format. Content may not display correctly.
+20 April 2013
+<>
+Malta, April 20th, 1942. Operation Calendar
+<>
+<>
+<>
+<>
+By April 1942, constant air raids by the Axis brought British military presence in the region of Mediterranean very close to the their last line. The Island of Malta was in desperate need of supplies and offensive power to secure the seaways and aerial space, while Axis air domination, especially their fighters, meant that they were helpless. Being on the brink of losing Malta, Britain’s command had no carriers available to send combat planes to the island. And then, there came the Allies!
+<>
+<>
+The United States gave a helping hand to the soldiers of the United Kingdom. The USS Wasp received 52 aircraft, with pilots, on her deck and began hasty preparations for a long flight. British Spitfires were equipped with additional fuel tanks, but a lack of time and experience led to a series of faults during preparations. As a result, only 48 Spitfires were ready to fight, many still having severe problems with fuel leakage, armaments and radios. On April 20th, 1942, covered by the Wasp’s Wildcats, British Spitfires flew off the deck of American carrier to reinforce the defense of Malta.
+<>
+Unfortunately, operation Calendar can not be called successful for the Royal Air Forces. Immediately upon their arrival to the Maltese airfield, the Spitfires came under massive attack from German bombers. British fighters had burned up all the fuel they received on the USS Wasp, and were easy prey for the Junkers bombers - almost all of the Spitfires were destroyed. However, in early May, the USS Wasp again offered her broad deck for the British aircraft. During Operation Bowery, Great Britain were able to provide Malta with fighters to fight against Axis bombers. The powerful air defense reserves of the island became key to the final defeat of the enemy forces in the region.
+<>
+War Thunder presents special event dedicated to the operation Calendar. From April 21st 06:00 GMT till April 22nd 06:00 GMT (April 20th 11 pm PDT — April 21st 11pm PDT) :
+<>
+Single mission “Operation Calendar” is unlocked for all players
+<>
+10% discount on the following planes and their modifications:
+German planes: Bf 109 E-3, Fw 190 A-5, Me 410 A-1/U4, M.C.200 serie 7
+Soviet planes: IL-2M, Yak-1B, Yak-3, La-5FN, LaGG-3 35
+British planes: Spitfire Mk I, Spitfire Mk Vb, Beaufighter Mk X, Beaufighter Mk X, Hurricane Mk II
+<>
+25% discount on Premium account purchased for a month or longer
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

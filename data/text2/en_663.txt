@@ -1,0 +1,94 @@
+[Historical] Birthday of Jiro Horikoshi - The Father of the mighty Zero - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Birthday of Jiro Horikoshi - The Father of the mighty Zero
+Attention! Outdated news format. Content may not display correctly.
+18 June 2014
+Historical
+Battle between a 'Zero' and a F4F over the Pacific
+A6M5 Ko Reisen of the Genzan Air Group skin by Bra zu4e | download here
+Dr. Jiro Horikoshi, (22nd June 1903 – 11th January 1982), was a Japanese aeronautical engineer employed in the Mitsubishi Heavy Industries company, during which time he developed the fighter which would become the awe of all Allied pilots.
+Horikoshi was born in Fujioka, where he attended high school. He later attended the First Higher School in Tokyo, and in 1927 he would graduate from the Aviation Laboratory of the University of Tokyo with an engineering degree. Almost immediately after, he became employed in Mitsubishi, in the Nagoya Aircraft Manufacturing Plant.
+His first real success in aircraft design was the A5M, nicknamed “Claude” by the Allies. It saw heavy use in the Second Sino-Japanese War, where it proved to be dominant in the skies of China. The only plane at the time which proved to be a threat to the A5M was the Soviet Polikarpov I-16. In the last two years of the war, the remaining A5M’s were used as kamikaze aircraft.
+It was not until 1940 when Horikoshi had his claim to fame. In 1937, the Japanese Imperial Navy requested a fighter with superior agility, speed, and most importantly, operational range. The first prototype of the Type 0 Carrier Fighter was introduced in 1940, nicknamed Rei-sen by its pilots, which translates roughly to “Zero fighter”, honoring the 2600th anniversary of the ascension of Emperor Jimmu to Japan's throne.
+The plane featured a range of 1,180 miles, close to double that of the American P-40, the best comparable United States fighter at the outset of the war. Even the contemporary models of the famous British Spitfire and Hurricane fighters, which had won the Battle of Britain, had major problems with the Zero when they met in 1942. At sea, the situation was not much better, with even the United States Navy’s Grumman F4F Wildcat being outclassed by the Zero in most cases.
+However, Japan simply could not compete with the sheer industrial might of the USA, having produced only 11000 Zero planes, while their American counterparts produced nearly a total of 40000 aircraft. Even so, the Zero, in the hands of the Japanese aces such as Saburo Sakai or Kinsuke Muto, was able to win 12-on-1 battles against Corsairs, Hellcats and Wildcats alike, in low to medium altitude combat. However, in high altitude combat, the Zero became outclassed by the new Hellcats and P-38 Lightnings.
+Horikoshi was involved in design of many other fighters such as the Mitsubishi J2M “Raiden” (Thunderbolt) and the A7M “Reppu” (Strong Gale). After the war, following Horikoshi’s sudden glorification in the eyes of the world, he stayed at Mitsubishi and designed YS-11 turboprop short-haul passenger aircraft. He left Mitsubishi in 1963 to become a lecturer at the University of Tokyo’s Institute of Space and Aeronautics, and between 1965 and 1969, he was a professor at the National Defense Academy. Between 1972 and 1973, he was a professor of the Faculty of Engineering of Nihon University in Tokyo. Horikoshi was awarded the Order of the Rising Sun, Third Class in 1973. He passed away from pneumonia in Tokyo in 1982.
+<>
+His legacy, however, still lives on, and the legend of the Zero Fighter will never be forgotten.
+<>
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

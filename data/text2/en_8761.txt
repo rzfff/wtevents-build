@@ -1,0 +1,103 @@
+[Event] Pages of History (March): On Wings of War - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (March): On Wings of War
+28 February 2024
+Event
+<>In this month’s Pages of History, you’ll be at the center of events that took place in different theaters of war. The Pacific Ocean and North Africa, the Mediterranean Sea and the banks of the Rhine: take part in battles with the vehicles corresponding to these historic battles and receive prizes.
+<>
+<>From March 1st until March 31st, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, and completing all of them will earn you a unique player icon.
+<>Jan Zumbach was a Polish pilot who served in the Royal Air Force during World War II. He flew a Supermarine Spitfire and shot down at least 12 enemy aircraft. Zumbach rose to the rank of squadron leader and was awarded the War Order of Virtuti Militari, the highest Polish military decoration.
+Jan Zumbach
+<>You can immediately purchase this profile icon for Golden Eagles until April 3rd, 11:30 GMT without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles except for “Assault” mode.
+<>You can see a detailed description of what task is for what day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>March 1st — March 4th
+Battle of the Bismarck Sea
+<>From the 2nd to the 4th March 1943, Allied air forces attacked a Japanese naval convoy transporting soldiers from Rabaul to Lae in Papua New Guinea. American-Australian forces managed to sink all transport ships and half of the covering ships.
+<>March 5th — March 8th
+First flight of the Supermarine Spitfire
+<>On March 5th 1936, the Supermarine Spitfire, one of the fastest fighters of its time and the pride of the Royal Air Force during World War II, took off for its first test flight. In total across all variants, more than 20,000 Spitfires were produced. They were actively used during the Battle of Britain and several other fronts such as the Eastern front where they were supplied under Lend-Lease.
+<>March 9th — March 12th
+Pskov Operation
+<>On March 9th 1944, the Pskov offensive operation began. The Red Army wanted to encircle Wehrmacht forces near Pskov, defeat them and liberate the city. However, after a month of fighting, Soviet troops were only able to advance 15 km forward.
+<>March 13th — March 16th
+Saar-Palatinate Offensive
+<>On March 15th 1945, a large-scale Allied offensive began in Germany. In ten days, they went from Saarbrücken to Karlsruhe, completely taking control of the western bank of the Rhine.
+<>March 16th — March 19th
+Vienna operation
+<>On March 16th 1945, Soviet and Bulgarian troops launched an attack on German fortifications near Vienna. Battles took place literally for every block and street. After a month of fierce urban fighting, the capital of Austria was completely cleared of Wehrmacht forces.
+<>March 20th — March 23rd
+Battle of El Guettar
+<>The defeat of Allied forces in the Kasserine Pass encouraged German command in North Africa to launch a further counteroffensive. On March 23rd 1943, Axis tank units launched an attack on American positions near El Guettar, but minefields and artillery held back their onslaught, inflicting notable losses. An Allied offensive conducted at the same time also proved fruitless, and the front line did not move at the end of March.
+<>March 23rd — March 26th
+Battle of Najaf
+<>At the outset of the US invasion of Iraq in 2003, the city of Najaf, south of Baghdad, offered significant resistance. As a result of the fighting, which began on March 24th and ended on April 4th, the Americans lost 4 vehicle units while the Iraqi side lost more than 100.
+<>March 27th — March 31st
+Battle of Cape Matapan
+<>In March 1941 Germany planned to invade Greece, which required disrupting British shipping in the eastern Mediterranean. The Italian fleet was supposed to carry out this task, but it was unprepared for battle in night conditions and greatly underestimated the British forces. In addition the Italians, unlike the British, did not have an aircraft carrier and as a result, suffered a crushing defeat.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

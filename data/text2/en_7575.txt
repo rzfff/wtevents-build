@@ -1,0 +1,98 @@
+[Special] Spitfire Mk.IX first flight - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Spitfire Mk.IX first flight
+Attention! Outdated news format. Content may not display correctly.
+25 February 2022
+Special
+<>80 years ago, an excellent exponent of the legendary fighter family, Spitfire Mk IX, took her virgin flight. Get battle trophies in honour of this anniversary. Plagis’ Spitfire LF Mk.IXc will be temporarily available for Golden Eagles, Spitfire LF Mk.IXc (USA) is available with 30% discount.
+<>From 11:00 GMT on the 25th of February until 11:30 GMT on the 28th of February
+<>Rewards
+<>Completing the “Spitfire Mk.IX first flight” task will bring you a battle trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles
+<>20-50% SL booster for 3-10 battles
+<>3-5 universal backup vehicles
+<>1 day premium account
+<>New rules of completing tasks
+<>We present to you a new type of task - scoring points. Scoring point task count all mission points, if at least one vehicle from the task list has been deployed in battle. The score multiplier coefficient is now tied to the game mode, instead of difficulty. Multipliers are displayed as before. The multipliers are displayed only for the selected difficulty: if the game mode is set to the Ground Arcade Battles, you will see multipliers for Ground, Air, and Naval Arcade Battles.
+<>Task
+<>Score 20,000 points in random battles, where at least one aircraft from the list been used
+<>Spitfire F Mk IX, Spitfire LF Mk IX, Plagis’ Spitfire LF Mk IX, Spitfire Mk IXc, Spitfire Mk IXc (USA), Spitfire Mk IXc (USSR), Weizman’s Spitfire LF Mk IX, Spitfire Mk IXc (Israel), Spitfire Mk IX (CW)
+<>Follow progress by clicking on your nickname → Achievements → Memorial Date.
+<>Spitfire LF Mk.IXc - 30% off!
+<>Until February 28th (11:30 GMT), the Premium Plagis' Spitfire LF Mk.IXc is available for Golden Eagles, and Spitfire LF Mk.IXc (USA) is available with a 30% discount.
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

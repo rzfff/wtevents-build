@@ -1,0 +1,256 @@
+Indian Summer in War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Indian Summer in War Thunder
+Attention! Outdated news format. Content may not display correctly.
+9 September 2013
+<>
+<>
+Get exclusive gift planes just playing the game!
+<>
+Summer seems to be gone, but still smiles gently upon War Thunder players! Until September 23rd 06:00 GMT you just need to fly your favourite nation's aircraft and destroy as much enemies as possible to get your rewards. While you progress each step will reward you with Silver Lions as well!
+P-39N-0 Requirements
+You should be flying USSR aircaft to get the rewards
+<>
+Level
+Arcade Battles
+Historic Battles
+Full Real Battles
+I
+30 air kills and 10.000 Silver Lions
+15 air kills and 10.000 Silver Lions
+10 air kills and 10.000 Silver Lions
+II
+90 air kills и 20.000 Silver Lions
+50 air kills and 20.000 Silver Lions
+40 air kills and 20.000 Silver Lions
+III
+290 air kills and 30.000 Silver Lions
+100 air kills and 30.000 Silver Lions
+90 air kills and 30.000 Silver Lions
+IV
+490 air kills and 40.000 Silver Lions
+170 airkills and 40.000 Silver Lions
+170 air kills and 40.000 Silver Lions
+V
+750 airkills and 50.000 Silver Lions
+280 air kills and 50.000 Silver Lions
+260 air kills and 50.000 Silver Lions
+VI
+1100 air kills and 100.000 Silver Lions
++
+360 air kills and 100.000 Silver Lions
++
+300 air kills and 100.000 Silver Lions
++
+A-26C-45 Invader Requirements
+You should be flying USA aircaft to get the rewards
+<>
+Level
+Arcade Battles
+Historic Battles
+Full Real Battles
+I
+30 airkills and 10.000 Silver Lions
+15 airkills and 10.000 Silver Lions
+10 airkills and 10.000 Silver Lions
+II
+90 airkills and 20.000 Silver Lions
+50 airkills and 20.000 Silver Lions
+40 airkills and 20.000 Silver Lions
+III
+290 airkills and 30.000 Silver Lions
+100 airkills and 30.000 Silver Lions
+90 airkills and 30.000 Silver Lions
+IV
+490 airkills and 40.000 Silver Lions
+170 airkills and 40.000 Silver Lions
+170 airkills and 40.000 Silver Lions
+V
+750 airkills and 50.000 Silver Lions
+280 airkills and 50.000 Silver Lions
+260 airkills and 50.000 Silver Lions
+VI
+1100 airkills and 100.000 Silver Lions
++
+360 airkills and 100.000 Silver Lions
++
+300 airkills and 100.000 Silver Lions
++
+Fw.190D-13 Requirements
+You should be flying German aircaft to get the rewards
+<>
+<>
+Level
+Arcade Battles
+Historic Battles
+Full Real Battles
+I
+25 airkills and 10.000 Silver Lions
+5 airkills and 10.000 Silver Lions
+5 airkills and 10.000 Silver Lions
+II
+80 airkills and 20.000 Silver Lions
+30 airkills and 20.000 Silver Lions
+25 airkills and 20.000 Silver Lions
+III
+170 airkills and 30.000 Silver Lions
+80 airkills and 30.000 Silver Lions
+70 airkills and 30.000 Silver Lions
+IV
+300 airkills and 40.000 Silver Lions
+150 airkills and 40.000 Silver Lions
+120 airkills and 40.000 Silver Lions
+V
+750 airkills and 50.000 Silver Lions
+230 airkills and 50.000 Silver Lions
+180 airkills and 50.000 Silver Lions
+VI
+900 airkills and 100.000 Silver Lions
++
+300 airkills and 100.000 Silver Lions
++
+250 airkills and 100.000 Silver Lions
++
+Typhoon Mk.Ib Requirements
+You should be flying British aircaft to get the rewards
+<>
+Level
+Arcade Battles
+Historic Battles
+Full Real Battles
+I
+20 airkills and 10.000 Silver Lions
+5 airkills and 10.000 Silver Lions
+5 airkills and 10.000 Silver Lions
+II
+90 airkills and 20.000 Silver Lions
+30 airkills and 20.000 Silver Lions
+25 airkills and 20.000 Silver Lions
+III
+180 airkills and 30.000 Silver Lions
+60 airkills and 30.000 Silver Lions
+50 airkills and 30.000 Silver Lions
+IV
+310 airkills and 40.000 Silver Lions
+100 airkills and 40.000 Silver Lions
+90 airkills and 40.000 Silver Lions
+V
+430 airkills and 50.000 Silver Lions
+150 airkills and 50.000 Silver Lions
+130 airkills and 50.000 Silver Lions
+VI
+540 airkills and 100.000 Silver Lions
++
+200 airkills and 100.000 Silver Lions
++
+180 airkills and 100.000 Silver Lions
++
+A6M5 Ko Requirements
+You should be flying Japanese aircaft to get the rewards
+<>
+Level
+Arcade Battles
+Historic Battles
+Full Real Battles
+I
+20 airkills and 10.000 Silver Lions
+5 airkills and 10.000 Silver Lions
+5 airkills and 10.000 Silver Lions
+II
+90 airkills and 20.000 Silver Lions
+30 airkills and 20.000 Silver Lions
+25 airkills and 20.000 Silver Lions
+III
+180 airkills and 30.000 Silver Lion
+60 airkills and 30.000 Silver Lions
+50 airkills and 30.000 Silver Lions
+IV
+310 airkills and 40.000 Silver Lions
+100 airkills and 40.000 Silver Lions
+90 airkills and 40.000 Silver Lions
+V
+430 airkills and 50.000 Silver Lions
+150 airkills and 50.000 Silver Lions
+130 airkills and 50.000 Silver Lions
+VI
+540 airkills and 100.000 Silver Lions+
+200 airkills and 100.000 Silver Lions
++
+180 airkills and 100.000 Silver Lions
++
+Let War Thunder Indian Summer bring you lots of fun and joy! Don't miss the opportunity to get exclusive planes while you are playng your favorite game!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,941 @@
+{
+  "results": [
+    {
+      "aid": 8969,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Celebrating Swedish Air Force Day with Aircraft and a Unique Decal!",
+      "name_en": "Celebrating Swedish Air Force Day with Aircraft and a Unique Decal!",
+      "name_zh": null,
+      "start": "2024-07-01",
+      "end": "2024-07-04T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until July 4th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "J29D 8910金鹰、J35A 9090金鹰(临时返场)",
+          "percent": null,
+          "note": "限时金鹰返场,非折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Emblem of the Uppland Air Squadron decal"
+      ],
+      "tasks": "7/1-7/4打3场瑞典机III级+随机战斗(活跃度≥70%)得瑞典空军日贴花;J29D/J35A金鹰限时返场",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8970,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Plane, Ship and Decal for the Anniversary of the Japanese Self-Defense Forces!",
+      "name_en": "A Plane, Ship and Decal for the Anniversary of the Japanese Self-Defense Forces!",
+      "name_zh": null,
+      "start": "2024-07-01",
+      "end": "2024-07-04T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until July 4th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "J2M4 Kai 3850金鹰、IJN Kiyoshimo 4880金鹰(临时返场)",
+          "percent": null,
+          "note": "70周年纪念限时金鹰返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Flag of the Infantry Battalion decal"
+      ],
+      "tasks": "7/1-7/4打3场日系III级+随机战斗(活跃度≥70%)得贴花;J2M4 Kai/阳炎型Kiyoshimo金鹰限时返场",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8971,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Celebrating the Anniversary of the French Air Force with a Decal!",
+      "name_en": "Celebrating the Anniversary of the French Air Force with a Decal!",
+      "name_zh": null,
+      "start": "2024-07-03",
+      "end": "2024-07-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: Until July 5th (09:00 GMT).",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Emblem of the French Air Force Command decal"
+      ],
+      "tasks": "7/3-7/5打3场法系飞机III级+随机战斗(活跃度≥70%)得法国空军90周年贴花",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8974,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Happy July 4th: A Tank, Fighter, and a Decal for US Independence Day!",
+      "name_en": "Happy July 4th: A Tank, Fighter, and a Decal for US Independence Day!",
+      "name_zh": null,
+      "start": "2024-07-04",
+      "end": "2024-07-08T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until July 8th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "F-86F-35 9270金鹰、M26E1 7480金鹰(临时返场)",
+          "percent": null,
+          "note": "限时金鹰返场,非折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Mount Rushmore decal"
+      ],
+      "tasks": "7/4-7/8打3场美系III级+随机战斗(活跃度≥70%)得Mount Rushmore贴花;F-86F-35/M26E1金鹰限时返场",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8977,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Moments of Valor: Argentina",
+      "name_en": "Moments of Valor: Argentina",
+      "name_zh": null,
+      "start": "2024-07-09",
+      "end": "2024-07-16T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from July 9th to July 16th (15:00 GMT)",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "TAM 2IP(德系轻坦)五折",
+          "percent": 50,
+          "note": "德系科技树"
+        },
+        {
+          "target": "金鹰",
+          "item": "F-86F-35 Sabre 金鹰返场,购机送Cruz del Sur飞行队涂装",
+          "percent": null,
+          "note": "促销结束后发放"
+        },
+        {
+          "target": "金鹰",
+          "item": "Sea Harrier FRS.1 Squadron 购机送801海军中队涂装",
+          "percent": null,
+          "note": "促销结束后发放"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Cruz del Sur aerobatic team camouflage (F-86F-35)",
+        "801 Naval Squadron camouflage (Sea Harrier FRS.1)",
+        "War Thunder Live用户制阿根廷涂装(Super Etendard/Mirage 5F/A-4B/A.109EOA-2)"
+      ],
+      "tasks": "7/9-7/16购F-86F-35或Sea Harrier FRS.1(或已有者各打3场)得阿根廷专属涂装;TAM 2IP五折;附独立日纪念视频",
+      "sub_events": [],
+      "notes": "Moments of Valor系列视频公告+促销窗口,非纯视频公告故保留;涂装促销结束后统一发放",
+      "confidence": 0.75
+    },
+    {
+      "aid": 8982,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Bastille Day: A Festive Decal, Discounts and Vehicles for Golden Eagles!",
+      "name_en": "Bastille Day: A Festive Decal, Discounts and Vehicles for Golden Eagles!",
+      "name_zh": null,
+      "start": "2024-07-12",
+      "end": "2024-07-15T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until July 15th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "法系高阶五折:Courbet/AMX-30 Super/EC-665 Tiger HAP/Milan",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "Milan 4545金鹰(折后)、S.O.4050 Vautour IIN 8560金鹰",
+          "percent": null,
+          "note": "Milan为折后价,Vautour IIN原价开售"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Bastille Day decal"
+      ],
+      "tasks": "7/12-7/15打3场法系III级+随机战斗(活跃度≥70%)得巴士底日贴花;法系高阶载具五折;Milan/Vautour IIN金鹰开售",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8983,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Israeli A-4E Returns for the Anniversary of its First Flight!",
+      "name_en": "The Israeli A-4E Returns for the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2024-07-12",
+      "end": "2024-07-15T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until July 15th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "A-4E(以色列) 8910金鹰(临时返场)",
+          "percent": null,
+          "note": "首飞63周年返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "7/12-7/15以色列A-4E金鹰临时返场8,910金鹰",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8993,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The T-2 Early is Available on the Anniversary of its First Flight!",
+      "name_en": "The T-2 Early is Available on the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2024-07-19",
+      "end": "2024-07-22T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until July 22nd (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "T-2 Early 8910金鹰(临时返场)",
+          "percent": null,
+          "note": "首飞纪念限时开售"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "7/19-7/22日本T-2 Early金鹰临时开售8,910金鹰",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8994,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Hunter FGA.9 is Available on the Anniversary of its First Flight!",
+      "name_en": "The Hunter FGA.9 is Available on the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2024-07-19",
+      "end": "2024-07-22T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until July 22nd (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "Hunter FGA.9 8910金鹰(临时返场)",
+          "percent": null,
+          "note": "首飞纪念限时开售"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "7/19-7/22英国Hunter FGA.9金鹰临时开售8,910金鹰",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8998,
+      "lang": "en",
+      "is_event": true,
+      "type": "battlepass",
+      "title": "War Bonds: \"Skilled Marksman\"",
+      "name_en": "War Bonds: \"Skilled Marksman\"",
+      "name_zh": null,
+      "start": "2024-07-24",
+      "end": "2024-10-23",
+      "end_precision": "day",
+      "end_raw": "The 'Skilled Marksman' Battle Pass War Bond Shop will be open from July 24th to October 23rd.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Fokker D.XXI (Sweden)",
+        "Aigle (France)",
+        "A-20G-30 (USSR)",
+        "Chi-Ha Short Gun (Japan)",
+        "PT-174 (USA)",
+        "Pz.Bef.Wg.IV J (Germany)",
+        "Pinup \"Muerte\" decal",
+        "Zodiac collection decals trophy",
+        "Road Signs trophy",
+        "German tankers player icons"
+      ],
+      "tasks": "7/24-10/23完成战令挑战赚战争债券,III级起在债券商店兑换载具/贴花/涂装/头像等,商店随战令等级解锁",
+      "sub_events": [],
+      "notes": "Skilled Marksman战令赛季债券商店;Fokker D.XXI(瑞典)/Aigle(法)/A-20G-30(苏)首次入店",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9001,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Floats!",
+      "name_en": "Floats!",
+      "name_zh": null,
+      "start": "2024-07-26",
+      "end": "2024-07-29T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When : From 26th July to 13:00 (GMT) on 29th July",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "7/26-7/29 13:00 GMT周末活动:驾驶水上飞机/飞行艇降落并占领水面指定区域为队伍得分",
+      "sub_events": [],
+      "notes": "参与载具:OS2U-1/OS2U-3/PBY-5/PBY-5A/PBM-1/PBM-3/PBM-5/He 51B-2/H/He 115 C-1/Ar 196 A-3/BV 138C-1/Po-2M/MBR-2/PBY-5A(苏)/Catalina Mk IIIa(英)/Sunderland Mk III/Mk V/F1M2/H6K4/H8K2/H8K3/Ro.44/PBY-5A Late(法)/Late 298D/S17BS/T 2/Ar 196 A-5(瑞典)",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9004,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (August): The First in Paris",
+      "name_en": "Pages of History (August): The First in Paris",
+      "name_zh": null,
+      "start": "2024-08-01",
+      "end": "2024-08-31",
+      "end_precision": "day",
+      "end_raw": "From August 1st until August 31st, you'll be offered 8 tasks consecutively.",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Raymond Dronne头像可金鹰直接购买",
+          "when": "2024-09-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Raymond Dronne player icon",
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backups",
+        "Premium account for 1 day",
+        "random camouflage for ground vehicles"
+      ],
+      "tasks": "8/1-8/31连续8个历史任务(每个约4天),随机战斗完成各任务得奖杯,全部完成得Raymond Dronne头像",
+      "sub_events": [],
+      "notes": "任务每日11:00 GMT开放至末日11:30 GMT;含巴黎解放/法莱斯口袋等8个历史战役主题",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9007,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "The Type 69-IIa and a Decal to Commemorate PLA Day!",
+      "name_en": "The Type 69-IIa and a Decal to Commemorate PLA Day!",
+      "name_zh": null,
+      "start": "2024-08-01",
+      "end": "2024-08-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until August 5th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "Type 69-IIa 8380金鹰(临时返场)",
+          "percent": null,
+          "note": "建军节纪念返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Ground Forces Flag of the PLA decal"
+      ],
+      "tasks": "8/1-8/5打3场中国地面III级+随机战斗(活跃度≥70%)得解放军陆军旗贴花;Type 69-IIa金鹰限时返场8,380",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9008,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Lightning F.53 Temporarily Returns for Golden Eagles!",
+      "name_en": "The Lightning F.53 Temporarily Returns for Golden Eagles!",
+      "name_zh": null,
+      "start": "2024-08-02",
+      "end": "2024-08-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until August 5th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "Lightning F.53 9090金鹰(临时返场)",
+          "percent": null,
+          "note": "首飞70周年返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "8/2-8/5英国Lightning F.53金鹰临时返场9,090金鹰",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9015,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Travel Suitcase!",
+      "name_en": "The Travel Suitcase!",
+      "name_zh": null,
+      "start": "2024-08-08T11:00:00Z",
+      "end": "2024-09-04T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from August 8th (11:00 GMT) until September 4th (11:00 GMT)",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "Travel Suitcase 60000银狮(往期夏日活动载具/涂装/贴花/装饰/头像/消耗品随机)",
+          "percent": null,
+          "note": "银狮商店购买,无需钥匙"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "未开启的Travel Suitcase全部从库存消失",
+          "when": "2024-09-04T11:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Pz.Sp.Wg.P204(f) KwK",
+        "CT-CV 105HP",
+        "Su-25BM",
+        "HMS Renown",
+        "Zrinyi I",
+        "F4D-1",
+        "Leopard 2AV",
+        "IJN Haruna",
+        "Buccaneer S.1",
+        "VL Myrsky II",
+        "BMD-4",
+        "Ka-Chi",
+        "RN Aviere",
+        "Bussard",
+        "F11F-1",
+        "Ar 196 A-3",
+        "C2A1",
+        "Ikv 73",
+        "Maxim Gorky",
+        "Freccia P-493",
+        "BT-7A (F-32)",
+        "HMS Spey",
+        "Bf 110 C-6",
+        "AUBL/74 HVG",
+        "IJN Yuudachi",
+        "P-59A",
+        "FJ-4B VMF-232",
+        "Martlet Mk IV (Britain)",
+        "Sd.Kfz.234/3",
+        "IS-7",
+        "T-34E",
+        "P-43A-1",
+        "Ki-94-II",
+        "Sd.Kfz.234/4",
+        "Phòng không T-34 (USSR)",
+        "F7F-3",
+        "Fw 189 A-1",
+        "KV-220",
+        "Grant I",
+        "P-63A-10 (USSR)",
+        "KV-IB (Germany)",
+        "Surfing decal",
+        "Emblem of the 11th Parachute Brigade decal",
+        "Frosty flames decal",
+        "Wehrmacht ammunition (Germany) decoration",
+        "MotoLady profile icon",
+        "Light machine gun (USA) decoration"
+      ],
+      "tasks": "8/8-9/4银狮商店60,000银狮购Travel Suitcase开箱,随机得往期夏日载具/涂装/贴花等;9/4 11:00 GMT未开箱作废",
+      "sub_events": [],
+      "notes": "需账号曾购买II级+研发载具;部分物品首次以可上市场(Market)的券形式发放;IS-7概率约0.001%",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9021,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "50th Anniversary of the Tornado’s First Flight: A Special Decal and a Discount!",
+      "name_en": "50th Anniversary of the Tornado’s First Flight: A Special Decal and a Discount!",
+      "name_zh": null,
+      "start": "2024-08-14",
+      "end": "2024-08-19T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From now until until August 19th (07:00 GMT)",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Tornado IDS WTD 61 Pack(Gaijin商店)",
+          "percent": 50,
+          "note": "五折"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "50th Anniversary of the Tornado's First Flight decal"
+      ],
+      "tasks": "8/14-8/19打3场任意Tornado型号(III级+随机战斗,活跃度≥70%)得纪念贴花;Tornado IDS WTD 61 Pack五折",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9022,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Polish Armed Forces Day: Lanovski’s P-47M-1-RE and a New Decal!",
+      "name_en": "Polish Armed Forces Day: Lanovski’s P-47M-1-RE and a New Decal!",
+      "name_zh": null,
+      "start": "2024-08-15",
+      "end": "2024-08-19T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until August 19th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "Lanovski's P-47M-1-RE 6090金鹰(临时返场)",
+          "percent": null,
+          "note": "波兰建军节返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Emblem of the Polish Land Forces decal"
+      ],
+      "tasks": "8/15-8/19打3场美系或英系III级+随机战斗(活跃度≥70%)得波兰陆军徽章贴花;P-47M-1-RE金鹰返场6,090",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9024,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "US Airborne Day: Get Yourself a New Decal & the UH-1C XM-30!",
+      "name_en": "US Airborne Day: Get Yourself a New Decal & the UH-1C XM-30!",
+      "name_zh": null,
+      "start": "2024-08-16",
+      "end": "2024-08-19T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until August 19th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "UH-1C XM-30 8910金鹰(临时返场)",
+          "percent": null,
+          "note": "美国空降兵日返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Paratrooper decal"
+      ],
+      "tasks": "8/16-8/19打3场美系飞机III级+随机战斗(活跃度≥70%)得Paratrooper贴花;UH-1C XM-30金鹰返场8,910",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9025,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A New Decal and Decoration for the 80th Anniversary of the Liberation of Paris!",
+      "name_en": "A New Decal and Decoration for the 80th Anniversary of the Liberation of Paris!",
+      "name_zh": null,
+      "start": "2024-08-16",
+      "end": "2024-08-19T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: Until August 19th (09:00 GMT).",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Liberation of Paris decal",
+        "General's cap (France) decoration"
+      ],
+      "tasks": "8/16-8/19打3场法系III级+随机战斗得巴黎解放贴花;胜5场法系地面III级+得法国将军帽装饰(活跃度≥70%)",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9032,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Prinz Eugen Temporarily Returns to Celebrate the Anniversary of its Launch",
+      "name_en": "Prinz Eugen Temporarily Returns to Celebrate the Anniversary of its Launch",
+      "name_zh": null,
+      "start": "2024-08-22",
+      "end": "2024-08-26T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until August 26th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "Prinz Eugen 8020金鹰(临时返场)",
+          "percent": null,
+          "note": "下水86周年返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "8/22-8/26德国重巡Prinz Eugen金鹰临时返场8,020金鹰",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9034,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Anniversary of the MiG-15’s Adoption into Service: Discount on the MiG-15bis ISH",
+      "name_en": "Anniversary of the MiG-15’s Adoption into Service: Discount on the MiG-15bis ISH",
+      "name_zh": null,
+      "start": "2024-08-23",
+      "end": "2024-08-29T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until August 29th (09:00 GMT).",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "MiG-15bis ISH 5992金鹰",
+          "percent": 30,
+          "note": "服现役75周年,七折"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "8/23-8/29 MiG-15bis ISH七折5,992金鹰(苏系高级战机)",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9038,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (September): Attacker Ace",
+      "name_en": "Pages of History (September): Attacker Ace",
+      "name_zh": null,
+      "start": "2024-09-01",
+      "end": "2024-09-30",
+      "end_precision": "day",
+      "end_raw": "From September 1st until September 30th, you'll be offered 8 tasks consecutively.",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Lev Mikhailovich Roshchin头像可金鹰直接购买",
+          "when": "2024-10-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Lev Mikhailovich Roshchin player icon",
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backups",
+        "Premium account for 1 day",
+        "random camouflage for ground vehicles"
+      ],
+      "tasks": "9/1-9/30连续8个历史任务(每个约4天),随机战斗完成各任务得奖杯,全部完成得Roshchin头像",
+      "sub_events": [],
+      "notes": "任务每日11:00 GMT开放至末日11:30 GMT;含布良斯克/阿萨尔乌塔尔/许特根森林等8个历史战役主题",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9043,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Discount, Decal & Decoration for Operation Bagration’s Anniversary!",
+      "name_en": "A Discount, Decal & Decoration for Operation Bagration’s Anniversary!",
+      "name_zh": null,
+      "start": "2024-08-29",
+      "end": "2024-09-02T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until September 2nd (07:00 GMT).",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "Vindictive bundle(含T-34-85E/IS-2 Revenge/Peshka/IL-2 Avenger四礼包+Victory Marshal称号) 108→53.98",
+          "percent": 50,
+          "note": "仅PC"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Victory Marshal称号补发(8/29-9/2登录并3胜且已购捆绑内全部载具者)",
+          "when": "2024-09-03"
+        }
+      ],
+      "rewards_text": [
+        "Mound of Glory decal",
+        "Tank Forces General's Cap (USSR) decoration",
+        "Victory Marshal title"
+      ],
+      "tasks": "8/29-9/2打3场苏系III级+得贴花;胜5场苏系地面III级+得装饰;Vindictive捆绑包五折,期间登录3胜且拥有包内全部载具得Victory Marshal称号(9/3后发)",
+      "sub_events": [],
+      "notes": "称号活动仅限PC;奖励于9月3日后统一发放",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9053,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Decal for the Anniversary of the Victory Over Japan",
+      "name_en": "A Decal for the Anniversary of the Victory Over Japan",
+      "name_zh": null,
+      "start": "2024-09-02",
+      "end": "2024-09-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until September 5th (09:00 GMT).",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "V-J Day 2024 decal"
+      ],
+      "tasks": "9/2-9/5打3场美系III级+随机战斗(活跃度≥70%)得对日胜利日纪念贴花",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9055,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Pre-order: Al-Khalid-I",
+      "name_en": "Pre-order: Al-Khalid-I",
+      "name_zh": null,
+      "start": "2024-09-02",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Al-Khalid-I预购包(载具+20天高级+2500金鹰+称号/贴花/涂装) 69.99",
+          "percent": null,
+          "note": "Dance of Dragons版本预购"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Al-Khalid-I (Rank VII, China)",
+        "Premium account for 20 days",
+        "2500 Golden Eagles",
+        "The Eternal Tank title",
+        "Markhor decal",
+        "unique digital camouflage"
+      ],
+      "tasks": "预购Al-Khalid-I礼包(69.99美元),含载具+20天高级+2500金鹰与预购独占奖励;载具随Dance of Dragons版本实装",
+      "sub_events": [],
+      "notes": "预购包,无正文截止日期;带*内容(载具/贴花/涂装)需下个重大更新后生效",
+      "confidence": 0.8
+    },
+    {
+      "aid": 9067,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Pre-order: AV-8B Night Attack",
+      "name_en": "Pre-order: AV-8B Night Attack",
+      "name_zh": null,
+      "start": "2024-09-05",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "AV-8B Night Attack预购包(载具+2500金鹰+20天高级+称号/贴花) 69.99",
+          "percent": null,
+          "note": "Dance of Dragons版本预购"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "AV-8B Night Attack (Rank VII, USA)",
+        "2500 Golden Eagles",
+        "Premium account for 20 days",
+        "True Action Hero title",
+        "VMA-223 insignia decal"
+      ],
+      "tasks": "预购AV-8B Night Attack礼包(69.99美元),载具随Dance of Dragons版本实装;文中称预购仅剩数日",
+      "sub_events": [],
+      "notes": "预购包,无确切截止日期,正文称'only available for a few more days'",
+      "confidence": 0.8
+    },
+    {
+      "aid": 9069,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Discounts on Soviet Tanks and a Decoration for Tanker’s Day!",
+      "name_en": "Discounts on Soviet Tanks and a Decoration for Tanker’s Day!",
+      "name_zh": null,
+      "start": "2024-09-06",
+      "end": "2024-09-09T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until September 9th (07:00 GMT).",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Gaijin商店苏系坦克全线(除T-80U-E1)",
+          "percent": 30,
+          "note": "坦克兵日七折"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Golden HE decoration"
+      ],
+      "tasks": "9/6-9/9胜5场苏系地面III级+随机战斗(活跃度≥70%)得Golden HE装饰;Gaijin商店苏系坦克(除T-80U-E1)七折",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9083,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Join the Testing for the French Coastal Fleet!",
+      "name_en": "Join the Testing for the French Coastal Fleet!",
+      "name_zh": null,
+      "start": "2024-09-10",
+      "end": "2024-10-20T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: 40 tasks are available until October 20th (11:00 GMT).",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "VLT-2 Pack(VLT-2 IV级+1000金鹰+15天高级+法近海舰队研发权) 29.99",
+          "percent": null,
+          "note": "购买即得测试者资格"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "测试者任务窗口(40个每日任务)关闭",
+          "when": "2024-10-20T11:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Emblem of the French Navy decal",
+        "French Coastal fleet CBT access",
+        "VLT-2 (Rank IV, France)",
+        "1000 Golden Eagles",
+        "Premium account for 15 days"
+      ],
+      "tasks": "9/10-10/20每日11:00 GMT刷新任务,海战III级+单日10000任务点得1测试星,集12星解锁法国近海舰队研发,10星得贴花;或购VLT-2包直接解锁",
+      "sub_events": [],
+      "notes": "测试星窗口与CBT关闭时间无关联;CBT结束不重置研发进度",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9087,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "“The Few” Decal, Two Fighters and Discounts for Battle of Britain Day!",
+      "name_en": "“The Few” Decal, Two Fighters and Discounts for Battle of Britain Day!",
+      "name_zh": null,
+      "start": "2024-09-13",
+      "end": "2024-09-16T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until September 16th (07:00 GMT).",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "Battle of Britain 2024 Bundle(两Spitfire礼包) 54.98→27.49",
+          "percent": 50,
+          "note": "仅PC"
+        },
+        {
+          "target": "金鹰",
+          "item": "Plagis' Spitfire LF Mk.IXc / Prendergast's Spitfire FR Mk.XIVe 各6090金鹰",
+          "percent": null,
+          "note": "不列颠空战日临时返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "The Few decal"
+      ],
+      "tasks": "9/13-9/16打3场英系飞机III级+随机战斗(活跃度≥70%)得The Few贴花;两架纪念Spitfire金鹰返场各6,090;捆绑包五折(仅PC)",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 9089,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Discount on the Ka-50 for Nikolai Kamov’s Birthday!",
+      "name_en": "Discount on the Ka-50 for Nikolai Kamov’s Birthday!",
+      "name_zh": null,
+      "start": "2024-09-13",
+      "end": "2024-09-16T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "When: From today until September 16th (12:00 GMT).",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Ka-50(苏系高级直升机,Gaijin商店)",
+          "percent": 30,
+          "note": "卡莫夫诞辰纪念七折"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "9/13-9/16 Ka-50商店七折",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    }
+  ]
+}

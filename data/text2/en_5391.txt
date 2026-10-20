@@ -1,0 +1,83 @@
+[Event] St. Patrick’s Day - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+St. Patrick’s Day
+Attention! Outdated news format. Content may not display correctly.
+16 March 2018
+Event
+<>From 15:00 GMT March 16th till 07:00 GMT March 19th - Participate and receive prizes!
+<>St. Patrick’s Day has come to War Thunder! Celebrated by Christians, Catholics, and even non religious alike. “St. Patricks Day”, a day commemorated by feast, parade, and community celebration is a day unlike any other of the year. While some observe it as the day Christianity came to Ireland, others express the event as a day to express Irish heritage world wide.
+<>No matter how or where the celebration is, or where you may find yourself. There is one thing you can be sure of. That of all days of the year, everyone in all walks of life, everyone on this day is lucky and all those that feast together are Irish (at least in spirit).
+<>No need to even know who this guy is to dive into the atmosphere of one of the great global holidays! St. Patrick again welcomes players in War Thunder and offers to stock them up with clover and shamrock leaves for the whole year ahead.
+<>We need all the good luck we can get, especially if it can be obtained in just three battles!
+“Four-leaf Clover” decal
+“Shamrock” emblem, personal emblem of the pilot T.Kobayashi, 244th sentai, Air Force of Japan
+“Personal motif of Brendan "Paddy" Finucane” decal
+Stab III./JG 26 emblem
+<>For 3 victories you will receive a player avatar:
+<>
+<>Additional terms
+<>The achievement will be counted with any rank 3 or higher vehicle with an activity in battle of 60% or higher! You can follow the progress in the Menu → Achievements → St. Patrick's Day
+<>Decals are in the following sections:
+<>“Four-leaf Clover” decal — other
+<>“Shamrock” emblem — Japan
+<>“Personal motif of Brendan "Paddy" Finucane” decal — Britain
+<>Stab III./JG 26 emblem — Axis
+<>If you have already unlocked all the decals you will receive 50,000 Silver Lions for the completed task.
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

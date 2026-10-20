@@ -1,0 +1,78 @@
+[Event] Updated Nuclear Escalation: Vietnam! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Updated Nuclear Escalation: Vietnam!
+2 September 2026
+Event
+<>We’re returning the Nuclear Escalation mode to the Vietnam era for aircraft with Battle Ratings of 8.7-11.0! MiG-21s vs F-105s, Shrikes vs S-75s, the air war over Vietnam was ruthless, and now you can find yourself at the heart of a hypothetical escalation of that conflict. Here are the details!
+<>The mode is available from September 2nd (13:00 GMT) until September 7th (13:00 GMT) in the Events and Tournaments tab.
+<>
+About the Nuclear Escalation mode (open spoiler) ▼
+<>The Nuclear Escalation mode depicts a large-scale conflict involving nuclear weapons, where you take command of frontline aircraft armed with nuclear bombs. The battlefield is constantly changing. Break through enemy defenses, destroy depots and enemy convoys to cut off the front’s supply lines and dramatically impact the course of the operation. Disable airfields and destroy artillery and tactical ballistic missile systems that remotely attack your troop positions and can strike in the most unexpected and unfavorable locations. Suppress anti-aircraft positions, including medium and long-range systems, and destroy the carrier fleet and its escort. And of course gain air superiority, all with unlimited spawns!
+<> Updated Ground Vehicle lineup
+<>
+<>Let’s start with the vehicles! All Rapier SAM systems have been replaced by the FlaRakPz 1, armed with Roland 1 missiles. While the Rapiers did not trigger the radar warning receivers (RWR) of aircraft at these Battle Ratings and utilized smokeless missiles, the Rolands are detected by the RWRs typical of this Battle Rating range and leave a highly visible smoke trail. Furthermore, in terms of performance characteristics, the Roland 1 missile is much closer to the Osa’s missile than the Rapier is.
+<>Some of the changes to the vehicle lineup were made specifically for the 10.0-11.0 Battle Rating range. Previously, airfield protection was clearly inadequate and failed to prevent attacks on players taking off or landing. Therefore, in addition to three ZSU-23-4 or M163 gun-based SPAAGs, three Osa-AKM SAM systems (carrying four missiles each) have been deployed for one side, and three FlaRakPz 1 systems for the other.
+<>The air defense composition protecting the tactical assembly areas has also been changed. One ZSU-57-2 was replaced by an Osa-AKM (carrying four missiles), and one M42 Duster was replaced by a FlaRakPz 1 (equipped with Roland 1 missiles). Additionally, the composition of the Soviet convoys was adjusted. The single BMP-1 in each was replaced by a ZSU-23-4, bringing the total number of ZSU-23-4s per column to two. This change was made to compensate for disparities in the ground-attack capabilities of the most common strike aircraft, specifically regarding the quantity of fire-and-forget guided munitions.
+<> Location changes
+<>Previously, low-altitude flight made it very easy to break through to enemy airfields; in addition to reinforcing air defenses in specific Battle Rating brackets, we are now adding special raised platforms to the airfields to accommodate surface-to-air missile (SAM) systems across all eras of this mode. These platforms elevate the anti-aircraft units, improving their line of sight and enhancing protection for aircraft during takeoff and landing.
+<>We’ve reduced the forest density on the map and lowered the average height of vegetation along the roads, making it easier and more convenient to attack targets moving along them.
+<> Crews
+<>Finally, we must mention one more change: all crews of nuclear-capable aircraft now have maximum skill levels and Expert qualification. Your pilots will not let you down at the most critical moment.
+<>Take your seat in the cockpit and see whose tactics prevail. Check the changelog for more details . Good luck, pilots!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

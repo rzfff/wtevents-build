@@ -1,0 +1,104 @@
+[Special] 'Normandie-Niemen' Anniversary - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+'Normandie-Niemen' Anniversary
+Attention! Outdated news format. Content may not display correctly.
+25 November 2014
+Special
+From 17.00 GMT on November 25th to 17.00 GMT on November 27th
+'[Event] Stalingrad - Escorting Sturmoviks' (+30% & ) will be available
+Requirements for unlocking the 'Normandie-Niemen' skin for the Yak-9
+decreased from 160/57/27 to 60/30/10 in Arcade/Realistic/Simulator
+On November the 25th 1942 the Soviet Union signed an agreement with the “Free France” resistance organisation based in London. In pursuance of it a fighter squadron has been formed in the Soviet city of Ivanovo; it was composed of several dozens French airmen and called ‘Normandy’. The pilots were offered a choice of Lavochkin La-5, Hawker Hurricane, Bell P-39 Airacobra or Yakovlev Yak-1 fighters. They chose the latter and never regretted their choice, saying: “Two Yak fighters can engage four enemies and four can engage sixteen. Flying these aircraft you can feel yourself a true master of the sky!”
+<>
+<>
+Pilots of the 'Normandie-Niemen' squadron
+The experienced French pilots completed the retraining course quickly and departed to the front line on March 22nd. The ‘Normandy’ squadron (later reformed into a regiment) took part in the Battle of Kursk, Operation Bagration (the liberation of Belarus), offensive operation in Eastern Prussia. The air-unit was awarded the second name ‘Niemen’ for its extraordinary performance while covering Soviet troops crossing the river Niemen. From that point the regiment was known as ‘Normandie - Niemen’.
+96 French pilots who served in the unit made a total of 5240 sorties, achieved 273 confirmed and 36 unconfirmed victories. In acknowledgement of the unit’s invaluable service, when the War ended Joseph Stalin personally allowed the airmen to fly their trusted Yak-3 fighters back home, to France.
+<>
+<>
+Yak-3 of 'Normandie-Niemen' in Le Bourget
+One of the most famous ‘Normandie - Niemen’ regiment’s aces was captain Marcel Albert, commanding officer of one of its squadrons. He started his battle path in May 1940 when the Germans invaded France. On May 14th Albert had achieved his first aerial victory: piloting a Dewoitine D.520 fighter he shot down a Dornier Do-17 bomber. France surrendered on May the 22nd and Albert had to continue service under the pro-fascist Vichy government. His unit was deployed to Algeria, where it was supposed to fight the British. However Albert defected to Gibraltar as soon as he saw an opportunity. From there he departed to England, joined the RAF and performed 47 operational flights in Supermarine Spitfires in 1942. In December he volunteered to join the newly formed ‘Normandy’ squadron.
+He quickly became one of the unit’s most successful pilots. On November 15th a squadron under his command engaged a group of 20 German bombers and 6 escort fighters and shot down 9 enemy planes. The very next day the French squadron took down 29 enemy aircraft without losing any Yak-3’s of their own. In a single week from October 12th till October 18th Albert acheived 10 confirmed victories both solo and in a group. By the end of the war his personal count reached 23 aerial victories.
+The War Thunder Team
+Also check out these cool 'Normandie-Niemen' Yak skins by Kabanovich on War Thunder Live:
+<>
+<>
+Yak-1 of 'Normandie-Niemen'
+Yak-3 of 'Normandie-Niemen'
+Yak-9K of 'Normandie-Niemen'
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

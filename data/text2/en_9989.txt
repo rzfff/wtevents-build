@@ -1,0 +1,400 @@
+[Special] The Nuclear Football! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Nuclear Football!
+9 April 2026
+Special
+<>A mysterious briefcase containing the keys to the world’s most destructive arsenal has long been the subject of rumors, speculation, and all sorts of theories. What exactly does it contain? Well, in War Thunder, the answer is clear: prizes from past events and useful consumables!
+<> When: From April 9th (11:00 GMT) until May 6th (11:00 GMT) , the “Nuclear Football” is available in the in-game Item Shop for 60,000 Silver Lions.
+<>The Nuclear Football can only be purchased by players who have bought at least one researchable vehicle at Rank II or higher on their account.
+<>What’s in the Nuclear Football?
+<>A large number of prizes from past War Thunder events! From the spring and autumn crafting events, to the April Fools events, football competitions, the Friday the 13th event and the new vehicle events that have been running from January through April, along with prizes from all May and April Battle Passes.
+<>The Nuclear Football costs 60,000 Silver Lions.
+<>Some rewards you can find in the Nuclear Football:
+<>A7V
+<>BI
+<>Object 279
+<>QN506
+<>LOSAT
+<>Strasbourg
+<>In total there are more than a hundred different rewards:
+<>74 vehicles, including the legendary Object 279 and interesting VT1-2
+<>17 camouflages
+<>49 decorations
+<>100 decals
+<>18 player icons
+<>1 player icon frame
+<>2 profile backgrounds
+<>15 loading screens
+<>2 ship flags
+<>Hat trophy
+“Lewis gun”
+decoration
+“2OP”
+decal
+“April Son”
+decal
+“Mephisto”
+decal
+“Tankman in a gas mask”
+profile icon
+“Quadcopter”
+decoration
+<>All prizes are immediately credited to your account. However, there’s a chance of receiving some of them in the form of a coupon unless otherwise stated.
+Full list of items in the Nuclear Football (open spoiler)
+▼
+<> Vehicles (will be immediately activated on an account and in the form of coupons):
+<>Toldi IIA (immediately activated on the account only)
+<>Voroshilov (immediately activated on the account only)
+<>P-39Q-25 (France)
+<>M6A2E1
+<>HMS Cadiz (immediately activated on the account only)
+<>F-6C-10-NA
+<>Elefant
+<>S-701 (immediately activated on the account only)
+<>J26 David
+<>Centurion Mk.2
+<>USS Flagstaff (immediately activated on the account only)
+<>P-51C-11-NT
+<>Kungstiger
+<>FV4030/3
+<>F-5A(G) (Sweden)
+<>Strasbourg
+<>FIROS 6
+<>Meteor FR.9 (Israel)
+<>Garford (immediately activated on the account only)
+<>Mark V (immediately activated on the account only)
+<>St-Chamond (immediately activated on the account only)
+<>H.P.12 (immediately activated on the account only)
+<>Garford-Beute (immediately activated on the account only)
+<>Beutepanzer IV (immediately activated on the account only)
+<>A7V (immediately activated on the account only)
+<>Amiens
+<>T-44 (FM)
+<>Object 292
+<>Jaguar IS
+<>SMS Baden
+<>PLZ83-130
+<>LOSAT
+<>F-100F (China)
+<>IJN Kurama
+<>Ki-48-II otsu
+<>QN506
+<>A-7K
+<>Shcherbakov
+<>AMD.35 (SA35)
+<>Alecto I
+<>USS Davis
+<>Kfir C.2
+<>T-72M2 Moderna
+<>Pо-2М
+<>SMS Ostfriesland
+<>Jaguar E
+<>CCVL
+<>SU-76D
+<>JDS Yūgure (DD-184)
+<>F-4F Early (Germany)
+<>XM8
+<>Pbil m/40
+<>HMS Mohawk
+<>F-5A
+<>PT-16/T14 mod.
+<>Sd.Kfz.234/1
+<>SGB Grey Goose
+<>AU-1
+<>Object 279 *
+<>Sd.Kfz.251/10
+<>Lübeck
+<>BI
+<>Merkava Mk.3D (USA)
+<>I-180S
+<>MPK Pr.122bis
+<>VFW
+<>Ju 388 J
+<>HMS Tiger
+<>Merkava Mk.1 (USA)
+<>MBK-161 early
+<>H-34
+<>VT1-2
+<>Tiger (Germany)
+<>Kingcobra (USA)
+<>* — the chance of obtaining an Object 279 is lower than the rest of the vehicles and is around 0.001%
+<> Camouflages (only in the form of coupons):
+<>FV4030/3: Year of the Snake (first time as a coupon)
+<>F-5A(G) (Sweden): Tiger camouflage (first time as a coupon)
+<>Strasbourg: Bicolor geometric camouflage (first time as a coupon)
+<>Jaguar IS: Bicolor Indian camouflage
+<>SMS Baden: Tricolor geometric camouflage
+<>M551: Football camouflage "Dragon"
+<>M551: Football camouflage "Tiger"
+<>Sd.Kfz.234/1: Black camouflage
+<>SGB Grey Goose: Black camouflage
+<>AU-1: Black camouflage
+<>Object 279: Black camouflage
+<>I-180S: Summer camouflage
+<>MPK Pr.122bis: Deforming tricolor camouflage
+<>VFW: Tricolor summer camouflage (spots)
+<>Ju 388 J: Bicolor grey camouflage
+<>HMS Tiger: Deforming camouflage
+<>Merkava Mk.1 (USA): Tricolor camouflage
+<> Decorations (will be immediately activated on the account and in the form of the coupons):
+<>Dumper wheel (immediately activated on the account only)
+<>Kettlebell-skull (immediately activated on the account only)
+<>Húsafell Stone (immediately activated on the account only)
+<>Elephant in lats (immediately activated on the account only)
+<>Elephant helmet (immediately activated on the account only)
+<>Ankus (immediately activated on the account only)
+<>Shako (immediately activated on the account only)
+<>Horseman statue (immediately activated on the account only)
+<>Lewis gun (immediately activated on the account only)
+<>Swedish Navy emblem (immediately activated on the account only)
+<>Modern assault rifle (Finland) (immediately activated on the account only)
+<>Anti-tank rocket launcher (Sweden) (immediately activated on the account only)
+<>Ouroboros (immediately activated on the account only)
+<>Semi-automatic shotgun (Italy) (immediately activated on the account only)
+<>AK-46 No. 1 (immediately activated on the account only)
+<>RPG-2 (immediately activated on the account only)
+<>B-10 (immediately activated on the account only)
+<>Pickelhaube (immediately activated on the account only)
+<>Green Dragon (immediately activated on the account only)
+<>Anti-tank rocket launcher (China) (immediately activated on the account only)
+<>Best Footballer 2024 (immediately activated on the account only)
+<>Spikes
+<>Iron Flame
+<>Best striker 2023 (immediately activated on the account only)
+<>8-mm machine gun
+<>Grenade launcher
+<>Quadcopter
+<>Ceremonial Cris
+<>Golden Ball
+<>Golden Boot
+<>Golden Glove
+<>Silver Ball (immediately activated on the account only)
+<>Silver Boot (immediately activated on the account only)
+<>Silver Glove (immediately activated on the account only)
+<>Super Cup
+<>The Magic Hat
+<>Hat with Feather
+<>Foil Cap
+<>Viking Helmet
+<>Leprechaun's Hat
+<>Pirate's Hat
+<>Rabbit's Ears
+<>Sombrero
+<>Uncle Sam's Hat
+<>Cap and Bells
+<>Slasher’s Mask
+<>Slasher’s Hatchet
+<>Chainsaw
+<>Cannibal Axe
+<> Decals (will be immediately activated on the account and in the form of the coupons):
+<>Strongman Dog decal (immediately activated on the account only)
+<>Strongman Lion decal (immediately activated on the account only)
+<>Strongman Bear decal (immediately activated on the account only)
+<>Strongman Bull decal (immediately activated on the account only)
+<>No. 27 Squadron Badge (immediately activated on the account only)
+<>Emblem of 1st Brigade (immediately activated on the account only)
+<>Emblem of the 6th Group Headquarters (immediately activated on the account only)
+<>Emblem of 31st Armored Division (immediately activated on the account only)
+<>Emblem of the 1st Hussars (immediately activated on the account only)
+<>Emblem of the King’s Royal Hussars (immediately activated on the account only)
+<>April Son text (immediately activated on the account only)
+<>Humorist text (immediately activated on the account only)
+<>Emblem of the 3rd Company of the Jutland Dragoons (immediately activated on the account only)
+<>Emblem of the Alvsborg Regiment (immediately activated on the account only)
+<>Emblem of the 6th Combat Support Squadron (immediately activated on the account only)
+<>Emblem of the 3rd Tank Battalion (immediately activated on the account only)
+<>Year of the Snake decal (immediately activated on the account only)
+<>Snake decal (immediately activated on the account only)
+<>Emblem of the 332nd Squadron (immediately activated on the account only)
+<>Emblem of the 336th Squadron (immediately activated on the account only)
+<>Tigers Team decal (immediately activated on the account only)
+<>Coat of arms of Strasbourg (immediately activated on the account only)
+<>Commemorative medal of the battleship Strasbourg (immediately activated on the account only)
+<>Emblem of the 5th Mountain Artillery Regiment (immediately activated on the account only)
+<>Emblem of the 12th Artillery Regiment "Savona" (immediately activated on the account only)
+<>Emblem of the 122nd Squadron (immediately activated on the account only)
+<>Emblem of the 192nd Squadron (immediately activated on the account only)
+<>Emblem of the Nevatim Airbase (immediately activated on the account only)
+<>The Glorious Memory: Battle of Jutland decal (immediately activated on the account only)
+<>Mephisto decal (immediately activated on the account only)
+<>Stormbreaker decal (immediately activated on the account only)
+<>"Gorky pioneer" text (immediately activated on the account only)
+<>"Don Cossack" text (immediately activated on the account only)
+<>"Moscow collective farmer" text (immediately activated on the account only)
+<>"Soviet polar explorer" text (immediately activated on the account only)
+<>Black Dragon decal (immediately activated on the account only)
+<>Green Dragon decal (immediately activated on the account only)
+<>Jaguar Pilot’s Patch decal (immediately activated on the account only)
+<>No. 5 Squadron Patch decal (immediately activated on the account only)
+<>SMS Baden decal (immediately activated on the account only)
+<>Emblem of the County of Baden (immediately activated on the account only)
+<>Born to Hunt decal (immediately activated on the account only)
+<>Missileman patch decal (immediately activated on the account only)
+<>Hit the Ball decal (immediately activated on the account only)
+<>Dragons Team decal (immediately activated on the account only)
+<>Mad Girl: Looter decal (immediately activated on the account only)
+<>Mad Girl: Mechanic decal (immediately activated on the account only)
+<>Mad Girl: Gunner decal (immediately activated on the account only)
+<>"Tokushu Heiki" decal (immediately activated on the account only)
+<>"Football-graffiti" decal (immediately activated on the account only)
+<>"Soccer ball of champions" decal (immediately activated on the account only)
+<>Emblem of MI MBCT 1
+<>Emblem of the ShMP 1st Assault
+<>House of the Bull
+<>House of the Hawk
+<>TailSpin
+<>"Cunning and Fury" decal
+<>"Dragons" Team banner
+<>"Tigers" Team banner
+<>Fiery Ball (immediately activated on the account only)
+<>"2OP" Decal (immediately activated on the account only)
+<>"SDI Forces - Harpy" badge
+<>"SDI Forces - Hydra" badge
+<>"SDI Forces - Minotaur" badge
+<>"Bloody Friday" Decal
+<>"Massacre" decal
+<>"Mantrap" decal
+<>"Bad Turn" decal
+<>Soccer Ball of Argentina
+<>Soccer Ball of Australia
+<>Soccer Ball of Belgium
+<>Soccer Ball of Brazil
+<>Soccer Ball of Colombia
+<>Soccer Ball of Costa Rica
+<>Soccer Ball of Croatia
+<>Soccer Ball of Denmark
+<>Soccer Ball of Egypt
+<>Soccer Ball of France
+<>Soccer Ball of Germany
+<>Soccer Ball of Iceland
+<>Soccer Ball of Iran
+<>Soccer Ball of Japan
+<>Soccer Ball of Mexico
+<>Soccer Ball of Morocco
+<>Soccer Ball of Nigeria
+<>Soccer Ball of Panama
+<>Soccer Ball of Peru
+<>Soccer Ball of Poland
+<>Soccer Ball of Portugal
+<>Soccer Ball of Russia
+<>Soccer Ball of Saudi Arabia
+<>Soccer Ball of Senegal
+<>Soccer Ball of Serbia
+<>Soccer Ball of South Korea
+<>Soccer Ball of Spain
+<>Soccer Ball of Sweden
+<>Soccer Ball of Switzerland
+<>Soccer Ball of Tunisia
+<>Soccer Ball of England
+<>Soccer Ball of Uruguay
+<> Profile icons (will be immediately activated on the account and in the form of the coupons):
+<>Ivan Poddubny (first time as a coupon)
+<>Tankman in a gas mask (first time as a coupon)
+<>Hussar Squadron Officer (first time as a coupon)
+<>Valkyrie (first time as a coupon)
+<>German Empire Tankman (first time as a coupon)
+<>Dogfighting Pilot
+<>Dragons team driver
+<>Interceptor driver
+<>"Tigers" team driver
+<>Mobile Warrior
+<>Burney Malleck
+<>Prince of the House of Hawk
+<>Kanaan Denali
+<>Fox Pilot
+<>Bear Pilot
+<>Pirate "Cunning"
+<>Pirate "Sullen"
+<>Minotaur Commander
+<> Profile icon frames (will be immediately activated on the account):
+<>Tank Football — Goalkeeper
+<> Profile backgrounds (will be immediately activated on the account):
+<>Tank Football — Watch the ball!
+<>T-44 First Modification
+<> Loading screens (will be immediately activated on the account):
+<>M6A2E1
+<>Elefant
+<>Centurion Mk.2
+<>Kungstiger
+<>Tank Football — What a kick!
+<>Strasbourg
+<>The Great War
+<>Call of the Dragon
+<>Mad Thunder
+<>Tank football - Moment of Inspiration
+<>Mobile Infantry
+<>April's Fool Event — 2022
+<>Sky pirates
+<>TailSpin
+<>Warfare 2077
+<> Naval Flags (will be immediately activated on the account):
+<>Naval jack of the Kaiserliche Marine (1871-1919)
+<>Mad Roger
+<> Silver Lions
+<>10,000 — 1,000,000
+<> Consumable items
+<>Battle trophy (RP booster)
+<>Battle trophy (SL booster)
+<>Universal back-up
+<>Universal back-up x2
+<>Universal back-up x3
+<>Random wager
+<>Random order
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

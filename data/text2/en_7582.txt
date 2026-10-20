@@ -1,0 +1,138 @@
+[Event] The “TailSpin” is back! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The “TailSpin” is back!
+Attention! Outdated news format. Content may not display correctly.
+9 March 2022
+Event
+<>How do you prove a right to own something valuable in the pirate community? Especially if incredible floating islands are at stake amongst which your secret base will look great. The air battle has begun!
+<>Pirate clans of bears and foxes continue their dispute over the area of floating rocks. With eight unique aircraft and a stunning combat location, air pirate battles are back with valuable rewards for participants and winners making it even better!
+<>From 11.00 GMT on the 10th of March until 11:30 GMT on the 30th of March
+<>War Thunder welcomes you to the “TailSpin” event. With prizes!
+<>Best Pirate Awards
+<>This event has 10 stages. Each lasting 2 days. 50 kills or assists for destruction during each stage will bring you one completed task. Complete more challenges and earn more rewards!
+<>
+<>
+<>For 4 and 7 completed tasks
+<>
+<>Humanized icons of our “heroes”. Just as confident as their furry alter egos.
+<>
+<>
+<>For 9 and 10 completed tasks
+<>Charismatic air pirates in your avatar picture will not disappear even after the event is over.
+<>These avatar pictures will be given out as coupons which can be applied to your account or traded on the market .
+<>
+<>Decal for 2 completed tasks.
+<>Loading Screens for 5 and 8 completed tasks.
+<>You are the part of the most colorful War Thunder game event and everyone around you will know it
+<>If you already have avatars with humanized event characters or decals you will receive alternative awards in silver lions instead of these rewards.
+<>You can follow your progress by clicking on your “Nickname → Achievements → “TailSpin”.
+<>Aircraft for air pirate
+<>The more rivals shot down or destroyed with your help, the more powerful aircraft you can get from the captain.
+Check aircraft list ▼
+<>Nimble.
+<>Such an aircraft is given to every new pilot in the Air Pirates. Do you want something more serious? Load the machine gun and shoot down the enemies of the clan!
+<> How to get it? Beginner's plane - available for everyone
+<>Windscreech.
+<>Hmmm, this one is better indeed! The Windscreech is noticeably faster, although it still lacks firepower.
+<> How to get it? 15 players defeated and assisted.
+<>Bumblebee.
+<>The favorite fighter of the Stalinia boar pilots is now in the hands of the Air Pirates. Six machine guns, bombs and rockets are where the fun begins!
+<> How to get it? 40 players defeated and assisted
+<>Hornet.
+<>You can’t have TOO many guns, any pirate would agree! This triplane carries 8 machine guns, as well as bombs and rockets for striking ground targets.
+<> How to get it? 75 players defeated and assisted
+<>Red Goose.
+<>This is a real flying fortress with defensive turrets and the most powerful six-barreled Golden Dragon cannons.
+<> How to get it? 120 players defeated and assisted
+<>Tornado.
+<>The Tornado fighter is a status aircraft of the Air Pirate elite. Excellent speed and new rapid-fire autocannons for the best pilots in the Republic.
+<> How to get it? 170 players defeated and assisted
+<>Panther.
+<>These fighters are one-off assembled for the leaders of the clans of the Republic. It is the Panther fighter that leads the squadrons of air corsairs into battle. The best engines and weapons make this aircraft the most advanced fighter ever to take to the skies.
+<> How to get it? 235 players defeated and assisted
+<>Sly Duck.
+<>Smuggling is the main source of income for the Republic, so the smugglers' workhorse must be ready to stand up against raiders. This peaceful-looking seaplane is armed with 20mm autocannons, heavy machine guns and superb turrets!
+<> How to get it? 300 players defeated and assisted
+<>Daily Trophy
+<>Every day for your first victory in the “TailSpin” event you will get a battle trophy with one of the random prize from the available items:
+<>3-5 universal backup vehicles
+<>20-50% RP booster for 3-10 battles
+<>20-50% SL booster for 3-10 battles
+<>Random wager
+<>Random order
+<>You can track the status of your daily trophy by clicking on “Nickname → Achievements → TailSpin → Daily reward“. You can get a new trophy from 17:00 GMT the following day.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

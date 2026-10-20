@@ -1,0 +1,255 @@
+{
+ "results": [
+  {
+   "key": "2025_spirit_of_the_tempest",
+   "start_override": "2025-05-22T11:00:00Z",
+   "end": "2025-06-05T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From May 22nd (11:00 GMT) until June 5th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "暴风肆虐，HF-24 风神登场！",
+   "zh_id": 2084,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2025-06-08T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2025-06-09"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "空战III级及以上(可含I-II级活动载具)攒任务分,每阶段35000分,共7阶段,每2天11:00 GMT刷新;7阶段得HF-24不可交易券;另攒60万分得兑换券强化道具,可升级为可交易券(5天后可售)",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2025_eye_in_the_sky",
+   "start_override": "2025-04-16T11:00:00Z",
+   "end": "2025-04-30T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 16th (11:00 GMT) until April 30th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "天空之眼——流星 FR Mk.9 降临战场！",
+   "zh_id": 2052,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2025-05-03T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2025-05-05"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "空战III级及以上攒任务分,每阶段30000分,共7阶段,每2天刷新;7阶段得以色列流星FR Mk.9不可交易券;另攒55万分得兑换券强化道具,升级后5天可上市出售",
+   "sub_events": [],
+   "confidence": 0.92,
+   "notes": "官方声明本次活动获取条件已调整以平衡难度与奖励价值;中文版第6阶段贴花与英文版不一致(117第一喷气联队 vs 内瓦蒂姆空军基地徽标)"
+  },
+  {
+   "key": "2025_rocket_storm",
+   "start_override": "2025-03-13T11:00:00Z",
+   "end": "2025-03-27T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From March 13th (11:00 GMT) until March 27th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "菲亚特 6614/FIROS 出击，掀起火箭风暴！",
+   "zh_id": 2006,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2025-03-31T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2025-03-31"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "陆战III级及以上攒任务分,每阶段35000分,共7阶段,每2天刷新;7阶段得菲亚特6614/FIROS不可交易券;另攒60万分得兑换券强化道具,升级后6天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "EN原文'3 5,000 mission points'为排版断行,实为35000分(中文版可证)"
+  },
+  {
+   "key": "2025_raider_hunter",
+   "start_override": "2025-02-27T11:00:00Z",
+   "end": "2025-03-17T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From February 27th (11:00 GMT) until March 17th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "化身突袭猎手，斯特拉斯堡号出航！",
+   "zh_id": 1967,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2025-03-20T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2025-03-20"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "海战街机/历史III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得斯特拉斯堡号不可交易券,9阶段得双色变形涂装+4随机改装件;另攒75万分得兑换券强化道具",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2025_freedom_fighter",
+   "start_override": "2025-02-06T11:00:00Z",
+   "end": "2025-02-24T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From February 6th (11:00 GMT) until February 24th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "挪威 F-5A(G) 强袭登场，自由战士整装出击！",
+   "zh_id": 1945,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2025-02-27T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2025-02-27"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "空战III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得F-5A(G)不可交易券,9阶段得老虎会涂装+4随机改装件;另攒75万分得兑换券强化道具(5天后可售)",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2025_enter_the_serpent",
+   "start_override": "2025-01-17T11:00:00Z",
+   "end": "2025-02-04T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From January 17th (11:00 GMT) until February 4th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "瑞蛇启新，雄狮腾跃！",
+   "zh_id": 1926,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2025-02-07T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2025-02-07"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "蛇年新春主题陆战活动:陆战III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得FV4030/3狮2不可交易券,9阶段得涂装+4随机改装件;另攒75万分得兑换券强化道具",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2024_winter_tales",
+   "start_override": "2024-12-20T11:00:00Z",
+   "end": "2025-01-09T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "When: From December 20th (11:00 GMT) until January 9th (11:00 GMT), complete tasks and get rewards!",
+   "type": "festive",
+   "name_zh": "“冬日传说”活动开幕！",
+   "zh_id": 1898,
+   "deadlines": [
+    {"what": "金鹰补购卓越之星截止", "when": "2025-01-13"},
+    {"what": "可交易奖励兑换券上市开售", "when": "2025-01-13"},
+    {"what": "兑换券升级道具有效期(12:00 GMT,可升级或换任务奖券)", "when": "2025-02-01T12:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "冬季节日任务:海/陆/空对应模式III级以上(活动载具I级以上)每40000分得1枚卓越之星,任务每2天刷新;8枚得对应载具不可交易券,10枚得兑换券升级道具;MB.151为高级载具,领取后直接激活",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "雪景球物资箱60000银狮/个,含往期冬日活动道具(部分首次以可交易券形式发放);集齐5枚童话贴花(葛芮拉/汉斯·特拉普/杰克霜/贝法娜/坎卜斯)得第6枚'圣诞猫';载具=幼狮C.10 Block 60(以色列VIII级)、雾岛号(日本V级)、T-80UD 478BE(中国VII级)"
+  },
+  {
+   "key": "2024_flight_of_the_albatross",
+   "start_override": "2024-07-24T11:00:00Z",
+   "end": "2024-08-07T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From July 24th (11:00 GMT) until August 7th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "信天翁展翅，翠鸟号护卫舰出航！",
+   "zh_id": 1633,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2024-08-12T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-08-12"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "海战街机/历史III级及以上攒任务分,每阶段35000分,共7阶段,每2天刷新;7阶段得翠鸟号(Alcione)不可交易券;另攒60万分得兑换券强化道具,升级后6天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2024_mobile_sniper",
+   "start_override": "2024-10-03T11:00:00Z",
+   "end": "2024-10-21T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From October 3rd (11:00 GMT) until October 21st (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "机动射手 MGS：德意志的魔犬",
+   "zh_id": 1750,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2024-10-24T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-10-24"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度139金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "陆战III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得拳师犬MGS不可交易券,9阶段得展示涂装+4随机改装件;另攒75万分得兑换券强化道具,升级后6天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "EN文95%进度价格示例为139金鹰(同期其他活动多为199),按原文记录"
+  },
+  {
+   "key": "2024_steel_baron",
+   "start_override": "2024-09-05T11:00:00Z",
+   "end": "2024-09-23T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From September 5th (11:00 GMT) until September 23rd (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "参与“铁血男爵”活动，赢取巴勒姆号战列舰！",
+   "zh_id": 1687,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2024-09-26T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-09-26"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "海战街机/历史III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得巴勒姆号不可交易券,9阶段得双色变形涂装+4随机改装件;另攒75万分得兑换券强化道具",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2024_persian_tomcat",
+   "start_override": "2024-08-08T11:00:00Z",
+   "end": "2024-08-26T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From August 8th (11:00 GMT) until August 26th (11:00 GMT), earn points in air battles, unlock stages and get prizes!",
+   "type": "marathon",
+   "name_zh": "波斯雄猫重装上阵，延续大猫不朽传奇！",
+   "zh_id": 1651,
+   "deadlines": [
+    {"what": "兑换券强化(Coupon Upgrade)道具有效期(可升级或换任务奖券)", "when": "2024-08-29T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-08-29"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度499金鹰,95%进度199金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "空战III级及以上攒任务分,每阶段45000分,共9阶段,每2天刷新;8阶段得F-14A(伊朗)不可交易券,9阶段得试验涂装+4随机改装件;另攒75万分得兑换券升级道具,升级后6天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2024_operation_overlord",
+   "start_override": "2024-06-05T11:00:00Z",
+   "end": "2024-06-17T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From June 5th (11:00 GMT) until June 17th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "霸王行动全面打响，丘吉尔 AVRE 冲滩上陆！",
+   "zh_id": 1563,
+   "deadlines": [
+    {"what": "兑换券强化道具有效期(可升级兑换券或换任务奖券)", "when": "2024-06-20T11:00:00Z"},
+    {"what": "金鹰补购未完成阶段截止", "when": "2024-06-20"}
+   ],
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "阶段金鹰跳级:85%进度349金鹰,95%进度139金鹰", "percent": 50, "note": "进度越高折扣越大,95%进度时价格降至1/5(减80%)"}
+   ],
+   "tasks": "诺曼底登陆80周年陆战活动:陆战III级及以上攒任务分,每阶段35000分,共6阶段,每2天刷新;6阶段得丘吉尔AVRE不可交易券;另攒50万分得兑换券强化道具,升级后6天可上市出售",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "主奖励丘吉尔AVRE为英国II级高级(金币)重型坦克,与其他活动树载具不同;阶段数与所需分数亦较少"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+[Shop] Decorations: Soon available with Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Decorations: Soon available with Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+11 April 2016
+Shop
+<>Dear players!
+<>Since the release of one of our latest Updates to War Thunder, players are now able to position a variety of 3D Decorations on their ground vehicles, ranging from gas canisters and road signs to foliage, like bushes. Complementing the already existing decal mechanic, these new items allow you to individualize your vehicle even further - just as the real tank crews did in the past.
+<>At the moment, some 3D Decorations can be unlocked through achievements, while others can be purchased with Golden Eagles. Now, we want to present a new way for our players to unlock them!
+<>3D Decorations through Warbonds
+<>Very soon, we will introduce a new series of Battle Trophies to the inventory of the Warbond Shop, containing 3D Decorations from all the different categories currently in the game - road signs, foliage etc. Those 3D Decorations will be different from the ones that can be unlocked with achievements and some of them may be exclusive to the Warbond Shop - an additional reward for our active players!
+<>Battle Trophies containing 3D Decorators can be acquired for 1,500 Warbonds each, allowing for active players to unlock random Premium 3D Decorations every month in the Warbond Shop, simply by performing Battle Tasks without spending any Golden Eagles. The purchase of these trophies through Warbonds guarantees receiving a 3D Decoration.
+<>We are sure that many players are looking forward to this opportunity to further individualize their vehicles and hope that you like the changes planned.
+<>As always, thank you for reading and feel free to post your feedback on the forums!
+<> Warbonds, Battle Tasks and the Warbond Shop
+<>Not yet familiar with the Warbond Shop? Then how about a quick summary! Every day, War Thunder players can fulfill a series of 'Battle Tasks' - simple missions that can be fulfilled while normally playing the game. Success in a Battle Tasks yields a new, special currency - 'Warbonds'. This currency can then be used to purchase Premium items in the corresponding 'Warbond Shop', accessible ingame.
+<>Items in the Warbond Shop are changed on a monthly basis, as well as the Warbonds associated with it. Thus, the new Warbond mechanic is an attractive way for active War Thunder players to gain Premium vehicles, Boosters and more (such as 3D Decorations!) simply by playing the game.
+Click here for more info on the contents of April's Warbond Shop!
+<>
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

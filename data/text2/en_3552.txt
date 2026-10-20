@@ -1,0 +1,104 @@
+[Event] Rapid Fire! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Rapid Fire!
+Attention! Outdated news format. Content may not display correctly.
+5 February 2016
+Event
+Download Wallpaper 1280x1024 | 1920x1080
+From 18.00 GMT on February 5th to 07.00 GMT on February 8th
+Join the 'Rapid Fire' Arcade-Event!
+Fight in this Arcade Battle in AA vehicles and destroy enemies
+to call-in air support through mini-events!
+You can locate the event in the : 'Events & Tournaments' tab in the game's main menu
+Location :[Domination] Easter Europe
+<>
+The self-propelled anti-aircraft that participated in World War II, were designed for the air defense of military units and strategic targets. In contrast to the stationary versions of anti-aircraft artillery, the AA was mounted on wheels, half-tracked or a fully tracked chassis. During the fighting, it became clear that the deployment of anti-aircraft guns on an open road chassis, deprived of the defenses, led to their rapid destruction. From that point on, armoured AA based series of tanks and self-propelled guns were developed.
+In War Thunder there is a wide range of self-propelled anti-aircraft artillery giving the opportunity to protect an armoured column and stationary ground targets from attack fighters and bombers. The game uses different types of AA: from prototypes to production vehicles. This greatly increases the informative part of the game, allowing players in War Thunder to encounter various models of military equipment from the participating countries of the Second World War.
+A distinctive feature of the AA from those times is their scarcity, which indicates that the issues of air defense were assigned mainly to fixed or towed anti-aircraft guns (and is also a reason why we decided to introduce prototype AA vehicles). Because of the high losses in armoured vehicles and motor vehicles mass production of specialized equipment was a luxury.
+<>Now the line-up of self-propelled anti-aircraft was enriched with British AA.
+Т17Е2
+<>
+Built on the base of an American armoured car, the T17. This is a vehicle with excellent mobility - it is capable of reaching over 55 mph (88 kph) whilst driving on the road! This armoured car may become the fastest armoured vehicle in War Thunder. The T17E2 is armed with 2 coaxial Browning M2 .50 calibre heavy machine guns mounted on a rotating turret. This machine is the first British SPAA and the first armoured car introduced in War Thunder. Read more.
+Armoured Car Mk.II AA
+<>
+Another anti-aircraft armoured car in the British tree, unlike its predecessor, the T17E2, the A.E.C is of pure British design, created by the company of the same name back in 1941. By the way this company also produced the famous London double-decker buses. The Mk II AA Armoured Car has twin 20mm Oerlikon guns - a single hit with this weapon is usually enough to destroy almost every aircraft at its rank. Moreover these guns may prove dangerous against ground vehicles as well, so don’t miss out on an opportunity to make a few holes in an enemy light tank. Read more.
+Crusader AA Mk.II
+<>
+This self-propelled anti-air gun was designed based on the British Crusader cruiser tank. The tank’s turret has a small cut-out which is sufficient to provide the crew with excellent 360 degree vision. At the same time the tank is small, which gives its crew good protection against machine gun fire or fire from aircraft frontal guns. The turret houses two 20 mm Oerlikon cannons. This tank has moderate armour and is fairly survivable. This doesn’t mean that you can rush ahead of the rest of your team and collect scars from the cannons of enemy tanks though. In terms of effectiveness in battle with the enemy, this anti-air gun can be compared with its German equivalent: the Wirbelwind, but the design of the British vehicle is even more interesting. Read more.
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

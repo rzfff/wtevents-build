@@ -1,0 +1,79 @@
+[Event] The 75th anniversary of the end of the Battle of Kursk - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The 75th anniversary of the end of the Battle of Kursk
+Attention! Outdated news format. Content may not display correctly.
+23 August 2018
+Event
+<>One of the largest and most significant battles of WWII, the battle on the Kursk Bulge was a great breakthrough in the conflict and today marks the 75th anniversary of this historical event.
+<>From 15:00 GMT on the 24th of August till 07:00 GMT on the 27th of August
+<>Play in the special events dedicated to the 75th anniversary of the victory in the Battle of Kursk and get prizes:
+<>Win 15 times and get the special “RGD-33” (Bundle of grenades) 3D decoration, or you can purchase this prize with Golden Eagles.
+<>For every 20/10/10 (AB/RB/SB) destroyed enemies, earn battle Trophy which can contain one of the following items:
+<>+30% RP booster for 10 battles.
+<>+30% SL booster for 10 battles. ;
+<>3x back-up vehicle for the vehicles that participated in the battle.
+<>Random camouflage for the vehicles that participated in the battle.
+“RGD-33” 3D decoration
+<>You will be only be able to earn a Battle Trophy 3 times.
+<>75th anniversary of victory in the Battle of Kursk are available only in the tab “Events and Tournaments” in all game modes.
+<>You can follow your progress in the Hangar by clicking on your nickname -> Achievements -> 75th anniversary of the Battle of Kursk .
+<>You can complete the tasks only on the location “Kursk” (in random battles and in special events).
+<>“RGD-33” 3D decoration will be available only for limited time in the achievement menu.
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,103 @@
+[Event] Pages of History (June) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (June)
+29 May 2023
+Event
+<>In this month's Pages of History you'll find yourself in the center of events that happened at numerous battlefronts. Two of the more important Pacific battles, the landings in Normandy, and the beginning of Operation Barbarossa — participate in battles using the vehicles that were used in these historic events and receive prizes!
+<>
+<>From June 1st until June 30th you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, completing all of them earns you a unique player icon.
+<>When Germany invaded the Soviet Union, Nikolai Gastello was already a squadron leader and an experienced pilot with 9 years of flight experience. Two days after the beginning of Operation Barbarossa, on June 24th, 1941, Gastello downed a Luftwaffe plane using just the turret of a DB-3f resting on an airfield.
+<>On June 26th the aircraft that Gastello piloted was hit by flak in the fuel tank and caught fire; Gastello flew his flaming bomber into the enemy. He received the Hero of the Soviet Union title, and his valor became an example for other Soviet pilots.
+Nikolai Gastello
+<>You can immediately purchase the profile icon for Golden Eagles until July 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (June).
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>June 1st — June 4th
+Battle of Midway
+<>The most important sea battle of the Pacific Front in WWII happened in early June of 1942, half a year after the Pearl Harbor attack. The US delivered a crushing defeat to the Imperial Navy of Japan, having sunk all four enemy fleet carriers. After Midway Japan no longer had resources to advance and was forced to defend itself until the end of the war.
+<>June 5th — June 8th
+D-day
+<>On June 6th, 1944 the largest landing operation in history took place. Over 24 thousand paratroopers were dropped behind enemy lines to ensure safe landing of another 130 thousand Allies from the sea. By the end of the day five infantry and two airborne divisions landed on the coast of Normandy, opening the second front in Western Europe.
+<>June 9th — June 12th
+Battle of Sultan Yacoub
+<>During the Lebanon War the Israeli army tried to push through to the Beirut-Damascus highway but met fierce resistance from the Syrian forces. An Israeli tank battalion was encircled by the enemy who avoided direct combat while using infantry, artillery and aviation to destroy Israeli tanks. Almost all artillery forces of Israel came to rescue; thanks to them, most soldiers were able to escape — but the tank losses were high.
+<>June 12th — June 15th
+Battle of Villers-Bocage
+<>A week after landing in Normandy, the British forces advanced to the small town of Villers-Bocage where they unexpectedly encountered parts of the Wehrmacht. Having caught the enemy off guard, the Germans used their Tigers' superiority to destroy tens of British vehicles, having lost only a couple of tanks. However, later on, while pursuing the enemy, they fell into a trap and suffered more losses.
+<>June 15th — June 18th
+Operation Battleaxe
+<>On June 15-17, 1941 the British Commonwealth forces attempted to lift the siege of Tobruk and push the Axis from East Cyrenaica. For the first time since the start of WWII a significant German force had to fight on the defensive — but Erwin Rommel planned the defense well. The Allies lost almost 100 tanks and three dozen aircraft and had to retreat.
+<>June 19th — June 22nd
+Battle of the Philippine Sea
+<>On June 19th, 1944 Japan went into the Battle of the Philippine Sea with its largest air carrier force. But the inexperienced Japanese pilots were no match against well trained Americans and their state of the art anti-air defenses. Japan lost over 600 aircraft in the battle and almost never used air carriers since: there weren’t enough airplanes left for defense.
+<>June 23rd — June 26th
+Battle of Raseiniai
+<>On June 23rd, 1941 parts of the Red Army that were stationed in Lithuania tried to hold off the invading German forces. Due to lack of planning and supplies they failed at their task, and almost all Soviet tanks were destroyed. One of them, however, managed to stall the German advance for almost an entire day: the KV ran out of fuel in the middle of the road but kept sniping the enemy until the end.
+<>June 27th— June 30th
+Fire ram
+<>On June 26th, 1941 a downed bomber piloted by Nikolai Gastello performed a flaming ram on a German panzer column. This heroic deed was widely publicized by the Soviet mass media, and pilots who followed in his footsteps were called “gastellovtsi” in his honor. Overall, over a thousand fire rams were performed by Soviet pilots during the war.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

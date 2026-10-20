@@ -1,0 +1,99 @@
+[Historical] Operation Crossbow - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation Crossbow
+Attention! Outdated news format. Content may not display correctly.
+6 November 2014
+Historical
+V-1 Rocket attacked by Spitfire F Mk XVI | Mission available in Custom Battles under name "Weapons Test"
+In 1943 the Germans started to prepare a number of sites in France to operate V-weapons against Britain. However, France was under close scrutiny at the time. Allied photo reconnaissance kept a keen eye on everything the Germans did and soon these construction sites were photographed and being looked over. The British were perplexed by the sites, however further intelligence soon came to light that it was somehow linked to the German V-weapons programs. Not knowing exactly what the various sites were for, but knowing it wasn't in their best interests; the RAF started to attack targets related to the V-Weapons.
+<>
+<>
+The Crossbow network in January 1944
+Originally sorties of this type were called Bodyline, however in November 1943 they were renamed to Crossbow. The sorties, unlike Rhubarbs, could be flown by any aircraft type. The first mission was a huge strike against the Peenemünde weapons development facility. The various sites around France, termed Ski sites, were often visited by Bomber Command; including the newly formed No.617 Squadron. The same squadron soon received a new weapon: the Tallboy bomb. These were quickly aimed at the large concrete structures such as the Mimoyecques V-3 and Watten V-2 assembly and launching complex. Both were rendered utterly unusable by the genius of inventor Barnes Wallis and the accuracy of No.617 Squadron.
+After the failure of their static sites the Germans switched to mobile launching platforms. These could be set up and a V-1 or V-2 fired in hours and then the launching units dispersed before RAF Bomber Command could wipe the site off the map. In response to these mobile elements scuttling about France, the British developed a defence in depth. The first band comprised fighters tasked with intercepting the V1's, of which around 8000 were launched at the UK. The second line was a band of AA guns; many manned by the Home Guard to relieve the UK's manpower shortage. The final layer of defence was a line of barrage balloons. The fighters used were normally the fastest possible and would catch up and shoot down the V1 flying bombs. Veteran accounts suggest the wing tipping manoeuvre was only carried out once due to the incredible risk involved. However, these defence bands were of no use against the V-2 ballistic missiles that soon started falling on the UK.
+<>
+<>
+Spitfire manoeuvres alongside
+a German V-1 flying bomb in an attempt
+to deflect it from its target
+The British did work out one possible counter to the V-2. When radar picked up a launch, 3.7" AA guns would be laid to fire a box barrage along its projected flight path. However 1944 era communications and the speed people reacted were most likely the reason why the plan was never implemented. One defence was simply to start launching sweeps of areas where the rocket batteries were operating from. Generally Spitfires with bombs were used for this duty.
+Near Wassenaar on 14th February 1945 a fight of Spitfire MKXVI's from No. 602 Squadron were engaged in a Crossbow sweep. After making their initial attack run the Spitfires looped round for a second pass, when a V-2 was launched from only 600 yards in front of them! One of the pilots, Thomas "Cupid" Love, immediately squeezed off a burst in the direction of he V-2 rising on its pillar of flame. The shots all missed, luckily for the Spitfires, as the detonation of the V-2 would have swatted them all from the sky.
+If you want to check your strength in fight with German V-1 Rockets, you can find a special mission in Custom Battles tab.
+Search for [Event] Weapons Test !
+<> David "Listy" Lister
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,79 @@
+[Event] The Battle of Kursk - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Battle of Kursk
+Attention! Outdated news format. Content may not display correctly.
+5 July 2016
+Event
+From 15.00 GMT on the 5th of July until 07.00 GMT on the 8th of July
+Take a part in the reconstruction of the Battle of Kursk!
+The event will be in the RB and SB game mode with historical vehicle setups.
+You can find it in the “Events and Tournaments” tab of the game's main menu. 1
+The Battle of Kursk, which began on July 5th and lasted until August 23rd, 1943, was the largest tank battle in the history of mankind. According to official data, roughly two million people, six thousand tanks and four thousand aircraft were involved in it.
+After the Battle of Stalingrad, the results of which encouraged Soviet troops to go on the offensive, the Germans strove to change the situation and planned their own offensive operation in the summer of 1943 to change the course of the war. German leadership had their disagreements on this count: if Keitel tried to bring Hitler around to the idea of a general offensive, Guderian and Model opposed this. It was known in the German HQ that the Soviets expected the Germans to mount an offensive in the summer of 1943. However, the decision to launch Operation Citadel was taken nonetheless.
+To tip the balance of power in their favour, the German leadership moved the latest vehicles to the future theatre of war: 134 PzKpfw VI Tiger tanks (having appeared only episodically in previous battles), 190 PzKpfw V Panther tanks, 90 Ferdinand SPGs and even some radio-controlled self-propelled Goliath mines.
+The Soviet side primarily deployed the T-34-76 and T-70 tanks. The latter amounted to roughly 30% of all the tanks in the USSR towards this front. A small quantity of KV-1S tanks were also present. The first to move to the front line were the Soviet 152 mm SU-152 SPGs. Although there were only 24 of them, they performed well on the battlefield, easily destroying any of the Germans’ tanks, including their heavy tanks. For this reason, it was nicknamed Zveroboy (‘Beast Slayer’).
+<>
+The German assault, as part of Operation Citadel began on the morning of June 5th, 1943. The Soviet troops prepared to fight back against the enemy. After mass artillery barrages from the Germans and counter artillery preparation from the Red Army, Soviet troops took defensive positions and repelled the German attack on the northern and southern fronts. The culmination of the Battle of Kursk is considered the tank battle at Prokhorovka: On July 12, a large-scale head-on tank battle took place, which involved roughly 700 vehicles on the German side and almost 800 on the Soviet side. Neither the Soviet nor the German troops were able to take a decisive victory in the battle, but the advance of the 2nd SS Tank Division on this front was stopped.
+After the defensive phase of the Battle of Kursk was over, Soviet troops mobilized to counterattack. The Orlov and Belgorodsk-Kharkov groups of German troops were obliterated by successful maneuvers and attacks.
+According to historians, the results of the Battle of Kursk in particular were a breakthrough in the Great Patriotic War for the USSR, and defined the entire subsequent course of the conflict: the German leadership lost their ability to perform large-scale offensive operations on the Eastern Front and therefore, lost the initiative.
+<>
+The Battle of Kursk had significant consequences not only for the subsequent course of the war, but for the development of tank design in the Soviet Union: it became obvious that the T-34-76 was incapable of fighting against the Germans’ latest tanks: their 76mm cannon could not penetrate the frontal armour of the Tigers even at 200 meters. As a result, all efforts were redirected to the development of the new T-34-85 tank, which completely replaced the outdated T-34-76 tanks by the end of the war. In addition, production of the T-70 tank was canceled; these vehicles literally fell to pieces from an enemy hit in an open area, and were unable to wound the German beasts in return.
+It became even more obvious that a new heavy tank needed to be developed; even the modernized KV tanks could not effectively go head to head with the Wehrmacht’s heavy tanks. They had a severe deficit of firepower.
+The designers worked, the workers at the factories built new tanks and soldiers continued to fight: there were still two difficult years of war ahead.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

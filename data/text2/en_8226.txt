@@ -1,0 +1,101 @@
+[Event] Victory Day in War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Victory Day in War Thunder
+5 May 2023
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Victory! Many allied countries spent years with trials and tribulations to end the bloodiest war in the history of humanity, and in early May of 1945 their efforts finally bore fruit. This victory is the most important event of the XXth century that is remembered and celebrated today by tens of millions of people. Join us in War Thunder to commemorate this event!
+<>From May 5th until May 10th (11:00 GMT) play War Thunder and receive rewards!
+"Poster with a soldier"
+decal
+<>Play 3 battles (with activity of no less than 70%).
+Maxim–Tokarev machine gun decoration for ground vehicles
+<>Earn 20000 points in total while controlling vehicles of rank III and higher in tank battles.
+120-PM-38
+naval decoration
+<>Earn 10000 points in total while controlling vehicles of rank III and higher in naval battles.
+<>You can check your task progress by clicking on your nickname → Achievements → Victory Day.
+<>In the in-game item shop you can find trophies that contain decorations of Allied weaponry or decals that you still don’t have. The decals represent three main Soviet military memorials: "Rear-front" , "Motherland" and "Warrior Liberator" . Decorations: Bren Mk II , ROKS-3 , M1 Garand , SG-43 , and Matilda II (for large vessels) .
+<>Discounts in shop
+<>From May 5th until May 12th in the Gaijin.Net store you’ll find discounts for many high rank vehicle packs, as well as rare thematic bundles commemorating Victory Day!
+<> Details
+<>Legend of Victory: BM-31-12 “Andryusha”
+<>From May 10th until May 22nd participate in the Legend of Victory event and earn decals, decorations, and the unique BM-31-12 , younger brother of the legendary Katyusha!
+<>The BM-31-12 was designed to fire the heavy M-31 300mm unguided rockets. Guidance and launch are carried out with a welded framework of 12 rails mounted on the chassis of the Studebaker military truck. The machine was successfully tested in the spring of 1944 and was put into service in June under the designation BM-31-12. In the troops, by analogy with the Katyusha MLRS, the new vehicle was nicknamed Andryusha (“little Andrey” in Russian). It was widely used in the battles of the final stages of WWII in Europe, including the urban battles as a fire support for Soviet storming troops. In total, the Red Army received 1,807 BM-31-12 Andryusha vehicles until the end of the war.
+<> Details
+<>Victory Tournament Series
+<>Take part in each of 7 tournaments of the Victory series to earn decals, titles, and a part of the 70 000 GE prize pool.
+<>May 6th
+Victory RB Air
+Victory RBm Tanks
+<>May 7h
+Vicrory 2x2 Fleet RB
+<>May 8th
+Victory 2x2 RBm Tanks
+Victory 3x3 RBm
+<>May 9th
+Victory RBm 1x1 Tanks
+Victory SB
+”Allies” decal
+”Victory star” decal
+<>Let’s celebrate together!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

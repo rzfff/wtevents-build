@@ -1,0 +1,107 @@
+[Shop] How can you get premium vehicles? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get premium vehicles? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+30 April 2017
+Shop
+<> Dear Players,
+<>
+Join the Battle Tasks, earn Warbonds and unlock premium vehicles and other bonuses. We are pleased to remind you that an updated assortment is available in the war bonds shop for May.
+Complete Battle Tasks and earn War Bonds by simply playing War Thunder and exchange them for many valuable prizes including premium vehicles!
+Battle Tasks will be available to you after reaching the 3rd rank of any nation in the game. You can read more about War Bonds and Battle Tasks in the War Thunder wiki .
+Good luck and see you on the battlefield!
+<> BTD-1 (USA)
+<>
+<>
+<>
+The BTD-1 Destroyer was designed to replace some of the more aging and vulnerable types of Torpedo and Dive bomber in service with the United States Navy. Combining both roles into one, this multirole aircraft could almost be seen as a precursor to the legendary Skyraider also built by the Douglas Aircraft Company. Quite a departure from the aircraft it was intended to replace, the BTD has a sizeable payload, a pair of 20mm cannons and a very respectable top speed for a Naval Bomber. Sporting a tricycle undercarriage, gull wings and a larger cockpit area, the Destroyer has a menacing and aggressive demeanor that it certainly delivers upon. Pilots can make use of the BTD’s wide array of weaponry and armaments across any situation it may face, against air, land and sea targets, coupled with its excellent maneuverability, this truly is a versatile and universal American strike aircraft. Don't miss your chance to obtain this exceptional aircraft!
+<> SMK (USSR)
+<>
+<>
+<>
+<>The Soviet multi-turret behemoth, SMK, was intended to improve upon the T-35’s design with a more modern and capable design to address the armour protection and firepower concerns with the previous designs. The unique SMK had two turrets, housing 76mm and 45mm cannons, was also developed as a single turret tank which featured only the 76mm cannon turret. Thus infamous KV-1 was born from the foundations of the SMK. Both the SMK, KV-1 and T-100 all saw operational service trials during 1939 in combat against Finland. Ultimately the KV-1 was selected for production, however now you too can earn this truly unique Soviet Heavy tank! The features of this tank will be well known to KV-1 commanders, however with the added bonus of a separate turret mounting a fast firing 45mm 20-K cannon found on many of the Soviet Light tanks. Charge from the front lines and add this Soviet Multi-Turret Heavy to your collection!
+<>
+<>
+You can get these machines just by playing!
+Detailed list of the Warbond items in the shop this month: ▼
+<>
+<>BTD-1
+<>Pz III N
+<>SMK
+<>Hellcat Mk.II (Britain)
+<>Ki-44-II otsu
+<>Emblem "Leo Zodiac" pin-up, 834th BS, 486th BG, 8th AF, USAF (Decal by Colin 'Fenris' Muir)
+<>Supply boxes (3D decorations - Signs)
+<>Supply boxes (3D decorations - camouflage)
+<>Supply boxes containing 50/100/300/600/800% SL and RP boosts valid for 1 battle
+<>Premium booster: +180% RP for 1 battle
+<>Supply box with vehicle rent for 1 to 24 hours for the following vehicles:
+<>M46 “Tiger”
+<>Bfw. Jagdpanther
+<>Т-34-100
+<>Spitfire F Mk.XIVc
+<>J2M4 Kai
+<>Order
+<>
+<>Emblem "Leo Zodiac" pin-up, 834th BS, 486th BG, 8th AF, USAF
+Decal by Colin 'Fenris' Muir
+Battle tasks: These individual tasks bring variety into the gameplay and prevent situations when all the players in a battle try to complete one specific task ignoring mission objectives that are needed for a victory. They are available for players that have reached the 3rd rank of any nation. For completion, the player will receive Silver Lions and Warbonds - special in-game currency with their own shop, where you can purchase many of different items.
+You can read more about battle tasks and war bonds in our devblog.
+<>Enjoy the new items available and see you on the battlefield!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

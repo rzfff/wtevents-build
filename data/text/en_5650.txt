@@ -1,0 +1,154 @@
+[Marathon]Operation S.U.M.M.E.R.: Assemble a tank! (updated) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation S.U.M.M.E.R.: Assemble a tank! (updated)
+Attention! Outdated news format. Content may not display correctly.
+27 July 2018
+Marathon
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>An IS-7 in War Thunder!
+<>Soldiers! Operation S.U.M.M.E.R has been extended!
+<>The “assembling” stage of the operation will begin on the 3rd of August and will last until the 13th, which means you will have one more week to complete tasks and receive the required blueprints before the second stage (tank assembling) begins!
+<>Attention Engineers!
+<>The second stage of Operation S.U.M.M.E.R. ends at 11:30 GMT on the 13th of August! After this, it will not be possible to get materials and other items from the event in battles.
+<>At 11:30 GMT on the 20th of August, any items for the event available in the inventory and for sale in the market will be removed. Until then you will be able to exchange them for warbonds in the workshop at the following exchange rate:
+<>Т-34E/IS-7 materials - 1 warbond
+<>Т-34E/IS-7 rare materials - 2 warbonds
+<>Metal Detector (for ps4 and XBox) for the T-34E - 50 warbonds, for IS-7 - 100 warbonds
+<>Vehicle coupons (Т-34E, Sd.Kfz.234/4, М8, AEC MK.II - 1600 warbonds, IS-7 - 3000 warbonds)
+<>Vehicle coupons, decorations and decals, also trophies with decorations and decals will not disappear and you will be able to permanently keep them.
+<>Coupon, materials and parts exchange, also the assembly of the T-34E and IS-7 will be available until 11:00 GMT on the 20th of August. The option to trade coupons will permanently remain
+<>In short
+<>How to get the T-34E?
+<>1. Complete 8 tasks from the 21st of July until the 5th of August to get the blueprint;
+<>2. From the 3rd of August until the 13th of August - get the parts in battles at rank II-III and assemble the T-34E.
+<>How to get the Sd.Kfz.234/4, M8 or AEC Mk.II? (if you do not want T-34E or already have the T-34E))
+<>1. Assemble T-34E and get a coupon for the vehicle.
+<>2. Exchange the received T-34E coupon for one of the following vehicles: Sd.Kfz.234/4, M8 or AEC Mk.II.
+<>How to get the IS-7?
+<>1. Complete 16 tasks from the 21st of July until the 5th of August to get an IS-7 hull blueprint;
+<>2. Assemble the T-34E and in addition to the T-34E coupon, you will get an IS-7 turret blueprint;
+<>3. From the 3rd of August until the 13th of August get the parts in battles of rank IV-VI and assemble the IS-7.
+<>Stage 1: development | From 21st of July until 5th of August
+<>To develop such an effective vehicle you need to gain combat experience. In this stage you will have daily tasks which will be rewarded with the T-34E blueprint, the first half of the IS-7 blueprint and other prizes.
+<>Daily tasks
+<>The sooner you finish the first stage by completing the tasks, the more time you will have to collect the resources for the start of the second stage - the construction of the vehicles!
+<>By using ground vehicles of rank II-III
+<>Destroy 20 enemy vehicles (10 for RB 7 for SB);
+<>Win 4 battles (activity of 70% or higher);
+<>By using ground vehicles of rank IV-VI
+<>Get “Supporting fire” achievement in a squad 5 times;
+<>Earn a score of 2000 or more in each of 4 battles
+<>Awards for completing the tasks (new)
+<>For 4 tasks — +77% RP booster for 7 battles
+<>For 8 tasks — Т-34E blueprint (previously 14 tasks);
+<>For 12 tasks — coupon for one of the decals (armour units signs)
+<>For 16 tasks — first half of the IS-7 blueprint (previously 28 tasks);
+<>For 20 tasks — Т-34E camouflage
+<>For 24 tasks — coupon for one of the 3d decorations (firearms)
+<>For 28 tasks — IS-7 camouflage
+<>
+<>New tasks will start daily at 11:00 GMT.
+<>You can complete 4 tasks daily.
+<>You can track your tasks by clicking on your nickname → “Achievements” → “Operation S.U.M.M.E.R.”.
+T-34E camouflage
+IS-7 camouflage
+<>Stage 2: Construction of the Т-34E and IS-7 | From 3rd of August until 13th of August
+<>Ressources and parts
+<>In this stage you need to get Materials in battles to build the coveted vehicle. You can participate in this stage only after you have received the Т-34E blueprint.
+<>Т-34E resources and rare parts
+<>Can be earned in random battles (except “Assault” mode) in ground vehicles of rank II-III.
+<>IS-7 resources and rare parts
+<>Can be earned in random battles (except “Assault” mode) in ground vehicles of rank IV-VI which will apply only if the “IS-7 hull blueprint” is achieved.
+<>You will only receive the IS-7 turret blueprint after the final assembly of the T-34E together with a coupon for the T-34E.
+<>Resources and rare parts are given only if battle activity was 50% or higher in battle.
+<>Vehicle assembly
+<>If you have already received the blueprint and have enough “resources for assembling”, then you will be able to begin to build the vehicle in the workshop in several stages.
+<>“Resources”
+<>The base element is suitable for the assembly of T-34E or IS-7 parts depending on the rank of the battles played where it was received (for T-34E rank II-III, for IS-7 rank IV-VI).
+<> (!) Can be sold on Market.
+<>“Detail”
+<>Will be created from resources of the corresponding vehicle. You need to choose what part you want to create.
+<> (!) Can not be sold on Market.
+<>“Rare part”
+<>This part can not be created, but you can get it only in battle as with resources.
+<>A rare part will be received by you in battles from the time you require them for assembly.
+<> (!) Can be sold on Market
+<>“Part of the tank”
+<>Investigate the technical data of the tank you want to build, this may help you in choosing the correct recipe!
+<>Creating a part of the tank is the most difficult process. To craft any of the parts you need to choose a craft recipe - and you to find the correct one! Don’t worry if you start crafting with the wrong recipe, you’ll get all your materials back. Some parts of the IS-7 can also be combined to obtain the final item.
+<> Can not be sold on Market. Requires assembly time.
+<> “Coupon "Т-34E"” or “Coupon "IS-7"
+Coupons for vehicles can be obtained after assembling all the required Parts of the tank.
+Can be bought or sold on the Market 24 hours from its receipt.
+<>Using the Market during the accumulation of resources is completely unnecessary and you can easily collect them in the any battle.
+<>Terms and conditions:
+<>You can track your tasks by clicking on your nickname → “Achievements” → “Operation S.U.M.M.E.R.”.
+<>Coupons for decals, decorations and vehicles can be obtained regardless of whether these items were received earlier or not.
+<>More about the achievement “Supporting fire” you can find on our War Thunder Wiki .
+<>You will be able to exchange the created T-34E coupon for one of the following vehicles:
+<>Germany: Sd.Kfz.234/4 (Premium Rank II)
+<>USA: M8 (Premium Rank I)
+<>Great Britain: AEC Mk.II (Premium Rank II)
+<>Event vehicle T-34E will be a premium vehicle at rank II and the IS-7 will be a regular event vehicle at rank V (without RP and SL boosters).
+<> You must be in a ground vehicle of required rank at the time of the event ending for the mission to count towards the task.
+<>More information about how to assemble the vehicles, will be published nearer the start of the second stage. Follow the news!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

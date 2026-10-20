@@ -1,0 +1,920 @@
+{
+  "results": [
+    {
+      "aid": 2694,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "秃鹰 IIN 限时折扣开启，巴士底日纪念贴花物资箱上线！",
+      "name_en": null,
+      "name_zh": "秃鹰 IIN 限时折扣开启，巴士底日纪念贴花物资箱上线！",
+      "start": "2026-07-14T19:00:00Z",
+      "end": "2026-07-17T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 7 月 14 日 19:00 至 7 月 17 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "S.O.4050 秃鹰 IIN 七折扣，售价 5992 金鹰",
+          "percent": 30,
+          "note": "法国空战科技树高级载具，限时上架"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“巴士底日”贴花",
+        "“法兰西之心”贴花",
+        "“法兰西帽徽”贴花",
+        "“2025 巴士底日”贴花"
+      ],
+      "tasks": "用法国科技树 III 级及以上载具在随机战斗(除守卫模式)获 3000 分得“巴士底日”贴花物资箱，开出往期主题贴花之一；完成后在个人资料成就页手动领取。",
+      "sub_events": [],
+      "notes": "同文含巴士底日贴花物资箱活动，与折扣同一时间窗；集齐全部贴花者改得加成卡/备用载具/高级账号等随机奖励。批次 date 字段异常(1789-07-14)，按正文日期行 2026 年 7 月 14 日。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2702,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "Ace Profile - Group Captain James “Willie” Tait",
+      "name_en": null,
+      "name_zh": "美苏对决——“黑色星期四”空战对抗活动来袭！",
+      "start": "2026-07-23T19:00:00Z",
+      "end": "2026-07-27T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 7 月 23 日 19:00 至 7 月 27 日 19:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "30% 银狮与研发点收益加成"
+      ],
+      "tasks": "在基地“军事行动与竞技场”侧边栏参与黑色星期四任务：空战历史/全真模式，每人可出击 3 次；美军护送 AI B-29 攻击机场，苏军拦截；参战享 30% 银狮与研发加成。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(Ace Profile, 2014-12-15)，正文实为 2026-07-23 活动公告。可用载具 F-86A-5(美)与米格-15(苏)，均为 V 级。30% 为收益加成，非购买折扣。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2705,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Interview: Fins_FinsT",
+      "name_en": null,
+      "name_zh": "欢庆八一建军节，贴花与限时折扣活动开启！",
+      "start": "2026-07-30T17:00:00Z",
+      "end": "2026-08-03T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 7 月 30 日 17:00 至 8 月 3 日 17:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "69-IIA 型限时返售，七折扣，售价 5866 金鹰",
+          "percent": 30,
+          "note": "中国陆战高级载具，仅活动期间上架，结束后恢复隐藏"
+        },
+        {
+          "target": "礼包",
+          "item": "ZTZ96B 礼包 499→349 CN¥",
+          "percent": 30,
+          "note": "含 ZTZ96B (中国 VII 级)、20 天高级账号、2500 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“中国人民解放军军旗”贴花"
+      ],
+      "tasks": "用中国科技树 III 级及以上载具在随机战斗(除守卫模式)获 3000 分得“中国人民解放军军旗”贴花；完成后在个人资料成就页手动领取。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(Interview: Fins_FinsT, 2014)。同文三项活动(69-IIA 返售、ZTZ96B 礼包折扣、八一贴花任务)同一时间窗 7/30 17:00-8/3 17:00。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2708,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "瑞士空军成立纪念日，P-16 开启限时折扣！",
+      "name_en": null,
+      "name_zh": "瑞士空军成立纪念日，P-16 开启限时折扣！",
+      "start": "2026-07-30T19:00:00Z",
+      "end": "2026-08-03T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 7 月 30 日 19:00 至 8 月 3 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "FFA P-16 限时七折，售价 6363 金鹰",
+          "percent": 30,
+          "note": "德国空战科技树高级载具；活动后保留科技树，原价 8000 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 6363 金鹰购买 FFA P-16(七折)，活动结束后恢复 8000 金鹰原价。",
+      "sub_events": [],
+      "notes": "批次 date 字段异常(1914-07-31)，按正文日期行 2026 年 7 月 30 日。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2709,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "纪念苏-17 战斗轰炸机首飞，德国苏-22M4 型开启限时折扣！",
+      "name_en": null,
+      "name_zh": "纪念苏-17 战斗轰炸机首飞，德国苏-22M4 型开启限时折扣！",
+      "start": "2026-07-31T17:00:00Z",
+      "end": "2026-08-03T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 7 月 31 日 17:00 至 8 月 3 日 17:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "苏-22M4 WTD61 限时七折，售价 6615 金鹰",
+          "percent": 30,
+          "note": "德国空战科技树高级载具；活动后保留科技树，原价 9450 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 6615 金鹰购买苏-22M4 WTD61(七折)，活动结束后恢复 9450 金鹰原价继续售卖。",
+      "sub_events": [],
+      "notes": "批次 date 字段异常(1966-08-02)，按正文日期行 2026 年 7 月 31 日。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2710,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "Scheduled Server Maintenance",
+      "name_en": null,
+      "name_zh": "战线推进模式扩展至次顶级分房！",
+      "start": "2026-07-31T19:00:00Z",
+      "end": "2026-08-03T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间 7 月 31 日 19:00 至 8 月 3 日 19:00 期间",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "前往基地“军事行动与竞技场”侧边栏加入战线推进活动模式；街机/历史模式，地图为新罗西斯克/马奇诺防线/沃洛科拉姆斯克，参战载具权重放宽至 9.7-10.7 陆战队列。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(Scheduled Server Maintenance, 2014)。战线推进模式回归并扩展至次顶级分房，阵营匹配组合有调整。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2722,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "US Tanks Trailer",
+      "name_en": null,
+      "name_zh": "F-89 蝎首飞纪念日，F-89D 型开启限时折扣！",
+      "start": "2026-08-13T17:00:00Z",
+      "end": "2026-08-17T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 8 月 13 日 17:00 至 8 月 17 日 17:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "F-89D 限时返售，七折，售价 5278 金鹰",
+          "percent": 30,
+          "note": "美国空战科技树高级载具，仅活动期间上架"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 5278 金鹰购买 F-89D(七折返售)，仅限活动期间上架。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(US Tanks Trailer, 2014)。正文日期行 2026 年 8 月 13 日。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2725,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "War Thunder Screenshot Competition - December week 3 winners",
+      "name_en": null,
+      "name_zh": "美国空降兵纪念日贴花物资箱与载具折扣活动开启！",
+      "start": "2026-08-14T21:00:00Z",
+      "end": "2026-08-17T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 8 月 14 日 21:00 至 8 月 17 日 21:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "UH-1C/XM-30 限时返售，七折折扣价 6237 金鹰",
+          "percent": 30,
+          "note": "美国直升机科技树高级载具，仅活动期间上架"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“美国伞降技能证章”贴花",
+        "“第 18‘天龙’空降军徽标”贴花",
+        "“老美空降兵”贴花",
+        "“第 506 空降团 E 连徽标”贴花"
+      ],
+      "tasks": "用美国科技树 III 级及以上空中载具在随机战斗(除守卫模式)获 3000 分得“美国空降兵纪念日”贴花物资箱；成就页手动领取。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(截图比赛获奖名单, 2014)。同文载具折扣与贴花物资箱活动同一时间窗。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2726,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "War Thunder Skin Competition - December week 3 winners",
+      "name_en": null,
+      "name_zh": "波兰武装部队纪念日，二战波兰盟军载具限时返售！",
+      "start": "2026-08-14T19:00:00Z",
+      "end": "2026-08-17T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 8 月 14 日 19:00 至 8 月 17 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "P-47M-1-RE 雷电 (瓦诺夫斯基座机) 限时返售，售价 6090 金鹰",
+          "percent": null,
+          "note": "美国空战科技树高级载具，仅活动期间开放购买"
+        },
+        {
+          "target": "载具",
+          "item": "萤火虫 IC (“特日内茨”号) 七折返售，售价 2086 金鹰",
+          "percent": 30,
+          "note": "英国陆战科技树高级载具，活动后原价 2980 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“第 1 克雷乔夫轻骑兵团徽标”贴花",
+        "“波兰陆军徽标”贴花",
+        "“波兰武装部队纪念日”贴花"
+      ],
+      "tasks": "用英国或美国科技树 III 级及以上载具在随机战斗(除守卫模式)获 3000 分得“波兰武装部队纪念日”贴花物资箱；成就页手动领取。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(涂装比赛获奖名单, 2014)。同文两载具返售与贴花物资箱活动同一时间窗。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2727,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Canberra B Mk 2",
+      "name_en": null,
+      "name_zh": "勇气时刻：印度",
+      "start": "2026-08-15",
+      "end": "2026-08-24T20:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动截止时间为 北京时间 8 月 24 日 20:00，礼包仅限 PC 玩家购买",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "“唯真理得胜”礼包 998→499 CN¥",
+          "percent": 50,
+          "note": "含胜利礼包、米格-21 野牛礼包、“阿育王之锤”与米格-21 野牛“C773”特殊涂装、限定头衔；仅限 PC"
+        },
+        {
+          "target": "礼包",
+          "item": "海鹰礼包 349→244 CN¥",
+          "percent": 30,
+          "note": "含海鹰 Mk.100 (德国 V 级)、“第 300 中队”特殊涂装、15 天高级账户、2000 金鹰"
+        },
+        {
+          "target": "多种商品",
+          "item": "扩展包内所有礼包同步开启单独七折",
+          "percent": 30,
+          "note": "聚合句：捆绑包内各子礼包均可单独七折购买"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "特殊头衔：“唯真理得胜”",
+        "“阿育王之锤”特殊涂装",
+        "米格-21 野牛“C773” 涂装",
+        "海鹰 Mk.100 “第 300 中队”特殊涂装"
+      ],
+      "tasks": "已拥有捆绑包内所有载具的玩家(不限平台)，8 月 24 日截止前用每款载具在除守卫模式外的随机战斗完成 3 场可获限定头衔；个人资料成就页追踪进度。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(Canberra B Mk 2, 2014)。正文未写开始时间，start 取文章发布日 2026-08-15。另有约 9 款印度主题特殊涂装加入游戏，可花费金鹰解锁(胜利、神秘 IVA、HF-24、毗湿摩 TWMP、美洲虎 IS、箭-10M、黄蜂-AK 等)。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2732,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "Christmas Skin Competition - week 3 winners",
+      "name_en": null,
+      "name_zh": "核战冲突新一站：越南！",
+      "start": "2026-08-19T21:00:00Z",
+      "end": "2026-08-24T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 8 月 19 日 21:00 至 8 月 24 日 21:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "在基地“军事行动与竞技场”侧边栏参与核战冲突活动模式；越战时期 8.7-9.7 与 10.0-11.0 两个权重区间，出击次数不限；新增黄蜂/轻剑防空、镜像地图与后勤节点重制。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(圣诞涂装比赛获奖名单, 2014)。核战冲突模式重制回归，下探至越战时期 8.7-11.0 分房。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2733,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "纪念圣斯蒂芬节，匈牙利 PzH2000 开启限时折扣！",
+      "name_en": null,
+      "name_zh": "纪念圣斯蒂芬节，匈牙利 PzH2000 开启限时折扣！",
+      "start": "2026-08-20T19:00:00Z",
+      "end": "2026-08-24T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 8 月 20 日 19:00 至 8 月 24 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "PzH 2000HU 限时七折，售价 5614 金鹰",
+          "percent": 30,
+          "note": "意大利陆战科技树高级载具；活动后恢复原价 8020 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 5614 金鹰购买 PzH 2000HU(七折)，活动结束后恢复 8020 金鹰原价。",
+      "sub_events": [],
+      "notes": "匈牙利圣斯蒂芬节(8 月 20 日)纪念折扣。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2737,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "鹰式教练机首飞纪念日，印尼版本开启限时折扣！",
+      "name_en": null,
+      "name_zh": "鹰式教练机首飞纪念日，印尼版本开启限时折扣！",
+      "start": "2026-08-21T19:00:00Z",
+      "end": "2026-08-24T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 8 月 21 日 19:00 至 8 月 24 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "鹰 209 回归科技树，限时七折，售价 6734 金鹰",
+          "percent": 30,
+          "note": "日本空战科技树高级载具(印尼版本)；活动后恢复原价 9620 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 6734 金鹰购买鹰 209(七折)，活动结束后恢复 9620 金鹰原价。",
+      "sub_events": [],
+      "notes": "纪念鹰式教练机 1974-08-21 首飞；批次 date 字段异常(1974-08-21)，按正文日期行 2026 年 8 月 21 日。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2742,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "'War Thunder Fanart: Zinoviy Kolobanov'  - short movie by Ares28",
+      "name_en": null,
+      "name_zh": "史海拾遗·九月：夜魔女",
+      "start": "2026-09-01",
+      "end": "2026-09-30",
+      "end_precision": "day",
+      "end_raw": "从 9 月 1 日至 9 月 30 日期间，各位指挥官将有机会体验 8 项与历史战役相关的任务",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "史海拾遗特供个人资料头像(纳塔利娅·梅克琳)金鹰直购截止",
+          "when": "2026-10-03T19:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "个人资料头像：纳塔利娅·费奥多罗芙娜·梅克琳",
+        "作战物资箱(20-50% 研发/银狮加成卡、3-5 份备用载具、1 天高级账户、随机地面载具涂装之一)"
+      ],
+      "tasks": "9 月 1-30 日完成 8 项历史战役任务，每项得一个作战物资箱，全部完成得本期特供头像；各任务起始日北京时间 19:00 开启、截止日 19:30 到期；除 PVE 守卫模式外随机匹配中完成。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(同人短片, 2014)。8 项任务窗口：9/1-9/5 布良斯克战役、9/5-9/8 柏林胜利阅兵、9/8-9/12 阿萨-乌塔战役、9/12-9/16 波罗的海行动、9/16-9/19 阿拉库尔战役、9/19-9/23 许特根森林战役、9/23-9/27 图阿普谢保卫战、9/27-9/30 第八伊玛目行动。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2743,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "PLZ45 开放预购！",
+      "name_en": null,
+      "name_zh": "PLZ45 开放预购！",
+      "start": "2026-08-26",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "PLZ45 (IV 级、中国)",
+        "7 天高级账号时长",
+        "1000 金鹰",
+        "预购奖励：“为正义而战”专属头衔",
+        "预购奖励：“中国人民解放军炮兵徽标”贴花"
+      ],
+      "tasks": "商城以 299 CN¥ 预购 PLZ45 礼包，新版本实装后第一时间上手该载具并获得预购专属头衔与贴花。",
+      "sub_events": [],
+      "notes": "开发日志+预售公告；预售无明确截止时间(end 未知)，随新版本“长空奥德赛”实装。载具为中国陆战首款自行火炮高级载具。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2745,
+      "lang": "zh",
+      "is_event": true,
+      "type": "market",
+      "title": "Sqn Ldr Stanislaw Skalski",
+      "name_en": null,
+      "name_zh": "“战地求生包”银狮物资箱上架！",
+      "start": "2026-08-27T19:00:00Z",
+      "end": "2026-09-25T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间 8 月 27 日 19:00 至 9 月 25 日 19:00 期间",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "未开启的“战地求生包”物资箱失效并从玩家库存中移除",
+          "when": "2026-09-25T19:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "IS-7 (获取概率约 0.001%)",
+        "往期夏日活动载具约 60 款(如 BV 155 B-1、F-14A (伊朗)、苏-25BM、豹 2AV、F-106A、榛名号战列舰等)",
+        "“厄客德娜”贴花",
+        "“鹰身女妖”贴花",
+        "“大卫·克洛科特核无坐力炮”装饰挂件",
+        "“中国空降兵”资料头像",
+        "F-106A“杰克逊维尔市”纪念涂装(首次以兑换券形式返场)"
+      ],
+      "tasks": "游戏内商店以 60000 银狮/个购买(需已购至少 1 辆 II 级及以上科技树载具)，无需钥匙直接开启；部分载具/道具以兑换券形式发放，可在交易所挂售；截止后未开启箱子失效。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(王牌传记, 2014)。银狮物资箱含往期活动载具/涂装/贴花/挂件/头像/船旗/银狮/消耗品，部分首次以兑换券返场，具交易所交易属性故归 market。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2747,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "“You too can be a William Wordsworth!”",
+      "name_en": null,
+      "name_zh": "F-20 虎鲨首飞纪念日，游戏内开启限时折扣！",
+      "start": "2026-08-28T17:00:00Z",
+      "end": "2026-08-31T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 8 月 28 日 17:00 至 8 月 31 日 17:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "F-20A 开启限时折扣，售价 6860 金鹰",
+          "percent": 30,
+          "note": "美国空战科技树高级载具；活动后恢复原价 9800 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 6860 金鹰购买 F-20A(七折)，活动结束后恢复 9800 金鹰原价。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2014)。纪念 F-20 1982-08-30 首飞。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2754,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "War Thunder Screenshot Competition - December week 4 winners",
+      "name_en": null,
+      "name_zh": "暴风首飞纪念日，德国版本限时返售！",
+      "start": "2026-09-02T19:00:00Z",
+      "end": "2026-09-05T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间： 北京时间 9 月 2 日 19:00 至 9 月 5 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "德国暴风 Mk V 型限时返售，金鹰售价立享七折，现价 4970 金鹰",
+          "percent": 30,
+          "note": "德国空战科技树高级载具，仅活动期间开放购买"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 4970 金鹰购买德国暴风 Mk V 型(七折)，仅限活动期间上架。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(截图比赛获奖, 2015)。纪念暴风 Mk.V 1942-09-02 首飞；被德军回收测试的 EJ709 号机背景。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2755,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "War Thunder Screenshot Competition - December  winners",
+      "name_en": null,
+      "name_zh": "越战核战冲突以全新面貌回归！",
+      "start": "2026-09-02T21:00:00Z",
+      "end": "2026-09-07T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 2 日 21:00 至 9 月 7 日 21:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "在军事行动与竞技场侧边栏参与核战冲突模式；越战时期 8.7-11.0 权重；轻剑防空替换为 FlaRakPz 1 (罗兰 1)，10.0-11.0 区间机场增配黄蜂-AKM，核弹载机乘员为满级专家。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(截图比赛获奖, 2015)。第二轮越战核战冲突测试：地面单位配置优化、地图变动(机场周边增设高台、植被降低)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2756,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Heroes of War Thunder!",
+      "name_en": null,
+      "name_zh": "Ar 234 B-2/WB 151 开启预售！",
+      "start": "2026-09-03",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Ar 234 B-2/WB 151 (德国，V 级)",
+        "15 天高级账号时长",
+        "2000 金鹰",
+        "预购奖励：专属“闪电之翼”头衔",
+        "预购奖励：“闪电阿拉多”贴花"
+      ],
+      "tasks": "商城以 349 CN¥ 预购阿拉多 234 B-2/WB 151 礼包，新版本实装后上手带 WB 151 机炮吊舱的 Ar 234 B-2 并获得预购头衔与贴花。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2015)。开发日志+预售公告；预售无明确截止(end 未知)。WB 151/20 双联 20 毫米机炮吊舱为礼包版专属配置。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2759,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "War Thunder Skin Competition - December  winners",
+      "name_en": null,
+      "name_zh": "74 式战车服役纪念日，红星伪装车开启限时折扣",
+      "start": "2026-09-03T20:00:00Z",
+      "end": "2026-09-07T20:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间： 北京时间 9 月 3 日 20:00 至 9 月 7 日 20:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "74 式红星伪装车限时七折，售价 5866 金鹰",
+          "percent": 30,
+          "note": "日本陆战科技树高级载具，以金鹰载具形式重新上架；活动后恢复 8380 金鹰原价"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 5866 金鹰购买 74 式红星伪装车(七折)，活动结束后恢复 8380 金鹰原价。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(涂装比赛获奖, 2015)。纪念 74 式战车 1974-09-05 服役。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2761,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "巴基斯坦国防日专题折扣限时开启！",
+      "name_en": null,
+      "name_zh": "巴基斯坦国防日专题折扣限时开启！",
+      "start": "2026-09-04T21:00:00Z",
+      "end": "2026-09-07T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 4 日 21:00 至 9 月 7 日 21:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "米-35M (中国、VI 级) 七折，6363 金鹰",
+          "percent": 30,
+          "note": "中国直升机科技树高级载具(巴基斯坦涂装)"
+        },
+        {
+          "target": "载具",
+          "item": "强-5III (中国、VII 级) 七折，6489 金鹰",
+          "percent": 30,
+          "note": "中国空战科技树高级载具(巴基斯坦外贸版)"
+        },
+        {
+          "target": "捆绑包",
+          "item": "“巴基斯坦国防日”礼包 1297→649 CN¥",
+          "percent": 50,
+          "note": "含强-5III 礼包、哈立德 I 礼包、米-35M 礼包"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城购买米-35M、强-5III 与哈立德-I 三个巴基斯坦高级载具礼包享七折，三者捆绑包享五折；活动结束后恢复原价。",
+      "sub_events": [],
+      "notes": "纪念 9 月 6 日巴基斯坦国防日(1965 年第二次印巴战争)。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2772,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "War Thunder Soundtrack",
+      "name_en": null,
+      "name_zh": "鹰 T Mk1A 开放预购！",
+      "start": "2026-09-09",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "鹰 T Mk1A (FRP) (V 级、英国)",
+        "15 天高级账号时长",
+        "2000 金鹰",
+        "预购奖励：“可靠导师”专属头衔",
+        "预购奖励：“红色苍鹰”特殊贴花",
+        "第 208 飞行中队金色展示涂装，皇家空军安格西谷地基地"
+      ],
+      "tasks": "商城以 349 CN¥ 预购鹰 T Mk1A (FRP) 礼包，随新版本“长空奥德赛”实装后上手并获得预购头衔、贴花与展示涂装。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2015)。开发日志+预售公告；预售无明确截止(end 未知)。同版本另有可研发的鹰 T Mk.1 早期型加入英国科技树。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2780,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Kawanishi N1K2-J «Shiden-Kai»",
+      "name_en": null,
+      "name_zh": "纪念拉沃契金诞辰，拉-11 与拉-7 (多尔古申座机) 联袂限时返场！",
+      "start": "2026-09-11T17:00:00Z",
+      "end": "2026-09-14T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 11 日 17:00 至 9 月 14 日 17:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "拉-7 (多尔古申座机) (苏联、IV 级) 限时七折，2695 金鹰",
+          "percent": 30,
+          "note": "苏联空战科技树高级载具"
+        },
+        {
+          "target": "载具",
+          "item": "拉-11 (苏联、IV 级) 限时七折，3416 金鹰",
+          "percent": 30,
+          "note": "苏联空战科技树高级载具"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 2695/3416 金鹰购买拉-7 (多尔古申座机) 与拉-11(均七折)；两款仅限活动期间上架，结束后恢复隐藏。",
+      "sub_events": [],
+      "notes": "纪念拉沃契金 1900-09-11 诞辰；批次 title/date 为旧文(2015)。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2788,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Mariya Vasilyevna Oktyabrskaya",
+      "name_en": null,
+      "name_zh": "不列颠空战纪念日贴花与折扣活动开启！",
+      "start": "2026-09-15T19:00:00Z",
+      "end": "2026-09-18T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 15 日 19:00 至 9 月 18 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "喷火 LF Mk.IXc 普拉吉斯座机 (IV 级) 限时返售，6090 金鹰",
+          "percent": null,
+          "note": "英国空战科技树高级载具，限时返售"
+        },
+        {
+          "target": "载具",
+          "item": "喷火 FR Mk.XIVe 普伦加斯特座机 (IV 级) 限时返售，6090 金鹰",
+          "percent": null,
+          "note": "英国空战科技树高级载具，限时返售"
+        },
+        {
+          "target": "载具",
+          "item": "飓风 Mk.I/L FAA M (II 级) 返售，折扣价 680 金鹰",
+          "percent": null,
+          "note": "英国海军舰队航空兵教练机涂装版本，正文未给折扣幅度"
+        },
+        {
+          "target": "捆绑包",
+          "item": "“2026 不列颠空战纪念日”捆绑包 557→279 CN¥",
+          "percent": 50,
+          "note": "含喷火 LF Mk.IXc 普拉吉斯座机礼包、喷火 FR Mk.XIVe 普伦加斯特座机礼包、台风 Mk.IB 礼包；PC 平台专享五折"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“2026 不列颠空战纪念日”贴花"
+      ],
+      "tasks": "用英国科技树 III 级及以上空中载具在随机战斗(除守卫模式)获 3000 分解锁“2026 不列颠空战纪念日”贴花；成就页手动领取。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2015)。纪念 1940-09-15 不列颠空战；贴花任务与折扣同一时间窗。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2794,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "New decals to be introduced in next major update",
+      "name_en": null,
+      "name_zh": "YP-38 首飞纪念日，游戏内限时优惠价返售！",
+      "start": "2026-09-17T17:00:00Z",
+      "end": "2026-09-21T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 17 日 17:00 至 9 月 21 日 17:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "YP-38 限时上架，开启八折优惠，售价 920 金鹰",
+          "percent": 20,
+          "note": "美国空战科技树高级载具，仅活动期间上架，结束后恢复隐藏"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 920 金鹰购买 YP-38(八折)，仅限活动期间上架。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2015)。纪念 YP-38 1940-09-17 首飞；八折=减 20%。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2795,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "ISU-152 «Zveroboy»",
+      "name_en": null,
+      "name_zh": "阿肯色号服役纪念日，游戏内重新上架！",
+      "start": "2026-09-17T19:00:00Z",
+      "end": "2026-09-21T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 17 日 19:00 至 9 月 21 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "阿肯色号战列舰重新上架，限时七折，售价 5614 金鹰",
+          "percent": 30,
+          "note": "美国金鹰载具；活动后恢复原价 8020 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以 5614 金鹰购买阿肯色号战列舰(七折)，活动结束后恢复 8020 金鹰原价。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2015)。纪念阿肯色号 1912-09-17 服役；正文“科技树位置：美国空战科技树”疑为战列舰条目笔误。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2796,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Hawker Typhoon Mk.Ia",
+      "name_en": null,
+      "name_zh": "米-24 首飞纪念日，游戏内多款雌鹿开启限时折扣！",
+      "start": "2026-09-18T21:00:00Z",
+      "end": "2026-09-21T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 18 日 21:00 至 9 月 21 日 21:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "米-24D (苏联、V 级) 七折扣价 5992 金鹰",
+          "percent": 30,
+          "note": "苏联直升机科技树高级载具，仅活动期间上架，结束后恢复隐藏"
+        },
+        {
+          "target": "载具",
+          "item": "米-24P HFS 80 (德国、VI 级) 七折扣价 6111 金鹰",
+          "percent": 30,
+          "note": "德国直升机科技树高级载具；活动后恢复 8730 金鹰原价"
+        },
+        {
+          "target": "载具",
+          "item": "米-24P (意大利、VI 级) 七折扣价 6111 金鹰",
+          "percent": 30,
+          "note": "意大利直升机科技树高级载具"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期间商城以七折购买三款米-24 雌鹿高级直升机(米-24D 5992、米-24P HFS 80 6111、米-24P 6111 金鹰)。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2015)。纪念米-24 1969-09-19 首飞。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2797,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "美国空军成立纪念日专属折扣与贴花活动来袭！",
+      "name_en": null,
+      "name_zh": "美国空军成立纪念日专属折扣与贴花活动来袭！",
+      "start": "2026-09-18T20:00:00Z",
+      "end": "2026-09-21T20:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间： 北京时间 9 月 18 日 20:00 至 9 月 21 日 20:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "P-51D-10 韦特莫尔座机 (美国、IV 级) 限时返售，4880 金鹰",
+          "percent": null,
+          "note": "仅活动期间上架，结束后恢复隐藏"
+        },
+        {
+          "target": "载具",
+          "item": "P-47M-1-RE 雷电 博斯特威克座机 (美国、IV 级) 限时返售，6090 金鹰",
+          "percent": null,
+          "note": "仅活动期间上架，结束后恢复隐藏"
+        },
+        {
+          "target": "捆绑包",
+          "item": "“至臻经典”礼包 1032→516 CN¥",
+          "percent": 50,
+          "note": "含佩刀天空传播者礼包、P-47M-1-RE 雷电(博斯特威克)礼包、P-51D-10 野马(韦特莫尔)礼包、P-38K 礼包"
+        },
+        {
+          "target": "捆绑包",
+          "item": "“现代战争”礼包 1533→767 CN¥",
+          "percent": 50,
+          "note": "含 F/A-18C 早期型礼包、F-4S 鬼怪 II 礼包、A-10A 雷电早期型礼包"
+        },
+        {
+          "target": "多种商品",
+          "item": "商城 9 款美国空战礼包单独七折(F/A-18C 早期型、F-4S 鬼怪 II、A-10A 早期型、F-5C、野马 D-20、佩刀天空传播者、P-47M 博斯特威克、P-51D-10 韦特莫尔、P-38K)",
+          "percent": 30,
+          "note": "聚合句"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“美国空军空战司令部”贴花"
+      ],
+      "tasks": "用 III 级及以上美国空中载具在随机战斗(除守卫模式)获 3000 分解锁“美国空军空战司令部”贴花；个人资料页手动领取。",
+      "sub_events": [],
+      "notes": "纪念 1947-09-18 美国空军成立；批次 date 字段异常(1947-09-18)，按正文日期行 2026 年 9 月 18 日。贴花任务与折扣同一时间窗。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2800,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "The 761st Tank Battalion",
+      "name_en": null,
+      "name_zh": "勇气时刻：沙特阿拉伯",
+      "start": "2026-09-23",
+      "end": "2026-09-29T01:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "上述礼包折扣截止时间为北京时间 9 月 29 日 1:30，仅限 PC 平台玩家购买。",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "M728 CEV 礼包 349→175 CN¥",
+          "percent": 50,
+          "note": "含 M728 CEV (V 级、美国)、“沙特阿拉伯皇家工程兵团”涂装、15 天高级账号、2000 金鹰；仅限 PC"
+        },
+        {
+          "target": "礼包",
+          "item": "闪电 F.53 礼包 500→250 CN¥",
+          "percent": 50,
+          "note": "含闪电 F.53 (VI 级、英国)、15 天高级账号、2000 金鹰；仅限 PC"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "商城购买沙特主题 M728 CEV 礼包与闪电 F.53 礼包享五折(仅限 PC，9 月 29 日 1:30 截止)；另有 8 款沙特主题涂装永久加入游戏，可花费金鹰购买。",
+      "sub_events": [],
+      "notes": "批次 title/date 为旧文(2015)。纪念沙特阿拉伯国庆日(1932-09-23)；正文未写开始时间，start 取文章发布日。永久上架涂装：台风(AESA)、F-15A、猎人 F.6、M728 CEV、AMX 10P、M1A2、MH-60L DAP、吸血鬼 FB 52A。同期发布勇气时刻系列微电影。",
+      "confidence": 0.85
+    }
+  ]
+}

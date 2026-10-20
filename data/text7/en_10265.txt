@@ -1,0 +1,147 @@
+[Warbonds] [Event] Battle Pass Season 25: Steel Fury and Its Warbond Shop! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Battle Pass Season 25: Steel Fury and Its Warbond Shop!
+19 October 2026
+Warbonds
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Beginning on: October 21st (12:00 GMT)
+<> Ending on: January 20th (12:00 GMT)
+<>This Battle Pass season is themed around Germany! You can look forward to decorations featuring a German anti-tank gun, a pistol, and an ammunition crate. There’s also inscription decals of German female names to decorate your favorite tanks with! The premium vehicles include the S-706, which will take its place as one of the best torpedo boats in the game, and the Jagdpanther G2, a modified premium version that’s a firm favorite among players!
+<>The Warbond Shop now features the German Z4 Zerstörer destroyer, which is notable for its exceptional anti-aircraft armament, as well as the American hybrid-powered fighter, the FR-1 Fireball! You can also use Warbonds to obtain a trophy containing Camouflages, a trophy with German tanker profile icons, and a new decal: The “Miss October 1944 Pin-up.”
+What is the Battle Pass? (click to expand) ▼
+<>The Battle Pass is an event that lasts for 90 days where players can earn rewards for completing challenges and earning progress points. Rewards range from Silver Lions and boosters to season-exclusive decals, decorations, vehicles and more. Completing the Battle Pass is simple: you earn progress points that unlock levels, earning valuable things along the way!
+<> Check out the Wiki here to learn more .
+Leveling up the Battle Pass & Challenges (click to expand) ▼
+<>Leveling up is simple! Gather progress points to unlock more levels. One level is 10 progress points. Points can be obtained through logging into the game, completing Daily Tasks and completing specific Challenges. New Battle Pass Challenges unlock once a week and another three can be obtained through reaching specific levels.
+<> Login to the game! Get 1 to 5 progress points for doing this.
+<> Complete Daily Tasks! Get 2 to 5 progress points for each of these.
+<> Complete Battle Pass Challenges! Get 30 points for each of these.
+Click here for all of the Challenges
+<> Rewards in Season 25
+<>Purchasing the Battle Pass for 2,000 Golden Eagles will allow you to access every level. Purchasing the improved version for 2,500 Golden Eagles comes with an extra 150 progress points (15 levels from the get go).
+<>Not got enough time to complete the Battle Pass? You can purchase progress points for Golden Eagles 28 days after the season begins.
+<>The Battle Pass can be accessed on the right side of the screen while in the hangar
+Click here for all of the Rewards
+<>Check out all of the rewards in the season below.
+<> New vehicles this season
+<> S-706 (Germany)
+<> A Premium Torpedo Boat for Germany at Rank III
+<>
+Vehicle History (open spoiler): ▼
+<> S-706
+<>The S-706 torpedo boat was laid down at the Danziger Waggonfabrik shipyard in Danzig and commissioned on October 31st 1944. During the war, it operated in the North Sea and the English Channel. After the war, it was transferred to the United States as a war reparation; it was studied in Philadelphia and subsequently sold for scrap in 1948.
+The S-706 belongs to the most advanced generation of German Schnellboote (fast attack craft); it reaches speeds of nearly 80 km/h, carries depth charges, and is equipped with four torpedo tubes, two at the bow and two at the stern, with a total loadout of six torpedoes. It can launch torpedoes both while closing in on a target and while breaking away. Its gun armament includes 30 mm and 20 mm cannons, as well as machine guns. At close range, this arsenal can destroy any enemy boat in mere seconds. All in all, the premium S-706 is set to become one of the best torpedo boats in the game, excelling both in engagements against other small boats and as a point-capturer in battles involving larger naval vessels.
+<>
+<> Jagdpanther G2 (Germany)
+<> A Premium Tank Destroyer for Germany at Rank IV
+Vehicle History (open spoiler): ▼
+<> Jagdpanther G2
+<>Further development of the Jagdpanther tank destroyer led to the 1944 introduction of the second and final production variant: the Jagdpanther G2. These tank destroyers saw extensive use during the final stages of the war, notably in the Lake Balaton Offensive and the Ardennes campaign.
+<>The Jagdpanther is a common sight in mid-tier battles, and the reason for its popularity is thanks to an exceptionally successful balance of high firepower, reliable protection, and decent mobility. Its 88 mm gun, the same found on the famous King Tiger, can penetrate the frontal armor of any medium tank and most heavy tanks. The already formidable sloped frontal armor of the fighting compartment easily withstands most smaller-caliber armor-piercing rounds, while angling the hull turns it into a nearly impenetrable barrier. The Jagdpanther G2 variant retains all the strengths of the fearsome G1, adds an Em 0.9 m R rangefinder and offers premium status, making battles with this vehicle even more profitable!
+<> Decals, Decorations, and a Profile Background
+“Clementine” decal
+“Gertrud” decal
+“Erika” decal
+“Brunhild” decal
+Jagdpanther G2 profile background
+<>Decorations:
+<>“Ammunition Crate” decoration
+<>“PWK 42 LP” decoration
+<>“Puppchen” ship decoration
+<> Battle Trophy with Past Vehicles
+<>Missed out on previous Battle Pass vehicles? The Battle Trophy has you covered, featuring four vehicles from past Battle Passes or events. Opening this trophy will give you one vehicle from the list. If you have them all, you’ll instead receive Silver Lions and the special “Golden Battles Wager”, allowing you to earn up to 1,000 Golden Eagles.
+<> ORP Garland (Great Britain)
+<> USS Detroit (USA)
+<> Matilda Hedgehog (Great Britain)
+<> Ro.57 Quadriarma (Italy)
+<> Get Silver Lions, Consumables, Premium Account Time and More in the Battle Pass!
+<>The Battle Pass doesn’t just feature decals, decorations and vehicles, it also contains a lot of other useful items. This includes a large amount of Silver Lions, Warbonds to spend in the Warbond shop, Orders, Wagers and Backups for use in battles, a Test Drive for one of the new vehicles before you get it, 10 days of Premium Account time, unique camouflages for the two new vehicles and a title and loading screen to remember your accomplishments.
+<> Get the next Battle Pass for free with Upgrade Coupons!
+<>Two “ Upgrade Coupons ” are at levels 105 and 125 in the Battle Pass and are both needed to get the next Battle Pass for free. They also make the two new vehicles tradable on the Gaijin Market if you prefer.
+<>To purchase a Battle Pass using the “ Upgrade Coupon ”, you need to wait until the current season ends and the new season begins. You’ll then be able to exchange two Upgrade Coupons in the Battle Pass purchase window. Upgrade Coupons must be available in your inventory to do this.
+<> The Warbond Shop in Season 25!
+<>Check out some of the main Warbond shop items in Season 25! You can view the full list of items available as well as the conditions for receiving them in-game.
+What is the Warbond Shop? (open spoiler): ▼
+<>The Warbond shop is connected with and runs in tandem with the Battle Pass. Items in the Warbond shop can be purchased with a currency called Warbonds that are earned in the Battle Pass. There are a total of 6 shop levels and each one can be unlocked by reaching specific levels in the Battle Pass. In addition to purchasing with Warbonds, each item from shop level 3 requires a certain number of medals to purchase. Medals can be obtained through completing Special Tasks.
+<>The Warbond shop can be accessed by clicking on Shop > Warbond Shop from the hangar or from the Battle Pass window by clicking “Shop”
+<> Vehicles
+<> Z4 Zerstörer (Germany) — first time in the Warbond shop!
+<> FR-1 Fireball (USA) — first time in the Warbond shop!
+<> Pz.IV G (Italy)
+<> T-126 (USSR)
+<> MGB-75 (Great Britain)
+<> Ki-44-II Otsu (Japan)
+More about the new reward (open spoiler): ▼
+<> Z4 Zerstörer (Germany) — first time in the Warbond shop!
+<>The destroyer USS Claxton (DD-571) entered service in December 1942 and saw active combat in the Pacific Theater. In December 1959, it was transferred to the West German Navy, where it was renamed Z4 Zerstörer. It stands out from other Fletcher-class destroyers due to its premium status and its secondary armament: six 76 mm guns that have access to high-explosive shells with proximity fuzes. Combined with its radar, this makes the ship a lethal threat to both aircraft and small naval vessels at great distances!
+<> FR-1 Fireball (USA) — first time in the Warbond shop!
+<>The first jet aircraft to enter service with the U.S. Navy, the Fireball is notable for its hybrid propulsion system, which combines a piston engine with a jet engine. This configuration allows it to achieve higher speeds and outperform piston-engine competitors during maneuvers. It is armed with four 12.7 mm machine guns, and its external hardpoints can carry HVAR rockets, fuel tanks, naval mines, and 500 or 1000 lb bombs.
+<> Decals
+<>Season 25 introduces the Miss October 1944 pin-up decal. Additionally, a special trophy available in the Warbond Shop contains decals that were previously featured in 2019. Expand your collection with classic decals you might have missed!
+“Miss October 1944 Pin-up” decal
+<> Trophies
+<>For fans of customization, we’re pleased to say that the “Camouflages” trophy is here this time, while profile icons of German tankers are available in the profile icon trophy!
+<> Consumables
+<>Alongside trophies, vehicles and decals are a bunch of useful consumable items, including boosters, universal backups, wagers & orders, premium vehicle rentals and talismans — all perfect for helping you through the game.
+<> Get out there and get yourself some goodies!
+Read more:
+Get the AMV (BMP-3) in the Desert Predator Event!
+28 September 2026
+Pre-order: HMS Duke of York
+19 October 2026
+Official Snail Plushie Collaboration with Makeship!
+16 October 2026
+SEAD: Asymmetrical Battle Returns!
+16 October 2026
+Share the news with your friends!
+<

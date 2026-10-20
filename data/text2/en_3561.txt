@@ -1,0 +1,150 @@
+[Special] Air Duels: Spitfire vs Bf.109 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Air Duels: Spitfire vs Bf.109
+Attention! Outdated news format. Content may not display correctly.
+12 February 2016
+Special
+1280x1024 | 1920x1080 | 2560x1140
+From February 12th 15:00 GMT to February 15th 07:00 GMT
+Take part in air battles between Germany and Great Britain in random battles and in the events.
+Destroy enemy aircraft and earn Supply boxes!
+Tasks:
+<>
+While flying listed Bf.109 series aircraft, destroy a total of 30 listed enemy Spitfires and earn a 'Supply Box'!
+<>
+While flying listed Bf.109 series aircraft, destroy a total of 70 listed enemy Spitfires and earn a 'Supply Box'!
+<>
+While flying listed Bf.109 series aircraft, destroy a total of 100 listed enemy Spitfires and earn a 'Supply Box'!
+The multipliers are x2 for RB and x3 for SB.
+<>
+While flying listed Spitfire series aircraft, destroy a total of 30 listed enemy Bf.109s and earn a 'Supply Box'!
+<>
+While flying listed Spitfire series aircraft, destroy a total of 70 listed enemy Bf.109s and earn a 'Supply Box'! ​
+<>
+While flying listed Spitfire series aircraft, destroy a total of 100 listed enemy Bf.109s and earn a 'Supply Box'!
+The multipliers are x2 for RB and x3 for SB.
+<>
+Participate in the Battles:
+Vehicle List:
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<> [Duel]
+Cliffed coast (AB)
+<> [Duel]
+Cliffed coast (RB)
+<> [Duel]
+Cliffed coast (SB)
+<> Spitfire F Mk.XIVc, Spitfire F Mk.XIVe, Spitfire F Mk.XVIIIe, Spitfire FR Mk.XIVe
+<> Bf.109G-10, Bf.109G-14,
+Bf.109K-4
+<>
+<> Supply Boxes:
+For completion of each stage you will get a "Supply Box", which contains one of the following items:
+Back-ups for German or British aircraft of ranks 2-4
+10%-75% RP and SL gain boosters
+Random discount for German or British premium aircraft
+Main prize: 200% RP+SL booster
+You are guaranteed to receive the main prize once you complete the third stage of the tasks for the nation of your choice. However you still have chances to get one after completing one of the previous stages.
+Terms:
+Your progress from previous completed stages is saved;
+The tasks can be completed both in random battles and special events, available in the Events and Tournaments tab;
+The tasks can not be completed in Enduring Confrontation events.
+You can follow your progress in your profile - check Achievements -> Air duels
+End-war Messerschmitts vs End-war Spitfires
+Throughout the course of World War Two, the pace of aircraft development with the ever changing conflict grew at a tremendous rate. Within 5 years, many countries had gone from Biplanes to Monoplanes, and a few into the early dawn of the Jet Age. The experience gained from battle and from evaluating current aircraft would often shape tomorrow's new aircraft design.
+Perhaps the most iconic example of legendary aircraft, that saw a wide span of development through the War’s course, are the British Supermarine Spitfire and German Messerschmitt Bf 109. Both aircraft would frequently meet in combat in the skies over Europe, including the Mediterranean, and would become synonymous with one another; however, both were equally iconic in their own rights.
+Click here to read the full article!
+1280x1024 | 1920x1080 | 2560x1140
+Late War Spitfires:
+By the later war years of 1944 into 1945, Spitfire models were a world apart from the first Merlin models in the early war stages. Most were now outfitted with the Rolls Royce Griffon engine, which was significantly larger and more powerful than the Rolls Royce Merlin used throughout early - mid Spitfire development. The Griffon was the logical evolution for the Spitfire and saw the aircraft through its later development stages, boasting performance that Merlin Spitfires just could not match. The pinnacle of operational wartime Spitfires mostly lies in the Mk XIV, a bigger and more aggressive looking aircraft when compared to the Mk I for example. The Mk XIV would be far from the final model however, as the Mk XVII fighter-bomber development would arise in post war years as well as the arrival of the Mk 21 at the end of the war with a new wing design that would lead the Spitfire series to its final variants in the Spitfire Mk 22/24 series.
+The early Spitfires rely heavily on their turning ability to engage aircraft, which led to “dogfighting”, along with its efficient elliptical wing design the Spitfire even had the ability to out energy fight some opponents; however, as the war progressed changes were required to make the Spitfire faster, better armed, and even more maneuverable in terms of roll rate. Eventually leading to what is commonly known as the “Griffon” series. The Griffon series of Spitfires retain the excellent maneuverability of their Merlin predecessors, while becoming more fluent in the “Boom and Zoom” playstyle. Griffon Spitfires begin at rank IV in War Thunder with the Mk XIVe in the research tree and the Mk XIVc premium aircraft.
+<> Late War Bf 109s:
+The Messerschmitt Bf 109 had also undergone many modifications, adaptations and variants through the G or “Gustav” series before it reached its wartime apex in the Bf 109 K-4. When compared to the “Emil” series that locked into combat with Spitfires and Hurricanes over the skies of Great Britain in 1940, the K-4 was a significant leap in aircraft design and represented the very best in wartime development for the Messerschmitt piston engined fighter. The primary change had been to the fighter's role however, as whilst the Messerschmitts were the aggressors and primarily on the offensive in the early war years, they now found themselves as the defenders due to the heavy USAAF bomber raids pounding Germany and its industrial heartlands. As such, the nose mounted weaponry was often complemented in the G and K series with externally mounted pylons under the wings, able to carry 20 or 30mm cannon pods or 210mm BR.21 rockets. Utilizing a powerful DB 605 engine, the Bf 109 K-4 would have eventually lead into the K-6 and K-14 models; however, the course of the war would mean development of the 109 was slowed from lack of resources, time and in favor of the Me 262 and Focke-Wulf Fw-190.
+The Bf 109 series remains traditionally an energy fighting and “Boom and Zoom” centered style of aircraft throughout the course of its variants. Later models of the Bf 109 become significantly heavier and more complex, but the Bf 109 benefited from more powerful engines and increased armaments as a result. Although the Bf 109s became more sluggish because of this, skilled 109 pilots can still utilize the solid maneuverability, excellent rate of climb, and its amazing acceleration to combat the opposition. The final Bf 109’s begin in game with the Bf 109 G-6 and G-14 at rank IV and conclude with the G-10 and K-4.
+<> Conclusion:
+Both the Spitfire and Messerschmitt families span several versions and variants within their respective research trees that lead up to their jet engined successors, ranging from ranks I-IV for the Messerschmitt Series and ranks II-IV for the Spitfires. For every variant of one, their is often a counterpart of the other present in both trees covering the variants used operationally within the Second World War.
+The two series of aircraft lead to some of the best piston engined aircraft available to pilots in War Thunder that, in experienced hands, can be extremely deadly aircraft in combat. The late Spitfires and late Messerschmitts are fairly matched in terms of general performance characteristics, with each having their own distinct advantages and weaknesses but also retaining a familiar similarity in playstyle.
+Author: Scott "Smin1080p" Maynard
+Want to read more about the vehicles in War Thunder? Find other Versus Articles on our website!
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

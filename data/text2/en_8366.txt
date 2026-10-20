@@ -1,0 +1,102 @@
+[Event] Pages of History (August) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (August)
+21 July 2023
+Event
+<>In this month's Pages of History you'll find yourself at the centre of events that happened at numerous battlefronts. Battle for Britain, Falaise Pocket, Invasion of Kuwait and Operation Barbarossa — participate in battles using the vehicles that were used in these historic events and receive prizes!
+<>
+<>From August 1st until August 31st you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, completing all of them earns you a unique player icon.
+<>During the Falaise operation, David Currie was a major in the Canadian army. He led the assault and held position at St. Lamber from where a significant part of German forces tried to flee the pocket. Despite the Wehrmacht forces being more numerous, Currie’s tactical decisions and leadership skills allowed the Canadians to destroy over 500 and capture over 2000 enemy soldiers. He was awarded the Victoria Cross, becoming the only member of the Royal Canadian Armoured Corps to receive it.
+David Currie
+<>You can immediately purchase the profile icon for Golden Eagles until September 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (August).
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>August 1st — August 4th
+Battle of the Bridges
+<>At the beginning of the Iraqi invasion of Kuwait in 1990, neither side was ready for a serious confrontation: The Kuwaiti army wasn't even mobilised, and Iraqis expected no resistance and loaded their tanks with HE shells instead of SABOT. In the morning of August 2nd a small group of Kuwaiti forces met the enemy at the bridges across a highway near Al Jahra and began shelling with little to no response. In a few hours, elite Iraqi forces arrived, but even they drove past the enemy at first, allowing Kuwaitis to keep shelling and retreat when their ammo reserves were almost depleted.
+<>August 4th — August 8th
+Spas-Demenskaya operation
+<>After falling back from the Rzhev-Vyazma salient in 1943 the Wehrmacht forces entrenched in Western Russia, and on August 7th, the Red Army began the Smolensk offensive operation to free the occupied territories. Fierce battles that lasted for two weeks near Spas-Demensk ended with a USSR victory.
+<>August 9th — August 12th
+Tartu offensive
+<>After the successful Narva operation in 1944 the USSR army kept advancing through Estonia. The next major city that it retook from the Wehrmacht was Tartu in the east of the country. The land route to it was blocked by lake Peipus, so the Soviets launched an amphibious assault over the lake that allowed them to strike the enemy from the rear.
+<>August 12th — August 16th
+Falaise pocket
+<>In mid August of 1944 the Allies encircled a large group of German forces in a pocket under Falaise in Normandy. This was a direct result of Adolf Hitler personally commanding his army, insisting on counterattacks and forbidding them to retreat. As the pocket closed, over 10 000 German soldiers were killed, over 50 000 were captured, and the Battle for Normandy ended in a decisive Allied victory.
+<>August 17th — August 20th
+The Hardest day
+<>In August of 1940 the Luftwaffe aimed to destroy RAF Fighter Command to establish air superiority over Britain. The attack on airfields on August 13th, the Adlertag, failed, but five days later another attempt was made. August 18th was later named The Hardest Day by the British, as one of the largest air battles ever took place on that day. The British pilots took down twice as many aircraft as the Luftwaffe, but lost many fighters on the ground due to bombings, making overall vehicle losses almost equal.
+<>August 20th — August 23rd
+Kozelsk offensive
+<>On August 22nd, 1942 the Red Army attempted to encircle the German forces under Kozelsk. The counteroffensive failed: the Soviets lost 500 tanks and four times as many soldiers as the defending Germans, having only pushed the front line back 6-8 km.
+<>August 24th — August 27th
+Liberation of Paris
+<>After their triumph in Normandy the Allies moved to Paris. Already on August 19th the French Resistance began the fight for the city against German and Vichy forces. After the US and Free France forces entered Paris on the evening of August 24th, the battle was over in mere hours. Military Governor Dietrich von Choltitz refused to destroy the city as Hitler ordered and surrendered to the Allies.
+<>August 28th— August 31st
+Yelninskaya operation
+<>During the invasion of the German forces into the USSR as a part of Operation Barbarossa, the Wehrmacht occupied a large salient near Yelnya in Western Russia that could be used as a foothold for an attack on Moscow. The Soviet command decided to eliminate the salient, and on August 30th, 1941 began a successful counteroffensive. Yelnya was retaken, but only for a month, as the Wehrmacht soon resumed its eastward push.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

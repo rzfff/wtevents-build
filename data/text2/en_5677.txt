@@ -1,0 +1,125 @@
+[Marathon] S.U.M.M.E.R. Engineering School - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+S.U.M.M.E.R. Engineering School
+Attention! Outdated news format. Content may not display correctly.
+3 August 2018
+Marathon
+<>The second stage of Operation “S.U.M.M.E.R.” has begun, it’s time to assemble the vehicles!
+<>Greetings, engineers! In today’s class you will learn everything you need to know to properly assemble Operation S.U.M.M.E.R. armoured vehicles and spend much less time crafting the vehicle you want.
+<> To make your tank, you need to:
+<>Create parts from the material gathered in combat.
+<>Combine those parts to make modules.
+<>Assemble the modules to create your tank coupon.
+<>Exchange your coupon for a tank or sell it on the market!
+<>Key Components
+<>Blueprint
+<>To assemble the T-34E and IS-7 coupons, the first thing you need is blueprints for them. You can get blueprints and many other rewards by completing the tasks in the first stage of the event.
+<>In the first stage of the event you will be able to get a ready-made T-34E blueprint and an IS-7 hull blueprint for completing tasks. You can get the blueprint for the IS-7’s turret once you’ve finished assembling the T-34E.
+<>Materials
+<>This is the basic component you will use to assemble the vehicle itself. You can start getting materials from August the 3rd until August the 13th, but only if you have a blueprint for the respective tank. An IS-7 Hull blueprint is enough to start receiving IS-7 items.
+<>Materials can be earned in random battles with at least 50% activity. Materials can be purchased and sold on the Market .
+<>You can get from 1 to 3 T-34E Materials in ranks 2 and 3 battles and from 2 to 5 IS-7 Materials in ranks 4 to 6 battles.
+<>Fulfillment of the activity condition of 50% or higher doesn't guarantee receipt of materials in battle.
+<>Parts
+<>These components will bring you a step closer to a desired tank and they can be created from the “Materials” that you have earned in battles. Piston, Gun barrel, Cannon breech, Crankshaft - you will need these and other parts to assemble a tank.
+<>Rare parts (item labeled “uncommon”)
+<>You can not create them yourself but you can get them in battle like simple Materials.
+<>Rare parts can be traded and purchased on the Market . In addition rare parts can be disassembled into a small number of ordinary parts.
+<>Complete modules
+<>Complete modules are assembled from Parts, this process takes some time.
+Material
+Part
+Rare part
+Complete module
+<>Assembly
+<>Everything has its place. Tanks are assembled in the Workshop. You can get there from the hangar by selecting “Inventory” → “Workshop.”
+<>In the top right corner you can see the number of available items: Blueprints, Materials, Parts and modules.
+<>
+<>You’re in the Workshop. The mechanics have prepared a workbench for you. In addition to tank blueprints, you also have the first tank items in front of you, or rather Complete module “recipes” that tell you how to assemble the parts you create from materials or collect as rare parts into complete modules which you will require to create the vehicle.
+<>A good tank commander doesn’t just know how to drive a tank and fire accurately, they also know a thing or two about how tanks are built. This knowledge will stand you in good stead right now.
+<>Highlight a tank part and select “Recipes.” You’ll see various ways parts can be combined to craft complete modules. We’re using a gun in this example. Only one of the options is right, and assembling a complete module based on a recipe takes time. But you’re a good tank commander, so you know the right combination.
+<>The first option looks pretty good, but hold on! A piston? A good tank commander knows that a projectile fired from a barrel emits smoke, not a mixture of fuel and air. Pistons are used in engines, not guns! This is obviously an incorrect recipe, so we’ll mark it as such.
+<>Trying to assemble a complete module based on an incorrect recipe won’t cause you to fail the event. You’ll just get all the Parts you used back, and lose only a little time for assembling the recipe
+<>Let’s use this method to check all the recipes. Look, one of them is “barrel, muzzle brake, breech block, breech housing.” These parts obviously go together to create a gun which is a complete module.
+<>Let’s find them in the Workshop and use the materials we’ve collected in battle beforehand to assemble the complete module.
+<>You might need a rare part to assemble the next complete module.
+<>The probability of receiving each Rare Part will increase with every battle until you receive each part, meaning that the probability will eventually reach 100%. After receiving all the Rare Parts required to assemble one vehicle, the probability values will reset and no longer rise.
+<>As a result, players that have played enough battles to collect the required materials to assemble a tank should not have problems receiving Rare Parts along the way. As for additional Rare Parts (for example, to sell on the Market) it will depend entirely on luck.
+<>Now all we have to do is go back to the right recipe and select “Assemble.”Congratulations, engineer! You now have your first complete module, and the next available parts have appeared in the Workshop. Keep following these instructions and assembling parts, and eventually you’ll have all the Completed Modules you need to assemble the vehicle coupon you want.
+<>Items for assembly will disappear in 7 days after the end of the event, excess items can be exchanged for warbonds. The maximum number of battles for which materials will be given is 50 per day for rank 2-3 battles and 50 for rank 4-6 battles, for 10 days. Rare Parts are not limited by number of battles.
+<>The maximum number of T-34E materials that can be received through all of the battle events is also limited, hence, you will only be able to assemble one tank with them. IS-7 materials however, which can be received through all battle events, are not limited.
+Other features of the event ▼
+<>If you have created the T-34E coupon, you will be able to exchange this for a different coupon which entitles you to receive one of the alternative vehicles. To do this you need go to “Workshop” → “Item exchange - “Operation S.U.M.M.E.R” and click "Collect" under the vehicle that interests you.
+<>Features for the PlayStation 4® and Xbox One players
+<>A special trophy is available for you, the purchase of which you will get one of the following items:
+<>Coupon “PPD 34/38”
+<>Coupon “Reising M50”
+<>Coupon “Owen Machine Carbine”
+<>Coupon “Emblem of the Royal tank regiments”
+<>Coupon “Emblem of the armoured forces, U.S.”
+<>Coupon “Emblem of the armoured forces, USSR”
+<>The received Coupons can be activated or exchanged for a Voucher which can be exchanged for:
+<>30 conventional Materials for T-34E assembly
+<>30 conventional Materials for IS-7 assembly
+<>T-34E Metal Detector for 1 Voucher
+<>IS-7 Metal Detector for 2 Vouchers
+<>
+<>
+<>Owners of the Metal Detector for the corresponding tank will receive in battles Rare Materials. From these, PlayStation 4® and Xbox One players can create Rare Parts thereby significantly accelerating the assembly of the vehicle.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

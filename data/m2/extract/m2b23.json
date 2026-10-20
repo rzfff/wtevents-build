@@ -1,0 +1,779 @@
+{
+  "results": [
+    {
+      "aid": 8281,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (June)",
+      "name_en": "Pages of History (June)",
+      "name_zh": null,
+      "start": "2023-06-01",
+      "end": "2023-06-30",
+      "end_precision": "day",
+      "end_raw": "From June 1st until June 30th you’ll be offered 8 tasks consecutively.",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Profile icon (Nikolai Gastello) purchasable for Golden Eagles without completing tasks",
+          "when": "2023-07-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Unique player icon (Nikolai Gastello)",
+        "Trophy per task: 20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day of premium account",
+        "Random camouflage for ground vehicles"
+      ],
+      "tasks": "6月1日至30日连续开放8个历史战役任务,随机战斗中完成(排除[Assault]);每完成一个得奖杯,全部完成获专属玩家头像Nikolai Gastello;头像可金鹰直购至7月3日11:30 GMT。",
+      "sub_events": [],
+      "notes": "每月系列“Pages of History”;8个子任务各有约4天小窗口(6月1-4日中途岛、6月5-8日诺曼底等);任务每天11:00-11:30 GMT刷新。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 8292,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "T129 is Back for the Turkish Air Force Day",
+      "name_en": "T129 is Back for the Turkish Air Force Day",
+      "name_zh": null,
+      "start": "2023-06-01T09:00:00Z",
+      "end": "2023-06-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 1st (9:00 GMT) until June 5th (9:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "T129 ATAK (temporarily available for Golden Eagles)",
+        "“Turkish Air Force” decal"
+      ],
+      "tasks": "土耳其空军日:T129 ATAK直升机金鹰商店限时开售;用任意国家III级及以上飞机(活动度≥70%)打3场随机战斗(排除EC与[Assault])获“Turkish Air Force”贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8296,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Decal and Destroyer for Canadian Armed Forces Day",
+      "name_en": "Decal and Destroyer for Canadian Armed Forces Day",
+      "name_zh": null,
+      "start": "2023-06-02T09:00:00Z",
+      "end": "2023-06-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 2nd (9:00 GMT) until June 5th (9:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "HMCS Haida (temporarily available for Golden Eagles)",
+        "“Canadian Armed Forces Day” decal"
+      ],
+      "tasks": "加拿大武装部队日:部落级驱逐舰HMCS Haida金鹰限时开售;用英国III级及以上载具(活动度≥70%)打3场随机战斗获“Canadian Armed Forces Day”贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8298,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "D-Day: Event and Decal",
+      "name_en": "D-Day: Event and Decal",
+      "name_zh": null,
+      "start": "2023-06-02T12:00:00Z",
+      "end": "2023-06-07T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 2nd (12:00 GMT) until June 7th (7:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“D-Day text” decal",
+        "“D-Day” decal (tournament)",
+        "“Normandy Ace” title (tournament)"
+      ],
+      "tasks": "参加6场诺曼底历史预设行动(空历另含[Operation]/[Assault]任务);用美英III级及以上载具(活动度≥70%)打3场随机战斗获“D-Day text”贴花。",
+      "sub_events": [
+        {
+          "name": "D-Day Tournament Series",
+          "start": "2023-06-02",
+          "end": "2023-06-08",
+          "end_precision": "day",
+          "note": "14 tournaments, combined prize pool 163 000 GE + special “D-Day” decal and “Normandy Ace” title; eSport Discord"
+        }
+      ],
+      "notes": "历史行动窗口与贴花任务窗口相同(6月2日12:00至6月7日7:00 GMT)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 8304,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Celebrating 500 Years of Swedish Independence!",
+      "name_en": "Celebrating 500 Years of Swedish Independence!",
+      "name_zh": null,
+      "start": "2023-06-05T09:00:00Z",
+      "end": "2023-06-08T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 5th (9:00 GMT) until June 8th (9:00 GMT), play 3 battles using Swedish vehicles (rank III or higher, with an activity of not less than 70%)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“500 Years of Swedish Independence” decal"
+      ],
+      "tasks": "瑞典独立500周年/国庆日:用瑞典III级及以上载具(活动度≥70%)打3场随机战斗(排除EC与[Assault])获纪念贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8306,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Vehicles of D-Day for Golden Eagles!",
+      "name_en": "Vehicles of D-Day for Golden Eagles!",
+      "name_zh": null,
+      "start": "2023-06-06T12:00:00Z",
+      "end": "2023-06-12T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 6th (12:00 GMT) until June 12th (12:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Achilles (65 Rg.)",
+        "Stuart VI (5th CAD)",
+        "P-47M-1-RE",
+        "Typhoon Mk.Ib"
+      ],
+      "tasks": "诺曼底登陆纪念:四辆D-Day参战载具Achilles (65 Rg.)、Stuart VI (5th CAD)、P-47M-1-RE、Typhoon Mk.Ib金鹰商店限时返场购买,无任务无折扣。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 8310,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "RN Geniere Is Back for Italian Navy Day",
+      "name_en": "RN Geniere Is Back for Italian Navy Day",
+      "name_zh": null,
+      "start": "2023-06-09T09:00:00Z",
+      "end": "2023-06-12T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 9th (9:00 GMT) until June 12th (9:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "RN Geniere (temporarily available for Golden Eagles)",
+        "“Emblem of the Italian Navy” decal"
+      ],
+      "tasks": "意大利海军日:Soldati级驱逐舰RN Geniere金鹰限时开售;用意大利III级及以上舰艇(活动度≥70%)打3场随机战斗获“Emblem of the Italian Navy”贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8323,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Two ships and a decal for German Navy Day",
+      "name_en": "Two ships and a decal for German Navy Day",
+      "name_zh": null,
+      "start": "2023-06-14T12:00:00Z",
+      "end": "2023-06-19T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 14th (12:00 GMT) until June 19th (7:00 GMT), play 3 battles using German vessels",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "T31 (Type 1939)",
+        "Z20 Karl Galster (Type 1936)",
+        "“Emblem of the German Navy Headquarters” decal"
+      ],
+      "tasks": "德国海军日175周年:T31、Z20 Karl Galster两艘驱逐舰金鹰限时(6月14-17日);用德国III级及以上舰艇(活动度≥70%)打3场随机战斗(至6月19日)获纪念贴花。",
+      "sub_events": [
+        {
+          "name": "T31 and Z20 Karl Galster destroyers for Golden Eagles",
+          "start": "2023-06-14T12:00:00Z",
+          "end": "2023-06-17T07:00:00Z",
+          "end_precision": "hour",
+          "note": "车辆售卖窗口早于贴花任务窗口结束"
+        }
+      ],
+      "notes": "双窗口:售船至6月17日7:00 GMT,贴花任务至6月19日7:00 GMT;主取较晚窗口为 end。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 8324,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The MiG-21 SPS-K Returns to Celebrate the MiG-21’s First Flight",
+      "name_en": "The MiG-21 SPS-K Returns to Celebrate the MiG-21’s First Flight",
+      "name_zh": null,
+      "start": "2023-06-16T12:00:00Z",
+      "end": "2023-06-20T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "returns to sale for Golden Eagles from June 16th (12:00 GMT) until June 20th (9:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "MiG-21 SPS-K (East German MiG-21PFM, Golden Eagles)"
+      ],
+      "tasks": "纪念MiG-21首飞(1955-06-16):东德型MiG-21SPS-K金鹰商店限时返场,无任务无折扣。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 8329,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Bonus Golden Eagles when using Razer Gold and unique decals!",
+      "name_en": "Bonus Golden Eagles when using Razer Gold and unique decals!",
+      "name_zh": null,
+      "start": "2023-06-22T11:00:00Z",
+      "end": "2023-06-29T14:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 22 (11:00 GMT) until 29 of June (14:00 GMT) you will get a bonus 10% or 20% of Golden Eagles when paying via Razer Gold!",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "25000+5000=30000 GE、10000+2000=12000 GE 档位 Razer Gold 充值",
+          "percent": null,
+          "note": "附送20%奖励金鹰(bonus 赠送,非折扣)"
+        },
+        {
+          "target": "金鹰",
+          "item": "5000+500=5500、2500+250=2750、1000+100=1100、150+15=165 GE 档位 Razer Gold 充值",
+          "percent": null,
+          "note": "5000 GE 及以下档位附送10%奖励金鹰(bonus 赠送,非折扣)"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Razer - Bite decal",
+        "Razer - Fury decal",
+        "Razer - GG radar decal",
+        "Razer - Solid Shield decal",
+        "Razer - Thunder Strike decal",
+        "Razer - Unbreakable Heart decal"
+      ],
+      "tasks": "6月22-29日经 Razer Gold 充值金鹰:≥10000档附送20%、≤5000档附送10%奖励金鹰;每次经 Razer Gold 在 Gaijin Store 购物另得一枚 Razer 系列贴花(共6款可集齐)。",
+      "sub_events": [],
+      "notes": "该支付方式在日本、葡萄牙、巴西、土耳其、俄罗斯不可用;香港与中国大陆用户另有 Razer 团队加码奖励。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 8331,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (July)",
+      "name_en": "Pages of History (July)",
+      "name_zh": null,
+      "start": "2023-07-01",
+      "end": "2023-07-31",
+      "end_precision": "day",
+      "end_raw": "From July 1st until July 31th you’ll be offered 8 tasks consecutively.",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Profile icon (Desmond Doss) purchasable for Golden Eagles without completing tasks",
+          "when": "2023-08-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Unique player icon (Desmond Doss)",
+        "Trophy per task: 20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day of premium account",
+        "Random camouflage for ground vehicles"
+      ],
+      "tasks": "7月1日至31日连续开放8个历史战役任务,随机战斗中完成(排除[Assault]);每完成一个得奖杯,全部完成获专属玩家头像Desmond Doss;头像可金鹰直购至8月3日11:30 GMT。",
+      "sub_events": [],
+      "notes": "8个子任务各有约4天小窗口(7月1-4日 Operation Seydlitz、7月5-8日 Operation Citadel 等)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 8332,
+      "lang": "en",
+      "is_event": true,
+      "type": "market",
+      "title": "40 new user-created camouflages in the “La Royale” trophy",
+      "name_en": "40 new user-created camouflages in the “La Royale” trophy",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Coupons for rare vehicles",
+        "40 camouflage coupons (21 ground vehicles, 17 aircraft, 1 naval vessel, 1 helicopter)",
+        "“La Royale” decal coupon"
+      ],
+      "tasks": "随大型更新上架:II级及以上、活动度≥50%战斗后有概率掉落“La Royale”奖杯;PC 需市场购钥匙(GJN)开启,主机可用金鹰在道具商店购买;券可自用或市场出售。",
+      "sub_events": [],
+      "notes": "正文无明确起止日期(仅随主要更新发布),start/end 置空。",
+      "confidence": 0.75
+    },
+    {
+      "aid": 8333,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Decal for the British Armed Forces Day",
+      "name_en": "Decal for the British Armed Forces Day",
+      "name_zh": null,
+      "start": "2023-06-23T11:00:00Z",
+      "end": "2023-06-26T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 23rd (11:00 GMT) until June 26th (7:00 GMT), play 3 battles using British vehicles (rank III or higher, with an activity of not less than 70%)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“British Armed Forces Day” decal"
+      ],
+      "tasks": "英国武装部队日:用英国III级及以上载具(活动度≥70%)打3场随机战斗(排除EC与[Assault])获纪念贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8336,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Summer Sale in the Gaijin Store!",
+      "name_en": "Summer Sale in the Gaijin Store!",
+      "name_zh": null,
+      "start": "2023-06-27T13:00:00Z",
+      "end": "2023-07-05T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 27th of June at 13:00 GMT until the 5th of July at 13:00 GMT",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Gaijin Store 精选独立礼包(含I-V级载具的 Summer Sale Packs)",
+          "percent": 50,
+          "note": "The 50% discounts are available for the packs that include vehicles from Ranks I up to V"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "促销结束后 Japanese Pacific Campaign (1941-1942) 与 USA Pacific Campaign (1941-1942) (YP-38) 礼包将从商店下架",
+          "when": "2023-07-05T13:00:00Z"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": "Gaijin Store 夏促:精选独立礼包5折(50% off),6月27日13:00至7月5日13:00 GMT;促销结束后两款太平洋战役礼包下架。",
+      "sub_events": [],
+      "notes": "The offer is available to PC users only.",
+      "confidence": 0.9
+    },
+    {
+      "aid": 8339,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Two fighters and a decal for Swedish Air Force Day",
+      "name_en": "Two fighters and a decal for Swedish Air Force Day",
+      "name_zh": null,
+      "start": "2023-06-30T09:00:00Z",
+      "end": "2023-07-04T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 30th (09:00 GMT) until July 4th (09:00 GMT) two Swedish jet fighters will be available for purchase for Golden Eagles.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "J29D Tunnan (Golden Eagles)",
+        "J35A Draken (Golden Eagles)",
+        "“Swedish Air Force Day” decal"
+      ],
+      "tasks": "瑞典空军日:J29D Tunnan、J35A Draken 两架喷气战斗机金鹰限时开售;用瑞典III级及以上飞机(活动度≥70%)打3场随机战斗获纪念贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8340,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Three Different Vehicles and a Decal for The JSDF Day",
+      "name_en": "Three Different Vehicles and a Decal for The JSDF Day",
+      "name_zh": null,
+      "start": "2023-06-30T11:00:00Z",
+      "end": "2023-07-04T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from June 30th (11:00 GMT) until July 4th (9:00 GMT) three different Japanese vehicles — an aircraft, a ship, and a tank — will return for sale for Golden Eagles",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "J2M4 Kai (Golden Eagles)",
+        "IJN Kiyoshimo (Golden Eagles)",
+        "Type 74 (G) (Golden Eagles)",
+        "“Japan Self-Defense Forces Day” decal"
+      ],
+      "tasks": "JSDF成立纪念日:J2M4 Kai(机)、IJN Kiyoshimo(舰)、Type 74 (G)(坦克)三型金鹰限时返场;用日本III级及以上载具(活动度≥70%)打3场随机战斗获纪念贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8341,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Decal for Canada Day",
+      "name_en": "Decal for Canada Day",
+      "name_zh": null,
+      "start": "2023-06-30T13:00:00Z",
+      "end": "2023-07-03T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 30th (13:00 GMT) until July 3rd (9:00 GMT), play 3 battles using British vehicles (rank III or higher, with an activity of not less than 70%)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“Canada Day” decal"
+      ],
+      "tasks": "加拿大日:用英国III级及以上载具(活动度≥70%)打3场随机战斗(排除EC与[Assault])获“Canada Day”贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8345,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Decal for French Air Force Day",
+      "name_en": "Decal for French Air Force Day",
+      "name_zh": null,
+      "start": "2023-07-03T10:00:00Z",
+      "end": "2023-07-06T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 3rd (10:00 GMT) until July 6th (10:00 GMT), play 3 battles using French aircraft (rank III or higher, with an activity of not less than 70%)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“French Air Force Day” decal"
+      ],
+      "tasks": "法国空军日:用法国III级及以上飞机(活动度≥70%)打3场随机战斗(排除EC与[Assault])获纪念贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8346,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Tank, a Fighter, and a Decal for US Independence Day",
+      "name_en": "A Tank, a Fighter, and a Decal for US Independence Day",
+      "name_zh": null,
+      "start": "2023-07-04T12:00:00Z",
+      "end": "2023-07-07T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 4th (12:00 GMT) until July 7th (12:00 GMT) a Premium American Rank IV tank and a Rank V fighter will return to sale for Golden Eagles.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "F-86F-35 (Golden Eagles)",
+        "M26E1 (Golden Eagles)",
+        "“USA Independence Day” decal"
+      ],
+      "tasks": "美国独立日:F-86F-35战斗机、M26E1中型坦克金鹰限时返场;用美国III级及以上载具(活动度≥70%)打3场随机战斗获纪念贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8349,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Decal and a 3D Decoration Commemorating 80 years from Operation Husky",
+      "name_en": "A Decal and a 3D Decoration Commemorating 80 years from Operation Husky",
+      "name_zh": null,
+      "start": "2023-07-07T13:00:00Z",
+      "end": "2023-07-10T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 7th (13:00 GMT) until July 10th (13:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“Vehicles of Victory: Sherman II” decal",
+        "“Vickers machine gun” 3D decoration"
+      ],
+      "tasks": "哈士奇行动80周年:用美/英III级及以上载具(活动度≥70%)打3场随机战斗获 Sherman II 贴花;同条件用地面载具赢5场另得“Vickers machine gun”3D装饰。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8352,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Combat Robots of Atomic Heart come to War Thunder!",
+      "name_en": "Combat Robots of Atomic Heart come to War Thunder!",
+      "name_zh": null,
+      "start": "2023-07-11T11:00:00Z",
+      "end": "2023-07-31T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 11th (11:00 GMT) to July 31st (11:00 GMT), unique robots created at Enterprise 3826 will meet in battle with armored vehicles",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“Thump it!” poster",
+        "\"Door Lock\" decoration",
+        "Profile icon “Twin Left”",
+        "“Get ready\" poster",
+        "The “Swede” axe decoration",
+        "Profile icon “Twin Right”",
+        "\"Atomic Heart - MiG-15\" loading screen",
+        "“Atomic Heart - War Machines” loading screen",
+        "“Atomic Heart” title"
+      ],
+      "tasks": "“Atomic Thunder”联动:在西/东两队用指定冷战载具及 HOG-7 Hedgie、WSP-9 Pchela 机器人完成战斗任务,解锁至多10个奖励阶段(第10阶段得称号);任务分定时开启与48小时限时两类,每日1胜另有战斗奖杯。",
+      "sub_events": [],
+      "notes": "Atomic Heart 游戏联名;限时子任务窗口:7/13-15、7/17-19、7/21-23、7/25-27、7/29-31;战斗任务在11:00 GMT刷新。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 8354,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The Israeli A-4E is Back for the Anniversary of Its Maiden Flight",
+      "name_en": "The Israeli A-4E is Back for the Anniversary of Its Maiden Flight",
+      "name_zh": null,
+      "start": "2023-07-12T12:00:00Z",
+      "end": "2023-07-14T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 12th (12:00 GMT) until July 14th (12:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "A-4E (Israeli research tree, Golden Eagles)"
+      ],
+      "tasks": "纪念A-4E首飞(1961-07-12):以色列型A-4E攻击机金鹰商店限时开售,无任务无折扣。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 8355,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Book of Records: German Aircraft",
+      "name_en": "Book of Records: German Aircraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "视频公告([Video] Book of Records: German Aircraft),非活动。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 8356,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "A Decal and Two Aircraft for Bastille Day",
+      "name_en": "A Decal and Two Aircraft for Bastille Day",
+      "name_zh": null,
+      "start": "2023-07-14T12:00:00Z",
+      "end": "2023-07-17T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 14th (12:00 GMT) until July 17th (12:00 GMT), the premium French jets Milan and S.O.4050 Vautour IIN will be available for Golden Eagles.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Milan (Golden Eagles)",
+        "S.O.4050 Vautour IIN (Golden Eagles)",
+        "“Cocarde de France” decal"
+      ],
+      "tasks": "法国国庆日(攻占巴士底狱):Milan、S.O.4050 Vautour IIN 两架金鹰喷气机限时开售;用法国III级及以上载具(活动度≥70%)打3场随机战斗获“Cocarde de France”贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 8359,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Decals for purchase!",
+      "name_en": "Decals for purchase!",
+      "name_zh": null,
+      "start": "2023-07-17T13:00:00Z",
+      "end": "2023-07-31T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 13:00 GMT on the 17th of July until 13:00 GMT on the 31st of July, make any purchase of any item on the Gaijin.Net Store for War Thunder",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“Robot snail Left” decal",
+        "“Robot snail Right” decal"
+      ],
+      "tasks": "7月17-31日在 Gaijin.Net Store 任意购买一件战争雷霆商品得“Robot snail Left”贴花,再购买一件不同商品得“Robot snail Right”贴花;全平台有效。",
+      "sub_events": [],
+      "notes": "购物赠礼促销,无折扣;同种商品的两笔购买不算不同(如两次150金鹰)。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 8364,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Hunter FGA.9 Celebrates the Anniversary of its First Flight",
+      "name_en": "Hunter FGA.9 Celebrates the Anniversary of its First Flight",
+      "name_zh": null,
+      "start": "2023-07-20T10:00:00Z",
+      "end": "2023-07-24T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 20th (10:00 GMT) until July 24th (10:00 GMT) the Hunter FGA.9 with Rhodesian Air Force livery will be available for purchase for Golden Eagles.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Hunter FGA.9 (Rhodesian Air Force livery, Golden Eagles)"
+      ],
+      "tasks": "纪念Hunter首飞(1951-07-20):罗得西亚空军涂装Hunter FGA.9金鹰商店限时开售,无任务无折扣。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 8365,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "T-2 Early Available again for the Anniversary of its First Flight",
+      "name_en": "T-2 Early Available again for the Anniversary of its First Flight",
+      "name_zh": null,
+      "start": "2023-07-20T12:00:00Z",
+      "end": "2023-07-24T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 20th (12:00 GMT) until July 24th (12:00 GMT) the T-2 Early jet fighter from the Japanese research tree will be available for purchase for Golden Eagles.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "T-2 Early (Japanese research tree, Golden Eagles)"
+      ],
+      "tasks": "纪念T-2首飞(1971-07-20):日本T-2 Early喷气战斗机金鹰商店限时开售,无任务无折扣。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 8366,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (August)",
+      "name_en": "Pages of History (August)",
+      "name_zh": null,
+      "start": "2023-08-01",
+      "end": "2023-08-31",
+      "end_precision": "day",
+      "end_raw": "From August 1st until August 31st you’ll be offered 8 tasks consecutively.",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Profile icon (David Currie) purchasable for Golden Eagles without completing tasks",
+          "when": "2023-09-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Unique player icon (David Currie)",
+        "Trophy per task: 20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day of premium account",
+        "Random camouflage for ground vehicles"
+      ],
+      "tasks": "8月1日至31日连续开放8个历史战役任务,随机战斗中完成(排除[Assault]);每完成一个得奖杯,全部完成获专属玩家头像David Currie;头像可金鹰直购至9月3日11:30 GMT。",
+      "sub_events": [],
+      "notes": "8个子任务各有约4天小窗口(8月1-4日 Battle of the Bridges、8月12-16日 Falaise pocket 等)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 8373,
+      "lang": "en",
+      "is_event": true,
+      "type": "battlepass",
+      "title": "“Armour Breaking Ambusher”: Warbonds",
+      "name_en": "“Armour Breaking Ambusher”: Warbonds",
+      "name_zh": null,
+      "start": "2023-07-26",
+      "end": "2023-10-25",
+      "end_precision": "day",
+      "end_raw": "The Warbond shop for the “Armour Breaking Ambusher” Battle Pass season will be open from 26th of July until 25th of October.",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Smelyi (30-bis project destroyer lead ship)",
+        "IAR-81C",
+        "Grant I (USA)",
+        "IJN Yubari",
+        "Ta 154 A-1",
+        "B1 ter",
+        "“Cancer Zodiac” pinup",
+        "decals",
+        "player icon",
+        "decorations",
+        "camouflages"
+      ],
+      "tasks": "“Armour Breaking Ambusher”战令战债商店7月26日至10月25日开放;用解锁战令等级所得战债货币购买贴花、装饰、涂装与6辆金币载具(Smelyi、IAR-81C、Grant I、IJN Yubari、Ta 154 A-1、B1 ter);需拥有III级及以上载具。",
+      "sub_events": [],
+      "notes": "本文为战令战债商店预览,战令本体详见 Battle Pass 公告;文章日期年份2023。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 8377,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "“Stroyny” and “Neustrashimy” for Golden Eagles",
+      "name_en": "“Stroyny” and “Neustrashimy” for Golden Eagles",
+      "name_zh": null,
+      "start": "2023-07-28T12:00:00Z",
+      "end": "2023-07-31T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 28th (12 GMT) until July 31st (12 GMT), the destroyers “Stroyny” and “Neustrashimy” from the Soviet blue water research tree",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“Stroyny” (Golden Eagles)",
+        "“Neustrashimy” (Golden Eagles)",
+        "“Great emblem of the Russian Navy” decal"
+      ],
+      "tasks": "俄罗斯海军日:苏系驱逐舰“Stroyny”、“Neustrashimy”金鹰限时开售;用苏联III级及以上舰艇(活动度≥70%)打3场随机战斗获“Great emblem of the Russian Navy”贴花。",
+      "sub_events": [],
+      "notes": "正文时间写法为“(12 GMT)”,按12:00 GMT取整。",
+      "confidence": 0.9
+    }
+  ]
+}

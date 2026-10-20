@@ -1,0 +1,103 @@
+[Event] Pages of History (October) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (October)
+25 September 2023
+Event
+<>In this month's Pages of History, you'll find yourself at the centre of events that happened at numerous battlefronts. From Hungary and the Netherlands, to Israel and the Solomon Islands — participate in battles using the vehicles that were used in these historic events and receive prizes!
+<>
+<>From October 1st until October 31st you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, completing all of them earns you a unique player icon.
+<>John Basilone was a US Marine Corps Sergeant tasked with defending the Henderson Field airfield on Guadalcanal. On October 24th 1942, his unit came under attack by the Japanese forces, and two machine gun sections under Basilone’s command held them off for two days, not stopping even after only three defenders were left. As ammo began running low, Basilone fought through hostile ground to get supplies to his machine gunners. For his heroism during the battle he was awarded the Medal of Honor, US military’s highest award.
+John Basilone
+<>You can immediately purchase this profile icon for Golden Eagles until November 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (October).
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>October 1st — October 4th
+Battle of the Scheldt
+<>The Battle of the Scheldt began on October 2nd, 1944 in Dutch Zeeland and northern Belgium. A month earlier the Allies took Antwerp, the next major port to the east of Normandy, but the ships heading towards it had to pass through the Scheldt estuary which was in range of German artillery. After a month of fierce battles the Canadian army managed to push the Wehrmacht to the east, opening the supply route through Antwerp.
+<>October 5th — October 8th
+Valley of Tears
+<>On October 6th, 1973 the Yom Kippur War began, with a coalition of Arab states invading Israel. The advance of much more numerous Syrian forces was held off for three days by the 7th Armored Brigade of the IDF: it lost almost all its vehicles, but managed to push the enemy back. The battlefield was later called the Valley of Tears.
+<>October 9th — October 12th
+Orsha offensives
+<>October 12th, 1943 marked the beginning of the Soviet offensive in the Orsha region in Belarus. This area spent two years under German control, allowing the Wehrmacht to build strong defensive fortifications. As a result, the USSR forces suffered heavy losses while gaining little new ground.
+<>October 13th — October 16th
+Battle of the Chinese Farm
+<>From October 15th through 18th of 1973 the biggest tank battle of the Yom Kippur War was held on the eastern bank of the Suez Canal. The Israelis called the Egyptian agricultural station with lots of Japanese equipment the “Chinese Farm”: it was near it where hundreds of tanks from both sides met in an intense close quarter combat. Both Israel and Egypt suffered heavy losses in the battle, but Israel emerged victorious and gained control of the bank of the canal.
+<>October 16th — October 19th
+Tikhvin Defensive Operation
+<>On October 16th, 1941 the Soviet Army began its defensive operation under Tikhvin. It was one of USSR’s first strategic successes after the start of the German invasion: the full encirclement of Leningrad was prevented, the Wehrmacht wasn’t allowed to take the southern bank of Lake Ladoga, and German and Finnish forces remained separated.
+<>October 20th — October 23rd
+Second Battle of El Alamein
+<>On 23rd of October, 1942 the decisive battle of North African Theatre began. The forces of the British Commonwealth were victorious against the Axis armies, making them retreat — first from Egypt, then from Libya, and finally into Tunisia where they were forced into a corner. For this victory General Bernard Montgomery was awarded the title of a viscount.
+<>October 23rd — October 27th
+Battle of Henderson Field
+<>On October 23-26, 1942 the Japanese army stormed the American fortifications near Henderson Field airstrip on Guadalcanal, while being supported from sea and air. The opposing forces were nearly equal in numbers, but the losses of the Japanese were 30 to 50 times higher than those of the Americans. The Japanese were forced to withdraw, stopped any large-scale offensive operations on the island, and left it next February.
+<>October 27th — October 31st
+Budapest operation
+<>On October 29th, 1944 Soviet and Romanian armies began their advance on the capital of Hungary. They spent the entire November trying to reach the city and then almost all winter in fierce urban warfare: Hitler ordered the German forces to defend Budapest at all costs. Victory was achieved only on February 13th, 1945.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+<

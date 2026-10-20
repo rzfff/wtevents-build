@@ -1,0 +1,87 @@
+[Special] Spot the Ball! (UPDATED) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Spot the Ball! (UPDATED)
+Attention! Outdated news format. Content may not display correctly.
+29 June 2018
+Special
+<>
+<>Decal coupons for “Country Ball” can already be purchased and sold on the Market! Don’t fail! - the potential winner of the World Cup will clearly be valued above others on the Market!
+<>XBox and PS4 players will be able to exchange a few coupons for rarer “Country Balls” tomorrow (30th of June).
+<>From 11:00 GMT on the 23rd of June until 11:00 GMT on the 16th of July
+<>
+<>How is it possible to be a fan without any football attributes? Even in the days of the World Cup, people around you should know which team you are supporting. Collect coupons and exchange them for the decals of the countries participating in the World Cup - let everyone in battle see who the champion is!
+<>Tasks for getting “Soccer Balls”:
+<>Win in 5 battles with 60% activity or more
+<>Destroy 24/12/12 (AB/RB/SB) enemies
+<>Participate in 4/2/2 (AB/RB/SB) battles by getting 2,000 scores or more
+<>Xbox and PS4 players can trade coupons using the "Soccer ball Exchange Voucher". Every "green coupon" grants 1 voucher, whilst a "blue coupon" grant's 2.
+<>For 2 vouchers you can receive one "green coupon" with a "country ball" decal, for 4 vouchers you will receive a "blue coupon" that contains a decal of one of the countries that has reached the play-off stage.
+<>
+<>After the announcement of the winner in the World Cup 2018 the players who received and activated the decal with the “Country Ball” which became the champion will receive a super prize - 3D decoration "Super Cup"!
+<>Terms and conditions
+<>Each completed task will bring you one “Soccer Ball”
+<>Tasks will be restarted each day at 11 GMT.
+<>You can complete the tasks on any vehicle of rank II-VI (inclusive of Naval Battles).
+<>The progress of the tasks can be tracked in the Spot the ball.
+<>You can exchange 2 “Soccer Balls” for the trophy with coupons in the inventory in the tab Workshop - “Spot the ball”.
+<>The rarity of the each decal coupon “Country Ball” directly depends on the position of the team in the World Cup table sheet.
+<>Possibility to sell the coupons on the market will be added later.
+<>3D decoration "Super Cup" will be issued within 48 hours after the end of the event.
+<>For PlayStation4® and Xbox One players the possibility to exchange coupons will be added in the future.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

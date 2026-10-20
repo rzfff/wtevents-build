@@ -1,0 +1,152 @@
+[Special] Operation “Shipyard” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation “Shipyard”
+Attention! Outdated news format. Content may not display correctly.
+2 October 2019
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>From 11:00 GMT on the 3rd of October until 11:00 GMT on the 14th of October
+<>Assemble the MBK-161 armoured boats and exchange them for the VT1-2 tank, the Whirlwind P.9 fighter and the H-34 helicopter.
+<>Warriors! Command is demanding more ships to be put into service! To achieve it the admiralty has transferred the rights to build the armoured boats to private shipyards.
+<>Get the materials and blueprints from battles, assemble armoured boats for your own fleet or exchange the first or subsequent ones for other new vehicles.
+<>Event awards
+MBK-161 (USSR)
+premium, rank II
+<>The “Shallow water battleship” features good protection and a brilliant gun setup: two 76mm guns in tank turrets, 45mm utility gun, assisted by 37mm auto cannon and high-calibre MGs! She goes slow, but true!
+<>Will be assembled in the event
+Whirlwind P.9 (Britain)
+premium, rank III
+<>An early twin-engine interceptor design features 4x20mm British Hispano cannons that easily bring down both aerial targets and lightly armored vehicles and ships.
+<>Will be exchanged for 1 MBK-161 coupon
+VT1-2 (Germany)
+event vehicle, rank VI
+<>A unique turretless tank has two 120mm smooth bore guns and extraordinary mobility. We developed the unique feature of targeting by pivoting the hull to make devastation easy and comfortable!
+<>Will be exchanged for 2 vouchers and 4 Sets of Tank blueprints
+H-34 (USA)
+premium, rank V
+<>Known in the French tech tree, the Sikorsky H-34 is finally home! The US version features various carried setups, with rockets and guided missile amongst others.
+<>Will be exchanged for 1 VT1-2 coupon
+<>In the Operation “Shipyard” event, you are assembling the MBK-161 armoured boats that can be exchanged later for other event vehicles.
+<>After the assembling of the first MBK-161 you will receive a coupon that can be activated to get the MBK-161 (1943), exchanged for the Whirlwind P.9 or can be traded on the market.
+<>The second and following assembled boats you will get as vouchers which you will be able only to exchange for other event vehicles. 1 boat = 1 voucher.
+<>Assembling the first boat
+<>The whole assembly process will be carried out in the “Workshop → Shipyard”.
+<>The MBK-161 armoured boat consists of Parts, the assembly of which requires basic materials “Metal and Support materials”, a free shipyard and time to assemble.
+Shipping container (Basic materials)
+<>Will be given out for every 10 minutes spent in random battles at rank II and higher with a game activity of 50% or higher. The remaining unused time will be carried over to the next battle. You can obtain several containers in one battle.
+Basic materials
+<>Will be used for assembling all parts needed for the first boat. 1, 2 or 3 of them can be found in each shipping container. Can be traded on the market.
+Shipyard
+<>Available for all event participants after the first battle. Will be used for each assembly process and can be used only for one task. Each assembly takes time.
+<>For final MBK-161 assembly from parts, you will require 4 Sets of Ship Blueprints. One Set will be assembled from 20 Blueprints which, like basic materials will be given out for every 10 minutes spent in battle and also additionally for a team first place(winner or loser) in the battle result.
+<>Assembly scheme
+<>To simplify the assembly, all ship’s parts are arranged in the menu “MBK-161 Assembly Scheme” and are divided into three groups: “Basic systems and structure”, “Systems and pipework” and “Ship devices”.
+<>Assembly part progress will open new production facilities that speed up the parts assembly in their group.
+Assembly scheme ▼
+<>Hull - is made from “materials”.
+<>Support production - speeds up the assembly of parts in their own group (will be issued by receiving a nearby part and only for the time of assembly of the current boat).
+<>Support production slot - received supporting production of the corresponding group will be automatically placed in it.
+<>Remaining/needed materials for assembly of the parts.
+<>Improvement of production
+<>After each assembly of the MBK-161 you will receive 2 enhancements that increase the production efficiency by further speeding up the assembly of parts. You will be able to get 6 enhancements - 2 after each of the first three assemblies. Improvements will not be lost after the boat is assembled. They can be traded on the market.
+<>Assembling subsequent boats
+<>By assembly of the second and subsequent boats, the principle will not be changed but for assembly, advanced materials and not basic materials will be used and may also be obtained from the shipping containers for each 10 minutes spent in the battle.
+<>In battle, tank element blueprints will drop together with blueprints of the ship elements - they can be assembled into a set of tank blueprints which are required to produce the VT1-2 coupon. One set of tank blueprints will be assembled from 40 blueprints of the tank elements.
+<>The number of blueprints is limited: each player can receive 240 blueprints of the ship elements and 160 blueprints of the tank elements during battles. And the same amount for the first place on the result of the battle. Sets of blueprints can be traded on the market.
+<>Most active players will be able to receive up to 480 blueprints during the event of the ship elements and 320 blueprints of the tank elements.
+<>Terms
+<>Event items can be received in the following game modes:
+<>Ground AB, RB and SB.
+<>Aircraft AB and RB.
+<>Naval AB and RB.
+<>For every 10 minutes spent in battles at rank II and higher with a game activity of 50% or higher, shipping container that contain between 1 and 3 materials (basic materials by first assembly and advanced materials by second and subsequent) will be given out.
+<>For every 10 minutes spent in battles at rank II and higher with a game activity of 50% or higher, blueprints of the ship elements (up to 240 pieces) will be given out. During the second and subsequent assemblies (under the same conditions as previously) you will get blueprints of the tank elements (up to 160 pieces).
+<>The remaining unused time will not be lost, it will be saved and counted for the following battle.
+<>If the player finishes the battle in first place (in each team) they will get additional blueprints of the ship elements (up to 240 pieces) or blueprints of the tank elements (up to 160 pieces) depending on the number of assembly. The amount of received blueprints for getting first place is shown in the section Achievements → Operation “Shipyard”.
+<>After the first finished MBK-161 assembly you will get a coupon which can be activated to receive the MBK-161 or exchange it for the Whirlwind P.9 or trade it on the market. Second and subsequent assembled boats will be received in the form of vouchers which are required for exchange for the other event vehicles:
+<>1 voucher can be exchanged for the MBK-161 or Whirlwind P.9.
+<>2 vouchers + 4 sets of tank blueprints can be exchanged for the VT1-2 coupon.
+<>The VT1-2 coupon can be exchanged for the H-34 coupon.
+<>The possibility of trading event items is specified in their description.
+<>For assembly of each of the first three boats without use of the market, you will require approximately 15 hours of play time (specifically time in battle). The assembly time of any following assemblies depend on the receiving of the addition blueprints for getting a first place in the battle.
+<>Event deadlines:
+<>Shipping containers and blueprints will be dropped in battles between the 3rd (11:00 GMT) and 14th (11:30 GMT) of October.
+<>Assembly of the boat and exchanging them for other event vehicles by purchasing of missed items on the market is available until the 21st of October (11:30 GMT).
+<>On the 21st of October (11:30 GMT) all event items except vehicle coupons will be deleted from inventories and from the market. Be sure to exchange the vouchers before this date!
+<>For PlayStation 4® and Xbox One players
+<>In the menu “Workshop → Shipyard, you will be able to purchase the special “Engineer’s Toolkit” (Basic for first assembly and Advanced for subsequent) which will allow you to speed up the assembly considerably.
+Basic engineers toolkit
+<>Significantly speed up the first assembly of the MBK-161 (1943):
+<>Reducing the assembly time for all items of all groups by 3 times.
+<>Allows you to get additional blueprints of the ship elements in battles.
+<>Blueprints of the ship elements in amount of 3 pieces will be given out for every 10 minutes spent in the battles at rank II and higher with a game activity of 50% or higher.
+Advanced engineers toolkit
+<>Significantly speed up the second and following assembly of the MBK-161 (1943):
+<>Reducing the assembly time for all items of all groups by 3 times.
+<>Allows you to get additional blueprints of the tank elements in the battles.
+<>Blueprints of the tank elements in amount of 3 pieces will be given out for every 10 minutes spent in the battles at rank II and higher with a game activity of 50% or higher.
+<>
+<>Owners of “Engineer’s Toolkit” receives additional blueprints in battles for the corresponding vehicles (without any quantity limits).
+<>PlayStation 4® and Xbox One players can also purchase materials (basic and advanced) for Golden Eagles and also exchange basic materials for advanced materials in the Headquarters (trade item).
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

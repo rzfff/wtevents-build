@@ -1,0 +1,296 @@
+[Special] The Infantry Backpack! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Infantry Backpack!
+10 April 2025
+Special
+<>The sounds of the first tanks and aircraft engines from The Great War gradually fade away now, but even after the end of this large-scale war, the need for resources and support on the battlefield has not gone away! The infantry backpack, an essential attribute to any infantryman, is filled with valuable rewards from past War Thunder events and handy consumables.
+<> When: From April 10th (11:00 GMT) until May 7th (11:00 GMT), the “Infantry Backpack” is available in the in-game Item Shop for Silver Lions.
+<>The “Infantry Backpack” can only be purchased by players who have bought at least one researchable vehicle at Rank II or higher.
+<>What’s in the Infantry Backpack?
+<>A large number of prizes from past War Thunder events! From the spring and autumn crafting events, to the April Fools events, football competitions, Friday the 13th event and the new vehicle events that have been running from January to April inclusive.
+<>The Infantry Backpack costs 60,000 Silver Lions.
+<>“Dragons team driver” profile icon
+<>“Interceptor driver” profile icon
+<>“Dogfighting Pilot” profile icon
+<>“Iron Flame” decoration
+<>“Bad Turn” decal
+<>“Spikes” decoration
+<>In total there are more than a hundred different rewards
+<>47 vehicles, including the legendary Object 279 and interesting VT1-2
+<>14 camouflages
+<>31 decorations
+<>65 decals
+<>13 player icons
+<>8 loading screens
+<>2 ship flags
+<>All prizes are immediately credited to your account. However, there’s a chance of receiving some of them in the form of a coupon unless otherwise stated.
+<>A full list of items that can be found in the “Infantry Backpack”:
+Vehicles (open spoiler): ▼
+<> Vehicles (will be immediately activated on an account and in the form of coupons):
+<>
+<> Object 292
+<> Jaguar IS
+<> SMS Baden
+<> PLZ83-130
+<> LOSAT
+<> F-100F (China)
+<> IJN Kurama
+<> Ki-48-II otsu
+<> QN506
+<> A-7K
+<> Shcherbakov
+<> AMD.35 (SA35)
+<> Alecto I
+<> USS Davis
+<> Kfir C.2
+<> T-72M2 Moderna
+<> Pо-2М
+<> SMS Ostfriesland
+<> Jaguar E
+<> CCVL
+<> SU-76D
+<> JDS Yūgure (DD-184)
+<> F-4F Early (Germany)
+<> XM8
+<> Pbil m/40
+<> HMS Mohawk
+<> F-5A
+<> PT-16/T14 mod.
+<> Sd.Kfz.234/1
+<> SGB Grey Goose
+<> AU-1
+<> Object 279 *
+<> Sd.Kfz.251/10
+<> Lübeck
+<> BI
+<> Merkava Mk.3D (USA)
+<> I-180S
+<> MPK Pr.122bis
+<> VFW
+<> Ju 388 J
+<> HMS Tiger
+<> Merkava Mk.1 (USA)
+<> MBK-161 early
+<> H-34
+<> VT1-2
+<> Tiger (Germany)
+<> Kingcobra (USA)
+<> * — the chance of obtaining an Object 279 is visibly lower than for the rest of the vehicles and is around 0.001%
+<>
+<>
+Camouflages (open spoiler): ▼
+<> Camouflages (only in the form of coupons):
+<> Jaguar IS : Bicolor Indian camouflage (first time as a coupon)
+<> SMS Baden : Tricolor geometric camouflage (first time as a coupon)
+<> M551 : Football camouflage "Dragon"
+<> M551 : Football camouflage "Tiger"
+<> Sd.Kfz.234/1 : Black camouflage
+<> SGB Grey Goose : Black camouflage
+<> AU-1 : Black camouflage
+<> Object 279 : Black camouflage
+<> I-180S : Summer camouflage
+<> MPK Pr.122bis : Deforming tricolor camouflage
+<> VFW : Tricolor summer camouflage (spots)
+<> Ju 388 J : Bicolor grey camouflage
+<> HMS Tiger : Deforming camouflage
+<> Merkava Mk.1 (USA) : Tricolor camouflage
+<>
+Decorations (open spoiler): ▼
+<> Decorations (will be immediately activated on the account and in the form of the coupons):
+<> Green Dragon (immediately activated on the account only)
+<> Anti-tank rocket launcher (China) (immediately activated on the account only)
+<> Best Footballer 2024 (immediately activated on the account only)
+<> Spikes (first time as a coupon)
+<> Iron Flame (first time as a coupon)
+<> Best striker 2023 (immediately activated on the account only)
+<> 8-mm machine gun
+<> Grenade launcher
+<> Quadcopter
+<> Ceremonial Cris
+<> Golden Ball
+<> Golden Boot
+<> Golden Glove
+<> Silver Ball (immediately activated on the account only)
+<> Silver Boot (immediately activated on the account only)
+<> Silver Glove (immediately activated on the account only)
+<> Super Cup
+<> The Magic Hat
+<> Hat with Feather
+<> Foil Cap
+<> Viking Helmet
+<> Leprechaun's Hat
+<> Pirate's Hat
+<> Rabbit's Ears
+<> Sombrero
+<> Uncle Sam's Hat
+<> Cap and Bells
+<> Slasher’s Mask
+<> Slasher’s Hatchet
+<> Chainsaw
+<> Cannibal Axe
+<>
+Decals (open spoiler): ▼
+<> Decals (will be immediately activated on the account and in the form of the coupons):
+<> Black Dragon decal (immediately activated on the account only)
+<> Green Dragon decal (immediately activated on the account only)
+<> Jaguar Pilot’s Patch decal (immediately activated on the account only)
+<> No. 5 Squadron Patch decal (immediately activated on the account only)
+<> SMS Baden decal (immediately activated on the account only)
+<> Emblem of the County of Baden (immediately activated on the account only)
+<> Born to Hunt decal (immediately activated on the account only)
+<> Missileman patch decal (immediately activated on the account only)
+<> Hit the Ball decal (immediately activated on the account only)
+<> Dragons Team decal (immediately activated on the account only)
+<> Mad Girl: Looter decal (immediately activated on the account only)
+<> Mad Girl: Mechanic decal (immediately activated on the account only)
+<> Mad Girl: Gunner decal (immediately activated on the account only)
+<> "Tokushu Heiki" decal (immediately activated on the account only)
+<> "Football-graffiti" decal (immediately activated on the account only)
+<> "Soccer ball of champions" decal (immediately activated on the account only)
+<> Emblem of MI MBCT 1
+<> Emblem of the ShMP 1st Assault
+<> House of the Bull
+<> House of the Hawk
+<> TailSpin
+<> "Cunning and Fury" decal
+<> "Dragons" Team banner
+<> "Tigers" Team banner
+<> Fiery Ball (immediately activated on the account only)
+<> "2OP" Decal (immediately activated on the account only)
+<> "SDI Forces - Harpy" badge
+<> "SDI Forces - Hydra" badge
+<> "SDI Forces - Minotaur" badge
+<> "Bloody Friday" Decal
+<> "Massacre" decal
+<> "Mantrap" decal
+<> "Bad Turn" decal
+<> Soccer Ball of Argentina
+<> Soccer Ball of Australia
+<> Soccer Ball of Belgium
+<> Soccer Ball of Brazil
+<> Soccer Ball of Colombia
+<> Soccer Ball of Costa Rica
+<> Soccer Ball of Croatia
+<> Soccer Ball of Denmark
+<> Soccer Ball of Egypt
+<> Soccer Ball of France
+<> Soccer Ball of Germany
+<> Soccer Ball of Iceland
+<> Soccer Ball of Iran
+<> Soccer Ball of Japan
+<> Soccer Ball of Mexico
+<> Soccer Ball of Morocco
+<> Soccer Ball of Nigeria
+<> Soccer Ball of Panama
+<> Soccer Ball of Peru
+<> Soccer Ball of Poland
+<> Soccer Ball of Portugal
+<> Soccer Ball of Russia
+<> Soccer Ball of Saudi Arabia
+<> Soccer Ball of Senegal
+<> Soccer Ball of Serbia
+<> Soccer Ball of South Korea
+<> Soccer Ball of Spain
+<> Soccer Ball of Sweden
+<> Soccer Ball of Switzerland
+<> Soccer Ball of Tunisia
+<> Soccer Ball of England
+<> Soccer Ball of Uruguay
+<>
+Profile icons (open spoiler): ▼
+<> Profile icons (will be immediately activated on the account and in the form of the coupons):
+<> Dogfighting Pilot (first time as a coupon)
+<> Dragons team driver (first time as a coupon)
+<> Interceptor driver (first time as a coupon)
+<> "Tigers" team driver
+<> Mobile Warrior
+<> Burney Malleck
+<> Prince of the House of Hawk
+<> Kanaan Denali
+<> Fox Pilot
+<> Bear Pilot
+<> Pirate "Cunning"
+<> Pirate "Sullen"
+<> Minotaur Commander
+<>
+Other rewards (open spoiler): ▼
+<> Loading screens (will be immediately activated on the account):
+<>Call of the Dragon
+<>Mad Thunder
+<>Tank football - Moment of Inspiration
+<>Mobile Infantry
+<>April's Fool Event — 2022
+<>Sky pirates
+<>TailSpin
+<>Warfare 2077
+<> Naval Flags (will be immediately activated on the account):
+<>Naval jack of the Kaiserliche Marine (1871-1919)
+<>Mad Roger
+<> Silver Lions
+<>10,000 - 1,000,000
+<> Expendable item
+<>Battle trophy (RP booster)
+<>Battle trophy (SL booster)
+<>Universal back-up
+<>Universal back-up x2
+<>Universal back-up x3
+<>Random wager
+<>Random order
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

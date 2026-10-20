@@ -1,0 +1,75 @@
+[Event] “A fiery ball” - Football competition for tanks (update) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“A fiery ball” - Football competition for tanks (update)
+Attention! Outdated news format. Content may not display correctly.
+6 July 2018
+Event
+<>They thought it was all over…..the celebration of football continues!
+<>From 13:00 GMT on the 5th of July until 09:00 GMT on the 9th of July
+<>Show everyone how to score goals in the new event "Tank Football"! Play football and get a unique decal - a fiery ball!
+<>Tank sport model variants have been especially designed for Tank football. From what could previously be considered an armoured monster, we now have a real sporting machine: a lightweight body construction comprising of special alloys, a tuned racing chassis, and of course, a turbocharged engine. These vehicles are capable of powerful boosts thanks to their special muzzle brake compensator construction!
+<>Initially, the muzzle brake compensator “Munchausen” was designed to allow armoured vehicles to overcome ditches, walls and water obstacles, but it was not introduced into service as it did not allow the use of traditional shells. Because of this, the Global Tank Football Association adopted it specifically for competitive matches.
+<>The use of such a muzzle brake together with a special powder charge allows the tank to impart a large impulse in the direction of the cannon. Use this opportunity for spectacular strikes, intercepting the ball and also for overturning any opponents.
+<>2 events are available:
+<>3 vs 3 for random players (not in the squad)
+<>4 vs 4 for squads
+Receive the “Fiery Ball” decal by attaining victory in a match with an activity of 30% or more (though don’t leave the match until the final whistle)
+<>The match has 2 regular 5 minutes halves each. In the case of a draw, players will get 2 additional periods of 1.5 minutes each. Only game time is taken into account (as in five a side or mini football). If the results after the two additional periods is still a draw - the victory will not be awarded to any team.
+<>No more rules - Batter, Brake and GOOOOOOAAAAAALLLLLLL!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

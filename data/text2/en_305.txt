@@ -1,0 +1,96 @@
+Tupolev Construction Bureau anniversary - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tupolev Construction Bureau anniversary
+Attention! Outdated news format. Content may not display correctly.
+22 October 2013
+From October 22 15:00 GMT (08:00 PDT) to October 23rd 19:00 GMT (12"00 PDT) War Thunder presents special discounts:
+30% special discount for purchase and repairs of the following aircraft of SB-2 series:
+SB 2М-100
+SB 2М-103
+SB 2М-103-MV-3
+SB 2М-103U
+SB 2М-103U МV-З
+SB 2М-105
+15% special discount for purchase and repairs of the following aircraft of Tu-2 series:
+Tu-2S
+Тu-2S-44
+Тu-2S-59
+Tupolev Construction Bureau
+The origins of the company, goes back to October 1922 with the formation of a commission to design and develop all metal military aircraft. Established as part of the Central Aero hydrodynamics Institute (TsAGI), the premiere Soviet aeronautics research institution, the commission was headed by aviation designer and co-founder Andrey N. Tupolev. Tupolev’s organization, which was set up in Moscow, included both a design team and workshop facilities and wind tunnels to construct experimental aircraft for testing. The group’s early forays into aircraft design led to the creation of a number of notable Soviet airplanes including the TB-1 (ANT-4), the world’s first all-metal (Duralumin), twin-engine, cantilever-wing bomber and one of the largest planes built in the 1920s. Two Tupolev aircraft from the early 1930s, the giant, eight-engine ANT-20 airliner and the ANT-25 bomber, set world records for size and distance flights. In July 1936 Tupolev’s design and construction effort was formally separated from the TsAGI and reorganized as Plant 156.
+Tupolev organized and lead a design team, which, despite the lack of proper facilities for design and testing, managed to build a full-size mock up of a bomber design from all timber. The team returned to the original Plant 156 facilities in Moscow where they designed and built a new twin-engine tactical bomber, the Tu-2, which was rolled out in late 1940 and which became the standard tactical bomber in the Soviet air force in the immediate post-World War II era. In July 1941 Tupolev and a number of associates assisted in evacuating their design bureau to Omsk in western Siberia following the German invasion of the Soviet Union. By the time the group returned to its former facilities in Moscow in late 1943, Tupolev had re-established it as OKB-156 (Experimental Design Bureau 156).
+The first major post-war task for Tupolev’s bureau was to produce an exact replica of the Boeing B-29 bomber, based on a complete breakdown and detailed analysis of American planes that had been acquired during the war. The product of this effort was the Tu-4, the first truly strategic Soviet bomber. Tupolev simultaneously converted the Tu-4 for civilian use as the Tu-70, setting a precedent that he would later follow for several other military aircraft.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

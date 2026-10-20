@@ -1,0 +1,95 @@
+[Shop] [Development] Pre-order: RAH-66 Comanche: Stealth Unicorn - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-order: RAH-66 Comanche: Stealth Unicorn
+2 June 2025
+Shop
+Development
+<>Meet the RAH-66 Comanche, a stealthy reconnaissance and attack helicopter developed during the late Cold War to counter high-tech threats, which was ultimately rendered obsolete due to shifting military priorities and rising project costs.
+<> RAH-66 Comanche: A Premium Attack Helicopter for the USA at Rank VI
+<>At a glance:
+<>Reduced radar and IR signature
+<>Excellent flight characteristics
+<>20 mm rotary cannon
+<>Advanced precision weapons
+Pre-order – RAH-66 Comanche Pack
+The Kit Includes:
+RAH-66 Comanche (Rank VI, USA)
+Premium account for 15 days
+2000 Golden Eagles
+Pre-order bonus: unique title “The Duke”
+Pre-order bonus: unique “War Chief” decal
+49.99
+Store
+Vehicle History ▼
+<>The RAH-66 Comanche was an advanced stealth reconnaissance and attack helicopter developed by Boeing–Sikorsky for the U.S. Army during the late Cold War and post-Cold War era. Initiated in the early 1980s under the Light Helicopter Experimental (LHX) program, it aimed to replace aging scout helicopters like the OH-58 Kiowa. Designed with stealth features, advanced avionics, and fly-by-wire controls, the Comanche was intended to penetrate deep into enemy territory undetected. It reflected Cold War priorities of fighting a technologically advanced adversary, primarily the Soviet Union, in a conventional battlefield. However, with the collapse of the Soviet Union and shifting military needs, the program’s relevance declined as asymmetric warfare and counterinsurgency became the new prevalent concerns. The RAH-66 faced repeated delays and escalating costs, which played a key factor in the project’s ultimate cancellation.
+<>By 2004, after producing two prototypes, the U.S. Army terminated the program to redirect funds toward upgrades of existing helicopters and unmanned systems, which were to fulfill the same purpose as the originally envisioned Comanche. Although the project never reached completion, the Comanche contributed valuable research know-how in stealth rotorcraft and systems integration.
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Introducing the RAH-66 Comanche!
+<>The RAH-66 Comanche is a unique light attack helicopter, incorporating several experimental technologies with the aim of decreasing the vehicle’s detection on a modern battlefield. Coming soon in the Leviathans major update, this futuristic-looking helicopter is available to pre-order starting today! Now, let’s take a look!
+<>Visually speaking, the RAH-66 Comanche gives off the impression of a quick and highly agile helicopter. The vehicle not only owes this to its sleek design and use of lightweight composite materials, but also to its pair of T800 turboshaft engines, generating over 1,500 HP each. As a result, the Comanche can attain top speeds of over 200 mph (324 km/h), earning its place among War Thunder’s most nimble helicopters!
+<>Although fast, the Comanche’s unchallenged ace up its sleeve remains its stealth capabilities. Thanks to the specific geometry, the Comanche is capable of alluding radar detection until it closes in much more to its target compared to conventional helicopters with the same size. Therefore, much like the F-117 Nighthawk, you’ll get the chance to deliver strikes much more precisely, while delaying or even avoiding detection by enemy radar altogether.
+<> Interesting: At the time of its cancellation in 2004, the Comanche project had cost the U.S. Government over $6.9 billion.
+<>Getting to the target is one thing, albeit an important one. But at least equally important is the question of what to take the target out with? For this, the Comanche has a selection of most proven American ordnance options, ranging from Hellfire and Stinger missiles to Hydra rocket pods. Additionally, you’ll always be able to rely on a nose-mounted 20 mm rotary cannon to strafe lightly armored ground vehicles or shoot down hostile helicopters in the area.
+<>A unique feature of the Comanche, not found on other helicopters is its ability to stow away its payload in internally folding pylons. As these offer only a limited number of hardpoints, you can choose to further augment the helicopter’s payload by strapping on stub wings, enabling the Comanche to carry an increased number of suspended ordnance into combat.
+<>The cutting-edge Comanche can be pre-ordered starting from today and will soon be making its way to reshape the combat dynamics on the battlefields of War Thunder after its arrival to the game as part of the Leviathans major update. That’s today’s devblog wrapped. Be sure to stay tuned to the news for more sneak peaks at the new additions awaiting you in the upcoming update. Until then, clear skies and happy hunting pilots!
+<> Please note that this vehicle’s characteristics may be changed before it is added to the game.
+Read more:
+HMS Lion: One Last Roar
+14 September 2026
+MiG-35: The Last MiG
+11 September 2026
+H145M: Angry Dragonfly
+11 September 2026
+F-102A Delta Dagger: The “Bear” Hunter
+10 September 2026
+Share the news with your friends!
+<

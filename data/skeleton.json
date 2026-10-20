@@ -1,0 +1,2066 @@
+[
+ {
+  "key": "2019_season_1_recon_under_fire",
+  "section": "world_war",
+  "bp_season": null,
+  "title": "Season 1 \"Recon under fire\"",
+  "start": "2019-05-14",
+  "news_id": null,
+  "news_url": null,
+  "wiki_vehicles": "/collections/event/ww_season_1",
+  "img": "https://wiki.warthunder.com/images/91cf077490798e508c9c6fbe64497ae4_preview-400.jpg",
+  "awards": [
+   "AMX-50 Surblindé",
+   "Spitfire F. Mk IXc"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_season_2_attack_from_the_sea",
+  "section": "world_war",
+  "bp_season": null,
+  "title": "Season 2 \"Attack from the Sea\"",
+  "start": "2020-01-24",
+  "news_id": 6565,
+  "news_url": "https://warthunder.com/en/news/6565-event-world-war-season-attack-from-the-sea-en",
+  "wiki_vehicles": "/collections/event/ww_season_2",
+  "img": "https://wiki.warthunder.com/images/3b689f782e12b6a72d79cd18ce400767_preview-400.jpg",
+  "awards": [
+   "BA-11",
+   "USS Phelps (DD-360)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_season_3_road_to_the_west",
+  "section": "world_war",
+  "bp_season": null,
+  "title": "Season 3 \"Road to the West\"",
+  "start": "2020-07-01",
+  "news_id": 6782,
+  "news_url": "https://warthunder.com/en/news/6782-event-world-war-season-road-to-the-west-en",
+  "wiki_vehicles": "/collections/event/ww_season_3",
+  "img": "https://wiki.warthunder.com/images/df8eda7d72ede09ed6f0642d20404266_preview-400.jpg",
+  "awards": [
+   "IL-2 (M82)",
+   "M60 AMBT"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_season_i_75th_anniversary_of_the_great_victory",
+  "section": "battlepass",
+  "bp_season": 1,
+  "title": "Season I, 75th Anniversary of the Great Victory",
+  "start": "2020-12-02",
+  "news_id": 6967,
+  "news_url": "https://warthunder.com/en/news/6967-special-battle-pass-in-war-thunder-en",
+  "wiki_vehicles": "/collections/event/bp_1_season",
+  "img": "https://wiki.warthunder.com/images/b1ca86272e5fe042a0c1b1bcde7fdada_preview-400.jpg",
+  "awards": [
+   "Matilda Hedgehog",
+   "ORP Garland",
+   "F2G-1",
+   "T-10A"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_season_ii_steel_centurion",
+  "section": "battlepass",
+  "bp_season": 2,
+  "title": "Season II, \"Steel Centurion\"",
+  "start": "2021-02-24",
+  "news_id": 7051,
+  "news_url": "https://warthunder.com/en/news/7051-special-battle-pass-new-season-steel-centurion-en",
+  "wiki_vehicles": "/collections/event/bp_2_season",
+  "img": "https://wiki.warthunder.com/images/760699c659e607f5c5e56391d7a96c22_preview-400.jpg",
+  "awards": [
+   "T55E1",
+   "Z25",
+   "ITP",
+   "Centurion Mk.5/1"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_season_iii_strength_athletics",
+  "section": "battlepass",
+  "bp_season": 3,
+  "title": "Season III, \"Strength Athletics\"",
+  "start": "2021-05-12",
+  "news_id": 7150,
+  "news_url": "https://warthunder.com/en/news/7150-battle-pass-strength-athletics-season-en",
+  "wiki_vehicles": "/collections/event/bp_3_season",
+  "img": "https://wiki.warthunder.com/images/dbf7b5dca6923a41544b11d0511c915f_preview-400.jpg",
+  "awards": [
+   "Voroshilov",
+   "Toldi IIA",
+   "P-39Q-25",
+   "M6A2E1"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_season_iv_fearless_voltigeur",
+  "section": "battlepass",
+  "bp_season": 4,
+  "title": "Season IV, \"Fearless Voltigeur\"",
+  "start": "2021-07-28",
+  "news_id": 7253,
+  "news_url": "https://warthunder.com/en/news/7253-battle-pass-season-fearless-voltigeur-en",
+  "wiki_vehicles": "/collections/event/bp_4_season",
+  "img": "https://wiki.warthunder.com/images/ba9700324275f2d5726322e26c23911c_preview-400.jpg",
+  "awards": [
+   "Sd.Kfz.251/22",
+   "E.B.R. (1963)",
+   "A6M6c",
+   "USS Detroit (CL-8)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_season_v_river_hunter",
+  "section": "battlepass",
+  "bp_season": 5,
+  "title": "Season V, \"River Hunter\"",
+  "start": "2021-10-27",
+  "news_id": 7396,
+  "news_url": "https://warthunder.com/en/news/7396-battle-pass-season-river-hunter-en",
+  "wiki_vehicles": "/collections/event/bp_5_season",
+  "img": "https://wiki.warthunder.com/images/95eafe28aac5280f5bf214883e66dac6_preview-400.jpg",
+  "awards": [
+   "LVT-4/40",
+   "PT-76-57",
+   "Beaufighter Mk I (40-mm)",
+   "PT-658"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_season_vi_firepower",
+  "section": "battlepass",
+  "bp_season": 6,
+  "title": "Season VI, \"Firepower\"",
+  "start": "2022-01-26",
+  "news_id": 7530,
+  "news_url": "https://warthunder.com/en/news/7530-battle-pass-season-firepower-en",
+  "wiki_vehicles": "/collections/event/bp_6_season",
+  "img": "https://wiki.warthunder.com/images/418f80771282e22af4852f9231ee16fc_preview-400.jpg",
+  "awards": [
+   "M64",
+   "Su-8",
+   "Turan II",
+   "MTB-422"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_season_vii_armoured_elephant",
+  "section": "battlepass",
+  "bp_season": 7,
+  "title": "Season VII, \"Armoured Elephant\"",
+  "start": "2022-04-27",
+  "news_id": 7660,
+  "news_url": "https://warthunder.com/en/news/7660-battle-pass-battle-pass-season-armored-elephant-en",
+  "wiki_vehicles": "/collections/event/bp_7_season",
+  "img": "https://wiki.warthunder.com/images/919a45a43338feaa05e4c6516662e597_preview-400.jpg",
+  "awards": [
+   "HMS Cadiz",
+   "F-6C-10-NA",
+   "Elefant"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_season_viii_field_testing",
+  "section": "battlepass",
+  "bp_season": 8,
+  "title": "Season VIII, \"Field Testing\"",
+  "start": "2022-07-27",
+  "news_id": 7788,
+  "news_url": "https://warthunder.com/en/news/7788-battle-pass-battle-pass-season-field-testing-en",
+  "wiki_vehicles": "/collections/event/bp_8_season",
+  "img": "https://wiki.warthunder.com/images/b09f03653b74cf0e556db04e9e8030c7_preview-400.jpg",
+  "awards": [
+   "Type T-51a",
+   "Object 248",
+   "BV 155"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_season_ix_smell_of_victory",
+  "section": "battlepass",
+  "bp_season": 9,
+  "title": "Season IX, \"Smell of Victory\"",
+  "start": "2022-10-26",
+  "news_id": 7928,
+  "news_url": "https://warthunder.com/en/news/7928-battle-pass-battle-pass-season-smell-of-victory-en",
+  "wiki_vehicles": "/collections/event/bp_9_season",
+  "img": "https://wiki.warthunder.com/images/0698c7b6f0e9947050901f6c96c79390_preview-400.jpg",
+  "awards": [
+   "A-1H Skyraider",
+   "Churchill Crocodile",
+   "LCM(6)(F) «Zippo»"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_season_x_royal_guard",
+  "section": "battlepass",
+  "bp_season": 10,
+  "title": "Season X, \"Royal Guard\"",
+  "start": "2023-01-25",
+  "news_id": 8067,
+  "news_url": "https://warthunder.com/en/news/8067/current",
+  "wiki_vehicles": "/collections/event/bp_10_season",
+  "img": "https://wiki.warthunder.com/images/fe22acc48ace0e78fe593cd527e07bae_preview-400.jpg",
+  "awards": [
+   "Bf 109 F-4 (Hungarian)",
+   "AMX-50 (TO90/930)",
+   "Pr.183 BM-21"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_season_xi_her_majesty_s_hussar",
+  "section": "battlepass",
+  "bp_season": 11,
+  "title": "Season XI, \"Her Majesty's Hussar\"",
+  "start": "2023-04-26",
+  "news_id": 8209,
+  "news_url": "https://warthunder.com/en/news/8209-battle-pass-meet-her-majesty-s-hussar-the-11th-season-of-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_11_season",
+  "img": "https://wiki.warthunder.com/images/74a26be8aec9e34c9d1463b80a0cd4d7_preview-400.jpg",
+  "awards": [
+   "Centurion Mk.2",
+   "J26 David",
+   "S-701"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_season_xii_armour_breaking_ambusher",
+  "section": "battlepass",
+  "bp_season": 12,
+  "title": "Season XII, \"Armour Breaking Ambusher\"",
+  "start": "2023-07-26",
+  "news_id": 8370,
+  "news_url": "https://warthunder.com/en/news/8370-battle-pass-meet-armour-breaking-ambusher-the-12th-season-of-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_12_season",
+  "img": "https://wiki.warthunder.com/images/8045f090212352833a028744d0b400df_preview-400.jpg",
+  "awards": [
+   "SPz 12-3 LGS",
+   "B7A2 (Homare 23)",
+   "MC 485"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_season_xiii_tropical_storm",
+  "section": "battlepass",
+  "bp_season": 13,
+  "title": "Season XIII, \"Tropical Storm\"",
+  "start": "2023-10-25",
+  "news_id": 8536,
+  "news_url": "https://warthunder.com/en/news/8536-battle-pass-meet-tropical-storm-the-13th-season-of-the-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_13_season",
+  "img": "https://wiki.warthunder.com/images/2b46cc09ea72ccf322567252b431dd63_preview-400.jpg",
+  "awards": [
+   "Breda 90/53",
+   "Strikemaster Mk.88",
+   "HMS Gay Archer"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_season_xiv_airborne_general",
+  "section": "battlepass",
+  "bp_season": 14,
+  "title": "Season XIV, \"Airborne General\"",
+  "start": "2024-01-24",
+  "news_id": 8703,
+  "news_url": "https://warthunder.com/en/news/8703-battle-pass-meet-airborne-general-the-14th-season-of-the-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_14_season",
+  "img": "https://wiki.warthunder.com/images/afedafae27f3c54ebeb87314ea4cb310_preview-400.jpg",
+  "awards": [
+   "M551 (76)",
+   "IL-8 (1944)",
+   "Le Triomphant"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_season_xv_northern_king",
+  "section": "battlepass",
+  "bp_season": 15,
+  "title": "Season XV, \"Northern King\"",
+  "start": "2024-04-24",
+  "news_id": 8859,
+  "news_url": "https://warthunder.com/en/news/8859-event-meet-northern-king-the-15th-season-of-the-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_15_season",
+  "img": "https://wiki.warthunder.com/images/efb147829030b1521b77879f2cff02b0_preview-400.jpg",
+  "awards": [
+   "USS Flagstaff",
+   "P-51C-11-NT (China)",
+   "Kungstiger"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_season_xvi_skilled_marksman",
+  "section": "battlepass",
+  "bp_season": 16,
+  "title": "Season XVI, \"Skilled Marksman\"",
+  "start": "2024-07-24",
+  "news_id": 8996,
+  "news_url": "https://warthunder.com/en/news/8996-event-battlepass-meet-skilled-marksman-the-16th-season-of-the-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_16_season",
+  "img": "https://wiki.warthunder.com/images/03e576701a786a43ded04cb7de3e7c05_preview-400.jpg",
+  "awards": [
+   "PBM-5A Mariner",
+   "Sholef V.1",
+   "Random naval vehicle (PT-658, MTB-422, Z25, TKA-106)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_season_xvii_guided_fury",
+  "section": "battlepass",
+  "bp_season": 17,
+  "title": "Season XVII, \"Guided Fury\"",
+  "start": "2024-10-23",
+  "news_id": 9142,
+  "news_url": "https://warthunder.com/en/news/9142-event-battlepass-meet-guided-fury-the-17th-season-of-the-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_17_season",
+  "img": "https://wiki.warthunder.com/images/29a66686897ac71a3799c224a405d2a9_preview-400.jpg",
+  "awards": [
+   "Murmansk",
+   "He 177 A-3",
+   "Random ground vehicle (T55E1, Toldi IIA, Sd.Kfz.251/22, Ka-Chi)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_season_xviii_meet_the_last_legionnaire",
+  "section": "battlepass",
+  "bp_season": 18,
+  "title": "Season XVIII, \"Meet The Last Legionnaire\"",
+  "start": "2025-01-22",
+  "news_id": 9334,
+  "news_url": "https://warthunder.com/en/news/9334-event-meet-the-last-legionnaire-the-18th-season-of-the-battle-pass-en",
+  "wiki_vehicles": "/collections/event/bp_18_season",
+  "img": "https://wiki.warthunder.com/images/a0822717704de9747232082da3333189_preview-400.jpg",
+  "awards": [
+   "SB2C-5 (Thailand)",
+   "M46 Patton (France)",
+   "Random vehicle (Type T-51a, Voroshilov, LVT-4/40, Type K-8 No.13i)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_season_xix_first_sample",
+  "section": "battlepass",
+  "bp_season": 19,
+  "title": "Season XIX, \"First Sample\"",
+  "start": "2025-04-23",
+  "news_id": 9470,
+  "news_url": "https://warthunder.com/en/news/9470-warbonds-event-battle-pass-season-19-first-sample-and-its-warbond-shop-en",
+  "wiki_vehicles": "/collections/event/bp_19_season",
+  "img": "https://wiki.warthunder.com/images/d3d9d951037f0a6e78cb7dbdd4a5cd21_preview-400.jpg",
+  "awards": [
+   "T-44 (PM)",
+   "Amiens",
+   "Random vehicle (Tandem MAI, Matilda Hedgehog, ORP Garland, USS Detroit)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_season_xx_flying_dragon",
+  "section": "battlepass",
+  "bp_season": 20,
+  "title": "Season XX, \"Flying Dragon\"",
+  "start": "2025-07-23",
+  "news_id": 9607,
+  "news_url": "https://warthunder.com/en/news/9607-warbonds-event-battle-pass-season-20-flying-dragon-and-its-warbond-shop-en",
+  "wiki_vehicles": "/collections/event/bp_20_season",
+  "img": "https://wiki.warthunder.com/images/acd76a288ecddd088d0d1cd5d0b1eea6_preview-400.jpg",
+  "awards": [
+   "WZ-141-1",
+   "SB-25J",
+   "Random vehicle (HMS Cadiz, LCM(6) Zippo, Turan II, VL Myrsky II)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_season_xxi_brave_archer",
+  "section": "battlepass",
+  "bp_season": 21,
+  "title": "Season XXI, \"Brave Archer\"",
+  "start": "2025-10-23",
+  "news_id": 9752,
+  "news_url": "https://warthunder.com/en/news/9752-warbonds-event-battle-pass-season-21-brave-archer-and-its-warbond-shop-en",
+  "wiki_vehicles": "/collections/event/bp_21_season",
+  "img": "https://wiki.warthunder.com/images/4d56798e380623634e2939fd6060da20_preview-400.jpg",
+  "awards": [
+   "Re.2005 (VDM)",
+   "RN Luigi Cadorna",
+   "Random vehicle (T55E1, Toldi IIA, Sd.Kfz.251/22, Ikv 73)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_season_xxii_the_elusive_musketeer",
+  "section": "battlepass",
+  "bp_season": 22,
+  "title": "Season XXII, \"The Elusive Musketeer\"",
+  "start": "2026-01-21",
+  "news_id": 9880,
+  "news_url": "https://warthunder.com/en/news/9880-warbonds-event-battle-pass-season-22-the-elusive-musketeer-and-its-warbond-shop-en",
+  "wiki_vehicles": "/collections/event/bp_22_season",
+  "img": "https://wiki.warthunder.com/images/798b3910108ca06e1a2ae21f0404f990_preview-400.jpg",
+  "awards": [
+   "Mosquito J30",
+   "ELC 901",
+   "Random vehicle (Project 183 BM-21, S-701, MC-485, RN Aviere)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_season_xxiii_apollo_s_chariot",
+  "section": "battlepass",
+  "bp_season": 23,
+  "title": "Season XXIII, \"Apollo’s Chariot\"",
+  "start": "2026-04-22",
+  "news_id": 10001,
+  "news_url": "https://warthunder.com/en/news/10001-warbonds-event-battle-pass-season-23-apollos-chariot-and-its-warbond-shop-en",
+  "wiki_vehicles": "/collections/event/bp_23_season",
+  "img": "https://wiki.warthunder.com/images/011e3d731c6384baf5d535d139492f6a_preview-400.jpg",
+  "awards": [
+   "Spitfire LF Mk IXc (Israel)",
+   "IJN Suzutsuki",
+   "Random vehicle (HMS Gay Archer, Le Triomphant, USS Flagstaff, IJN Hayanami)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_season_xxiv_do_it_yourself",
+  "section": "battlepass",
+  "bp_season": 24,
+  "title": "Season XXIV, \"Do It Yourself\"",
+  "start": "2026-07-22",
+  "news_id": 10137,
+  "news_url": "https://warthunder.com/en/news/10137-warbonds-event-battle-pass-season-24-do-it-yourself-and-its-warbond-shop-en",
+  "wiki_vehicles": "/collections/event/bp_24_season",
+  "img": "https://wiki.warthunder.com/images/4f59df593af0c8f51fbb4cb9842dc761_preview-400.jpg",
+  "awards": [
+   "FIAT 6616UB",
+   "IAR-81C (DB 605)",
+   "Random vehicle (PBM-3 “Mariner”, LVT-4/40 (France), Type T-51a, Voroshilov)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_nuclear_thunder",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Nuclear Thunder",
+  "start": "2026-04-01",
+  "news_id": 9983,
+  "news_url": "https://warthunder.com/en/news/9983-event-nuclear-thunder-en",
+  "wiki_vehicles": "/collections/event/nuclear_thunder",
+  "img": "https://wiki.warthunder.com/images/14cdd17b12a5f4dababa4aabb83e5127_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: B-52H Stratofortress & Tu-95M | Anti-radiation missiles: AGM-88 HARM, Kh-58U and Kh-25MPU"
+  ]
+ },
+ {
+  "key": "2025_the_great_war",
+  "section": "1april",
+  "bp_season": null,
+  "title": "The Great War",
+  "start": "2025-04-01",
+  "news_id": 9438,
+  "news_url": "https://warthunder.com/en/news/9438-event-war-thunder-the-great-war-en",
+  "wiki_vehicles": "/collections/events/1_april_2025",
+  "img": "https://wiki.warthunder.com/images/1348e6eaee8fe5d8394294c94ccfb423_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Tanks, aircraft and Zeppelin of the First World War"
+  ]
+ },
+ {
+  "key": "2024_mad_thunder",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Mad Thunder",
+  "start": "2024-04-01",
+  "news_id": 8839,
+  "news_url": "https://warthunder.com/en/news/8839-event-mad-thunder-rage-and-loot-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/49e32853880a43d2cb0ea77a3bb2f55d_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Extraction-looter in the post-apocalyptic desert"
+  ]
+ },
+ {
+  "key": "2023_mobile_infantry",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Mobile Infantry",
+  "start": "2023-04-01",
+  "news_id": 8175,
+  "news_url": "https://warthunder.com/en/news/8175-event-mobile-infantry-event-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/2e17d2c54fde3efc9076cf132ae57401_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Infantry in Exoskeletons"
+  ]
+ },
+ {
+  "key": "2022_worm_thunder",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Worm Thunder",
+  "start": "2022-04-01",
+  "news_id": 7632,
+  "news_url": "https://warthunder.com/en/news/7632-event-children-of-arachis-desert-cinnamon-and-giant-worms-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/687c9dba0c09f3fdbdffa9db14593153_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: \"Dune\" inspired futuristic vehicles and environmental \"challenges\""
+  ]
+ },
+ {
+  "key": "2021_tailspin",
+  "section": "1april",
+  "bp_season": null,
+  "title": "TailSpin",
+  "start": "2021-04-01",
+  "news_id": 7112,
+  "news_url": "https://warthunder.com/en/news/7112-event-tailspin-a-new-milestone-in-the-development-of-the-game-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/d6e938e46bb7e7612a352de852667067_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: War Thunder for the little ones (4+)"
+  ]
+ },
+ {
+  "key": "2021_warfare_2077",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Warfare 2077",
+  "start": "2021-04-01",
+  "news_id": 7113,
+  "news_url": "https://warthunder.com/en/news/7113-event-warfare-2077-in-war-thunder-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/0094fea823ab4a992f24fb61ea82ab15_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Futuristic warfare and equipment"
+  ]
+ },
+ {
+  "key": "2020_space_thunder",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Space Thunder",
+  "start": "2020-04-01",
+  "news_id": 6668,
+  "news_url": "https://warthunder.com/en/news/6668-special-space-thunder-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/594a91118d0c9cda4b1b71f055369a04_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Space combat modules"
+  ]
+ },
+ {
+  "key": "2019_earth_thunder",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Earth Thunder",
+  "start": "2019-04-01",
+  "news_id": 6128,
+  "news_url": "https://warthunder.com/en/news/6128-special-earth-thunder-we-are-not-their-playthings-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/80bf87dd70e350d6162c45574349b21e_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: UFO combat"
+  ]
+ },
+ {
+  "key": "2018_silent_thunder",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Silent Thunder",
+  "start": "2018-04-01",
+  "news_id": 5419,
+  "news_url": "https://warthunder.com/en/news/5419-silent-thunder-the-first-test-of-the-new-game-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/327b055482a2bff18ca1b1a56f2957ec_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Nuclear submarines"
+  ]
+ },
+ {
+  "key": "2017_rank_ix",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Rank IX",
+  "start": "2017-04-01",
+  "news_id": 4618,
+  "news_url": "https://warthunder.com/en/news/4618-news-modern-tanks-and-helicopters-arrive-on-war-thunder-s-frontlines-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/bd113e28ccb3de237d7caac55bb526bd_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: First introduction of modern MBTs and Helicopters"
+  ]
+ },
+ {
+  "key": "2016_sailing_fleet",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Sailing fleet",
+  "start": "2016-04-01",
+  "news_id": 3666,
+  "news_url": "https://warthunder.com/en/news/3666-development-sailing-fleet-in-war-thunder-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/fd334e3d0090a89c9254d1fedee214f8_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: First \"test\" of naval"
+  ]
+ },
+ {
+  "key": "2015_march_to_victory",
+  "section": "1april",
+  "bp_season": null,
+  "title": "March to Victory!",
+  "start": "2015-04-01",
+  "news_id": 2975,
+  "news_url": "https://warthunder.com/en/news/2975-event-march-to-victory-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/209dbb03bcbe933a3d82c56ffb15a7be_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: ST-1 Battlewalker"
+  ]
+ },
+ {
+  "key": "2015_unrealistic_battles",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Unrealistic Battles",
+  "start": "2015-04-01",
+  "news_id": 2974,
+  "news_url": "https://warthunder.com/en/news/2974--en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/42eff512dca5881bd513c9feb6c3c30c_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: \"Tank\" combat with health-bars and vegetables"
+  ]
+ },
+ {
+  "key": "2014_gaijilla",
+  "section": "1april",
+  "bp_season": null,
+  "title": "GAIJILLA!",
+  "start": "2014-04-01",
+  "news_id": 514,
+  "news_url": "https://warthunder.com/en/news/514--en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/c18e1cb4737b686c7ec1312277689e72_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Kaiju \"Gaijilla\""
+  ]
+ },
+ {
+  "key": "2013_little_ponies_in_the_sky",
+  "section": "1april",
+  "bp_season": null,
+  "title": "Little Ponies in the Sky",
+  "start": "2013-04-01",
+  "news_id": 109,
+  "news_url": "https://warthunder.com/en/news/109/current",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/173dec9a8f1a7593c2b70f3f978175ad_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Flying, weaponized \"My Little Pony\"s"
+  ]
+ },
+ {
+  "key": "2026_legend_of_victory_kv_8",
+  "section": "other",
+  "bp_season": null,
+  "title": "Legend of Victory: KV-8",
+  "start": "2026-05-06",
+  "news_id": 10013,
+  "news_url": "https://warthunder.com/en/news/10013-event-legend-of-victory-kv-8-en",
+  "wiki_vehicles": "/unit/ussr_kv_8",
+  "img": "https://wiki.warthunder.com/images/a781add7def69e9ebd774d95c7ca027b_preview-400.jpg",
+  "awards": [
+   "KV-8"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_legend_of_victory_t_34_85_partisan",
+  "section": "other",
+  "bp_season": null,
+  "title": "Legend of Victory: T-34-85 Partisan",
+  "start": "2025-05-08",
+  "news_id": 9483,
+  "news_url": "https://warthunder.com/en/news/9483-event-legend-of-victory-t-34-85-partisan-en",
+  "wiki_vehicles": "/unit/ussr_t_34_85_zis_53_v80",
+  "img": "https://wiki.warthunder.com/images/ffa06dd7a071e94c4225dcdeb42ab87f_preview-400.jpg",
+  "awards": [
+   "T-34-85 “Partisan”"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_dreams_come_true_xf5u",
+  "section": "other",
+  "bp_season": null,
+  "title": "Dreams Come True: XF5U",
+  "start": "2025-10-31",
+  "news_id": 9766,
+  "news_url": "https://warthunder.com/en/news/9766-event-dreams-come-true-xf5u-en",
+  "wiki_vehicles": "/unit/xf5u_1",
+  "img": "https://wiki.warthunder.com/images/225cf7e22e9c6243d2c589dc07879f04_preview-400.jpg",
+  "awards": [
+   "XF5U"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_dreams_come_true_kv_7",
+  "section": "other",
+  "bp_season": null,
+  "title": "Dreams Come True: KV-7",
+  "start": "2024-11-01",
+  "news_id": 9154,
+  "news_url": "https://warthunder.com/en/news/9154-event-dreams-come-true-kv-7-en",
+  "wiki_vehicles": "/unit/ussr_kv_7_u13",
+  "img": "https://wiki.warthunder.com/images/7ec48454039c63221ab727584bbfbe81_preview-400.jpg",
+  "awards": [
+   "KV-7"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_dreams_come_true_tog_ii",
+  "section": "other",
+  "bp_season": null,
+  "title": "Dreams Come True — TOG II",
+  "start": "2023-11-01",
+  "news_id": 8566,
+  "news_url": "https://warthunder.com/en/news/8566-development-dreams-come-true-tog-ii-the-old-gangs-land-battleship-en",
+  "wiki_vehicles": "/unit/uk_tog_2",
+  "img": "https://wiki.warthunder.com/images/be4e0225ebc1fdfe50663fac4d5f08ca_preview-400.jpg",
+  "awards": [
+   "TOG II"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_legend_of_victory_bm_31_12_andryusha",
+  "section": "other",
+  "bp_season": null,
+  "title": "Legend of Victory: BM-31-12 “Andryusha”",
+  "start": "2023-05-10",
+  "news_id": 8227,
+  "news_url": "https://warthunder.com/en/news/8227-event-legend-of-victory-bm-31-12-andryusha-en",
+  "wiki_vehicles": "/unit/ussr_bm_31_12",
+  "img": "https://wiki.warthunder.com/images/895dc26722c739471e36f10577796e32_preview-400.jpg",
+  "awards": [
+   "BM-31-12"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_dreams_come_true_sturmtiger",
+  "section": "other",
+  "bp_season": null,
+  "title": "Dreams come true: Sturmtiger",
+  "start": "2022-10-31",
+  "news_id": 7946,
+  "news_url": "https://warthunder.com/en/news/7946/current",
+  "wiki_vehicles": "/unit/germ_sturmmorser_sturmtiger",
+  "img": "https://wiki.warthunder.com/images/9b49f167a70d32dae8e3c5e2f8e0f0b9_preview-400.jpg",
+  "awards": [
+   "38 cm Sturmmörser"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_legend_of_victory_is_2_321",
+  "section": "other",
+  "bp_season": null,
+  "title": "Legend of Victory: IS-2 №321",
+  "start": "2022-05-11",
+  "news_id": 7676,
+  "news_url": "https://warthunder.com/en/news/7676-event-legend-of-victory-is-2-321-en",
+  "wiki_vehicles": "/unit/ussr_is_2_1944_321",
+  "img": "https://wiki.warthunder.com/images/e914ca997c7a0219f0d1487264d8bafe_preview-400.jpg",
+  "awards": [
+   "IS-2 No.321"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_battle_of_the_atlantic",
+  "section": "other",
+  "bp_season": null,
+  "title": "Battle of the Atlantic",
+  "start": "2023-11-03",
+  "news_id": 8568,
+  "news_url": "https://warthunder.com/en/news/8568-event-battle-of-the-atlantic-ships-against-submarines-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/c184c6d3e521118aeb6b0eaf1e55c59c_preview-400.jpg",
+  "awards": [],
+  "feats_other": [
+   "Features: Submarine combat"
+  ]
+ },
+ {
+  "key": "2019_war_thunder_reaches_its_7th_year",
+  "section": "other",
+  "bp_season": null,
+  "title": "War Thunder reaches its 7th year!",
+  "start": "2019-10-23",
+  "news_id": 6442,
+  "news_url": "https://warthunder.com/en/news/6442-special-war-thunder-reaches-its-7th-year-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/3d7c74bb600d6246c5d369958c5454b8_preview-400.jpg",
+  "awards": [
+   "D.371 H.S.9",
+   "A13 Mk.II 1939",
+   "Ya-5М"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2018_war_thunder_reaches_its_6th_year",
+  "section": "other",
+  "bp_season": null,
+  "title": "War Thunder reaches its 6th year!",
+  "start": "2018-10-26",
+  "news_id": 5852,
+  "news_url": "https://warthunder.com/en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/1719ba0d03d6e22db40d33d75fd27265_preview-400.jpg",
+  "awards": [
+   "He 162 A-1 Volksjäger",
+   "E-100",
+   "Ya-5M"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2017_war_thunder_5_years",
+  "section": "other",
+  "bp_season": null,
+  "title": "War Thunder 5 years!",
+  "start": "2017-10-27",
+  "news_id": 5066,
+  "news_url": "https://warthunder.com/en/news/5066-special-war-thunder-5-years-en",
+  "wiki_vehicles": "/collections/event/wt_5_years",
+  "img": "https://wiki.warthunder.com/images/bfbe8b72e520aa373f42a96eb127d583_preview-400.jpg",
+  "awards": [
+   "I-29",
+   "M8 Greyhound"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_space_program",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Space Program",
+  "start": "2026-09-03",
+  "news_id": 10190,
+  "news_url": "https://warthunder.com/en/news/10190-event-get-the-f-16xl-in-the-space-program-event-en",
+  "wiki_vehicles": "/unit/f_16xl",
+  "img": "https://wiki.warthunder.com/images/8927b8741bba5682500c90efe1866669_preview-400.jpg",
+  "awards": [
+   "F-16XL"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_guardian_of_the_baltic_sea",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Guardian of the Baltic Sea",
+  "start": "2026-08-13",
+  "news_id": 10155,
+  "news_url": "https://warthunder.com/en/news/10155-event-get-oktyabrskaya-revolutsiya-in-the-guardian-of-the-baltic-sea-event-en",
+  "wiki_vehicles": "/unit/ussr_battleship_oktyabrskaya_revolutsiya",
+  "img": "https://wiki.warthunder.com/images/53576a3bbc552f7d777b33af9e838dd9_preview-400.jpg",
+  "awards": [
+   "Gangut («Oktyabrskaya Revolutsiya»)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_scimitar_strike",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Scimitar Strike",
+  "start": "2026-07-22",
+  "news_id": 10135,
+  "news_url": "https://warthunder.com/en/news/10135-event-get-the-scimitar-mk2-in-the-scimitar-strike-event-en",
+  "wiki_vehicles": "/unit/uk_fv107_scimitar_mk2",
+  "img": "https://wiki.warthunder.com/images/d176af5a8a2af2a2cc76b691bf68add4_preview-400.jpg",
+  "awards": [
+   "Scimitar Mk.2"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_wings_over_water",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Wings Over Water",
+  "start": "2026-06-03",
+  "news_id": 10051,
+  "news_url": "https://warthunder.com/en/news/10051-event-get-the-spitfire-mk-vb-float-in-the-wings-over-water-event-en",
+  "wiki_vehicles": "/unit/spitfire_mk5b_float",
+  "img": "https://wiki.warthunder.com/images/1f3a463ad3571adc11ae3646b77b0ff4_preview-400.jpg",
+  "awards": [
+   "Spitfire Mk.Vb (Float)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_marine_gendarme",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Marine Gendarme",
+  "start": "2026-05-20",
+  "news_id": 10027,
+  "news_url": "https://warthunder.com/en/news/10027-event-get-glaive-in-the-marine-gendarme-event-en",
+  "wiki_vehicles": "/unit/fr_trident_class_glaive_p671",
+  "img": "https://wiki.warthunder.com/images/399350d68f49dfe5bc5633b66f37b2e0_preview-400.jpg",
+  "awards": [
+   "Glaive"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_lion_of_peshawar",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Lion of Peshawar",
+  "start": "2026-04-15",
+  "news_id": 9991,
+  "news_url": "https://warthunder.com/en/news/9991-event-get-the-f-6c-in-the-lion-of-peshawar-event-en",
+  "wiki_vehicles": "/unit/f_6c_pakistan",
+  "img": "https://wiki.warthunder.com/images/e30dae1e53041a23d6c287d862c18dbd_preview-400.jpg",
+  "awards": [
+   "F-6C Sher-e-Peshawar"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_pacific_pearl",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Pacific Pearl",
+  "start": "2026-03-12",
+  "news_id": 9939,
+  "news_url": "https://warthunder.com/en/news/9939-event-get-uss-oklahoma-in-the-pacific-pearl-event-en",
+  "wiki_vehicles": "/unit/us_battleship_oklahoma",
+  "img": "https://wiki.warthunder.com/images/acbac492aed097867d506321111efe5c_preview-400.jpg",
+  "awards": [
+   "USS Oklahoma"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_workhorse",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Workhorse",
+  "start": "2026-02-19",
+  "news_id": 9894,
+  "news_url": "https://warthunder.com/en/news/9894-event-get-the-dutch-f-16a-in-the-workhorse-event-en",
+  "wiki_vehicles": "/unit/f_16a_block_5_netherlands",
+  "img": "https://wiki.warthunder.com/images/892b837092e3f0990e0fbe4fd3abd05a_preview-400.jpg",
+  "awards": [
+   "F-16A (Netherlands)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2026_paintball_arena",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Paintball Arena",
+  "start": "2026-01-22",
+  "news_id": 9879,
+  "news_url": "https://warthunder.com/en/news/9879-event-get-the-t-72b3-arena-in-the-paintball-arena-event-en",
+  "wiki_vehicles": "/unit/ussr_t_72b3_arena",
+  "img": "https://wiki.warthunder.com/images/885d01c4a3a03231ee168f00bddfbd95_preview-400.jpg",
+  "awards": [
+   "T-72B3 Arena"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_winter_concert",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Winter Concert",
+  "start": "2025-12-19",
+  "news_id": 9855,
+  "news_url": "https://warthunder.com/en/news/9855-event-christmas-and-new-years-gifts-await-you-in-the-winter-concert-event-en",
+  "wiki_vehicles": "/collections/event/winter_2025",
+  "img": "https://wiki.warthunder.com/images/423f016a9fa681905484d3ca69610be6_preview-400.jpg",
+  "awards": [
+   "H-75M",
+   "MiG-25PD",
+   "Boxer CRV Block 2",
+   "IJN Tosa"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_sea_defender",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Sea Defender",
+  "start": "2025-12-03",
+  "news_id": 9822,
+  "news_url": "https://warthunder.com/en/news/9822-event-get-the-ak-225-in-the-sea-defender-event-en",
+  "wiki_vehicles": "/unit/ussr_pr_205pe_k225",
+  "img": "https://wiki.warthunder.com/images/ad39df26967c1b0cef4f9dc90bb94c3d_preview-400.jpg",
+  "awards": [
+   "AK-225"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_fast_and_dangerous",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Fast and Dangerous",
+  "start": "2025-11-19",
+  "news_id": 9807,
+  "news_url": "https://warthunder.com/en/news/9807-event-get-the-r400-in-the-fast-and-dangerous-event-en",
+  "wiki_vehicles": "/unit/germ_th_400",
+  "img": "https://wiki.warthunder.com/images/bec12cb15fa5200bd3b9609f0dd019bd_preview-400.jpg",
+  "awards": [
+   "R400"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_semper_fidelis",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Semper Fidelis",
+  "start": "2025-10-02",
+  "news_id": 9723,
+  "news_url": "https://warthunder.com/en/news/9723-event-get-the-efv-in-the-semper-fidelis-event-en",
+  "wiki_vehicles": "/unit/us_efv_p1",
+  "img": "https://wiki.warthunder.com/images/43187b9c8b0b89a685feb077323bee5b_preview-400.jpg",
+  "awards": [
+   "EFV"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_black_hussar",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Black Hussar",
+  "start": "2025-09-04",
+  "news_id": 9653,
+  "news_url": "https://warthunder.com/en/news/9653-event-get-mackensen-in-the-black-hussar-event-en",
+  "wiki_vehicles": "/unit/germ_battlecruiser_mackensen_class",
+  "img": "https://wiki.warthunder.com/images/81cac8470984b96797113a19d2724750_preview-400.jpg",
+  "awards": [
+   "Mackensen"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_sky_guard",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Sky Guard",
+  "start": "2025-08-13",
+  "news_id": 9623,
+  "news_url": "https://warthunder.com/en/news/9623-event-get-the-f-106a-six-shooter-in-the-sky-guard-event-en",
+  "wiki_vehicles": "/unit/f_106a_1972",
+  "img": "https://wiki.warthunder.com/images/8817826513309a04fc64676c2ec55e9c_preview-400.jpg",
+  "awards": [
+   "F-106A Six Shooter"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_naples_of_the_east",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Naples of the East",
+  "start": "2025-07-23",
+  "news_id": 9608,
+  "news_url": "https://warthunder.com/en/news/9608-event-get-ijn-shisaka-in-the-naples-of-the-east-event-en",
+  "wiki_vehicles": "/unit/jp_escort_hiburi_class_shisaka",
+  "img": "https://wiki.warthunder.com/images/1fa465fb24ebbd4faab24d0a0fe37a9c_preview-400.jpg",
+  "awards": [
+   "IJN Shisaka"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_normandy_44",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Normandy ‘44",
+  "start": "2025-06-05",
+  "news_id": 9527,
+  "news_url": "https://warthunder.com/en/news/9527-event-get-the-t86-in-the-normandy-44-event-en",
+  "wiki_vehicles": "/unit/us_t86",
+  "img": "https://wiki.warthunder.com/images/90147534e48f35acfc9732894c851258_preview-400.jpg",
+  "awards": [
+   "T86"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_spirit_of_the_tempest",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Spirit of the Tempest",
+  "start": "2025-05-22",
+  "news_id": 9496,
+  "news_url": "https://warthunder.com/en/news/9496-event-get-the-hf-24-in-the-spirit-of-the-tempest-event-en",
+  "wiki_vehicles": "/unit/marut_mk1",
+  "img": "https://wiki.warthunder.com/images/be37977cfc5f155ccd1fcc90c46472c0_preview-400.jpg",
+  "awards": [
+   "HF-24"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_eye_in_the_sky",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Eye in the Sky",
+  "start": "2025-04-16",
+  "news_id": 9461,
+  "news_url": "https://warthunder.com/en/news/9461-event-get-the-meteor-fr-mk9-in-the-eye-in-the-sky-event-en",
+  "wiki_vehicles": "/unit/meteor_frmk9_iaf",
+  "img": "https://wiki.warthunder.com/images/b3d9c05d52a3f8f77c3823cf187034f3_preview-400.jpg",
+  "awards": [
+   "Meteor FR Mk.9"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_rocket_storm",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Rocket Storm",
+  "start": "2025-03-13",
+  "news_id": 9418,
+  "news_url": "https://warthunder.com/en/news/9418-event-get-the-fiat-6614-firos-in-the-rocket-storm-event-en",
+  "wiki_vehicles": "/unit/it_fiat_6614_firos",
+  "img": "https://wiki.warthunder.com/images/0d414c4d59d65bb1ddc999d3c51711a4_preview-400.jpg",
+  "awards": [
+   "FIAT 6614 FIROS"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_raider_hunter",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Raider Hunter",
+  "start": "2025-02-27",
+  "news_id": 9376,
+  "news_url": "https://warthunder.com/en/news/9376-event-get-strasbourg-in-the-raider-hunter-event-en",
+  "wiki_vehicles": "/unit/fr_battleship_strasbourg",
+  "img": "https://wiki.warthunder.com/images/2782055ea2b99f7dceb57f50aed4d7f6_preview-400.jpg",
+  "awards": [
+   "Strasbourg"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_freedom_fighter",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Freedom Fighter",
+  "start": "2025-02-06",
+  "news_id": 9355,
+  "news_url": "https://warthunder.com/en/news/9355-event-get-the-f-5ag-in-the-freedom-fighter-event-en",
+  "wiki_vehicles": "/unit/f-5ag_norway",
+  "img": "https://wiki.warthunder.com/images/b18e30267b99054c3802e920616a9f08_preview-400.jpg",
+  "awards": [
+   "F-5A(G)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2025_enter_the_serpent",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Enter the Serpent",
+  "start": "2025-01-17",
+  "news_id": 9323,
+  "news_url": "https://warthunder.com/en/news/9323-event-get-the-fv40303-in-the-enter-the-serpent-event-en",
+  "wiki_vehicles": "/unit/uk_shir_2",
+  "img": "https://wiki.warthunder.com/images/4f39131ae2f968054f2c46a706d4b9ca_preview-400.jpg",
+  "awards": [
+   "FV4030/3 Shir 2"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_winter_tales",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Winter Tales",
+  "start": "2024-12-20",
+  "news_id": 9276,
+  "news_url": "https://warthunder.com/en/news/9276-event-get-yourself-some-cool-rewards-in-the-winter-tales-event-en",
+  "wiki_vehicles": "/collections/event/winter_2024",
+  "img": "https://wiki.warthunder.com/images/25eda0fb1c680e4575d1e84f1012425d_preview-400.jpg",
+  "awards": [
+   "MB 151",
+   "Kfir C.10 Block 60",
+   "T-80UD (478BE)",
+   "IJN Kirishima"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_flight_of_the_albatross",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Flight of the Albatross",
+  "start": "2024-07-24",
+  "news_id": 8986,
+  "news_url": "https://warthunder.com/en/news/8986-event-earn-alcione-in-the-flight-of-the-albatross-event-en",
+  "wiki_vehicles": "/unit/it_albatros_class_f544",
+  "img": "https://wiki.warthunder.com/images/0ce29dc0eab1ba40dde12bed046a9e8a_preview-400.jpg",
+  "awards": [
+   "Alcione"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_mobile_sniper",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Mobile Sniper",
+  "start": "2024-10-03",
+  "news_id": 9108,
+  "news_url": "https://warthunder.com/en/news/9108-event-get-the-boxer-mgs-in-the-mobile-sniper-event-en",
+  "wiki_vehicles": "/unit/germ_boxer_3105",
+  "img": "https://wiki.warthunder.com/images/27f6edbc5a039a2cf7a0128b200fcf4a_preview-400.jpg",
+  "awards": [
+   "Boxer MGS"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_steel_baron",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Steel Baron",
+  "start": "2024-09-05",
+  "news_id": 9042,
+  "news_url": "https://warthunder.com/en/news/9042-event-get-hms-barham-in-the-steel-baron-event-en",
+  "wiki_vehicles": "/unit/uk_battleship_q_elizabet_class_barham",
+  "img": "https://wiki.warthunder.com/images/d7324aec71000c6b60be17573fbaaed1_preview-400.jpg",
+  "awards": [
+   "HMS Barham"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_persian_tomcat",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Persian Tomcat",
+  "start": "2024-08-08",
+  "news_id": 9005,
+  "news_url": "https://warthunder.com/en/news/9005-event-get-the-iranian-f-14a-iriaf-in-the-persian-tomcat-event-en",
+  "wiki_vehicles": "/unit/f_14a_iriaf",
+  "img": "https://wiki.warthunder.com/images/549a43740d9ba3ffb191730d7119f308_preview-400.jpg",
+  "awards": [
+   "F-14A IRIAF"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_operation_overlord",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation Overlord",
+  "start": "2024-06-05",
+  "news_id": 8912,
+  "news_url": "https://warthunder.com/en/news/8912-event-earn-the-churchill-avre-in-the-operation-overlord-event-en",
+  "wiki_vehicles": "/unit/uk_churchill_avre",
+  "img": "https://wiki.warthunder.com/images/c8544a1128ddf0f21998db37e2b2e5a7_preview-400.jpg",
+  "awards": [
+   "Churchill AVRE Petard"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_flight_of_the_vulture",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Flight of the Vulture",
+  "start": "2024-11-27",
+  "news_id": 9227,
+  "news_url": "https://warthunder.com/en/news/9227-event-get-the-iar-93b-in-the-flight-of-the-vulture-event-en",
+  "wiki_vehicles": "/unit/iar_93b",
+  "img": "https://wiki.warthunder.com/images/efe1df5fad393952e4c68e4f72b38ecc_preview-400.jpg",
+  "awards": [
+   "IAR-93B"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_legend_of_victory_eremin_s_yak_3",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Legend of Victory: Eremin’s Yak-3",
+  "start": "2024-05-08",
+  "news_id": 8877,
+  "news_url": "https://warthunder.com/en/news/8877-event-legend-of-victory-eremins-yak-3-en",
+  "wiki_vehicles": "/unit/yak-3_eremin",
+  "img": "https://wiki.warthunder.com/images/d1b67d62c962d009ae676e7286a2e340_preview-400.jpg",
+  "awards": [
+   "Eremin's Yak-3"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_inferno_cannon",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Inferno Cannon",
+  "start": "2024-04-24",
+  "news_id": 8854,
+  "news_url": "https://warthunder.com/en/news/8854-event-earn-the-plz-83-130-in-the-inferno-cannon-event-en",
+  "wiki_vehicles": "/unit/cn_plz_83_130",
+  "img": "https://wiki.warthunder.com/images/1b4492177a2243fa285456a5a1b3eb04_preview-400.jpg",
+  "awards": [
+   "PLZ83-130"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_imperial_flagship",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Imperial Flagship",
+  "start": "2024-03-14",
+  "news_id": 8788,
+  "news_url": "https://warthunder.com/en/news/8788-event-earn-sms-baden-in-the-imperial-flagship-event-en",
+  "wiki_vehicles": "/unit/germ_battleship_baden",
+  "img": "https://wiki.warthunder.com/images/416f80a78577eb0078272eb38e1310a4_preview-400.jpg",
+  "awards": [
+   "SMS Baden"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_sword_of_justice",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Sword of Justice",
+  "start": "2024-02-22",
+  "news_id": 8743,
+  "news_url": "https://warthunder.com/en/news/8743-event-earn-the-jaguar-is-in-the-sword-of-justice-event-en",
+  "wiki_vehicles": "/unit/jaguar_is",
+  "img": "https://wiki.warthunder.com/images/ba6fab8ab2d2671e9aabe26884860558_preview-400.jpg",
+  "awards": [
+   "Jaguar IS"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2024_call_of_the_dragon",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Call of the Dragon",
+  "start": "2024-02-01",
+  "news_id": 8709,
+  "news_url": "https://warthunder.com/en/news/8709-event-call-of-the-dragon-earn-the-object-292-en",
+  "wiki_vehicles": "/unit/ussr_object_292",
+  "img": "https://wiki.warthunder.com/images/a532a355af76a4ed20c7c19a55b15456_preview-400.jpg",
+  "awards": [
+   "Object 292"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_winter_extreme",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Winter Extreme",
+  "start": "2023-12-20",
+  "news_id": 8644,
+  "news_url": "https://warthunder.com/en/news/8644-event-winter-extreme-earn-yourself-rewards-this-festive-season-en",
+  "wiki_vehicles": "/collections/event/winter_2023",
+  "img": "https://wiki.warthunder.com/images/b03d6894b47bc59f620cf0843d9d001a_preview-400.jpg",
+  "awards": [
+   "J9 Early",
+   "Mirage 2000C-S4",
+   "Vilkas",
+   "USS Mississippi"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_tokushu_heiki",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Tokushu Heiki",
+  "start": "2023-09-25",
+  "news_id": 8494,
+  "news_url": "https://warthunder.com/en/news/8494-event-tokushu-heiki-assemble-and-test-an-honorable-missile-to-obtain-prizes-en",
+  "wiki_vehicles": "/collections/event/tokushu_heiki_2023",
+  "img": "https://wiki.warthunder.com/images/71679df22b1fab3535466dd609658d3d_preview-400.jpg",
+  "awards": [
+   "Ki-48-II otsu",
+   "F-100F (China)",
+   "LOSAT",
+   "IJN Kurama"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_summer_extreme",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Summer Extreme",
+  "start": "2023-08-08",
+  "news_id": 8384,
+  "news_url": "https://warthunder.com/en/news/8384-event-summer-extreme-en",
+  "wiki_vehicles": "/collections/event/summer_2023",
+  "img": "https://wiki.warthunder.com/images/c9c6d4b01defe02a456016b7ca55deda_preview-400.jpg",
+  "awards": [
+   "Su-25BM",
+   "Pz.Sp.Wg.P204(f) KwK",
+   "CT-CV 105HP",
+   "HMS Renown"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2023_repair_factory",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Repair Factory",
+  "start": "2023-04-06",
+  "news_id": 8186,
+  "news_url": "https://warthunder.com/en/news/8186-event-repair-factory-en",
+  "wiki_vehicles": "/collections/event/repair_factory_2023",
+  "img": "https://wiki.warthunder.com/images/118da08de4a0d7b3b57783a44e3e658a_preview-400.jpg",
+  "awards": [
+   "A-7K",
+   "AMD.35 (SA35)",
+   "QN506",
+   "Shcherbakov"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_winter_quest",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Winter Quest",
+  "start": "2022-12-20",
+  "news_id": 8021,
+  "news_url": "https://warthunder.com/en/news/8021-event-winter-quest-en",
+  "wiki_vehicles": "/collections/event/winter_2022",
+  "img": "https://wiki.warthunder.com/images/472aa21372abd7a733371b0997bc03ee_preview-400.jpg",
+  "awards": [
+   "Late 298D",
+   "Tornado IDS MFG (Germany)",
+   "T-80UM2",
+   "USS Newport News"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_project_overpowered",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Project “Overpowered”",
+  "start": "2022-09-22",
+  "news_id": 7882,
+  "news_url": "https://warthunder.com/en/news/7882-event-project-overpowered-en",
+  "wiki_vehicles": "/collections/event/overpowered_2022",
+  "img": "https://wiki.warthunder.com/images/105af996478c1e95aebddd77108b8863_preview-400.jpg",
+  "awards": [
+   "Po-2M",
+   "Jaguar E",
+   "CCVL",
+   "SMS Ostfriesland"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_summer_quest",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Summer Quest",
+  "start": "2022-08-09",
+  "news_id": 7796,
+  "news_url": "https://warthunder.com/en/news/7796-event-summer-quest-en",
+  "wiki_vehicles": "/collections/event/summer_2022",
+  "img": "https://wiki.warthunder.com/images/0919d12e6ff023bbc4d65d6a67544c13_preview-400.jpg",
+  "awards": [
+   "F4D-1 Skyray",
+   "Zrinyi I",
+   "Leopard 2AV",
+   "IJN Haruna"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2022_the_battle_for_arachis",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "“The Battle for arachis”",
+  "start": "2022-04-07",
+  "news_id": 7640,
+  "news_url": "https://warthunder.com/en/news/7640-event-the-battle-for-arachis-en",
+  "wiki_vehicles": "/collections/event/arachis_2022",
+  "img": "https://wiki.warthunder.com/images/b55ab996960ae6a576769a70e000bf63_preview-400.jpg",
+  "awards": [
+   "Kfir C.2",
+   "Alecto I",
+   "T-72M2 Moderna",
+   "USS Davis"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_operation_w_i_n_t_e_r",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation W.I.N.T.E.R.",
+  "start": "2021-12-17",
+  "news_id": 7469,
+  "news_url": "https://warthunder.com/en/news/7469-event-operation-w-i-n-t-e-r-en",
+  "wiki_vehicles": "/collections/event/winter_2021",
+  "img": "https://wiki.warthunder.com/images/41540b487b41c90372f84e4ad1971b4d_preview-400.jpg",
+  "awards": [
+   "C. 202D",
+   "MiG-23MF",
+   "A.C.I Sentinel",
+   "TCM AGS",
+   "IJN Hayanami",
+   "MPK Pr.201K"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_export_order",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Export Order",
+  "start": "2021-09-23",
+  "news_id": 7350,
+  "news_url": "https://warthunder.com/en/news/7350-event-export-order-en",
+  "wiki_vehicles": "/collections/event/export_order_2021",
+  "img": "https://wiki.warthunder.com/images/4e64307dc0c9757b9f631a0dd1998a5a_preview-400.jpg",
+  "awards": [
+   "F-5A",
+   "Pbil m/40",
+   "PT-16/T14 mod.",
+   "HMS Mohawk"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_summer_landing",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Summer Landing",
+  "start": "2021-08-06",
+  "news_id": 7267,
+  "news_url": "https://warthunder.com/en/news/7267-event-summer-landing-en",
+  "wiki_vehicles": "/collections/event/summer_landing_2021",
+  "img": "https://wiki.warthunder.com/images/7aad2290f6b1ded3ac80580e0bfbb2c0_preview-400.jpg",
+  "awards": [
+   "VL Myrsky II",
+   "Buccaneer S.1",
+   "Ka-Chi",
+   "BMD-4",
+   "RN Aviere",
+   "Bussard"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2021_future_technology",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Future Technology",
+  "start": "2021-04-01",
+  "news_id": 7107,
+  "news_url": "https://warthunder.com/en/news/7107-event-future-technology-en",
+  "wiki_vehicles": "/collections/event/future_tech_2021",
+  "img": "https://wiki.warthunder.com/images/f76972630fef283238597cc1e051fb7b_preview-400.jpg",
+  "awards": [
+   "F-4F Early",
+   "Su-76D",
+   "XM8",
+   "JDS Yūgure (DD-184)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_operation_w_i_n_t_e_r",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation W.I.N.T.E.R.",
+  "start": "2020-12-18",
+  "news_id": 6981,
+  "news_url": "https://warthunder.com/en/news/6981-special-operation-w-i-n-t-e-r-en",
+  "wiki_vehicles": "/collections/event/winter_2020",
+  "img": "https://wiki.warthunder.com/images/7ce69e794fb0a5bde3451ba6e768e1b3_preview-400.jpg",
+  "awards": [
+   "Ro.57 Quadriarma",
+   "MiG-21PFM",
+   "E.B.R. (1954)",
+   "Class 3 (P)",
+   "Type K-8 No.13",
+   "USS Baltimore (CA-68)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_wargame_strategist",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Wargame “Strategist”",
+  "start": "2020-09-24",
+  "news_id": 6878,
+  "news_url": "https://warthunder.com/en/news/6878-event-wargame-strategist-en",
+  "wiki_vehicles": "/collections/event/strategist_2020",
+  "img": "https://wiki.warthunder.com/images/70560308c54c2c2a1fa66350e9da5728_preview-400.jpg",
+  "awards": [
+   "BI",
+   "Sd.Kfz.251/10",
+   "Merkava Mk.3D (USA)",
+   "Lübeck"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_operation_s_u_m_m_e_r_2020",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation S.U.M.M.E.R. 2020",
+  "start": "2020-08-07",
+  "news_id": 6808,
+  "news_url": "https://warthunder.com/en/news/6808-special-operation-s-u-m-m-e-r-2020-en",
+  "wiki_vehicles": "/collections/event/summer_2020",
+  "img": "https://wiki.warthunder.com/images/9262c22dbed4f8797702c2b550f238c9_preview-400.jpg",
+  "awards": [
+   "Ar 196 A-3",
+   "F11F-1 Tiger",
+   "Ikv 73",
+   "C2A1 Mexas",
+   "Freccia P-493",
+   "Maxim Gorky"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_winner_vehicles_for_the_victory_anniversary",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Winner vehicles for the Victory anniversary",
+  "start": "2020-05-08",
+  "news_id": 6703,
+  "news_url": "https://warthunder.com/en/news/6703-event-winner-vehicles-for-the-victory-anniversary-en",
+  "wiki_vehicles": "/collections/event/victory_day_2020",
+  "img": "https://wiki.warthunder.com/images/ac4a865d788fd09790d1c14a90643e73_preview-400.jpg",
+  "awards": [
+   "Swordfish Mk.II",
+   "LVT(A)(4)",
+   "G-5 (ShVAK)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2020_space_race",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "“Space Race”",
+  "start": "2020-04-01",
+  "news_id": 6669,
+  "news_url": "https://warthunder.com/en/news/6669-special-space-race-en",
+  "wiki_vehicles": "/collections/event/space_race_2020",
+  "img": "https://wiki.warthunder.com/images/9107bcbe50874d2c73999ccd9c04c77f_preview-400.jpg",
+  "awards": [
+   "AU-1 Corsair",
+   "Sd.Kfz.234/1",
+   "Object 279",
+   "SGB Grey Goose"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2019_operation_f_r_o_s_t",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation F.R.O.S.T.",
+  "start": "2019-12-20",
+  "news_id": 6521,
+  "news_url": "https://warthunder.com/en/news/6521-special-operation-f-r-o-s-t-en",
+  "wiki_vehicles": "/collections/event/winter_2019",
+  "img": "https://wiki.warthunder.com/images/8443502f22892777d6359a8979ead60a_preview-400.jpg",
+  "awards": [
+   "TIS MA",
+   "J6K1",
+   "QF 3.7 Ram",
+   "Merkava Mk.2B"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2019_operation_shipyard",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation “Shipyard”",
+  "start": "2019-10-03",
+  "news_id": 6409,
+  "news_url": "https://warthunder.com/en/news/6409-special-operation-shipyard-en",
+  "wiki_vehicles": "/collections/event/shipyard_2019",
+  "img": "https://wiki.warthunder.com/images/c18e70b68890227908094f5753879046_preview-400.jpg",
+  "awards": [
+   "Whirlwind P.9",
+   "H-34",
+   "VT1-2",
+   "MBK-161 early"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2019_operation_h_e_a_t",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation H.E.A.T.",
+  "start": "2019-08-02",
+  "news_id": 6293,
+  "news_url": "https://warthunder.com/en/news/6293-special-operation-h-e-a-t-en",
+  "wiki_vehicles": "/collections/event/heat_2019",
+  "img": "https://wiki.warthunder.com/images/b8082c381efa28138782f8c80f99fca2_preview-400.jpg",
+  "awards": [
+   "Bf 110 C-6",
+   "P-59A",
+   "BT-7A (F-32)",
+   "AUBL/74 HVG",
+   "HMS Spey",
+   "IJN Yuudachi"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2019_battlefield_engineer",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Battlefield Engineer",
+  "start": "2019-04-11",
+  "news_id": 6145,
+  "news_url": "https://warthunder.com/en/news/6145-special-battlefield-engineer-en",
+  "wiki_vehicles": "/collections/event/battlefield_engineer_2019",
+  "img": "https://wiki.warthunder.com/images/49252632742d3499bb93aad66bdc7994_preview-400.jpg",
+  "awards": [
+   "I-180S",
+   "Ju 388 J",
+   "VFW",
+   "Merkava Mk.1 (USA)",
+   "MPK Pr.122bis",
+   "HMS Tiger"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2019_sea_voyage",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Sea Voyage",
+  "start": "2019-02-21",
+  "news_id": 6037,
+  "news_url": "https://warthunder.com/en/news/6037-event-sea-voyage-en",
+  "wiki_vehicles": "/collections/event/sea_voyage_2019",
+  "img": "https://wiki.warthunder.com/images/d7780ddada1264a0259955b450cd2b65_preview-400.jpg",
+  "awards": [
+   "PBM-3 Mariner",
+   "Leningrad"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2018_festive_quest",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Festive Quest",
+  "start": "2018-12-21",
+  "news_id": 5962,
+  "news_url": "https://warthunder.com/en/news/5962-special-festive-quest-en",
+  "wiki_vehicles": "/collections/event/winter_2018",
+  "img": "https://wiki.warthunder.com/images/6a65c449eed50159f0dbf2aa69f77980_preview-400.jpg",
+  "awards": [
+   "M.B.152C1",
+   "Fw 190 C",
+   "SU-85А",
+   "T30"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2018_good_old_s_u_m_m_e_r",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Good Old S.U.M.M.E.R",
+  "start": "2018-08-17",
+  "news_id": 5698,
+  "news_url": "https://warthunder.com/en/news/5698-marathon-good-old-s-u-m-m-e-r-en",
+  "wiki_vehicles": "/collections/event/good_old_summer_2018",
+  "img": "https://wiki.warthunder.com/images/21ff3fa54a364c5b50652985697d7bc0_preview-400.jpg",
+  "awards": [
+   "FJ-4B VMF-232",
+   "Martlet Mk.IV",
+   "Sd.Kfz.234/3"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2018_operation_s_u_m_m_e_r",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation S.U.M.M.E.R.",
+  "start": "2018-07-21",
+  "news_id": 5650,
+  "news_url": "https://warthunder.com/en/news/5650-marathon-operation-s-u-m-m-e-r-assemble-a-tank-updated-en",
+  "wiki_vehicles": "/collections/event/summer_2018",
+  "img": "https://wiki.warthunder.com/images/d5f24a5af0e7bf8dd758846b48d9f977_preview-400.jpg",
+  "awards": [
+   "T-34E",
+   "IS-7"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2018_chronicles_of_world_war_ii",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Chronicles of World War II",
+  "start": "2018-04-14",
+  "news_id": 5453,
+  "news_url": "https://warthunder.com/en/news/5453-special-chronicles-of-world-war-ii-in-war-thunder-en",
+  "wiki_vehicles": "/collections/event/chronicles_2018",
+  "img": "https://wiki.warthunder.com/images/ef8a80590bd24ac5eb3d47b5fa9c34dd_preview-400.jpg",
+  "awards": [
+   "Tandem MAI",
+   "Whirlwind P.9",
+   "T18E2",
+   "Lorraine 155 Mle.50"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2018_flying_serpent_crouching_tiger",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Flying Serpent, Crouching Tiger",
+  "start": "2018-03-31",
+  "news_id": 5424,
+  "news_url": "https://warthunder.com/en/news/5424-event-flying-serpent-crouching-tiger-en",
+  "wiki_vehicles": "/collections/event/animal_2018",
+  "img": "https://wiki.warthunder.com/images/97abac80b4e5d525ab059d3c70600974_preview-400.jpg",
+  "awards": [
+   "Kingcobra",
+   "Tiger"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2017_festivities_in_war_thunder",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Festivities in War Thunder",
+  "start": "2017-12-22",
+  "news_id": 5226,
+  "news_url": "https://warthunder.com/en/news/5226/current",
+  "wiki_vehicles": "/collections/event/winter_2017",
+  "img": "https://wiki.warthunder.com/images/e077971549ac235bc19c6e32801bcb5e_preview-400.jpg",
+  "awards": [
+   "P-40С",
+   "NS.900",
+   "AEC Mk.II",
+   "Ersatz M10"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2017_operation_s_u_m_m_e_r",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation S.U.M.M.E.R.",
+  "start": "2017-07-28",
+  "news_id": 4868,
+  "news_url": "https://warthunder.com/en/news/4868-marathon-operation-s-u-m-m-e-r-awards-together-en",
+  "wiki_vehicles": "/collections/event/summer_2017",
+  "img": "https://wiki.warthunder.com/images/23101b2bc79cc0675fc3728e6c492c4e_preview-400.jpg",
+  "awards": [
+   "P-43A-1",
+   "Ki-94-II",
+   "Sd.Kfz.234/4",
+   "Phòng không T-34 (USSR)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2017_war_thunder_chronicles",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "War Thunder Chronicles",
+  "start": "2017-04-14",
+  "news_id": 4648,
+  "news_url": "https://warthunder.com/en/news/4648-special-war-thunder-chronicles-en",
+  "wiki_vehicles": "/collections/event/chronicles_2017",
+  "img": "https://wiki.warthunder.com/images/a791848b304dd8eb075a3b46363917cd_preview-400.jpg",
+  "awards": [
+   "PV-2D Harpoon",
+   "Yak-3T",
+   "MK-II Matilda (USSR)",
+   "A33 Excelsior"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2016_winter_holiday",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Winter Holiday",
+  "start": "2016-12-23",
+  "news_id": 4416,
+  "news_url": "https://warthunder.com/en/news/4416-special-war-thunder-winter-holiday-en",
+  "wiki_vehicles": "/collections/event/winter_2016",
+  "img": "https://wiki.warthunder.com/images/803f14a1c43474d7f236befc3b7077c7_preview-400.jpg",
+  "awards": [
+   "Ki-21-I hei",
+   "Me 262 A-2a Sturmvogel",
+   "LVT(A)(4) (ZiS-2) (China)",
+   "Type 62 (USSR)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2016_operation_s_u_m_m_e_r",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Operation S.U.M.M.E.R.",
+  "start": "2016-07-22",
+  "news_id": 4151,
+  "news_url": "https://warthunder.com/en/news/4151-special-operation-s-u-m-m-e-r-updated-03-08-2016-en",
+  "wiki_vehicles": "/collections/event/summer_2016",
+  "img": "https://wiki.warthunder.com/images/51cf41da5da0a9069a0dc7ea2f2db728_preview-400.jpg",
+  "awards": [
+   "Fw.189A-1 Uhu",
+   "F7F-3 Tigercat",
+   "Grant I",
+   "KV-220"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2016_chronicles_of_world_war_ii",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Chronicles of World War II",
+  "start": "2016-04-11",
+  "news_id": 3681,
+  "news_url": "https://warthunder.com/en/news/3681-special-event-series-chronicles-of-world-war-ii-day-28-faq-added-en",
+  "wiki_vehicles": "/collections/event/chronicles_2016",
+  "img": "https://wiki.warthunder.com/images/affdc39d8796f5f66183580347f394d6_preview-400.jpg",
+  "awards": [
+   "MBR-2-M-34",
+   "Bong's P-38J-15",
+   "A14 Comet I Iron Duke IV",
+   "KV-2 (1940)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2015_war_thunder_fulfills_your_wishes",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "War Thunder Fulfills Your Wishes!",
+  "start": "2015-12-25",
+  "news_id": 3489,
+  "news_url": "https://warthunder.com/en/news/3489--en",
+  "wiki_vehicles": null,
+  "img": "https://wiki.warthunder.com/images/b275edfa69924fdad53a19ed0cb0add9_preview-400.jpg",
+  "awards": [
+   "P-63C-5 (USSR)",
+   "VK 45.01 (P)"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2014_holiday_war_thunder_marathon",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Holiday War Thunder Marathon",
+  "start": "2014-12-24",
+  "news_id": 2736,
+  "news_url": "https://warthunder.com/en/news/2736--en",
+  "wiki_vehicles": "/collections/event/winter_2014",
+  "img": "https://wiki.warthunder.com/images/88dcabdde34ce272e204b95fbe7bc971_preview-400.jpg",
+  "awards": [
+   "I-301",
+   "M8A1 GMC"
+  ],
+  "feats_other": []
+ },
+ {
+  "key": "2013_winter_magic",
+  "section": "regular_event",
+  "bp_season": null,
+  "title": "Winter Magic",
+  "start": "2013-12-25",
+  "news_id": 383,
+  "news_url": "https://warthunder.com/en/news/383--en",
+  "wiki_vehicles": "/collections/event/winter_2013",
+  "img": "https://wiki.warthunder.com/images/b3d4def8f95fce0659923e12947d06d2_preview-400.jpg",
+  "awards": [
+   "TB-3M-17-32",
+   "XF5F"
+  ],
+  "feats_other": []
+ }
+]

@@ -1,0 +1,103 @@
+[Event] “The Phantom Menace” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“The Phantom Menace”
+Attention! Outdated news format. Content may not display correctly.
+30 October 2020
+Event
+<>The situation in the sea around Spitsbergen Island is getting hot! Take command of a modern submarine and use all available detection tools to not only counter a hidden threat but also to take the initiative into your own hands. Control torpedoes, hide from enemy sonar, strike with cruise and ballistic missiles!
+<>From 13:00 GMT on the 30th of October until 09:00 GMT on the 2nd of November, battle in submarines in the “The Phantom Menace” event
+<>In this event you will take control of nuclear submarines, the gameplay of which is radically different from the more familiar battles in our game.
+<>Submarines for the following nations will be represented in the event: USSR/Russia, USA and Great Britain. They differ from each other in mobility, visibility and durability.
+“Yasen” (USSR/Russia)
+<>Maximum depth: 550 m
+<>Movement Speed: High
+<>Noise level: High
+<>Visibility: Medium
+“Virginia” (USA)
+<>Maximum depth: 350 m
+<>Movement Speed: Medium
+<>Noise level: Low
+<>Visibility: Low
+“Vanguard” (Britain)
+<>Maximum depth: 450 m
+<>Movement Speed: Medium
+<>Noise level: Medium
+<>Visibility: Medium
+<>To enter the event you need to equip any naval vessel in a crew slot. You will join the battle in the submarine of the nation that you have selected before entering the event.
+<>Mission “Underwater Hunting”
+<>Your task: using active and passive sonars, detect and destroy the entire enemy team submarine fleet before they destroy you.
+<>Mission “Threat Prevention”
+<>Both sides in this battle seek to use their nuclear weapons! To launch the nuclear missile the boat must get to the launch point and have a short preparation before launching - do not permit the enemy side to achieve this and try to be the first to launch the missile!
+<>Press F1 in the game to see more information about submarine controls and its weaponry and sonar.
+<>Here are some of the features of controlling them and their weaponry:
+<>Sonar
+<>The only way to detect your opponents under the surface of the water.
+<>You can switch between two sonar modes:
+<>Passive - will detect the noise of the enemy submarine’s engines at short distance, shows the direction and will help you to navigate submerged.
+<>Active - reveals the location of your submarine for the enemy but also detects enemy submarines at long distance.
+<>Visibility
+<>The rotating screws on each submarine create noise during movement. The faster the rotation speed the higher the noise and the greater the distance at which a passive sonar can detect it. Launching a torpedo also creates noise!
+<>Detection using active sonar varies according to the size and the position under the surface of the enemy boat. A submarine that lies on the seabed is much less visible but is also limited in maneuvering and fighting capabilities.
+<>Torpedoes
+<>Each submarine is equipped with torpedoes. Launch a torpedo towards a detected enemy sub and the camera will move to it giving control to the launching player.
+<>Torpedoes are also equipped with passive and active sonar and operate in a similar way to the main sonars on submarines.
+<>Active sonar ‘demasks’ the torpedo and increases the chances of the enemy dodging the attack but does allow the player to activate the homing system instead of manually guiding the torpedo to the target.
+<>The event isn’t available on Linux.
+<>War Thunder Submarine Command
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

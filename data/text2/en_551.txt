@@ -1,0 +1,112 @@
+Tank Events are now available on the Live Server! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tank Events are now available on the Live Server!
+Attention! Outdated news format. Content may not display correctly.
+28 April 2014
+<>
+Tankers!
+We are happy to announce the launch of tank events on the main server of War Thunder for CBT participants. To access them just press the “Events” button in the main menu and choose one of the three events (one for each game mode) after 16:30 GMT.
+Current schedule of tank events on Production server (GMT):
+from 00:01 to 04:00 and from 12:00 to 20:00 every day.
+All participants of the closed beta test will get the opportunity to select the tank events in the three game modes in different map locations. Tank progress has been wiped and you can assess the progression of armoured vehicle research from the 1st to the 5th rank without any limitations. The Nightly server schedule will be announced later. There is no “one computer per account” rule applied to the CBT on the main server, but please note that this limitation still applies to the Nightly server.
+Tanks purchase and research prices reduced by 90%; RP and Silver lions gain in tank events reduced by 90% as well.
+Please Note:
+All tank progress - researched vehicles and crew training, will be wiped after the start of the open beta test of the War Thunder ground forces! Our advice is that you do not spend Golden Eagles on crew training as this progress will not be carried over into the Open Beta, there will be a complete reset of all ground forces gains when they eventually do go live.
+<>
+Tanks Repaired with Silver Lions - No refund.
+<>
+Tank Purchases with SIlver Lions will be refunded automatically.
+<>
+Tank Module purchases with Silver Lions will be refunded automatically.
+<>
+Earned Silver Lions via tank play will remain credited to player.
+<>
+Premium tank purchases should not be active.
+<>
+Tank Module unlocks with Golden Eagles should not be active.
+<>
+Camouflage and Decal purchase with Golden Eagles should not be active.
+<>
+Tank Crew training with Golden Eagles - No refund.
+<>
+Research Point Conversion with Golden Eagles for Ground Force trees should not be active.
+<>
+<>
+Golden Eagles purchases for modules and premium vehicles will be locked and cannot be used!
+<>
+War Thunder team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

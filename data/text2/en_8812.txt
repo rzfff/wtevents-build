@@ -1,0 +1,103 @@
+[Event] Tank Football 2024! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tank Football 2024!
+11 March 2024
+Event
+<>Athletes and football fans!
+<>Take part in a football competition that’s going to leave a lasting impression. Participate in football matches, earn points and receive rewards!
+<>To help you prepare for the competition, from March 12th (11:00 GMT) until March 14th (10:45 GMT), training events without achievement progression are available.
+<>From March 14th (11:00 GMT) until April 1st (05:00 GMT) daily football matches are available at the following times: from 11:00-14:00 GMT, 16:00-22:00 GMT and 00:00-05:00 GMT.
+<>Join other players in a 3v3 event (solo), or gather your team and fight until the final whistle in a 4v4 event (squad). Use the energy of your dash and jump to hit the ball spectacularly and get rewards!
+<>Football Rewards!
+<>For every goal, assist or save, you’ll receive achievement progression points. Each reward is given for a certain number of points received during matches in the “Tank Football” events.
+<>For 20 points
+<>“Hit the Ball” decal
+<>For 50 points
+<>“Dragon Team” decal
+<>For 100 points
+<>“Best Footballer 2024” decoration
+<>For 200 points
+<>“Dragon Team Driver” profile icon
+<>
+<>
+<>For 300 points
+<>Coupon for the “Dragons” or “Tigers” Team banner decal
+<>For 400 points
+<>Coupon for a random football camouflage for the M551
+<>
+<>
+<>
+<>For 500 points
+<>Coupon for one of the golden decorations: Glove, Ball or Boot
+<> Please note: Rewards must be claimed manually. To do this, click on your name in-game, go to the “Tank Football” area and click the “Get Reward” button.
+<>The top 50 players on the leaderboard of every event will be granted with in-game titles:
+<>Top goalscorer — “Best striker 2024”
+<>Top assist score — “Best winger 2024”
+<>Top save score — “Best goalkeeper 2024”
+<>Event details
+<>You can see the exact conditions of each task and track your progress by clicking on your nickname and going to the Achievements → Tank Football menu.
+<>The coupons for the “Dragons” and “Tigers” decal, “M551 Football Camo” coupons and “Golden Football Decoration” coupons can be sold on the Gaijin Market.
+<>PlayStation and Xbox players can exchange each coupon for 100 Warbonds.
+<>Reward titles will be given to the top 50 players in each category until April 7th.
+<>Match rules
+<>Each match consists of two halves of 5 minutes each. As with mini-football, only pure playing time is taken into account.
+<>If the result is a draw, players receive an additional 2 halves of 1.5 minutes each. If at the end of two halves and extra time, it’s still a draw on the scoreboard, victory is not awarded to any team.
+<>To win early in a 3 vs 3 match, you must get a 3 goal advantage.
+<>To win early in a 4 vs 4 match, you must get a 5 goal advantage.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

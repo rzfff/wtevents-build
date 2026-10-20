@@ -1,0 +1,86 @@
+[Warbonds]“Steel Centurion”: Warbonds - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Steel Centurion”: Warbonds
+Attention! Outdated news format. Content may not display correctly.
+25 February 2021
+Warbonds
+<>The Warbond shop is available during the entire “Steel Centurion” season
+<>The Warbond shop is available from rank III and is part of the Battle Pass . You purchase items with a special currency - Warbonds, which you can obtain by unlocking Battle Pass levels.
+<>Open “Shop” → “Warbond shop” to see the assortment and we will show you some of the most interesting items.
+<>M14/41 (47/40)
+<>The Italian M14/41 (47/40) tank features an improved 47/40 mod.38 (47mm) cannon over its tech tree counterpart that allows for better penetration and handling on this well loved chassis. Tankers already familiar with the playstyle of low rank Italian vehicles will be all too acquainted with the cautious yet versatile playstyle the M14/41 series offers and the 47/40 is no exception. With angled armour on the defensive and decent all round mobility, be sure to add this Italian tank to your arsenal.
+<>P-40F-5 Lafayette
+<>In honor of Lafayette Escadrille, we find this American classic fighting for the French! Given over to the North African Free French forces from 1942, the P-40F provides a superb low rank fighter aircraft for the French aviation tree! Featuring the potent battery of standard 6 x 12.7mm found on most US fighters of the period as well as a decent array of secondary presets with bombs for ground battles, add some American flavour to your French lineup!
+<>MGB-75
+<>The MGB-75 is a small but powerful British motor gun boat boasting powerful primary and secondary armament for its position. With excellent 360 degree firing angles, good traverse and decent magazine size, you will always have your sights on target and guns ablaze! Boost your progress in the British Coastal Fleet by adding this MGB to your dockyard!
+<>All vehicles from the second season
+<> ★ MGB-75 (Britain, rank II)
+<> ★ Ki-45 hei/tei (China, rank II)
+<> ★ P-40F-5 Lafayette (France, rank II)
+<> ★ Pz.Kpfw. Churchill (Germany, rank III)
+<> ★ M14/41 (47/40) (Italy, rank II)
+<> ★ Chi-Ha Short Gun (Japan, rank II)
+<> ★ XP-50 (USA, rank III)
+<> ★ SMK (USSR, rank II)
+<>“Fox” emblem
+<>
+<>The 12th Bomber Squadron of the Royal Air Force was formed in 1915, fought on the fronts in both World Wars and still exists today.
+<>
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

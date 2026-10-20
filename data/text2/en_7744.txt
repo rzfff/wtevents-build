@@ -1,0 +1,118 @@
+[Market] Trophies with user-created “Danger Zone” camouflages - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Trophies with user-created “Danger Zone” camouflages
+Attention! Outdated news format. Content may not display correctly.
+17 June 2022
+Market
+<>40 new camouflages from content creators on the Live.WT portal arrive in the game with the user content support program.
+<>Unlock a unique trophy simply by playing the game! Activate your camo coupons, or sell them on the Market to get Gaijin Coins (GJN)!
+<>Contents in the “Danger Zone” trophy:
+Coupons for rare vehicles
+21 camouflage coupons for ground vehicles
+16 camouflage coupons for aircraft
+1 camouflage coupons for naval vessels
+2 camouflage coupon for helicopters
+Coupon for the “Danger Zone” decal
+<>In the Danger Zone update we have removed the camouflage rarity grades. All camos available in the trophy will be of the same rarity: green - “uncommon”.
+<>
+All camos from previous trophies will be converted to this rarity grade in the near future.
+<>To unlock the trophy, you will need a new “Danger Zone" key, which can be purchased on the Market for GJN.
+<> To the market
+<>How to get it?
+<>The “Danger Zone” trophy drops periodically (with a specific probability) in random battles in all modes (except for the cooperative PvE “Assault” mode).
+<>The minimum requirements to earn a trophy will be to participate in a battle, in a vehicle of rank II or higher, while achieving a battle-activity of at least 50%.
+<>Playstation and Xbox users can purchase a trophy in the in-game shop and open it for Golden Eagles.
+<>More about the Market and GJN
+<> The Market is a place where players can buy and sell various in-game items. Items are bought and sold using a special currency called Gaijin Coins that allow you to gain access to most War Thunder premium content.
+<>In other words, you can not only spend here, but also earn money! Now you can go to the Market directly from the game by selecting the appropriate link in the menu.
+GJN can be used to purchase Golden Eagles, meaning that their owners have access to RP transfer, crew skill training, modification purchases, and other features unlocked by the premium currency.
+GJN will be accepted not only on the Market, but also in the premium shop, so you can pay 100% of the cost of premium vehicles, Golden Eagles packs or premium account time with them!
+GJN will not disappear. Its balance is easy to replenish by trading unnecessary items on the Market.
+<>Learn how to create your own custom camouflages and earn real money through our Partnership program !
+<>About other trophies
+<> “Wind of Change” Trophy
+<> “Winged Lions” Trophy
+<> “Ground Breaking” Trophy
+<> "Direct Hit" Trophy
+<> "Hot Tracks" Trophy
+<> “New Power” Trophy
+<> “Raining Fire” Trophy
+<> “Viking Fury” Trophy
+<> “Ixwa Strike” Trophy
+<> "Red Skies" Trophy
+<> CONTRIBUTION AGREEMENT
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

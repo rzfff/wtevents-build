@@ -1,0 +1,93 @@
+[Event] March to Victory! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+March to Victory!
+Attention! Outdated news format. Content may not display correctly.
+1 April 2015
+Event
+Dear Players!
+Gaijin Entertainment is pleased to announce that we are implementing a new type of armoured vehicle to our military-historical online game War Thunder. The experimental model of the ST-1 Soviet tank is now in the ranks of Soviet, German and American ground forces lineups.
+Development of the ST-1 started even before the start of World War II. The first world war, which was also called “the trench war”, showed an inefficiency in the usual infantry breakthrough and required the creation of an absolutely new type of ground vehicle - something that could cross destroyed roads and ground torn apart from explosions. This is what the ST-1 was about - the first and the only model of a walking tank.
+Not only did it have an extremely high cross-country ability, the ST-1 also was almost immune to anti-tank hedgehogs and mines. Even more so, thanks to it unique looks, it would spread fear and panic in enemy infantry ranks. But at the same time, while “walking” the vehicle was highly vulnerable to different types of other weapons, even low calibre ones, which together with its high production cost forced the USSR to decline mass production of the walking tanks. 20 units were made in total, 5 of which were captured by the Germans and 3 were given to the US due to its technology exchange program.
+The developers of War Thunder have been collecting information from archives around the world to create the walking tank in the game. Different parts of ST-1 - some turret details, for example, were discovered in later projects of some Soviet tanks: the KV-1, the T-26 and also the T-60.
+If you want to read more about this unique vehicle, read our Developer's Blog here !
+Try out the new ST-1 tanks in action now in War Thunder through the “Events” menu!
+According to historical sources, the ST-1 was only given to the most experienced crews,
+so prove yourself in battle to earn the privilege of commandeering this monstrosity!
+In this event, your selected lineup does not matter - just join the queue as USA, USSR or Germany and have fun!
+1280x1024 | 1920x1080
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,103 @@
+[Event] Pages of History (July): The Jumping General - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (July): The Jumping General
+28 June 2024
+Event
+<>In this month’s Pages of History, you’ll be at the center of events that took place in different theaters of war. Sicily and Guam, France and the USSR: take part in battles with the vehicles corresponding to these historic battles and receive prizes.
+<>
+<>From July 1st until July 31st, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, and completing all of them will earn you a unique player icon.
+<>James Maurice Gavin was a Lieutenant General of the US Army, an outstanding theorist and practitioner of the use of airborne troops. As a colonel, he actively participated in the invasion of Sicily during Operation Husky, after which he was promoted to brigadier general. Despite this, he did not stop parachuting along his men, and became the only American general to make four combat parachute jumps during the war. For this, he received the “jumping general” nickname. He saw action until the end of the war, parachuting on D-Day and fighting in the Bulge.
+<> James Maurice Gavin
+<>You can immediately purchase this profile icon for Golden Eagles until August 3rd, 11:30 GMT without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>July 1st — July 4th
+<>Operation Seydlitz
+<>German forces counterattack near Rzhev during the protracted standoff in 1942. On July 2nd, the Wehrmacht launched an attack on the “cauldron”, in which part of Soviet troops found themselves trapped and defended off the Germans. This was the last operation to eliminate positions in the front line that formed as a result of the Soviet offensive in the winter.
+<>July 5th — July 8th
+<>Operation Citadel
+<>The Wehrmacht’s last strategic offensive on the eastern front began on July 5th 1943 near Kursk. It had been prepared for a long time, with Hitler personally having high hopes for it, but British intelligence learned about the Wehrmacht’s plans much in advance. They warned the USSR which strengthened its positions and repelled the German attack.
+<>July 9th — July 12th
+<>Allied invasion of Sicily
+<>The end of the North African campaign opened the way for the Allies to Italy, whom they had planned to withdraw from the war. The first to fall was Sicily, where a huge number of allied troops landed on July 9th 1943, and airborne assault played a special role. The Allies used the experience gained when planning the landing in Normandy a year later.
+<>July 12th — July 15th
+<>Battle of Soltsy
+<>After the invasion of the USSR in June 1941, the Wehrmacht quickly moved towards Leningrad, only occasionally meeting decent resistance. In the Leningrad region, Army Group North dispersed, and some of the units were stopped by Soviet troops and isolated: the swampy terrain did not allow armored vehicles to move freely. The Red Army struck one of these isolated Wehrmacht groups on July 14th, and the superiority in the number of German tanks did not help. The Germans had to retreat 40 km back.
+<>July 16th — July 19th
+<>Beginning of the Battle of Stalingrad
+<>On July 17th 1942, the largest and bloodiest battle in history began. The battle was for control of Stalingrad, a key city on the Volga that bears the name of the leader of the Soviet Union. Both sides threw millions of soldiers and thousands of pieces of equipment into battle, but ultimately the USSR emerged victorious.
+<>July 20th — July 23rd
+<>Battle of Guam (1944)
+<>On July 21st 1944, American forces landed on the island of Guam. In three weeks, with the help of numerical and technological superiority, they almost completely cleared the island of Japanese troops. July 21st has since been celebrated in Guam as Liberation Day.
+<>July 24th — July 27th
+<>Operation Mersad
+<>The final chord of the Iran-Iraq war sounded on July 26th 1988. The Mujahideen Organization of the Iranian People invaded the border regions of Iran from the direction of Iraq and with its support. However, at that time peace negotiations were already underway, and under pressure from the UN, the Iraq Air Force abandoned the escort of the PMOI ground forces halfway. This allowed Iran to quickly and with minor losses carry out Operation Mersad and destroy PMOI troops.
+<>July 28th — July 31st
+<>Operation Bluecoat
+<>On July 30th, 1944, British troops launched an attack on the city of Vire in Normandy. Due to bad weather, air support was limited and ground troops were stalled. Their advance came at a high price, as they lost almost 250 tanks, but the success of this operation was strategically important and ultimately led to the encirclement of a large German group in the Falaise pocket.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

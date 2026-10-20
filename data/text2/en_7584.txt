@@ -1,0 +1,121 @@
+[Event] “A fiery ball” is back! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“A fiery ball” is back!
+Attention! Outdated news format. Content may not display correctly.
+10 March 2022
+Event
+<>Fans of sports competitions freeze in anticipation of the football referee’s whistle. Step into the shoes of a football tank commander and hit the opponents' goal. This is the first of two popular events that not only return, but get better with valuable rewards for participants and winners!
+<>From 16:00 GMT on the 11th of March until 05:00 GMT on the 31st of March
+<>War Thunder welcomes you to the “Fiery Ball” event. With prizes!
+<>Rewards for the best players
+<>In this event, rewards will be given for goals and assists. The more points you score during the entire event, the more prizes you will get!
+<>
+<>
+<>
+<>
+<>Silver decorations for 10, 50 and 100 goals and assists.
+<>Coupon for gold decorations for 300, 600 and 1000 goals and assists.
+<>
+<>
+<>
+<>Coupon for one of the decals: "Dragons" Team banner or "Tigers" Team banner for 200 and 400 goals and assists.
+<>
+<>
+<>Coupon for the football camouflage for the M551 for 500 and 800 goals and assists.
+<>M551: Football camouflage "Tiger"
+<>M551: Football camouflage "Dragon"
+<>PlayStation and Xbox players can exchange each coupon they receive for 100 Warbonds.
+<>You can track your progress by clicking on “Nickname → Achievements → A fiery ball”.
+<>Training and participation
+<>The main stage begins at 16:00 GMT on the 11th of March. From that point on, every goal and assist in the event will bring you points. More points means more valuable rewards.
+<>Before the main stage, you can participate in the training event.
+<>“A fiery ball” is available in the events 3x3 (for random players, not in a squad) and 4x4 (for squads).
+<>Participation is possible in the following time windows: 16:00-21:00 GMT and 00:00-05:00 GMT. Matches that have already begun will be finished even after the end of the gaming window and all the points earned in them will be counted.
+<>Terms
+<>The match has 2 regular 5 minute halves each. In the case of a draw, players will get 2 additional periods of 1.5 minutes each. If the results after two additional periods is still a draw - the victory will not be awarded to any team.
+<>To win in the 3x3 match prematurely it is necessary to achieve a 3 goal advantage.
+<>To win in the 4x4 match prematurely it is necessary to achieve a 5 goal advantage.
+<>Daily Trophy
+<>Every day for your first victory in the “Fiery ball” event you will get a battle trophy with one of the random prize out of possible one:
+<>3-5 universal backup vehicles
+<>20-50% RP booster for 3-10 battles
+<>20-50% SL booster for 3-10 battles
+<>Random wager
+<>Random order
+<>You can track the status of your daily trophy by clicking on “Nickname → Achievements → A fiery ball → Daily reward“. You can get a new trophy from 16:00 GMT the following day.
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

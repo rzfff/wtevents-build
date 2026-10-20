@@ -1,0 +1,176 @@
+[Special] D-Day - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+D-Day
+Attention! Outdated news format. Content may not display correctly.
+5 June 2020
+Special
+<>On June 6th we celebrate the anniversary of the Allied landing in Normandy. D-Day was the largest sea landing in history, it began the liberation of France from Nazi occupation. The landing in Normandy opened the Western front in Europe and brought the anti-Hitler coalition significantly closer to Victory in World War II.
+<>From June the 5th (14:00 GMT) until June the 8th (7:00 GMT) receive an extra 30% of Silver lions and research points in 6 events with historic aircraft and ground vehicle setups
+<>5th - 8th June (14:00 GMT)
+<>Special bundles with a discount
+British "D-Day" bundle -30%
+The Kit Includes:
+<>
+Typhoon Pack
+M10 Achilles Pack
+Unique title: "Beachhead Gold”
+<>
+<>
+36,98 26
+Store
+US "D-Day" bundle -30%
+The Kit Includes:
+<>
+George Bostwick's P-47M-1-RE Thunderbolt Pack
+M18 Black Cat Pack
+Unique title: "Beachhead Omaha”
+<>
+52,98 37
+Store
+Complete "D-Day" bundle -50%
+The Kit Includes:
+Typhoon Pack
+M10 Achilles Pack
+George Bostwick's P-47M-1-RE Thunderbolt Pack
+M18 Black Cat Pack
+Unique titles: “Neptune”, "Beachhead Omaha”, "Beachhead Gold”
+89,96 45
+Store
+<> The final price of the bundle will depend on whether you already have some of the packs or not. Be sure to login to the store to see your individual price!
+<> Note! You can also get unique titles, if you log in to the game and gain one victory from the 5th of June to the 8th of June, and at the same time you have previously purchased all packs which are included in one of the bundles above (e. g. you have both vehicle packs included in “US "D-Day" bundle”). Titles and decals will be assigned after the 9th of June to all users who have fulfilled these conditions.
+<> The offer is valid for PC, Mac and Linux users only. PS4 and Xbox users will be able to get unique titles if they own all vehicles included in one of the bundles.
+<>Combat vehicles for Golden Eagles
+<>5th - 9th June (14:00 GMT)
+<>Get your chance to purchase premium George Bostwick's P-47M-1-RE Thunderbolt , 17pdr. M10 (65th Anti-Tank Regt) and Typhoon Mk.Ib for Golden Eagles.
+<>Playstation 4 and Xbox One
+<>PS4 and Xbox users will be able to get a 30% discount voucher every day for vehicles taking part in this offer. These vehicles will be available only till June 9th 13:59 GMT.
+June 5 from 14:00 GMT to June 6 13:59 GMT - 30% discount voucher for George Bostwick's P-47M-1-RE Thunderbolt , expired after 24 hours if not used;
+June 6 from 14:00 GMT to June 7 13:59 GMT - 30% discount voucher for M10 Achilles , expired after 24 hours if not used;
+June 7 from 14:00 GMT to June 8 13:59 GMT - 30% discount voucher for Typhoon Mk Ib , expired after 24 hours if not used.
+<>D-Day tournament series
+<>Register now to take part in tournaments in any gaming mode between 9th-15th of June. Tournaments run in two stages: group stage, and double elimination play-off stage.
+D-Day 4x4 AB
+Tournament details:
+<>
+<>
+Ground vehicles
+Up to 64 teams (Bo3)
+Starts: June 9th,
+16:40 GMT
+Prize fund: 61800 GE
+1st place prize for 4 players M10 Achilles pack:
+15 days Premium.
+Achilles (Rank III Britain)
+Enlist
+D-Day 5x5 RB
+Tournament details:
+Mixed battles
+Up to 128 teams (Bo3)
+Starts: June 11th,
+17:40 GMT
+Prize fund: 82400 GE
+1st place prize for 5 players Bostwick's P-47M-1-RE Thunderbolt pack and M18 Black Cat pack:
+30 days Premium.
+M18 "Black Cat" (Rank III USA)
+P-47M-1-RE Thunderbolt (Rank IV USA)
+Enlist
+D-Day 2x2 RB
+Tournament details:
+<>
+<>
+Mixed battles
+Up to 64 teams (Bo3)
+Starts: June 12th,
+01:40 GMT
+Prize fund: 30900 GE
+1st place prize for 2 players M10 Achilles pack:
+15 days Premium.
+M10 Achilles (Rank III Britain)
+Enlist
+D-Day 4x4 SB
+Tournament details:
+<>
+Air battles
+Up to 32 teams (Bo3)
+Starts: June 12th,
+17:50 GMT
+Prize fund: 61800 GE
+1st place prize for 4 players Typhoon pack:
+2000 Golden Eagles.
+7 days Premium
+Typhoon Mk.IB (Rank III Britain)
+Enlist
+<>Also, an additional tournament in mixed AB battles for up to 32 teams with a vehicle setup suggested by players especially for the anniversary of D-Day!
+D-Day 5x5 AB
+Tournament details:
+<>
+Mixed battles, up to 64 teams (Bo1)
+Starts: June 13th, 19:40 GMT
+Prize fund: 72 100 GE
+1st place prize for 5 players: M5A1 Stuart pack, including:
+15 days Premium
+M5A1 Stuart (5th Arm.Div.), rank II USA;
+Enlist
+<>How to take part in TSS tournaments?
+<>
+<>
+<>
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

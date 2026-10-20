@@ -1,0 +1,102 @@
+[Event] Pages of History (July) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (July)
+22 June 2023
+Event
+<>In this month's Pages of History you'll find yourself at the center of events that happened at numerous battlefronts. Sicily and Normandy, Iran and Guam, Rzhev and Stalingrad — participate in battles using the vehicles that were used in these historic events and receive prizes!
+<>
+<>From July 1st until July 31th you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, completing all of them earns you a unique player icon.
+<>Desmond Doss was a conscientious objector during World War II but still enlisted as a medic. Other soldiers initially despised him, but that quickly changed after he saved their lives during the battle for Guam. In Okinawa he single-handedly carried 50 to 100 wounded men from the battlefield. His deeds earned him the Medal of Honor and were immortalized in the 2016 Mel Gibson movie Hacksaw Ridge.
+Desmond Doss
+<>You can immediately purchase the profile icon for Golden Eagles until August 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (July).
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>July 1st — July 4th
+Operation Seydlitz
+<>During the Battle of Rzhev a part of Soviet forces advanced into the territory controlled by the Wehrmacht. The German command decided to cut off their supplies and clear them out, and began encirclement on July 2nd, 1942. It was successful: out of 60 thousand Soviet troops only 1500 managed to escape.
+<>July 5th — July 8th
+Operation Citadel
+<>On July 5th, 1943 German forces began their unsuccessful counteroffensive as a part of the Battle of Kursk. The Wehrmacht command hoped to utilize the element of surprise and quickly encircle the Soviet forces, but they were ready for a possible offensive and pushed it back.
+<>July 9th — July 12th
+Allied invasion of Sicily
+<>After their victory in Africa, the Allies moved to Sicily that later became a foothold for the attack on mainland Italy. On July 9th, 1943 the biggest landing operation at the time began: soon Sicily was taken, and Allies gained valuable experience that they later used in Normandy. In Italy these events led to the ousting of Benito Mussolini and the beginning of negotiations of surrender.
+<>July 12th — July 15th
+Battle of Soltsy
+<>On July 14th, 1941 the Red Army led a counter strike against the invading German forces under Soltsy in Northwest Russia. It was one of the first successful counter attacks of the USSR after the start of the invasion: it pushed the enemy back 40 km and allowed Leningrad more time to prepare its defenses.
+<>July 16th — July 19th
+Beginning of the Battle of Stalingrad
+<>On July 17th, 1942 the most important battle in the Eastern Front began: the Wehrmacht’s 6th Army led by General Paulus marched on Stalingrad. Germany planned to quickly take the city and move south to secure valuable oil at Baku, but the Red Army was ordered not to surrender Stalingrad at any cost. Controlling the city became a matter of prestige for both countries, and the battle lasted for over half a year.
+<>July 20th — July 23rd
+Battle of Guam (1944)
+<>The USA lost control over Guam in 1941, when Japan first invaded, and on July 21st, 1944 began an operation to retake it. Despite being more numerous, the American forces suffered from heavy rains, dense jungles, and desperate resistance from the Japanese who fought until the end.
+<>July 24th — July 27th
+Operation Mersad
+<>The final operation of the Iran-Iraq War. During the peace talks, on July 26th, 1988, Iraq-backed Mojahedin-e-Khalq Organization invaded Iran, hoping to march to its capital, sparking uprisings against Ayatollah Khomeini on the way. It depended on the support of the Iraqi Air Force, which backed out at the last moment, allowing Iran to easily destroy the MEK forces from the air.
+<>July 28th— July 31st
+Operation Bluecoat
+<>On July 30th, 1944 the Allied forces in Normandy began an operation to capture a road junction in the town of Vire, using the fact that the German forces withdrew from the area to regroup before their counteroffensive. The success of this operation left the Wehrmacht without additional forces for their counterattack and allowed the Allies to later surround a significant group of enemies in the Falaise pocket.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

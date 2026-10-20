@@ -1,0 +1,119 @@
+[Event] Combat Robots of Atomic Heart come to War Thunder! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Combat Robots of Atomic Heart come to War Thunder!
+11 July 2023
+Event
+<>As you know , combat robots from the Atomic Heart world are being tested on the battlefields of War Thunder.
+<>From July 11th (11:00 GMT) to July 31st (11:00 GMT), unique robots created at Enterprise 3826 will meet in battle with armored vehicles and helicopters of the Cold War era from the USSR and USA in Test Facility 2271.
+<>During the field tests, the testing personnel will be split into two teams - team ‘West’, and team ‘East’ - to deploy on the battlefield both conventional and experimental combat vehicles, such as Hedgie and Pchela robots. Players will have access to a predetermined set of vehicles, including M3 Bradley and BMP-2 infantry fighting vehicles, M60A2 and T-55A medium tanks, and AH-1F and Mi-24A helicopters.
+<> Join the event and get prizes!
+<>Completing battle tasks in the special mission will allow you to open prize stages and receive rewards corresponding to the number of stages. Tasks are divided into two types: those that start on a specific date and are available until the very end of the event, and temporary ones, which are relevant only for two days. Special tasks highlighted in the list below, might be performed simultaneously with each other and with temporary tasks.
+<> July 11th - 31st: defeat 30 enemies while controlling the HOG-7 Hedgiev in the Atomic Thunder event
+<>July 13th - 15th: score 20,000 points in the Atomic Thunder event
+<> July 15th - 31st: score 10 assists in repairing or fire extinguishing in the Atomic Thunder event
+<>July 17th - 19th: score 20,000 points in the Atomic Thunder event
+<> July 19th - 31st: defeat 20 enemies while controlling the WSP-9 Laser Pchela in the Atomic Thunder event
+<>July 21st - 23rd: score 20,000 points in the Atomic Thunder event
+<> July 23rd - 31st: defeat 40 robots in the Atomic Thunder event
+<>July 25th - 27th: score 20,000 points in the Atomic Thunder event
+<> July 27th - 31st: defeat 5 enemies while controlling a helicopter in the Atomic Thunder event
+<>July 29th - 31st: score 20,000 points in the Atomic Thunder event
+<>Battle tasks activate and expire at 11:00 GMT. You can track the terms and progress in the game by clicking on your nickname - Achievements - Atomic Thunder.
+<> Prizes
+“Thump it!” poster
+"Door Lock" decoration
+Profile icon “Twin Left”
+“Get ready" poster
+The “Swede” axe decoration
+Profile icon “Twin Right”
+<>Each unlocked stage will bring you a prize, depending on how many stages you have unlocked in total. In addition to each prize, you will receive a trophy containing RP and SL boosters for 10 battles, 5 backups, or 100,000 SL. List of prizes:
+<>1 stage: only Trophy
+<>2 stages: “Thump it!” or “Get ready” posters
+<>3 stages: Door Lock or ‘Swede’ axe decorations
+<>4 stages: “Thump it!” or “Get ready” posters
+<>5 stages: Door Lock or ‘Swede’ axe decorations
+<>6 stages: “Twin Left” or “Twin Right” profile icons
+<>7 stages: “Atomic Heart - MiG-15” or “Atomic Heart - War Machines” loading screens
+<>8 stages: “Twin Left” or “Twin Right” profile icons
+<>9 stages: “Atomic Heart - MiG-15” or “Atomic Heart - War Machines” loading screens
+<>10 stages: “Atomic Heart” title
+<>In addition, every day for 1 victory in the event, players will receive a combat trophy containing RP and SL boosters, a wager, an order, or an universal backup!
+<>“Atomic Heart - MiG-15” or “Atomic Heart - War Machines” loading screens
+"Atomic Hearts - MiG-15" - loading screen
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+“Atomic Heart - War Machines” - loading screen
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Meet the robots!
+<>HOG-7 Hedgie
+<>HOG-7 Hedgie is a topographic and geodetic robot with spherical armored hull and four legs. Features an alternative ‘tumbleweed’ moving mode, which allows the robot to accelerate to 30 mph, as well as jumping and slamming. Combat-ready HOG-7 robots come equipped with homing anti-tank missiles with HEAT warheads.
+<>WSP-9 Laser Pchela
+<>
+<>The WSP-9 is a small multi-purpose helicopter drone, equipped with a laser pulse emitter for clearing rubble and demolishing small buildings. For military purposes, the emitter can be effectively used to engage lightly armored vehicles and enemy troops.
+<>WSP-9 Repair Pchela
+<>To carry out repairs of agricultural, military and other equipment outside the repair shops, the WSP-9 drone is equipped with the electron beam welding torch, capable of repairing refractory metals of tank armor. In the army service, the Pchela repair drones are used by military technician and mechanic units. The Repair Pchela provides control over the BR-1 Burav robot.
+<>Ability: BR-1 Burav
+<>The mining robot BR-1 Burav was created at Facility 3826 as an autonomous equipment for earthworks, including in rocky conditions, as well as terraforming the Moon and other planets. It is a worm-like mechanism consisting of rotating cylindrical sections and a head with rotary underreamers. The BR-1 is controlled by repair robots of the WSP-9 series.
+<>See you in Test Facility 2271 in the Atomic Thunder event!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

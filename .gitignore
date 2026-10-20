@@ -1,0 +1,8 @@
+# 2026-10-20 git 化:代码与结构数据入库;可重抓的重语料不入库(注释注明原因)
+data/articles/          # 原文 HTML 存档,可重抓(warthunder 原文稳定)
+data/articles2/
+data/fresh/             # 增量抓取工作区
+data/text*/             # html2text 清洗产物,由 articles 再生
+data/lists/             # 列表页 HTML,可重抓
+data/*.tgz              # 打包传输件
+deploy/anhappy.conf     # 服务器配置副本,含 IP/端口,不入公开仓(正本在服务器+本地备份)

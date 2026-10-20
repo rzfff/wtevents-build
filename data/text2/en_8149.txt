@@ -1,0 +1,101 @@
+[Event] Tank Football 2023 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tank Football 2023
+29 March 2023
+Event
+<>Ladies and gentlemen!
+<>We’re excited to invite you to the War Thunder special tank football event! You will experience the reworked physics of tank to ball interactions, as well as new to the game goalie mechanics, which will allow you to earn mission points and progress up through goalkeeper achievements!
+<>To help you prepare for the competition, from March 15 (11:00 GMT) to March 17 (10:45 GMT), training events without achievement progression are available.
+<>From March 17th (11:00 GMT) to April 1st (05:00 GMT) daily football matches are available: from 11:00-14:00 GMT, 16:00-22:00 GMT and 00:00-05:00 GMT.
+<>Join 3vs3 matches for lone players, or lead your team to the victory in 4vs4 team matches. Dash! Jump! Hit! Gain rewards!
+<>Prizes
+<>For each goal, assist or save you will earn achievement progress points. Collect required number of points to get prizes!
+For 10 and 25 points
+One of football decals
+For 50 points
+“Best striker 2023” decoration
+For 200 points
+Profile Icon “Team Tigers driver”
+For 100 points
+Loading screen “Tank Football - Inspiration”
+For 300 points
+Coupon for one of the decals: "Dragons" Team banner or "Tigers" Team banner
+For 400 points
+Coupon for the football camouflage for the M551:
+"Tiger" or "Dragon"
+For 500 points
+Coupon for one of the golden decorations:
+Glove, Ball or Boot
+<> The best 50 players in the record chart of every event will be granted with prize game titles:
+Top goalscorer — “Best striker 2023”
+Top assist score — “Best winger 2023”
+Top save score — “Best goalkeeper 2023”
+<>You can receive the Tank Football rewards, as well as many other prizes, in the Lucky Piñata event .
+<>Details
+You may learn details of each task and track your progress by clicking your nickname, selecting “Achievements → Tank Football”.
+Coupons for Team banner decals, Football camouflages for M551, and coupons for golden decorators could be sold on the Market.
+PlayStation and Xbox players may exchange each coupon in 100 warbonds.
+Rewards stay available for purchase in the Achievements window till April 3 (12:00 GMT).
+Prize in-game titles for the top 50 players in each category will be awarded until April 7.
+<>Match rules
+The match includes two halves 5 min each. Net playing time counts only.
+In a draw, players get additional halves of 1.5 min each. If it is still a draw at the end of the halves, neither of the teams wins.
+For an early victory in a 3vs3 match, you need to achieve an advantage of 3 goals.
+For an early victory in a 4vs4 match, you need to achieve an advantage of 5 goals.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

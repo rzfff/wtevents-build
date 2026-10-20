@@ -1,0 +1,170 @@
+[Event] “The Battle for arachis” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“The Battle for arachis”
+Attention! Outdated news format. Content may not display correctly.
+6 April 2022
+Event
+<>
+<>This location doesn’t spare the weak or those that are allergic to nuts. But where there are people there is a room for self-interest. Obtain credits and the coveted army with a secure home will fall at your feet. Start immediately and become the sole owner of all of arachis!
+<>From 12:00 GMT on the 7th of April until 12:00 GMT on the 18th of April
+<>Obtain credits in the battles, use them to build an army and destroy your enemies on your way to the coveted rewards!
+<>
+<>Rewards
+<>
+<>USS Davis (DD-395) (rank III) — Premium, coupon
+<>Costs: 2 victory points
+<>Somers-class destroyer with deadly close-range AA battery
+<>
+<>Alecto Mk.I (rank I) — Premium,
+coupon
+<>Costs: 1 victory points
+<>British Alecto Mk.I SPG features low profile and punchy 95mm howitzer
+<>
+<>Kfir C.2 (rank VII) — event vehicle,
+coupon
+<>Costs: 3 victory points
+<>First serial Kfir fighter with canards and impressive payload
+<>
+<>Т-72М2 Moderna (rank VI) — event vehicle, coupon
+<>Costs: 3 victory points
+<>Slovak upgrade project to the Soviet T-72M mbt features modern fire control system, ERA protection and auxiliary remotely controlled 30mm autocannon
+<>How to participate
+<>Fight in multiplayer battles! After each battle you will be able to receive a supply crate with credits - currency that can be used in the “Workshop → Battle for arachis" menu.
+<>In the “Battle for arachis” you use the credits you earn in battle to build a base and units, which you then use to destroy enemy forces. After you have wiped the enemy from the battlefield you will get victory points which can be exchanged for exclusive prize vehicles.
+<>Key items
+<>Credits
+<>Needed to build bases and units. Open the supply crate with credits after the battle.
+<>Will be given out for each 10 minutes spent in the battle (from rank III and with activity over 50%).
+<>Supply crate has between 150 and 300 credits inside.
+<>Superweapon points
+<>Needed at the final stage of the battle. Exchangeable for a Heavy Lasgun.
+<>Will be given out for each 10 minutes spent in the battle (from rank III and with activity over 50%).
+<>After each battle with a small chance you can get ready a Heavy Lasgun.
+<>Upgrade points
+<>Can be exchanged for level 1 and level 2 upgrades which reduce the time for all attacks on the map.
+<>Will be given out for the 1st place in the battle.
+<>During a battle you can get several supply crates as well as superweapon points. The remaining accumulated time will be counted in the next battle.
+<>Game map
+<>Click “Map” in the “Workshop → battle for arachis“ menu to get to the game map. Five directions of attack will open in front of you. You must complete all of them in order to win a victory point.
+<>To attack the enemy forces in each square of the map you will need a certain number of your units. Attack will take time which you can wait out in the next battle.
+<>Your tasks
+<>Will be built at the base for credits and are necessary to build your units.
+<>Your units
+<>Will be built for credits if the necessary building exists on the base.
+<>Can be recruited from mercenaries which can be purchased on the Market.
+<>Enemy forces
+<>Enemy units, his defensive structures or buildings.
+<>
+<>Attacking enemy forces will expend the number of your units indicated in the description.
+<>Excess credits can be used to build mercenaries. These units are suitable for trading on the Market and can be taken into the army as normal units. Building mercenaries is noticeably more expensive than building normal units.
+<>Destroying enemy base
+<>The enemy base is located on the last attack line and its destruction isn’t fundamentally different from other battles except for attacking the last and most important enemy structure - the Construction Yard.
+<>To destroy the construction yard you need to create a heavy lasgun for superweapon points. After destroying the last enemy building the “Victory” button will appear.
+<>Click it to pick up a well deserved Victory point.
+<>
+<>Heavy Lasgun
+<>To earn more victory points you need to win in other battles. Each subsequent battle starts on a new map. Good luck!
+<>Receiving rewards
+<>For victory points you can order any exclusive event vehicle in any order!
+<>Kfir C.2 and Т-72М2 Moderna coupons can be purchased from the beginning of the event and until 12:00 GMT on the 2nd of May.
+<>USS Davis (DD-395) and Alecto Mk.I coupons can be purchased from 12:00 GMT on the 25th of April until 12:00 GMT on the 2nd of May. PlayStation and Xbox players can purchase these vehicles from 12:00 GMT on the 18th of April until 12:00 GMT on the 2nd of May.
+<>All event vehicles will be given out in the form of coupons which can be activated for your own account or traded on the Market.
+<>For the PlayStation and Xbox players
+<>The absence of the Market will not slow down your progress. In the “Workshop → Battle for arachis” menu you can purchase special item for Golden Eagles:
+<>Supply crate (2000 credits)
+<>Contains the credits needed to build buildings and units to pass the game map.
+<>Palace
+<>Unique building that allows you to get additional superweapon points in battles without restriction, 6 units for every 10 minutes spent in the battle.
+<>Details
+<>All event items can be obtained in the following game modes:
+<>Ground AB, RB and SB.
+<>Aircraft AB and RB.
+<>Naval AB and RB.
+<>“Children of arachis” event.
+<>The total number of the items received in battle is limited.
+<>Supply crate — up to 40 per day and up to 400 during the event (until 12:00 GMT on the 18th of April).
+<>Superweapon points — up to 40 per day and up to 320 during the event (until 12:00 GMT on the 18th of April).
+<>Upgrade points — Up to 240 during the event (until 12:00 GMT on the 18th of April).
+<>It is possible to trade event items on the Market as listed in their description.
+<>Each attack on the map takes time. It can be shortened by collecting and using level 1 upgrade (20 upgrade points) and level 2 upgrade (40 upgrade points).
+<>Event deadlines:
+<>Supply crates, Superweapon points and upgrade points can be obtained in battles from 12:00 GMT on the 7th of April until 12:00 GMT on the 18th of April.
+<>You can participate in battles on the game map until 12:00 GMT on the 25th of April.
+<>You may trade all event items except vehicle coupons on the Market until 11:30 GMT on the 25th of April.
+<>At 12:00 GMT on the 25th of April all event items except victory points and vehicle coupons will be removed from inventory and from the Market.
+<>At 12:00 GMT on the 2nd of May victory points will be removed from inventory. Exchange them for the event vehicles before this date!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

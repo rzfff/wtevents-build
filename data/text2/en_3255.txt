@@ -1,0 +1,95 @@
+[CDK] Creating 3D Models for aircraft in War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Creating 3D Models for aircraft in War Thunder
+Attention! Outdated news format. Content may not display correctly.
+10 August 2015
+CDK
+The War Thunder Content Development Kit (CDK) is an official set of tools that allow you to create your own user generated content for use in War Thunder. If you have ever wanted to design your own aircraft 3D models, custom maps, missions and skins, the CDK is an extremely useful tool for putting your own personal work into War Thunder and allowing you to use your creations in game.
+<> 3D Aircraft Modeling in the War Thunder CDK
+Creating 3D models is one of the most popular functions of the CDK as it allows players to design and create their favorite aircraft and see them fly in the skies of War Thunder. The tools provide the option to not only model the 3D aircraft visual model, but create a complex layered system including a damage model with modules as well as fully working features such as landing gear, flaps and more. Not only this, but the tools allow you to work and develop your own customized cockpits for either your own aircraft creations, or to use on aircraft in game.
+As well as creating your own content for your own use, you can also share your work with others or download the creations of other players on the War Thunder Live site. You can try out some of the community's creations for yourself and see first hand the potential of the War Thunder Community Development Kit below.
+<>
+<>
+Ta 154A4 by NovA29R
+He 129A by Joy_Division__
+<> Interested in learning more?
+The War Thunder Wikipedia has a range of articles spanning the CDK’s features and will help you to produce a variety of content and assist you to getting your creations in War Thunder:
+Creating 3D Models for aircraft | Creating 3D Cockpits for aircraft
+<>
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

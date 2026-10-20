@@ -1,0 +1,82 @@
+[Event] Viva l'Italia! Fiat G.56: Improved Energy Fighter - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Viva l'Italia! Fiat G.56: Improved Energy Fighter
+Attention! Outdated news format. Content may not display correctly.
+14 July 2017
+Event
+From 12:00 GMT in the 14th of July till 07:00 GMT on the 17th of July
+Participate in aircraft races with Italian aircraft
+and win a unique camouflage created in memory of our consultant
+for Italian aircraft, Marco Oculisti.
+<> Terms and Prizes:
+1 first place victory - Unique "Viva l'Italia" camouflage for the G.56
+100 position rating in the leaderboard - Unique "Herringbone" D1A camouflage for the G.56
+<>The race will take place with the following aircraft: G.55 serie 1, G.55 sottoserie 0, G.55S and G.56 in Arcade and Realistic Battles.
+The War Thunder team would like to express our gratitude and remember Marco Oculisti. A good man who was at the root of the Italian Tree community effort. Marco is no longer with us, but the Italian Tree he started and helped to develop has found its way to our players. To commemorate his honourable efforts, we are releasing 2 tribute camouflages: "Viva l'Italia" and "Herringbone" D1A, available for the G.56 aircraft. They have been completed by Arthur 'Pacifica' Carley who worked with Marco during the initial phase of the Italian Tree production.
+The G.56 is a further development of the excellent Italian G.55 fighter, featuring a more powerful German late war engine. Although it never managed to leave behind a proper mark in military history due to never progressing past prototype stage, it sure leaves more than a mark on the airframe of its foes in War Thunder! Let’s take a closer look at one of Italy’s most powerful piston engine fighters ever developed.
+History ▼
+In December 1942, the news many Italian aircraft designers have patiently been waiting for had finally arrived - Germany is to begin shipping their new DB.603 engines to Italy the following year. Almost immediately, the Italian staff of military aviation, whilst still being under the influence of the positive impressions left by the G.55 Centauro, contacted Fiat to begin research on a new design, equipped with the newly acquired engine. Several months later, in April 1943, the first batch of the new German engines arrived and Fiat started production of two prototypes of the new G.56. The new aircraft was visually very similar to its predecessor, making it almost indistinguishable from the G.55 Centauro. In fact, the G.56 was purposely designed on the basis of the G.55 as one of its variants, rather than a new standalone design. By doing so, Fiat was able to build up on the good performance of the G.55 and make it even better. That being said, the biggest changes to the design happened to the nose section of the aircraft, which was lengthened by 8 cm to house the more powerful German engine. In addition to that, the G.56 lost the two nose-mounted 12.7mm Breda machine guns in order to help counter the additional weight of the much heavier DB.603 engine.
+On paper, the changes applied to the G.56 made it seem like it would be the top performing Italian fighter ever developed until that point, even rivaling some of the best German fighters of the war, like the Bf-109 and Fw-190. This sparked the interest of the German ministry of aviation, making them consider a possible serial production of the aircraft for the Luftwaffe, though this idea was eventually dropped due to logistical problems.
+Once the first prototype was finished, testing began in March 1944. There, the G.56 showed exceptional performance, being able to reach speeds close to 700 km/h whilst maintaining good overall handling at high speeds. However, after an allied bombing raid left the first prototype in ashes, testing halted until July when the next prototype was ready. Testing resumed until September 1944, after German authorities ordered the discontinuation of all work on the G.56, seeing how the aircraft wasn’t any better than later modifications of Bf-109s and Fw-190s and production becoming increasingly more difficult. This was the final nail in the coffin for the G.56 project, leaving it at prototype stage with only 2 aircraft built.
+<>
+With its introduction in Update 1.69 “Regia Aeronautica”, the G.56 represents the pinnacle of Italian piston engine aircraft design, paving the way into the jet era at rank four. Players who enjoyed piloting the G.55 through the ranks of the Italian research tree will likely also enjoy flying the G.56. The aircraft features comparable handling characteristics to the G.55, making a transition from earlier models as pleasant as it can be. However, unlike the Centauro, the G.56 sports a much more powerful Daimler-Benz DB.603 engine, capable of pushing out 1750 hp on take off, as opposed to the 1450 of the Centauro. This upgrade allows the aircraft to reach high speeds faster compared to previous models whilst also increasing its top speed, rate of climb and energy retention. Though this upgrade contributes significantly to the performance of the G.56, it’s also worth pointing out its downsides. The new engine’s weight is greater than that of previous models, making the nose of the aircraft heavier. For this to be countered, firepower of the G.56 had to be decreased in order to save on weight. This lead to the removal of the pair of high caliber machine guns from the nose section, leaving the aircraft with a still respectable arsenal of three 20mm MG 151 cannons.
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+Similarly to his predecessors, the G.56 excels at energy fighting and short, high-speed turning engagements. Sticking around in a prolonged maneuvering fight, especially against opponents such as later models of the Spitfire, will bleed out most of your energy, leaving you and your aircraft at the mercy of the enemy, thus it’s best to avoid them and break off in time. Once you have a target in your crosshair, take lead and open fire. The 20mm cannons equipped on the G.56 reward good aim by being able to practically incapacitate your opponent’s aircraft in a single, well-aimed burst.
+Had the opportunity to try out the G.56 yourself or have you been one of its victims? Describe and share your experiences with this particular Italian aircraft in the comments with others. Until next time pilots!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

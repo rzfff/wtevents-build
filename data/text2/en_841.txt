@@ -1,0 +1,141 @@
+[Devblog] New Aircraft Incoming - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+New Aircraft Incoming
+Attention! Outdated news format. Content may not display correctly.
+11 September 2014
+Devblog
+<>
+Dear players!
+<>
+We'd like to present to you a selection of the most interesting articles from our " Developer Diaries ", with the new additions to the Air Forces of War Thunder that you can expect in update 1.43 !
+<>
+<>
+<>
+<>
+Ki-43-II (in camouflage USAAF)
+<>
+Nakajima Ki-43 Hayabusa was a single-engine fighter used by the Imperial Japanese Air Force. Army designation was “Army Type 1 Fighter” aka “Oscar or “Army Zero”. Armament was 2x 12.7mm machine guns Ho-103 and it had maximum speed of ~558 km/h.
+<>
+<>
+<>
+B-57A Canberra
+<>
+The Martin B-57 Canberra was officially test flown on July the 20th, 1953, and was the first aircraft of overseas design to be manufactured in the United States since World War I.
+<>
+<>
+<>
+Horten Ho.IX (Ho.229)
+<>
+In our first publication about Horten H.IX (Ho.229) we showed you a couple of screenshots of the “flying wing’s” 3d-model. We are happy to announce that currently Ho.229 is being tested and its FM is being tuned.
+<>
+<>
+<>
+I-16 type 5
+<>
+In a future update, the Soviet fighter line will receive an addition, the I -16 type 5, which is less suited to short-range air combat and is less maneuverable than its peers, but it has the advantage of speed and rate of climb. Additionally, it will also have 8 kinds of camouflage available.
+<>
+<>
+<>
+IL-28
+<>
+The closing of the Second World War marked the beginning of the era of jet aircraft. The draft design of the IL-28 was adopted on January 12th, 1948. On July the 8th, 1948, the IL-28 bomber flew its first flight.
+<>
+<>
+<>
+Lancaster Mk.I, Update Lancaster Mk.III
+<>
+The Avro Lancaster – a British four-engined heavy bomber in service with the Royal Air Force from 1942. The Lancaster Mk.I was equipped with “Merlin” XX, 22 or 24 engines. Defensive armament were 8 guns mounted in three turrets – 2 “Browning” MG’s mounted in the nose and upper turrets and 4 in the tail.
+<>
+<>
+<>
+Venom FB.Mk.4
+<>
+The Venom FB.Mk.4 – an improved modification of the Venom FB.Mk 1 with power-driven ailerons, a modified tail and ejection seat. The construction of the Venom was based on the Vampire Mk.8, equipped with a more powerful engine that has significantly increased it’s speed limit.
+<>
+<>
+<>
+J7W1
+<>
+J7W1 “Shinden” (“Bright Lightning”), a Japanese single-engine, high-speed, short range interceptor manufactured by “Kyushu” (formerly known as “Watanabe”). Made to satisfy the requirements of the naval specification No. 18-C (J7W1) and equipped with the Mitsubishi “MK9D” (Ha-43 Type 42) engine.
+<>
+<>
+<>
+Nakajima Kitsuka
+<>
+One result of the Japanese-German cooperation was a twin-engine jet aircraft fighter-bomber, the Nakajima Kitsuka (Kikka), whose name translates from the Japanese as “wild orange flower.” This aircraft was also designated “Imperial Weapon No.2″ by the Japanese.
+Other articles on updates in Air War Thunder that you can expect in 1.43, you can read on https://devblog.warthunder.com/
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

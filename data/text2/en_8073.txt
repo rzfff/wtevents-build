@@ -1,0 +1,102 @@
+[Event] Pages of History (February) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (February)
+30 January 2023
+Event
+<>For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon
+<>A detailed description of the current task as well as your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>American general who commanded American and European forces during the Gulf war. Under his leadership the coalition reached all its goals with minimal casualties: Kuwait was liberated, and the Iraqi army was decimated. Upon returning home he led a victory parade in Washington DC — the biggest since World War II.
+Norman Schwarzkopf
+<>You can immediately purchase the profile icon for Golden Eagles until March 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (February).
+<>Trophy with a reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>February 1st — February 4th
+Kingisepp–Gdov offensive
+<>During the entirety of February, 1944, the Leningrad Front of the Soviet Army had been leading a massive offensive on the positions of German forces. As a result the towns of Kingisepp and Gdov were liberated, but Army Group North was far from being routed.
+<>February 4th — February 7th
+Operation Sonnenblume
+<>After a series of crushing defeats of the Italian Army on the North African Front Mussolini had to accept Hitler's help. In early February of 1941 the Wehrmacht sent two tank divisions into Libya, led by Erwin Rommel — and already in early April they led a successful counteroffensive, pushing the British forces from Cyrenaica.
+<>February 8th — February 11th
+Lam Son 719
+<>During the Vietnam War the Viet Cong used the Ho Chi Minh Trail through Laos to transport troops into South Vietnam and supply them. On February 8th, 1971 the South Vietnamese army began an operation to destroy the Trail. American ground forces weren't allowed to enter Laos, so the US provided artillery and air support. Due to successes of Viet Cong's intelligence and failures of South Vietnamese Army leadership, the operation was a failure, and their forces started withdrawing from Laos a month later.
+<>February 11th — February 14th
+Operation Cerberus
+<>In February of 1942 the German fleet undertook an operation to relocate three of its big vessels from West France to North Germany. The shortest route was through the Dover Strait, so the Germans took numerous measures to ensure the safety of their passage. The Royal Air Force undertook almost 700 sorties but failed to sink even a single German ship.
+<>February 15th — February 18th
+Battle of Demyansk
+<>In late February of 1943 the Red Army tried to encircle and destroy the German forces in the Demyansk Pocket, a well fortified salient in the Novgorod region. The operation was a failure: the Wehrmacht had successfully evacuated its forces from Demyansk with losses five times less than that of the Soviet Army.
+<>February 19th — February 22nd
+Battle of Kasserine Pass
+<>On February 19-22, 1943 the Allies and Axis powers fought in the Atlas mountains in West Tunisia. It was the first battle of American troops on the North African Front, and field marshal Rommel used the enemy's lack of experience to perform a successful attack. The Allies took serious casualties, and that led to a reshuffle in their command: general George Patton became the commander of the US forces, and he eventually ended the Tunisia campaign with Allied victory.
+<>February 22nd — February 25th
+Operation Grenade
+<>In late February of 1945 the Allies were ready to invade Germany from the west. For the US 9th Army it meant crossing the Roer river from the Netherlands, but the Germans opened the sluices, flooding the river, and guarded the other bank. It was on February 23rd when the 9th Army finally managed to cross the river, marking the beginning of several successful operations.
+<>February 25th— February 28th
+Battle of Norfolk
+<>On February 27th, 1991 the biggest tank battle of the Gulf War was fought, with at least 12 divisions participating. American and British forces have crushed the Iraqi Army, having destroyed over 850 tanks. The war was over the very next day.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+<

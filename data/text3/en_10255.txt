@@ -1,0 +1,84 @@
+[Fixed] It’s fixed! №118 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+It’s fixed! №118
+7 October 2026
+Fixed
+<>Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check out the changelog section on our website .
+<>If you’ve found a bug that you’d like to report, you can do so on our community bug reporting platform .
+<> Refinement of the bomber damage model
+<>The update to the bomber damage model significantly changed gameplay across many Battle Ratings and received a positive reception. However, the updated aircraft were sustaining too little damage. Today, we have implemented comprehensive adjustments to the damage model to ensure that bombers are not excessively survivable.
+<>First of all, we revised the aircraft skin settings so that HE shell fragments and small-caliber machine-gun fire should better penetrate bomber skins and damage internal modules. Previously, even large high-explosive shells often failed to deal sufficient damage when hitting vulnerable areas.
+<>Another issue occurred as well: even high-speed collisions between bombers and fighters often failed to cause damage. We’ve made a number of adjustments: damage from aircraft collisions is being increased. Ramming will once again become an effective last resort!
+<>These changes were made based on your feedback, and we hope you enjoy them. Be sure to try them out and share your thoughts!
+<> Updates to the Southeastern City location
+<>Southeastern City has undergone significant revisions. The most important change was the switch to height-map technology, similar to the recent update for the Afghanistan map, which allows for a more detailed landscape. Specific terrain elements were also improved: the map now features detailed sandy and rocky shores, the mountains have more textured surfaces, and forests and villages have been added to the northern section, which previously consisted only of open fields. Vegetation has also been improved; existing models were replaced with new ones and the ground cover is now denser, with trees appearing on mountain slopes as well. The finishing touches included reworking the water color and adjusting weather settings to make the map look more vibrant than ever before.
+<> We’ll also soon launch testing for Nuclear Escalation on this map !
+<> Nuclear Escalation Fixes
+<>Speaking of Nuclear Escalation! Alongside expanding the list of locations, we’ve fixed a number of issues affecting the logic of mission, buildings, and ground vehicles.
+<>Previously, damage to ground vehicles would often effectively disable them without destroying them completely; vehicles would fail to resume movement after running gear repairs or crew replacement. Now, however, after a vehicle is damaged, the crew will recover, get the vehicle back in working order, and continue on to their destination.
+<>However, there were two other bugs that prevented the convoys from successfully reaching their destination. Not only could convoys block each other and get stuck, but a convoy might not even have left the armored vehicle depot at all, since another convoy at the garrison (the destination) was considered active, which prevented the dispatch of a new one. These bugs have now been fixed.
+<> Missile Fixes
+<>Due to errors, air-to-air missiles could either deal very little damage or no damage at all. For example, because of an error in the fuse’s logic, air-to-air missiles and surface-to-air missiles failed to damage rapidly approaching enemy missiles, detonating slightly before the point of closest approach. And due to an error in the logic governing the missile’s explosion itself, in some cases they failed to inflict damage on other aircraft from direct hits and explosions.
+<> That’s not all
+<>Check out the full list of fixes and improvements in the update notes below! Here’s some more: weapon icons on the tactical map now appear on a layer below player markers and no longer overlap them; wheeled vehicles no longer shake when they lose all the wheels on one side; aircraft carriers now move from the edge of the map to its center on all Air Battles maps where they appear, and the view in VR no longer jitters when the game is launched using the DirectX 11 graphics API.
+<> Update 2.59.0.11
+<> Update 2.59.0.38
+<> Update 2.59.0.49
+<> UPDATE 2.59.0.54
+Read more:
+Get the AMV (BMP-3) in the Desert Predator Event!
+28 September 2026
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Nuclear Escalation: Testing the Upgraded Southeastern City!
+7 October 2026
+Don’t Miss the WTCS Challenger League Major III Playoffs!
+2 October 2026
+Share the news with your friends!
+<

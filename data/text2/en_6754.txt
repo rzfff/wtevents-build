@@ -1,0 +1,103 @@
+[Warbonds] Premium vehicles for Warbonds until the 30th of June - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Premium vehicles for Warbonds until the 30th of June
+Attention! Outdated news format. Content may not display correctly.
+31 May 2020
+Warbonds
+<>We present to you a assortment of Warbond shop items for June. Fulfil Battle Tasks, earn Warbonds, and grab your rewards!
+<>Battle Tasks will be available to you after reaching and purchasing a 3rd rank vehicle in any nation in-game. You can read more about battle tasks and war bonds in our devblog and on War Thunder wiki .
+<>These items will be available until the 30th of June!
+<>The detailed list of the Warbond items in the shop this month:
+<>
+<>🔸 Premium vehicles
+<> Independent
+<> Yak-3 (France)
+<> P-47D (Germany)
+<> IAR-81C
+<> Chi-Ha Short Gun
+<> Elco 80 ft PT-556
+<> SMK
+"Willie Wolf" emblem
+<>🔸 "Willie Wolf" emblem, No. 408 Squadron, RCAF, 1945. Decal by Colin 'Fenris' Muir.
+🔸 Battle trophy (test drive): Sherman IC "Trzyniec", Т-34-85 №215, Mi-24P HFS 80, J2M5, F-89D, Pr. 7U Stroyny
+🔸 Trophy box containing boosters for 30%, 60%, 90%, 300%, 600%, 900% RP and SL for one battle.
+🔸 Trophy “Decorators” (Camouflage).
+🔸 Trophy “Decorators” (Helmets).
+🔸 Battle trophy (Order).
+🔸 Trophy (Tankers player’s icons).
+🔸 Battle trophy (Vehicles): М3 Medium (USSR), CR.32 bis, P-26A-34, Boston Mk.I, He 112 B-2/U2, LaGG-3-34.
+🔸 Medium and big sets of universal back-up vehicles. A player can activate this item to backup any one vehicle of their choice.
+<>Independent
+<>From the nation that originally created the tank, comes the British multi-turret A1E1 that fathered almost all multi-turret tank designs of the period. An inter-war design, the Independent bares many of the classical WW1 style tank philosophies into its design, whilst also offering new possibilities. This iron “landship” will be sure to strike fear into the hearts of all who see this beast advancing towards them!
+<>P-47D (Germany)
+<>A Thunderbolt under the Iron Cross and ready to serve in the Blitzkreig of German combined arms battles! The German P-47 typifies the most classic model of this American fighter, armed with 8 x 12.7mm Browning machine guns and boasting quite a change in performance to what most German pilots are used too. This captured variant does not come with the wide array of ground attack options as its USAAF cousin, but German Pilots will welcome the chance to grab a true Wunderwaffe from their American adversaries!
+Where can you find Warbonds?? ▼
+<>Click on the 'Daily Tasks' icon from the War Thunder in-game hangar.
+<>
+<>
+<>On the menu that opens, click on the 'Warbond Shop' icon in the bottom right corner.
+<>
+<>
+<>You can now view the range of Warbonds available by clicking on on the various icons.
+Purchases can be made with the 'Purchase' icon in the bottom right corner.
+<>
+<> Battle tasks: These individual tasks bring variety to your gameplay and prevent situations where all the players in a battle try to complete one specific task, effectively ignoring mission objectives that are needed for a victory. They are available for players that have reached the 3rd rank of any nation. On completion, players will receive Silver Lions, and Warbonds - a special in-game currency with their own specific shop, where you can purchase many different items.
+<>
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

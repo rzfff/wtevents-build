@@ -1,0 +1,114 @@
+[VDay] Victory Day with War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Victory Day with War Thunder
+Attention! Outdated news format. Content may not display correctly.
+5 May 2017
+VDay
+Download Wallpaper 1280x1024 | 1920x1080 | 2560x1440
+<> Warriors, today we celebrate Victory! Don’t miss your chance to participate in the special events and even receive the famous ‘Weapon of Victory” - the legendary MLRS BM-13 on the Studebaker US6 chassis also known as “Katyusha” and other prizes!
+<>
+From May 6th 11:00 GMT to May 10th 11:00 GMT
+"КATYUSHA"
+The legendary MRLS is now available in War Thunder. Are you ready to own one?
+<> Ready!
+<>
+<>
+From the 5th of May (11:00 GMT) until the 10th of May (11:00 GMT)
+"VICTORY STAR" DECAL
+For every five battles whilst using rank 3 or higher vehicles with an activity of 70% and more, you will receive a “Victory Star” decal.
+<>
+From the 8th of May (11:00 GMT) until the 10th of May (11:00 GMT)
+WWII CHRONICLES FINAL
+Those that complete the WWII Chronicles tankers task on the 8th of May will receive the PPSh mod 1942 3d decoration.
+From the 5th of May (11:00 GMT) until the 10th of May (11:00 GMT)
+SPECIAL DISCOUNTS UP TO 50% IN GAME AND STORE
+<>30% discount for all the “Allied” vehicles including premiums!
+<>50% discount on premium account for 90 and 365 days!
+<>50% discount on premium account for 180 days in the Gaijin Shop
+<>Special premium vehicle bundles with a discount of up to 50%!
+<> More info →​
+<>
+<>
+From May 7th (07:00 GMT) until May 10th (11:00 GMT)
+"VICTORY HOUR" - CAPTURE THE BERLIN PvE EVENT
+In the PvE mission 'Victory Hour' your main task is to destroy all forces defending the Reichstag. Follow the waypoints and advance with full force!
+Mission details: ▼
+<>The “Victory hour” mission can be found in the “Events and tournaments” tab.
+<>Each player has access to the following tanks: Т-34-85 (D-5Т), Т-34-85, Su-85M, IS-2 mod. 1944. You can start the mission using any tank except the IS-2 which will become available once you earn some Spawn Points.
+<>Event “Victory Hour” will be available during holidays.
+<>The number of sessions for the event is limited, which can lead to longer waiting times.
+<>Up to 4 players can participate in the mission cooperatively (time to get a coordinated team!)
+<>To participate in the event, you should have at least one vehicle at rank IV.
+<>For being victorious in this mission, you will be rewarded with the unique ‘Victory Day’ banner:
+<>
+From May 5th (15:00 GMT) until May 10th (11:00 GMT)
+"VICTORY DAY" TOURNAMENTS
+All players who reached the 3rd rank of any nation will receive two tickets for 60 battles each for participating in the tournaments.
+Also, achieve a prize-winning place in the high scores table and you will also become the proud owner premium vehicle prizes:
+<>
+Top 200 Tankers
+Top 200 Pilots
+<>
+<>
+<>
+<>
+Premium SPG SU-76M 5th Guards Cavalry Corps
+Premium aircraft I-301
+<> More Details →
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

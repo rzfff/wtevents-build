@@ -1,0 +1,128 @@
+[Event] [BattlePass] Meet Skilled Marksman, the 16th Season of the Battle Pass! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Meet Skilled Marksman, the 16th Season of the Battle Pass!
+22 July 2024
+Event
+BattlePass
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>There’s a skilled marksman in town! Meet season 16 of the Battle Pass, featuring a flying boat and the main reward, the devastating Sholef Israeli SPG. This tank features a 155 mm gun that’s capable of taking out a range of enemies thanks to its ammunition range. All in season 16!
+<>To receive Battle Pass rewards, you’ll need to regularly log into the game and complete tasks and challenges. Each level of the Battle Pass will earn you a prize, be it a player icon, loading screen, title, decals, decorations, or 2 brand-new premium vehicles!
+<> NEW!
+<>For the naval vehicle this time, we’ve created a trophy featuring 3 naval Battle Pass vehicles from previous seasons that were not available in coupon form, and 1 naval event vehicle. When opening this trophy, you’re guaranteed to get either the PT-658, MTB-422, Z25 or TKA-106 if you don’t already have them. If you have them all, you’ll get some Silver Lions and Collector Golden Battles Wager instead.
+<>In the future, we’re planning to rotate different Battle Pass trophies that contain a different set of event vehicles that were not available in coupon form too.
+<>Collector Golden Battles Wager
+<>The maximum reward for this wager is 1000 GE. You need to win 12 battles using rank III — VIII vehicles while destroying at least one player vehicle in each match. If you lose your match or don’t destroy a player three times the wager will be over.
+<>
+<> Meet Season 16 of the Battle Pass!
+<> When: July 24th until October 23rd.
+<>This Season’s Rewards!
+<>We’ve got a new set of decals, decorations, a profile icon a trophy containing previous naval Battle Pass vehicles, and two vehicles lined up for you this season! See the full list in the Battle Pass tab in the hangar, or check them out on our Wiki. Here’s some key rewards for Season 16:
+<> Trophy with a previous vessel
+<>
+1 random naval vehicle (PT-658, MTB-422, Z25 or TKA-106) from previous Battle Pass seasons or events
+<>Opening this trophy will give you 1 random naval Battle Pass vehicle from the previous seasons, or one from a previous event. If you already own all of them, you’ll be given Silver Lions and Collector Golden Battles Wager.
+<> PBM-5A Mariner
+<>
+A Premium Hydroplane / Torpedo Bomber for the USA at Rank II I
+<>The PBM-5A is a huge flying boat featuring 100, 500, 1000 lb, AN-MK1 bombs and Mk.13 torpedoes. For defensive armament, there’s 8 machine guns. A fun aircraft for naval, ground and air battles!
+<> Sholef V.1
+<>
+A Premium SPG for Israel at Rank IV
+<>The Sholef V.1 is a SPG featuring a huge 155 mm gun fitted onto a Merkava Mk.1 chassis. This gun is housed in a large turret, can fire HE and fuze shells and has an autoloader. Perfect for taking out a range of enemies!
+<>
+<>
+<>
+<>
+Decals
+<>Emblem of the 213th Artillery Brigade
+<>Emblem of the 7338th Artillery Brigade
+<>Emblem of the 209th Artillery Brigade
+<>Emblem of the Patrol Squadron 50
+<>
+<>
+<>
+Decorations
+<>Selectable Assault Battle Rifle
+<>Laser Designator Rangefinder
+<>Davy Crockett
+Profile icon
+<>Skilled Marksman
+<> All rewards and challenges for season 16
+<>About the Battle Pass
+<>If you’ve got two Coupon Upgrades from stages in the previous season, then you can claim the new Battle Pass for free! Exchange them in the purchase menu of the Skilled Marksman season.
+<>The Battle Pass is a seasonal event where players can earn many rewards, ranging from Silver Lions and boosters to exclusive season prizes: decorations, profile icons and premium vehicles. The rules are simple: you earn progress points and use them to unlock new stages, earning valuable prizes in the process.
+<>
+<>You can unlock new stages and receive awards at any time during the season.
+<>
+You can access the “Battle Pass” window through the promo block on the right side of the hangar screen.
+<>How to participate
+<>Play
+<>You get progress points every day for entering the game.
+<>From 1 to 5 points.
+<>Complete Battle Tasks
+<>See Battle Task descriptions in the game and get progress points for completing them.
+<>From 2 to 5 points.
+<>Complete Season Challenges
+<>Season Challenges are very similar to Battle Tasks. One Challenge is available at the season’s start. Every week you get another one or two challenges, three more can be unlocked by opening stages.
+<>30 points.
+<> Learn more about Battle Pass
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

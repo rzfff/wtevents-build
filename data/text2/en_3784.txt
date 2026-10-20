@@ -1,0 +1,96 @@
+[Event] Beginning of the Korean War - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Beginning of the Korean War
+Attention! Outdated news format. Content may not display correctly.
+24 June 2016
+Event
+From June 24th 15:00 GMT* to June 27th 07:00 GMT
+Take part in Korean war battles.
+Destroy enemy aircraft and receive your rewards!
+<> *Dear Jet Fighter Fans!
+Due to some technical issues we have postponed the launch of the event for two hours.
+<> Rice Terrace will be added to the event from June 24th 17:30 GMT.
+<> Rewards
+For each step, you will get a "Box of supply" with one of the following prizes:
+<>
+<>
+<>
+<>back-ups x 3 for the vehicles participating in the last battle
+<>10%-40% and boosters;
+<>from 10% up to 75 % discount USSR and U.S aircraft; (except vehicles from 1.57 and 1.59)
+<>2 modifications for Rank 5 aircraft of the USA and USSR
+<> You are guaranteed to receive the main prize (2 modifications for Rank 5 USA or USSR aircraft) once you complete all three stages for a nation of your choice (or both of them).
+Tasks:
+whilst flying MiG-15 and MiG-15bis, destroy 30/60/90 U.S. aircraft in the special event
+Whilst flying F-86A-5, F86-F25, F86-F2 Sabre, destroy 30/60/90 Soviet aircraft in the special event.
+For Realistic and Simulator Battles an x2 multiplier on destroyed enemies is applied.
+Terms:
+<>Tasks can be completed only in special events which are available in the Events and Tournaments Tab.
+<>Location in AB/RB/SB: “ [Air Domination] Korea”
+<>You can follow your progress in your Profile -> Achievements -> Air Duels
+<>You can complete the tasks only whilst flying MiG-15 and MiG-15bis or F-86A-5, F86-F25, F86-F2 Sabre
+<> Click here to read the full article!
+On the 2nd of September, 1945, with the Empire of Japan’s unconditional surrender, the Second World War and greatest conflict in human history finally ceased. But it shouldn't take long for the next great war to loom on the horizon.
+Only 1752 days after World War II, the world faced conflict again. On the Korean peninsula, liberated at the end of 1945 after decades of Japanese rule and divided into a communist North and western democratic South, war broke loose over ideological differences and the desire for unification by force.
+On the 25th of June, 1950, troops from the Democratic People’s Republic of Korea invaded the South with a vengeance, conquering nearly the entire country in the following weeks. The USA however, leading the defense of their protégé, successfully maintained a bridgehead in the besieged country and later, then under the flag and with further support of the United Nations, managed to drive the Communist forces back.
+During the Korean War, the revolution in military technology experienced during World War II became increasingly apparent. The dusk of the piston fighter era saw the dawn of highly sophisticated jet aircraft, capable of transonic speeds and equipped with modern and deadly ordnance and weaponry.
+Notable examples, of course, are the famous North American F-86 Sabre and its Soviet counterpart, the Mikoyan-Gurevich MiG-15.
+Following the advance of UN troops, Chinese “volunteer brigades” intervened on behalf of the North, leading to a stalemate of forces close to the borders preceding the war. Here, a bloody struggle was fought over months with only little territorial gain and loss, before a ceasefire was signed and hostilities ended. Implications of the Korean War are felt until this very day, as peaceful unification of the two brother states and former belligerents remain wishful thinking.
+The War Thunder team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

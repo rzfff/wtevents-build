@@ -1,0 +1,137 @@
+[SPECIAL]: Naval Aircraft Design - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+: Naval Aircraft Design
+Attention! Outdated news format. Content may not display correctly.
+29 October 2013
+SPECIAL
+From October 29th 15:00 GMT (08:00 PDT) to October 30th 15:00 GMT (08:00 PDT) War Thunder presents special discounts:
+10% special discounts for purchasing F8F-1B, N1K2-Ja and Sea Meteor F3.
+20% speial discount for qualifications for F8F-1B, N1K2-Ja and Sea Meteor F3.
+<>
+<>
+<>
+<>
+The purpose of this article is to highlight a few (hopefully!) interesting facts and considerations that are often taken into account when designing naval aircraft. This is a fairly basic level, so for any readers who have experience of aircraft design, please accept my apologies as you will obviously know far more than I do!
+<>
+It would not escape many people’s notice that a P51 Mustang looks remarkably different from an F4U Corsair. Whilst both aircraft are single engine, singe seat American fighters of the Second World War they have been designed with a very different role in mind, and subsequently a very different set of parameters and limitations. So, let’s look at some of the factors which influenced the designs of naval aircraft of the Second World War, and hopefully we will then have a better idea why the sleek, elegant Mustang looked so different from the rugged Corsair, and why the later earned the nickname ‘The Bent Wing Bastard from Connecticut’...
+<>
+There are many factors to consider when either designing a naval aircraft, or when converting a land based aircraft for naval use. Perhaps the most important of all of these is at the beginning and end of every sortie – deck operations.
+<>
+i.) Deck Operations
+<>
+There are several considerations for the launch, but the most complex area to look at is the recovery to the carrier. Put simply, a deck landing places a phenomenal amount of stress on an aircraft when compared to land based operations. During the Second World War the vast majority of deck landings were affected via arrested recovery; a hook was deployed at the back of the aircraft which the pilot then used to catch one of a number of wires stretched across the flight deck which would bring the aircraft to a halt much faster than via a conventional landing. Without this, most aircraft would not be able to decelerate quickly enough and would drop off the forward end of the flight deck before stopping.
+<>
+So, returning to our Corsair, we now have an aircraft weighing over 4000 kilograms (before even adding fuel and ammunition) which is descending towards the deck with a recommended landing speed of between 80 and 83 knots. For the hook to take 4000-5000 kilos of aircraft and bring it to a stop from 80 knots, it needs to be very, very strong. After that, the mounting for the hook needs to be equally sturdy, or the hook will simply be ripped off. Even if the hook and mounting are strong, the force acting upon the aircraft will now be transmitted to the next weak area – the tail itself. Without a rigid enough construction, the entire tail unit will be ripped off by the force of an arrested recovery. So, the hook, mounting and entire tail unit need to be strong enough to withstand these pressures, and this adds considerable weight to the aircraft. If we are looking at converted aircraft, this presents a new problem...
+<>
+The Seafire (the Fleet Air Arm’s naval Spitfire) is a very good example to highlight some of the big problems which aircraft designers faced in converting land based aircraft for maritime operations. The delicate, agile and highly strung Spitfire was one of the greatest land based fighters of the war, but was too fragile to withstand the pressures of deck operations. As well as the hook and mounting, the tail unit had to be strengthened considerably. All of this extra weight at the back of the aircraft now moved the centre of gravity outside acceptable limits – this meant that counter balance weights needed to be placed in the nose of the Seafire, which added even more weight. The Seafire IB weighed 5% more than the Spitfire V on which it was based, which gave a corresponding drop in performance. However, this weight was not limited merely to a hook and counter balance weights, but more of that later.
+<>
+Whilst the rear of the aircraft is now prepared for deck landings, we now need to look at the main wheels. To catch the wire with the hook, a deck landing needs to have the tail positioned lower than in a conventional landings, resulting in a more nose up attitude of the aircraft. With a deck pitching and rolling during landing, it was very easy for the wire to catch whilst the main wheels were still above the deck, or for the aircraft to bounce on landing; either way, the wheels are slammed down into the deck with a great deal of energy. For this reason, the main wheels also need to be stronger than on their land based counterparts and possessing lower rebound characteristics – again, thinking back to the tail hook problems, this can easily transmit the force to the next weak area and damage the wing itself, so the whole area needs to be strengthened. With high performance fighters this can cause even more problems; to harness the 2000 Horse Power (and even greater on later models) generated by the Corsair’s Double Wasp engine, a propeller with a very large diameter was required. To give the necessary clearance to avoid the propeller tips striking the deck, a very long undercarriage would be needed. This long, thin main gear could break easily so to ensure the main gear legs could be kept shorter and stronger, an inverted gull wing was adopted using anhedral and dihedral sections. Thus, the distinctive ‘bent wing’ of the Corsair was adopted as a necessity for deck landings; it was not because of performance.
+<>
+However, even though we now have a strengthened main gear and tail hook, and counter balance weights if needed, the weight increases are not over. To maximise the number of aircraft which can be fitted inside the limited confines of an aircraft carrier’s hangar it is necessary to make these aircraft as compact as possible. This is where the folding wing fits in. Many naval aircraft were designed with folding wings to decrease the amount of space they occupied whilst below deck; these wings required not only strong folding joints but also reliable locking mechanisms which prevented the wings from folding in flight.
+<>
+Some additional features desirable for deck take offs and landings could not always be implemented; the Fairey Swordfish had its cockpit positioned to give an excellent view of the deck during takeoff and landing – however, the large engine of the Corsair made this impossible and resulted in a view of the deck so poor that the approach to land was made using a curved flight path.
+<>
+<>
+ii.) Maritime Operations
+<>
+Even after the complications of getting off and back onto the deck had been resolved, further weight increases could follow. Aircraft of the British Fleet Air Arm were required to be fitted with a naval HF radio in addition to the normal communications fit, so as to be able to communicate directly with warships of the Fleet; even fighters were required to carry this heavy additional radio so they could be utilised in roles such as correcting the fall of shot from Naval Gunfire Support operations to ground forces during amphibious landings.
+<>
+Furthermore, the limits to the number of aircraft onboard a carrier meant that it was desirable to keep those aircraft on the job for as long as possible once they were airborne. The Fairey Fulmar was a British naval fighter which entered service with the Fleet Air Arm in 1940. Like the RAF’s Hurricane and Spitfire, it was equipped with eight 0.303 inch Browning machine guns. However, whereas the Spitfire carried 300 rounds per gun, the Fulmar was equipped with 1000 rounds of ammunition for each Browning. On top of this, the Fulmar was able to stay on patrol for over twice as long. However, the additional weight incurred a proportional reduction in performance as the Fulmar was also equipped with the same Rolls-Royce Merlin engine as its land based contemporaries but weighed twice as much.
+<>
+This weight was, however, not all due to ammunition and fuel – even though only powered by a single Merlin engine, the Fulmar was crewed by a pilot and an observer. This was due to the British Admiralty’s belief at the time that long range navigation over the sea could not be undertaken by the pilot whilst he was pre-occupied with flying the aircraft, resulting in the need for a second crewmember – again, a feature of maritime operations.
+<>
+The constraints placed on a carrier air wing solely by the limited numbers available due to hangar space led to other considerations. It was considered desirable to have aircraft able to perform multiple roles: if one airframe could perform multiple roles it would be possible to field a larger number of aircraft for the task required, rather than leave single role aircraft in the hangar when an operation could not utilise their sole function. The Grumman Hellcat and Vought Corsair combined the roles of fighter with ground support; they were able to carry bombs and rockets to support ground forces as well as engage enemy aircraft. However, this concept could be taken too far and result in unnecessary constraints. The Blackburn Skua was an unsuccessful attempt to combine the roles of fighter and dive bomber – whereas the Hellcat and Corsair simply added bombs and rockets to an aircraft capable of carrying a significant amount of stores, the Skua was much more of a compromise. It had a two man crew, dive brakes and a 500 lb bomb, but only four forward firing 0.303 inch machine guns; whilst able to carry out both of its roles, the different design features required for a fighter and a dive bomber meant that it was mediocre at best at both jobs.
+<>
+iii.) Powerplant
+<>
+The engine itself of a naval aircraft requires special mention. One of the primary concerns of a naval aviator was, and is, an engine failure. Whilst the loss of power for any aircraft is a significant concern it is at least possible to attempt to land a smaller aircraft in a field if flying over suitable terrain. However, over water this ceases to become a favourable option and reliability becomes even more important. To this end, many naval aircraft favoured radial engines over inline engines. The cylinders in an inline engine are arranged in banks or rows, resulting in a more streamlined engine which is liquid cooled. In general, liquid cooled engines are able to accept more boost which is important especially at higher altitudes, but the liquid cooling means that only a single bullet to the cooling system will quickly render the engine inoperative. Radial engines have their cylinders arranged in a circle, pointing outwards from a central crankshaft. This is a larger arrangement and less aerodynamically sound, but is air cooled. There are many anecdotal accounts of pilots nursing home radial engine aircraft where entire cylinders have been shot off the engine – an inline engine simply could not cope with this level of damage. As a result, both the US and Japanese navies used radial engines on their aircraft almost exclusively.
+<>
+We have mentioned that inline engines often had the potential for greater performance at higher altitudes. This was of less concern over sea than in combat over land due to one simple reason – bombers. Whilst not a rule, it was common for the heights of aerial combat engagements to be dictated by the operating heights of bombers. If heavy bombers were carrying out an area attack from 30,000 feet, opposing fighters would likewise need to climb to this height to engage them and, in turn, escorting fighters would need to be able to operate at this height. However, there was rarely such a requirement for naval aircraft to operate at such a height. Naval bombers were, by and large, designed to attack enemy shipping in a more precise manner than the area bombing often carried out by heavy, land based bombers. Torpedo runs were normally made below 100 feet, and dive bombers would commence their attacks depending on the Standard Operating Procedures laid down by their respective nation, but normally well below 10,000 feet. As a result, both naval fighters and bombers were best equipped for low to medium level sorties. Engines could be calibrated to take this into account – air is denser at lower altitudes and so variables such as a supercharger’s output or the dimensions of its impeller could be selected to give its best performance below 10,000 feet. The subject of engine optimisation could easily form an entire series of articles of its own and so the statements here are rather crude oversimplifications: the key point to take away is that naval aircraft would often have their engines selected and set up for best performance at lower altitudes due to the nature of maritime operations. This was not exclusive to naval aircraft; many land based aircraft also required best performance at low level.
+<>
+There were many other factors affecting naval aircraft design during the period; the Japanese A6M Zero is perhaps the best example of how national design philosophy can create something unique. The Japanese design philosophy for fighters was based around manoeuvre rather than power; as a result, low weight and high agility were more important than a powerful engine. This was compounded by the survivability of both pilot and aircraft being considered secondary; armour for the pilot and self sealing fuel tanks were sacrificed to squeeze even more performance out of the aircraft. Long range was also considered important, especially given the geographical challenges faced by Japanese naval aviation. However, the savings which had already been made in weight also had the knock on effect of increasing range. The result was that, although the A6M possessed many of the design features already discussed, it was still a radically different aircraft to its contemporaries; the F4F Wildcat of the US Navy and the Fairey Fulmar of the British Fleet Air Arm. However, as opinions changed the evolution of the Zero saw armour and seal sealing tanks added later in the war, which markedly reduced its manoeuvrability.
+<>
+Hopefully this brief insight will give you a few of the basics required to understand why naval aircraft are often so different from land based aircraft designed for a similar role.
+<>
+<>
+About the author:
+<>
+Mark Barber , War Thunder Historical Consultant
+<>
+Mark Barber is a pilot in the British Royal Navy's Fleet Air Arm. His first book was published by Osprey Publishing in 2008; subsequently, he has written several more titles for Osprey and has also published articles for several magazines, including the UK's top selling aviation magazine 'FlyPast'. His main areas of interest are British Naval Aviation in the First and Second World Wars and RAF Fighter Command in the Second World War. He currently works with Gaijin as a Historical Consultant, helping to run the Historical Section of the War Thunder forums and heading up the Ace of the Month series.
+<>
+Discuss on the Official Forum .
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

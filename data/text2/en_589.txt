@@ -1,0 +1,87 @@
+[Historical] Operation Bowery - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation Bowery
+Attention! Outdated news format. Content may not display correctly.
+15 May 2014
+Historical
+With war waging across the sands of North Africa between the British and the Germans and Italians, the Mediterranean quickly became a vitally important theatre of war in its own right. The British had significant bases of operation at Gibraltar at the southern tip of the Iberian Peninsula, and Alexandria in Egypt. Between these two powerful bases lay the lonely island of Malta, a strategically vital stepping stone in the Mediterranean.
+Determined to remove this vital island from the British war effort, Italian forces attempted to lay siege to Malta from as early as the summer of 1940. Italian bombers attacked the island itself whilst warships attempted to cut off supplies from the surrounding sea lanes. The island’s air defenses consisted of only a handful of Gloster Sea Gladiators and Hawker Hurricanes, but these were able to successfully intercept the incoming Italian bombers on countless occasions.
+From 1941 German forces now began to target Malta, and both the aerial bombardment and the surrounding naval siege became even more of a threat. Britain was forced to maintain a near constant stream of supplies to the island, including a steady resupply of Malta’s aerial defences. The only way to transport forces en masse was via sea, and these convoys to Malta became known as ‘Club Runs.’
+In May 1942 the American carrier USS Wasp formed the nucleus of Operation Bowery, a Club Run to resupply the besieged island. The force was escorted by the battlecruiser HMS Renown as well as fourteen smaller warships. 47 Supermarine Spitfire Mk.Vc fighters and a further 17 Spitfires onboard the British carrier HMS Eagle were flown off the pitching decks of the two carriers on May 9th. 61 out of the 64 Spitfires successfully reached Malta and, building on the bitter lessons learned from the disastrous Operation Calendar – the previous Club Run – the fighters were quickly refueled and rearmed before taking to the skies again to join the air defence effort. Further reinforcements included a contingent of RAF ground crews and crates of spare Rolls Royce Merlin engines.
+Alerted by axis intelligence, a German-Italian strike force was already en route to the island. The Spitfires rushed to intercept and in the ensuing battle the RAF fighter pilots claimed forty-seven enemy aircraft destroyed for the loss of only three Spitfires. The Spitfires, their pilots and the equally vital engineering support were now in place to add to the island’s defense, although the siege was far from over and further Club Runs would be required.
+Mark (Wafu) Barber
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

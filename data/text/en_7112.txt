@@ -1,0 +1,113 @@
+[Event] “TailSpin” - a new milestone in the development of the game! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“TailSpin” - a new milestone in the development of the game!
+Attention! Outdated news format. Content may not display correctly.
+1 April 2021
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> A special in-game event for younger War Thunder players!
+<>War Thunder is preparing to expand its audience and move to a new 4+ age rating. A special "TailSpin" aviation event starts in our game, with a visual style and physics adapted for the widest possible audience. Everyone knows that in April we test new game mechanics and features. This time you have a chance to try the new version of the graphics and physics model, as well as feel what the whole game will be like in the near future! Moreover, changes in the game environment will make an upcoming port of the game to mobile platforms easier.
+<>While the new ratings are pending, we present to you a special aviation event, “ TailSpin ”!
+<> About the event
+<>From 11:00 GMT on the 1st of April till 12:00 GMT on the 5th of April
+<>The skies over Cape Somerset bay are restless again - opposing clans from the Republic of Air Pirates decided to find out who should be the master of the region of the magical Soaring Rocks. Become one of the dashing air corsairs in the epic battle between pirate squadrons! Prove your skills to the clan and get new, even more powerful aircraft!
+<>To win a mission, destroy enemy planes or bomb the zeppelin mothership!
+<>Nimble.
+<>Such an aircraft is given to every new pilot in the Air Pirates. Do you want something more serious? Load the machine gun and shoot down the enemies of the clan!
+<> How to get it? Beginner's plane - available for everyone
+<>Windscreech.
+<>Hmmm, this one is better indeed! The Windscreech is noticeably faster, although it still lacks firepower.
+<> How to get it? 10 players defeated and assisted.
+<>Bumblebee.
+<>The favorite fighter of the Stalinia boar pilots is now in the hands of the Air Pirates. Six machine guns, bombs and rockets are where the fun begins!
+<> How to get it? 25 players defeated and assisted
+<>Hornet.
+<>You can’t have TOO many guns, any pirate would agree! This triplane carries 8 machine guns, as well as bombs and rockets for striking ground targets.
+<> How to get it? 50 players defeated and assisted
+<>Red Goose.
+<>This is a real flying fortress with defensive turrets and the most powerful six-barreled Golden Dragon cannons.
+<> How to get it? 85 players defeated and assisted
+<>Tornado.
+<>The Tornado fighter is a status aircraft of the Air Pirate elite. Excellent speed and new rapid-fire autocannons for the best pilots in the Republic.
+<> How to get it? 130 players defeated and assisted
+<>Panther.
+<>These fighters are one-off assembled for the leaders of the clans of the Republic. It is the Panther fighter that leads the squadrons of air corsairs into battle. The best engines and weapons make this aircraft the most advanced fighter ever to take to the skies.
+<> How to get it? 185 players defeated and assisted
+<>Sly Duck.
+<>Smuggling is the main source of income for the Republic, so the smugglers' workhorse must be ready to stand up against raiders. This peaceful-looking seaplane is armed with 20mm autocannons, heavy machine guns and superb turrets!
+<> How to get it? 250 players defeated and assisted
+<>PIRATE! Keep track of your reputation with the clan in the “Events” tab - there you will see which aircraft are waiting for you and what you need to do to get them.
+<>Gifts for all air adventurers:
+Pilot icon “Fox”
+Pilot icon “Bear”
+"Tail Spin" Decal
+For the first five defeated opponents or provided support, we give a commemorative "TailSpin" decal.
+For 100 defeated opponents or provided support, get the "Fox" pilot icon (after the end of the event, the Fox will turn into a human pilot - click to check )
+For 150 defeated opponents or rendered supports, get the pilot "Bear" icon (after the end of the event, the Bear will turn into a human pilot - click to check )
+For 300 defeated opponents or provided supports, the title "Air Pirate" is awarded
+<>As well as normal random battles, containers with materials for the “Future Technologies” crafting event might also be obtained in both TailSpin and Warfare 2077 events! Every 10 minutes spent in battles grants one container.
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>The War Toonder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,142 @@
+[Warbonds] [Event] Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Warbonds
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Beginning on: July 22nd (12:00 GMT)
+<> Ending on: October 21st (12:00 GMT)
+<>Crews often have to operate in the field. When there’s no fully equipped hangar with tools and specialists nearby, resourcefulness and ingenuity come into play! We’re dedicating Battle Pass Season 24 to the makeshift mechanics and resourceful engineers ready for the boldest improvisations. This season’s vehicle rewards were born from improvisation: the Romanian IAR-81 fighter fitted with a Bf 109G engine, and a Somali modification of the Italian FIAT 6616 armored car, equipped with a 57 mm rocket pod!
+<>The German Bf 109 T-2 fighter is now available in the Warbond Shop for the first time. You can also obtain a trophy containing “Road Signs” decorations and the new “Black Widow” decal in exchange for Warbonds.
+What is the Battle Pass? (click to expand) ▼
+<>The Battle Pass is an event that lasts for 90 days where players can earn rewards for completing challenges and earning progress points. Rewards range from Silver Lions and boosters to season-exclusive decals, decorations, vehicles and more. Completing the Battle Pass is simple: you earn progress points that unlock levels, earning valuable things along the way!
+<> Check out the Wiki here to learn more .
+Leveling up the Battle Pass & Challenges (click to expand) ▼
+<>Leveling up is simple! Gather progress points to unlock more levels. One level is 10 progress points. Points can be obtained through logging into the game, completing Daily Tasks and completing specific Challenges. New Battle Pass Challenges unlock once a week and another three can be obtained through reaching specific levels.
+<> Login to the game! Get 1 to 5 progress points for doing this.
+<> Complete Daily Tasks! Get 2 to 5 progress points for each of these.
+<> Complete Battle Pass Challenges! Get 30 points for each of these.
+Click here for all of the Challenges
+<> Rewards in Season 24
+<>Purchasing the Battle Pass for 2,000 Golden Eagles will allow you to access every level. Purchasing the improved version for 2,500 Golden Eagles comes with an extra 150 progress points (15 levels from the get go).
+<>Not got enough time to complete the Battle Pass? You can purchase progress points for Golden Eagles 28 days after the season begins.
+<>The Battle Pass can be accessed on the right side of the screen while in the hangar
+Click here for all of the Rewards
+<>Check out all of the rewards in the season below.
+<> New vehicles this season
+<> IAR-81C (DB 605) (Italy)
+<> A Premium Fighter for Italy at Rank III
+<>
+Vehicle History (open spoiler): ▼
+<> IAR-81C (DB 605)
+<>Due to supply issues with the German Jumo 211Da engines, Romania decided to test their IAR-81 fighter with a Daimler-Benz DB 605 engine, taken from the Messerschmitt Bf 109, which was an aircraft already manufactured under license in Romania. The prototype successfully completed trials in the summer of 1944 but did not enter mass production due to technical issues. In War Thunder, the IAR-81C (DB 605) is a rank III premium fighter in the Italian aviation tree. Compared to the standard IAR-81C, the DB 605-equipped model offers a noticeable boost in speed and climb rate. The aircraft can carry a pair of Wfr.Gr.21 rockets or two 50 kg bombs on its hardpoints.
+<>
+<> FIAT 6616UB (Italy)
+<> A Premium Light Tank for Italy at Rank IV
+Vehicle History (open spoiler): ▼
+<> FIAT 6616 (UB)
+<>In the mid-2010s, a Somali field modification of the Italian FIAT 6616 armored car appeared, equipped with a 57 mm rocket pod on top. While the rocket pod has no independent aiming capabilities, it will at least follow the direction of the turret horizontally. In War Thunder, the FIAT 6616 (UB) is set to be a fast, agile wheeled scout vehicle armed with a rapid-fire 20 mm cannon, capable of unleashing a salvo of 16 rockets at the enemy in close-quarters combat!
+<> Decals, Decorations, and a Profile Background
+“Do It Yourself” decal
+“Just a scratch” decal
+“Caution! Fragile” decal
+“Load Master” decal
+"Reactive armour” decoration
+“Homemade Sledgehammer” decoration
+“Homemade Raft” ship decoration
+“FIAT 6616UB”profile background
+<> Battle Trophy with Past Vehicles
+<>Missed out on previous Battle Pass vehicles? The Battle Trophy has you covered, featuring four vehicles from past Battle Passes or events. Opening this trophy will give you one vehicle from the list. If you have them all, you’ll instead receive Silver Lions and the special “Golden Battles Wager”, allowing you to earn up to 1,000 Golden Eagles.
+<> Type T-51a (Japan)
+<> Voroshilov (USSR)
+<> LVT-4/40 (France)
+<> PBM-3 “Mariner” (USA)
+<> Get Silver Lions, Consumables, Premium Account Time and More in the Battle Pass!
+<>The Battle Pass doesn’t just feature decals, decorations and vehicles, it also contains a lot of other useful items. This includes a large amount of Silver Lions, Warbonds to spend in the Warbond shop, Orders, Wagers and Backups for use in battles, a Test Drive for one of the new vehicles before you get it, 10 days of Premium Account time, unique camouflages for the two new vehicles and a title and loading screen to remember your accomplishments.
+<> Get the next Battle Pass for free with Upgrade Coupons!
+<>Two “ Upgrade Coupons ” are at levels 105 and 125 in the Battle Pass and are both needed to get the next Battle Pass for free. They also make the two new vehicles tradable on the Gaijin Market if you prefer.
+<>To purchase a Battle Pass using the “Upgrade Coupon”, you need to wait until the current season ends and the new season begins. You’ll then be able to exchange two Upgrade Coupons in the Battle Pass purchase window. Upgrade Coupons must be available in your inventory to do this.
+<> The Warbond Shop in Season 24!
+<>Check out some of the main Warbond shop items in Season 24! You can view the full list of items available as well as the conditions for receiving them in-game.
+What is the Warbond Shop? (open spoiler): ▼
+<>The Warbond shop is connected with and runs in tandem with the Battle Pass. Items in the Warbond shop can be purchased with a currency called Warbonds that are earned in the Battle Pass. There are a total of 6 shop levels and each one can be unlocked by reaching specific levels in the Battle Pass. In addition to purchasing with Warbonds, each item from shop level 3 requires a certain number of medals to purchase. Medals can be obtained through completing Special Tasks.
+<>The Warbond shop can be accessed by clicking on Shop > Warbond Shop from the hangar or from the Battle Pass window by clicking “Shop”
+<> Vehicles
+<> Project 123K (A-10bis) (USSR)
+<> Bf 109 T-2 (Germany) — first time in the Warbond shop!
+<> Strv m/41 S-I (Sweden)
+<> USS Frank Knox (USA)
+<> Yak-3 (France)
+<> M4A4 (1st PTG) (China)
+More about the new reward (open spoiler): ▼
+<> Bf 109 T-2 (Germany) — first time in the Warbond shop!
+<>The Bf 109 T was designed for carrier-based operations, but the second version lacked the necessary equipment. Instead, it was deployed in Norway, operating from short mountain airfields. It is a typical early Bf 109, featuring a good rate of climb, two 20 mm cannons and two 7.92 mm machine guns, and the capability to carry either a single 250 kg bomb or four 50 kg bombs into combat.
+<> Decals
+<>Season 24 introduces the Black Widow pin-up decal. Additionally, a special trophy available in the Warbond Shop contains decals that were previously featured in 2020. Expand your collection with classic decals you might have missed!
+“Black Widow” decal
+<> Trophies
+<>For fans of customization, we’re pleased to say that the “Road Signs” trophy is here this time, while profile icons of Soviet tankers are available in the profile icon trophy!
+<> Consumables
+<>Alongside trophies, vehicles and decals are a bunch of useful consumable items, including boosters, universal backups, wagers & orders, premium vehicle rentals and talismans — all perfect for helping you through the game.
+<> Get out there and get yourself some goodies!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+The Pro League Major III has Concluded, the Grand Finals Are Coming!
+18 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,96 @@
+Developer's Diaries: Events mode - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Developer's Diaries: Events mode
+Attention! Outdated news format. Content may not display correctly.
+16 September 2013
+War Thunder update 1.35 introduces a new gameplay element – Events mode. Events mode includes special battles with custom parameters. In Events mode, players can recreate historical battles, try new missions and maps, or use familiar maps with customized flight model settings. War Thunder pilots have the ability not only to choose which side of the conflict they are on and which aircraft to use in battle, but also to evaluate their opponent's strength – where, against whom, and in what mode they will fight. In this edition of our Developers' Diaries we will explain in detail the game's “Events mode”.
+<>
+The War Thunder team of developers presents to you Events mode – special battles with custom parameters. The specifics of both sides for each battle can now be viewed. You will be able to see the equipment each country will counter with even before taking off for battle. Battles in Events mode have a wide range of configuration options. For example, when reconstructing real battles, we established battle conditions based on the specifications of the military technologies which were used in the actual battles. So in the Battle of Midway you will see carrier based and naval combat aircraft of the United States and Japanese Empire – Zeroes, Wildcats, Buffaloes and other machines which clashed in this monumental battle in June 1942. The German troops surrounded in the Korsun–Cherkassy Pocket do not receive help from rocket powered Me-163 Comets, and MiG Alley in the Korean War is no place for bi-planes.
+<>
+Events mode allows us to experiment with new and familiar game missions. For example, to use the “[Operation] Korea” map in Arcade mode or to fight it in simulation mode in the “Rice Terraces” arcades. Moreover, the game modes themselves can now have unusual, interesting settings – for instance an arcade without the ability to respawn, historical battles in which weapons can be reloaded while flying, battles with a limited number of respawns. This kind of freedom to customize settings gives players a fresh perspective on familiar missions and tactical techniques.
+<>
+Now, when entering the game a pilot in War Thunder will see a menu of current events in the game – usually there will be several of them in various game modes. From the player's hanger, they can go to traditional arcade, historical or realistic battles, or try their hand at Events mode. The description of each event lists which plane models can be used in each engagement, whether or not there is a limit on the amount of a specific model, and also in which mode the battle is taking place. Consider this example:
+Caption: Game menu for the “Battle of Midway”
+In the Battle of Midway, American forces (Team A) are pitted against Japanese pilots (Team B). This game event is already underway, so we can join it. The game mode for this event is historical battle which means that players will not be able to respawn after dying, and the aircraft flight model will be closer to its actual characteristics. Let's look at which aircraft can participate in this event. In this case, for the Japanese Empire's side, only three models of combat aircraft can participate: the carrier based A6M2 fighter, carrier based D3A1 dive bomber, and the B5N2 torpedo bomber. As we can see, the Japanese side has no restrictions on the number of aircraft of each model. It is a totally different matter for Team A – the United States air forces. In battle, they are restricted to two B-17E flying fortresses, three Catalinas, and a pair of TBF-1C Avengers. However, players on Team A can choose an unlimited number of SBD-3 “Dauntless” bombers, Buffalo fighters, and Wildcats.
+Let's focus a bit on the game mechanics in Events mode. Game events have a queue to join the battle – similar to battles in the other three War Thunder game modes. The exact teams (A & B) for game sessions are determined based on the parameters of the specific events. The minimum number of participants in a battle is 24 (12 players on each side), and the maximum is 32 (resulting in a 16 on 16 fight). How do limits on the number of aircraft of a particular model work? In the previous example, remember that in the Battle of Midway Team A cannot have more than two B-17Es. This means out of 30 players waiting to join with a B-17 the balancer will pick two players for each battle. In addition, a battle can start even without the maximum number of every type of aircraft. In our example, the fight can begin even if the US side only has one F4F-3 Wildcat, or if the Japanese side only has an A6M2 and B5N2.
+Now let's look at the example of a custom battle in Events mode which has no relation to actual history. In these battles, we are testing new gameplay variations, missions on new maps, and just putting ourselves in unusual game situations.
+Caption: Game menu for “[Ground strike] African canyon ”
+In the previous example, any aircraft of any gaming nation can participate in the event. Teams A & B will fight in Arcade mode, but with no option to respawn! You have the opportunity to fly in your favorite aircraft and fight against random opponents in Arcade mode with a simplified flight model, but you will not be able to respawn after a crash – so choose your plane carefully.
+War Thunder game events give us as developers the unique opportunity to organize battles which are tied to certain historical events and memorable dates. As War Thunder players have already noticed, special promotions take place in our game every week. Now players can take part in well known battles of World War II and try to replicate the feats of famous aces. In order to make the historical reconstruction even more accurate, you can set the time of day and weather conditions for every battle in Events mode. Obviously, Events mode will be an important part of the War Thunder clan system. In the new game events system, we plan to introduce battles and tournaments between regiments.
+The new Events game mode awaits you. Welcome!
+Discuss on the Official Forum
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

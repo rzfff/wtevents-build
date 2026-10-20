@@ -1,0 +1,93 @@
+Kurt Tank Anniversary - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Kurt Tank Anniversary
+Attention! Outdated news format. Content may not display correctly.
+24 February 2014
+From 08:00 GMT 25th February until 08:00 GMT 26th February
+30% Discount on Dora Pack from Gaijin Store only
+<>
+<>
+<>
+"Bundesarchiv, Bild 183-L18396 / CC-BY-SA"
+Kurt Tank was a German aircraft designer most famous for his work as lead designer and technical director at Focke-Wulf AG. Tank joined the company in 1931 and started working on Fw 44 civilian and military training biplane - the first Focke-Wulf project to become commercially successful. Not only a talented engineer, Tank was skilful pilot at the same time, he tested the aircraft he designed himself.
+The work that made him widely recognized as one of geniuses of aircraft engineering was the Fw 190 multi-purpose frontline fighter. The plane was developed in the late 1930s as an alternative to the main Luftwaffe fighter the Messerschmitt Bf 109. Kurt Tank explained why the German air force needed another fighter model:
+“The Messerschmitt 109 could be summed up as a very large engine on the front of the smallest possible airframe; armament had been added almost as an afterthought. Its design could be likened to a racehorse: given the right amount of pampering and easy course, it could outrun anything. But I felt sure that a quite different breed of fighter would also have a place in any future conflict: one that could operate from ill-prepared front-line airfields; one that could be flown and maintained by men who had received only short training; and one that could absorb a reasonable amount of battle damage and still get back. This was the background thinking behind the Focke-Wulf 190; it was not to be a racehorse but a cavalry horse.”
+Tank’s fighter justified the engineer’s expectations: durable, heavily armed and universal, it could adapt to any role from ground attack to high altitude interception. Adopting state-of-the-art technological decisions such as a bubble canopy and a new engine cooling system, the Fw 190 was one of the most advanced mass produced aircraft of World War II.
+The designer’s efforts were well acknowledged. Kurt Tank was named honourary Professor and was tributed by having the prefix Ta (for Tank) added to his later designs. Among them was the Ta 152 high altitude interceptor - the most sophisticated derivation of the Fw 190 line.
+After World War II Kurt Tank realised that he needed to continue his career abroad. After negotiating with the USSR and Britain he decided to move to Argentina. There Tank worked on the FMA IAe 33 Pulqui II jet fighter project. Later he joined the Indian Hindustan Aeronautics company to design the HAL HF-24 Marut for the Indian Air Force and came back to Germany as a MBB consultant. Kurt Tank died in Munich in 1983.
+War Thunder team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

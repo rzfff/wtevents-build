@@ -1,0 +1,88 @@
+[Event] Battle of the Caucasus: A Decal and Decoration for the 80th Anniversary! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Battle of the Caucasus: A Decal and Decoration for the 80th Anniversary!
+9 October 2023
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>From the summer of 1942, determined Axis forces launched an offensive into the Caucasus region in a bid to capture key locations. In 2 months, they managed to advance to Mozdok, but then hit a barrier — they were stopped from advancing further by the Soviets. From the beginning of 1943, Soviet troops squeezed out Axis forces from many occupied locations. Then, by October 9th 1943, all Axis troops were evacuated from the region, therefore full control of these locations were returned to the Soviets.
+<> The KV-1E and IL-2M “Avenger” are available for Golden Eagles!
+<> When: From October 9th (14:00 GMT) until October 12th (14:00 GMT).
+<> Where: USSR research tree > Army / Aviation > Premium vehicles.
+<> About the tank
+<>The KV-1E is an excellent tank for its Battle Rating! Possessing a strong gun, the KV-1E has good armor and decent mobility, and also features additional armor plates on the side of the hull and turret, good for extra protection!
+<> About the aircraft
+<>The IL-2M “Avenger” is a special aircraft: it was built using the funds from Grigor Tevosyan who was the chairman of a collective farm named after Stalin in the village of Avdalar in the Armenian USSR. Grigor lost two brothers in the war, which is why this IL-2M is called “Avenger”. This ground attack aircraft can sustain fire and has a wide range of ordnance options which include bombs and rockets. The “Avenger” is also able to fly faster than the regular IL-2M. For forward armament, this aircraft features 2 x 23 mm cannons, and for defensive armament, 2 x machine guns!
+<>Earn the “Vehicles of Victory: Po-2” decal and “RM-40” decoration!
+<> When: From October 9th (12:00 GMT) until October 12th (07:00 GMT).
+<> Task: Play 3 battles using USSR Vehicles to receive the “Vehicles of Victory: Po-2” decal!
+<>
+Task: Win 5 battles using USSR Ground Vehicles to receive the “RM-40” decoration!
+<> Additional details:
+You must use a minimum of rank III.
+Your activity must not be below 70%.
+You can complete the task in random battles, except for Enduring Confrontation missions, [Assault] mode and Helicopter PVE battles.
+Track your progress in the hangar by clicking Nickname → Achievements → Holidays → 80 Years of Victory in the Battle of the Caucasus.
+You can find the decal in the “Holidays” tab in the Customisation menu.
+You can find the decoration in the “Weapons” section in the Customisation menu.
+“RM-40” decoration
+“Vehicles of Victory: Po-2” decal
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,38 @@
+{
+ "results": [
+  {
+   "aid": 10243, "lang": "en", "is_event": true, "type": "marathon",
+   "title": "Get the AMV (BMP-3) in the Desert Predator Event!",
+   "name_en": "Get the AMV (BMP-3) in the Desert Predator Event!", "name_zh": null,
+   "start": "2026-10-01T11:00:00Z", "end": "2026-10-19T11:00:00Z", "end_precision": "hour",
+   "end_raw": "From October 1st (11:00 GMT) until October 19th (11:00 GMT)",
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "金鹰购阶段:85%进度半价(30000分→349GE),95%进度1/5价(33500分→139GE)", "percent": 50, "note": "进度越接近完成折扣越大"}
+   ],
+   "deadlines": [
+     {"what": "兑换券强化(可交易化)道具获取截止", "when": "2026-10-19T11:00:00Z(需 600,000 任务分;可交易券制成后 6 天方可上架市场)"}
+   ],
+   "rewards_text": ["AMV (BMP-3) 瑞典 VI 级轮式轻坦(8 阶段不可交易券)", "帕特里亚 AMV BMP-3 特殊涂装+4 项随机改装(9 阶段)", "阿联酋主题贴花(2/4 阶段)", "加载画面(6 阶段)"],
+   "tasks": "陆战模式(街机/历史/全真)III 级及以上载具攒分,每阶段 35000 分,共 9 阶段;阶段每 2 天刷新(10/3-10/17 单数日 11:00 GMT);8 阶段得 AMV (BMP-3) 不可交易券,9 阶段得涂装+改装;完成后需手动领奖。",
+   "sub_events": [],
+   "notes": "游戏内活动名「沙漠猎手/Desert Predator」;datamine 事件 ID=2026_10_tank(奖励车 sw_patria_bmp_3);Rank I-II 活动车也可攒分。",
+   "confidence": 0.95
+  },
+  {
+   "aid": 2802, "lang": "zh", "is_event": true, "type": "marathon",
+   "title": "沙漠烽烟:AMV (BMP-3) 轻装上阵",
+   "name_en": null, "name_zh": "沙漠烽烟:AMV (BMP-3) 轻装上阵",
+   "start": "2026-10-01T11:00:00Z", "end": "2026-10-19T11:00:00Z", "end_precision": "hour",
+   "end_raw": "北京时间 10 月 1 日 19:00 至 10 月 19 日 19:00",
+   "discounts": [
+    {"target": "战斗通行证跳级", "item": "金鹰购阶段:85%进度半价(30000分→349GE),95%进度1/5价(33500分→139GE)", "percent": 50, "note": "进度越接近完成折扣越大"}
+   ],
+   "deadlines": [],
+   "rewards_text": [],
+   "tasks": null,
+   "sub_events": [],
+   "notes": "中文版;游戏内活动名「沙漠猎手」。",
+   "confidence": 0.9
+  }
+ ]
+}

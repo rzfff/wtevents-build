@@ -1,0 +1,95 @@
+[Shop] New Swedish Starter Pack! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+New Swedish Starter Pack!
+Attention! Outdated news format. Content may not display correctly.
+19 March 2021
+Shop
+<>Dear players!
+<>In addition to the existing Starter packs, we are introducing one more - a Swedish one. Starter packs are perfect for beginner tankers and pilots, helping you to comfortably start out in the game.
+<>The Swedish Starter Pack will also be released on Playstation and Xbox consoles this March.
+Swedish Starter Pack
+The Kit Includes:
+Tank Strv m/41-S/I (Rank 2 Sweden);
+Fighter Fokker D.XXI (Rank 2 Sweden);
+120000 Silver Lions;
+Premium Account for 7 days.
+9.99
+Store
+<> The Strv m/41 tank was a modified version of the Czech LT.vz38 tank, produced under license by the Swedish company Scania-Vabis in the early 1940’s. The first series of Strv m/41-S/I tanks were produced during 1942-1943 and later on underwent various improvements on several occasions. The design of the tank was mostly similar to the Czech original, but there were significant differences in terms of the armament and armouring of the vehicle. The engine had a power of 145 h.p. and was capable of accelerating the tank to a maximum speed of 43 km/h. The tank is armed with the 37mm kan m/38 Strv cannon, and was also equipped with two 8mm m/39 strv machine guns - one coaxial and one located on the tank’s turret.
+<> The Fokker D.XXI fighter was developed in the mid-1930’s by the Dutch company Fokker specifically for the Netherlands Air Force. Despite the fact that the Fokker D.XXI was developed in the Netherlands, Finland became the main manufacturer and operator of the aircraft. The Finnish Fokker (about ⅔ of all D.XXI) proved themselves in the Soviet-Finnish wars of 1939-1940 and 1941-1944. This fighter was capable of a maximum speed of over 400 km/h, and also had good maneuverability and a good climb rate. The premium Fokker D.XXI is armed with two 7.7mm FN Browning M.36 machine guns, and also two 20mm Oerlikon FF cannons.
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,102 @@
+[Event] Pages of History (September) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (September)
+28 August 2023
+Event
+<>In this month's Pages of History you'll find yourself at the centre of events that happened at numerous battlefronts. From battles in WWII to conflicts of the 1960s and 1980s — participate in battles using the vehicles that were used in these historic events and receive prizes!
+<>
+<>From September 1st until September 30th you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, completing all of them earns you a unique player icon.
+<>Roza Shanina was a student and a kindergarten teacher in Arkhangelsk, who enlisted as a volunteer. She graduated from sniper school with excellence and participated in battles from April of 1944. For her valour and great results she was awarded the Order of Glory 3rd class after just two weeks of fighting: she became the first servicewoman of the 3rd Belorussian Front to receive it. She participated in battles under Vitebsk and Vilnius, and in early September of 1944 hunted down German snipers on the East Prussia border. By that time her kill count was over 50, and on September 16th, 1944 she was awarded the Order of Glory 2nd class.
+Roza Shanina
+<>You can immediately purchase the profile icon for Golden Eagles until October 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (September).
+<>Trophy reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>September 1st — September 4th
+Bryansk operation
+<>After victory in the Battle of Kursk, the Soviet forces intended to keep advancing on Bryansk, but the first two weeks of the Bryansk offensive were unsuccessful. Only in early September thanks to the decisions by General Markian Popov the Red Army managed to pierce the enemy's defences.
+<>September 4th — September 8th
+Berlin Victory Parade of 1945
+<>On September 7th, 1945, a Victory Parade was held in Berlin, suggested by the USSR. It was attended by Marshal Georgy Zhukov (USSR), General George Patton (USA), General Brian Robertson (UK), and General Marie-Pierre Kœnig (France). The USSR used this parade as an opportunity to publicly demonstrate its heavy tank IS-3 for the first time.
+<>September 8th — September 11th
+Battle of Asal Uttar
+<>The largest tank battle of the Second Indo-Pakistani War was held from 8th to 10th of September of 1965. It began with incursion of Pakistani forces into Indian territory and ended with their defeat and retreat: the Pakistani lost almost 100 tanks in the battle, earning this place the nickname "Patton Graveyard". The losses of Indian Centurions were three only a third of that number.
+<>September 12th — September 15th
+Baltic operation
+<>September 14th, 1944 marked the beginning of the Baltic Operation — massive offensive of the Soviet forces on the territories of Estonia, Latvia, and Lithuania. It was successful: a large portion of the Wehrmacht forces was blocked in the Courland Pocket, and the Red Army reached East Prussia.
+<>September 16th — September 19th
+Battle of Arracourt
+<>From 18th to 29th of September, 1944 lasted the battle for Arracourt in northeastern France — the largest tank battle involving US forces on the Western Front until the Battle of the Bulge. The German side had superiority in numbers of both troops and tanks, but thanks to better intelligence, tactics and use of terrain the US were victorious and in the end pushed the enemy back to the border with Germany.
+<>September 20th — September 23rd
+The landing at Grigor’evka
+<>The first sea landing of the USSR Navy on the Black Sea. On the night from 21st to 22nd September of 1941 a small Soviet force landed behind the Axis lines near Grigor'evka, 30 km from Odessa. It, along with the main forces stationed in the city, routed two Romanian divisions and pushed the front line several kilometres from Odessa.
+<>September 23th — September 26th
+Tuapse defensive operation
+<>On 25th of September, 1942 a massive offensive of the German forces in Kuban began. The Red Army's Tuapse defensive operation was a successful attempt to contain the offensive: as a result, the Wehrmacht managed to reach neither Tuapse, nor the road to Georgia, nor Caspian Sea.
+<>September 27th— September 30th
+Operation Samen-ol-A'emeh
+<>From September 27th through to the 29th of 1981 the Iranian armed forces executed Operation Samen-ol-A'emeh ("The Eighth Imam'') aiming to lift the siege of Abadan. A diversion made the Iraqi believe that the enemy was marching on Basra, then the Iranian air force utilised its air superiority to strike the Iraqi ground troops, and finally the Iranian army led an attack from three sides. The losses were mostly equal, but the Iraqi forces left behind hundreds of trophy vehicles as they retreated.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

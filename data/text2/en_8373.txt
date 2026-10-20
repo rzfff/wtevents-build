@@ -1,0 +1,90 @@
+[Warbonds] “Armour Breaking Ambusher”: Warbonds - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Armour Breaking Ambusher”: Warbonds
+26 July 2023
+Warbonds
+<>The Warbond shop for the “Armour Breaking Ambusher” Battle Pass season will be open from 26th of July until 25th of October.
+<>We’d like to present an assortment of goods that will be available for Warbonds that you will earn in the Battle Pass! As usual, we have decals, decorations, camouflages, a new stylish pinup, and six premium vehicles!
+<>
+Pay special attention to the French B1 ter tank — this steel monster boasts impressive armour for its rank, making it able to hold off almost any attack or lead the offensive against enemy positions.
+<>The Warbond shop is available to players that have vehicles of rank III and up and is part of the Battle Pass . You can purchase items with the special ‘Warbond’ currency that can be obtained by unlocking Battle Pass levels.
+<> More on Warbonds
+<> Smelyi — first time in the shop
+<>Lead ship of the 30-bis project destroyers — the largest series of bigger ships in the history of the Soviet navy. It has impressive weaponry for its II Rank: four 130 mm main calibre guns, two 85 mm secondary calibre guns, fourteen AA guns and up to ten 533 mm torpedoes.
+<> IAR-81C
+<>This Romanian fighter-bomber can be found at Rank II in the Italian aviation tree. It's very manoeuvrable and has great payload options, including bombs up to 250 kg and 20 mm Wfr. Gr. 21Е Doedel rockets that can destroy even heavy tanks. And it can fend off enemy aircraft with its wing-mounted 20 mm MG 151 cannons and a pair of 7.92 mm machine guns.
+<> Grant I (USA)
+<>This American Rank II tank differs from its predecessor, the M3 Lee, with its redesigned turret. It lacks an AA machine gun, but compensates for that by having a smoke grenade launcher, great frontal armour, six crew members, and two cannons: 37 mm and 75 mm.
+<> IJN Yubari
+<>A Japanese Rank III experimental light cruiser. It has decent AA defences and is small like a destroyer — enemies will have a hard time hitting it. It's no match for other cruisers, but it's perfect for handling enemy destroyers!
+<> Ta 154 A-1
+<>One of the first German night fighters created to counter the British Mosquitoes. It has great manoeuvrability and very powerful and precise frontal armament consisting of two 30 mm MK 108 cannons and two 20 mm MG 151 cannons. You'll find it on Rank III of German aviation.
+<> B1 ter
+<>French Rank II tank. An improvement over the B1 bis tank granted the vehicle an extra crew member, raised its armour to 70 mm, and improved horizontal traverse of its 75 mm gun. And it's not alone: there's also a 47 mm cannon with great vertical guidance angles! Hold the enemy fire — and return it tenfold!
+<>Other Items:
+<>"Cancer Zodiac" pinup
+<>decals
+<>player icon
+<>decorations
+<>
+<>Cancer Zodiac pinup
+<>Decals are represented in the trophy with decals from the 2020 Warbonds shop, as well as a new “Cancer Zodiac” pinup which continues the series of themed decals. The Road Signs trophy will provide you with decorations that will surely amuse car enthusiasts. The player icons in the corresponding trophy this time features German tankers. Trophies with random camouflages, as before, become available as new store levels are opened.
+<>A large number of usable items are also available in the store: boosters, universal backups, wagers and orders, test drives of premium vehicles — even talismans on the highest levels of the shop.
+<>Check out the full assortment of available Warbond items for the current Battle Pass season and the terms for purchasing them in the game by opening the Battle Pass window or “Shop -> Warbond Shop”!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

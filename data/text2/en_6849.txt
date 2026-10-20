@@ -1,0 +1,107 @@
+[Warbonds] Premium vehicles for Warbonds in September - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Premium vehicles for Warbonds in September
+Attention! Outdated news format. Content may not display correctly.
+31 August 2020
+Warbonds
+<>You’ve reached Rank III? Then you have access to the Battle Tasks. Fulfil Battle Tasks, earn Warbonds, and grab your rewards!
+<>Battle Tasks will be available to you after reaching and purchasing a 3rd rank vehicle in any nation in-game. You can read more about battle tasks and war bonds in our devblog and on War Thunder wiki .
+<>These items will be available until the 30th of September!
+<>The detailed list of the Warbond items in the shop this month:
+<>
+🔸 Premium vehicles
+<> Independent
+<> Yak-3 (France)
+<> Ta 154 A-1
+<> Mörkö-Morane
+<> Chi-Nu II
+<> M4A5
+<> Pr. 1204
+"Daisy Mae" pinup decal
+<>🔸 "Daisy Mae" pinup, No. 420 Squadron, RCAF, 1945. Decal by Colin 'Fenris' Muir.
+🔸 Battle trophy (test drive): Centurion Action X, Panther “Dauphine”, Type 1939 (T31), M26 T99, Yak-3 (VK-107)
+🔸 Trophy box containing boosters for 50%, 100%, 300%, 600%, 800% RP and SL for 1 battle.
+🔸 Trophy “Decorations” (Camouflage).
+🔸 Trophy “Decorations” (Helmets).
+🔸 Battle trophy (Order).
+🔸 Trophy (Tanker player icons).
+🔸 Battle trophy (Vehicles): М3 Medium (USSR), CR.32 bis, P-26A-34, Boston Mk.I, He 112 B-2/U2, LaGG-3-34.
+🔸 Medium and big sets of universal back-up vehicles. A player can activate this item to backup any one vehicle of their choice.
+<>Ta 154 A-1
+<>A German twin-engine fighter with a powerful frontal armament placed in the fuselage, allowing skilled pilots the opportunity to score quick and easy kills. It is a great alternative to its much lesser cousins, the Ju 88 and Do 217. The pilot enjoys protection from incoming fire thanks to armour protection in the front and rear.
+<>This protection and firepower comes at a price though, as it is unable to turn well at low speeds, so keep moving at a good pace and turn only when necessary.
+<> The Ta 154 A-1 is available for the first time with Warbonds, and is especially notable as it was created by War Thunder players! Vitaly "NovA29R" Vostokov is the creator of the 3D model, and Michael "__StrafeMike__" Ioannidis created the textures.
+<>Mörkö-Morane
+<>A Finnish modification of a French fighter, this aircraft can be described as small, nimble, and well armed for its rank. It sports a 12.7mm UB machine gun and two 7.5mm wing mounted machine guns.
+<>The Mörkö-Morane is far from the best in its class in terms of performance characteristics, but by no means does it lag behind either. Due to its high top speed, great rate of climb and decent survivability, this aircraft is a blast to fly.
+<> We are glad to make the Mörkö-Morane available with Warbonds for the first time!
+Where can you find Warbonds?? ▼
+<>Click on the 'Daily Tasks' icon from the War Thunder in-game hangar.
+<>
+<>
+<>On the menu that opens, click on the 'Warbond Shop' icon in the bottom right corner.
+<>
+<>
+<>You can now view the range of Warbonds available by clicking on on the various icons.
+Purchases can be made with the 'Purchase' icon in the bottom right corner.
+<>
+<> Battle tasks: These individual tasks bring variety to your gameplay and prevent situations where all the players in a battle try to complete one specific task, effectively ignoring mission objectives that are needed for a victory. They are available for players that have reached the 3rd rank of any nation. On completion, players will receive Silver Lions, and Warbonds - a special in-game currency with their own specific shop, where you can purchase many different items.
+<>
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,100 @@
+[Shop] [Development] Pre-order: Battleship Gneisenau and Battlecruiser Sevastopol - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-order: Battleship Gneisenau and Battlecruiser Sevastopol
+23 May 2025
+Shop
+Development
+<> Introducing Gneisenau !
+Pre-order - KMS Gneisenau Pack
+The Kit Includes:
+KMS Gneisenau (Rank VI, Germany)
+3000 Golden Eagles
+Premium account for 30 days
+Pre-order bonus: unique "Glorious Hit" title
+Pre-order bonus: unique "Gneisenau ship crest" decoration (available after the next major update)
+79.99
+Store
+Vehicle History ▼
+<>Gneisenau was the second of the two Scharnhorst-class battlecruisers commissioned for the Kriegsmarine in 1938. Like her sistership, Gneisenau featured nine 28 cm (11’’) guns in triple turrets. Considered inferior to other battleships of the time, Gneisenau’s primary battery was intended to be upgraded to 38 cm (15-inch) guns, at a later time in the ship’s service. Gneisenau operated alongside Scharnhorst during several Atlantic raids, sinking or capturing numerous Allied merchant ships.
+<>In early April 1941 at Brest harbour, KMS Gneisenau was seriously damaged by a torpedo from a patrolling Beaufort British torpedo bomber. In February 1942 after repairs during Operation Cerberus, the ship was redeployed from Brest to Germany. While in dock for repairs after breaking through the English Channel, KMS Gneisenau was subjected to another air raid and was hit by a 454 kg bomb, causing a fire in the ammunition of the bow turret and serious structural damage.
+<>During the reconstruction, Gneisenau was to receive its originally planned upgrade of the primary battery. However, all efforts to rebuild the warship were ultimately abandoned due to the worsening war situation. In the end, the Kriegsmarine chose not to complete her upgrades and in March 1945, Gneisenau was scuttled as a blockship in the harbor of Gotenhafen to prevent Soviet access. After the war, her wreck remained partially submerged until it was raised and scrapped by Polish authorities in the 1950s.
+<> Gneisenau in War Thunder
+<>This ship will soon be joining the German Bluewater fleet as a premium in the next major update, completing the Scharnhorst class in the game. Building upon the strengths of its sistership, Gneisenau most prominently features its originally intended upgrade to its main battery while retaining its signature superb protection and mobility. Let’s dive in!
+<>From the outset, Gneisenau was planned to receive an upgraded suite of 380 mm main battery guns during its service life. Although this ultimately never materialized due to the war situation, you’ll soon be able to play this ship in its ultimate form! Swapping its triple 283 mm main battery for a twin 380 mm one results in Gneisenau receiving a monstrous upgrade to its firepower. As a result, this ship is capable of engaging in direct firefights with even the most heavily armored opponents.
+<>While Gneisenau’s primary battery received a substantial upgrade, the remainder of the ship’s specifications remains similar to Scharnhorst. As a result, you can count on a superb match with both excellent protection and good levels of mobility. Furthermore, Gneisenau also packs some serious firepower in terms of its secondary and anti-air power, resulting in the ship being well protected against attacks from smaller vessels as well as airborne threats. Thanks to the premium status of this ship, you’ll be able earn more research points towards your German Bluewater fleet tree.
+<> Please note that this vehicle’s characteristics may be changed before it is added to the game.
+<> Introducing Project 69I Sevastopol !
+Pre-order - Sevastopol Pack
+The Kit Includes:
+Project 69I Sevastopol (Rank VI, USSR)
+3000 Golden Eagles
+Premium account for 30 days
+Pre-order bonus: unique title Steel Guardian
+Pre-order bonus: unique flag with the coat of arms of Sevastopol (available after the next major update)
+79.99
+Store
+Vehicle History ▼
+<>The development of the Project 69 battlecruiser began in the Soviet Union in the late 1930s. The initial project called for a ship with 305 mm guns, but after receiving intelligence about the construction of Scharnhorst-class battleships with 280 mm guns in Germany, Soviet designers radically revised the project.
+<>In 1939, a new version was approved. Called the Project 69I (with the “I” standing for “inostranny”, English: “foreign”) with a spec to use 380 mm main caliber guns, it was decided to purchase 38 cm SK C / 34 guns from Germany (the same ones that were on the Bismarck). The Kronstadt and Sevastopol were laid down in 1939, but construction immediately ran into problems. German deliveries of 380 mm guns were never completed, and the USSR did not have its own production of larger types of guns. The war finally put an end to the project and in 1947 the unfinished ships were dismantled.
+<> Project 69I Sevastopol in War Thunder
+<>Sevastopol was designed as a classic battlecruiser, featuring powerful main weapons and good top speed but with relatively light armor. This ship features three twin-gun turrets with 380 mm guns, which are capable of taking out cruisers as well as battleships. Secondary weapons include four twin-gun 152 mm turrets, four twin 100 mm universal guns and anti-aircraft machine guns.
+<>The Sevastopol’s main armor belt is relatively light, being only 230 mm. Soviet engineers paid extra attention to the armor under the waterline, and for the first time in the Soviet fleet, a 50 mm thick anti-torpedo bulkhead was implemented. Due to the increased displacement, newer engines were needed, meaning Sevastopol has an excellent speed of 32 knots (about 60 km/h).
+<>All of this combined makes Sevastopol a powerful ship that’s capable of dealing devastating blows due to its main caliber to enemy ships on the high seas! Thanks to the premium status of this ship, you’ll be able earn more research points towards your Soviet Bluewater fleet tree.
+<> Please note that this vehicle’s characteristics may be changed before it is added to the game.
+Read more:
+HMS Lion: One Last Roar
+14 September 2026
+MiG-35: The Last MiG
+11 September 2026
+H145M: Angry Dragonfly
+11 September 2026
+F-102A Delta Dagger: The “Bear” Hunter
+10 September 2026
+Share the news with your friends!
+<

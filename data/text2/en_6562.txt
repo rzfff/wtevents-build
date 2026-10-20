@@ -1,0 +1,100 @@
+[Shop] The Lunar New Year 2020 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Lunar New Year 2020
+Attention! Outdated news format. Content may not display correctly.
+23 January 2020
+Shop
+<>It’s Lunar New Year! East Asia is preparing for a great feast which we will also join by adding a new fighting beast to the army of the year’s symbols. Meet the “Catcatcher” catch discounts with him in the Gaijin.Net store plus premium Chinese ground vehicles!
+<>From the 23rd of January at 11:00 GMT until the 27th of January at 11:00 GMT
+<>Celebrating together: discounts, a cool decal and new Chinese premium vehicles!
+<>Festive decal
+<>Win one battle with a game activity of 60% or higher in a vehicle from Chinese tech tree of rank III or higher to get the “Catcatcher” decal!
+<>Festive bundles with discount
+"The Chinese Air" Bundle - 30% discount
+The Kit Includes:
+Tomahawk Pack;
+Shenyang F-5 Pack.
+69.98 49
+Store
+"The Chinese Armored" Bundle - 30% discount
+The Kit Includes:
+M4A4 Sherman Pack;
+T-62 Pack.
+74.98 52
+Store
+"The Lunar New Year" Bundle - 50% discount
+The Kit Includes:
+M4A4 Sherman Pack;
+Tomahawk Pack;
+T-62 Pack
+Shenyang F-5 Pack.
+Unique title: “Dancing dragon”
+144.96 72
+Store
+<>The final price of the bundle will depend on whether you already have some of the packs or not. Be sure to login to the store to see your individual price!
+<>Note! You can also get a unique title, if you log in to the game and play 1 battle from the 23rd of January (11:00 GMT) to the 27th of January (11:00 GMT), having previously purchased all separate packs that are included in “The Lunar New Year” bundle.
+<>The title will be assigned after the 27th of January to all users who have fulfilled these conditions.
+<>The offer is valid for PC, Mac and Linux users only.
+<>New Chinese premium tanks available in the game!
+<>From the 23rd of January the T-34-85 №215 and the IS-2 №402 are available for purchase using Golden Eagles in the Chinese vehicle tree.
+<> The Chinese T-34-85 with the number 215 - one of the noticeable exhibits of the Military Museum of the Chinese People's Revolution in Beijing. During the Korean War the crew of this tank destroyed 6 enemy tanks, including two US “Pershing” M-26.
+<> IS-2 №402 - one of the Chinese “IS” vehicles that participated in the Korean War. These tanks were used in the final stages of the conflict as well being used as fixed firing positions.
+<>
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

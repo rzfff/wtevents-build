@@ -1,0 +1,90 @@
+[Event] SEAD: Asymmetrical Battle Returns! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+SEAD: Asymmetrical Battle Returns!
+16 October 2026
+Event
+<>On October 17th 1965 during Operation Iron Hand in the Vietnam War, a strike against SAM positions occurred, making it the first operation to suppress missile air defenses. The operation lasted until 1973 and consisted of many individual SEAD missions.
+<>Put on your helmets, pilots! It’s time to fly straight into the Air Defense Suppression event, an asymmetrical game mode in which one team attacks while the other defends strategic S-75 air defense positions.
+<> When: From October 16th (11:00 GMT) until October 19th (11:00 GMT) .
+<> Where: You can access the event from the hangar through: Events & Tournaments → Suppression of Enemy Air Defenses
+<> How t he event works
+<>The defending team in this event must protect AI controlled Soviet S-75 surface-to-air missile systems. Helping to defend these systems are AI controlled ZSU-23-4 “Shilka” anti-air vehicles. Both of these potent air defense systems pose a deadly threat to the attacking team — they’ll need to learn the terrain, come up with approach tactics and use the most effective selection of weaponry to be successful.
+<> Roles and Objectives
+<> Attacking Te am
+<>Your mission is to destroy all S-75 SAM positions at all costs! Not only do the attackers have aircraft, they also have helicopters, opening up new possibilities for stealthy attacks and pinpoint missile strikes. The F-4E Phantom II serves as the primary strike force, equipped with rockets and bombs for ground targets, along with air-to-air missiles for engaging enemy aircraft.
+<>The AH-1F is armed with ATGMs and rockets, capable of providing more precise air-to-ground fire to take out the air defense missile systems.
+<> Defending Team
+<>Your mission is to defend the S-75 positions from the attacking enemy! Coordinate your actions with other players and build a layered defense to counter the attacking team. You’ll be equipped with the MiG-21bis, armed with air-to-air missiles to repel enemy aircraft.
+<> Event Features
+<>Here are some key event features that are useful to know:
+<>The gameplay in this event is asymmetrical. One team attacks and the other defends. This requires you to adapt to different roles and strategies.
+<>There are no markers in this mode, so you’ll not see enemy icons on the map. Use your aircraft’s systems and piloting skills to find and destroy the enemy. The only exception is protecting spawn points. If the enemy is circling directly above them, they will be visible on the map.
+<>Each player has 3 respawns, giving both teams the flexibility to experiment with tactics, and giving the attacking players the ability to use different types of vehicles.
+<>The attacking team has access to both helicopters and planes, offering unique opportunities in coordinating attacks to take enemies out from afar and support friendly planes.
+<>All players that have an aircraft of rank V or higher in their hangar can participate in the event.
+<>The vehicles that you’ll use in the event are automatically assigned and don’t need to be purchased.
+<>Vehicles have a spawn cost in Silver Lions which will be refunded if the plane is not destroyed when the mission ends or if you exit the plane in the safe exit zones. The amount of refunded Silver Lions depends on the condition of the aircraft.
+<>Safe exit zones become available for aircraft once all the weapons of a certain type have been expended. If you have spawned in with air-to-ground weaponry, you will need to use all of it, air-to-air missiles are not taken into account, however, if you have spawned in with just air-to-air missiles, you will need to use all of them.
+<>You can earn research points and Silver Lions by taking part in the event.
+<> Why not in Random Battles?
+<>Asymmetrical modes are not for everyone, and they have their own specific approach. As players queue in random battles with their own custom lineup, if they were to randomly encounter a game mode like this, they may incidentally have an ineffective selection of vehicles that aren’t suitable for a more specialized mission like this one. “Suppression of Enemy Air Defense” requires certain vehicles and weapons for interesting and effective gameplay. In addition, the difficulty of the event (due to the presence of S-75s and a large number of very effective Shilkas) may be too high for random battles, where players often use a variety of vehicles to complete more general objectives.
+<> Why no anti-radiation missiles?
+<>After internal testing, ARMs were deemed to be too effective in the missions of this event and didn’t allow for the defending team to successfully repel the attack, making the game one-sided, which is why we’ve decided not to make them available in this SEAD event. But you can still use ARMs in Nuclear Escalation where they fit the mission well.
+<>Don’t miss the chance to participate in this unique event from October 16th to October 19th! Make sure to prepare for intense air battles that require teamwork and excellent piloting. See you in the sky!
+Read more:
+Get the AMV (BMP-3) in the Desert Predator Event!
+28 September 2026
+Battle Pass Season 25: Steel Fury and Its Warbond Shop!
+19 October 2026
+Pre-order: HMS Duke of York
+19 October 2026
+Official Snail Plushie Collaboration with Makeship!
+16 October 2026
+Share the news with your friends!
+<

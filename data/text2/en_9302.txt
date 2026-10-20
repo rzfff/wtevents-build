@@ -1,0 +1,106 @@
+[Event] Pages of History (January): Defender of Leningrad - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (January): Defender of Leningrad
+26 December 2024
+Event
+<>In this month’s Pages of History, you’ll be at the center of events that took place in different theaters of war. Iran and Saudi Arabia, the Philippines and East Prussia: take part in battles with the vehicles corresponding to these historic battles and receive prizes.
+<>
+<>From January 1st until January 31st, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, and completing all of them will earn you a unique player icon.
+<>Vasily Antonovich Matsievich
+<>was an ace pilot who fought in World War II from 1941. The fighter squadron he commanded defended besieged Leningrad from enemy raids and carried out assault raids on Wehrmacht positions. Soon after the siege of Leningrad was lifted, Matsievich was awarded the title of Hero of the Soviet Union for his courage.
+<>
+<>You can immediately purchase this profile icon for Golden Eagles until February 3rd, 11:30 GMT without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random ground vehicle camouflage (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>Calendar
+<>January 1st — January 4th
+<> Operation Bodenplatte
+<>On January 1st 1945, German aircraft launched a massive attack on Allied airfields in the Netherlands, hoping to gain air superiority to support the Ardennes counteroffensive. They managed to destroy almost 500 Allied aircraft, but the losses among pilots were minimal, since the attack was sudden and the aircraft were on the ground. The Allies quickly replenished the lost equipment, but the Luftwaffe was unable to recover from the losses in personnel — this was their last strategic operation.
+<>January 4th — January 7th
+<> Operation Nasr
+<>The largest tank battle of the Iran-Iraq War took place from January 5th to 9th 1981. The Iraqis knew that the Iranians were coming and prepared well, burying their tanks up to the turrets. They often practiced this tactic because they were not skilled enough to maneuver in combat, but in this case the swampy terrain played into their hands. The Iranians were ambushed, attacked from the front and flanks — they tried unsuccessfully to break through, then began to maneuver and got stuck in the mud. Operation Nasr, designed to liberate cities in southwestern Iran, completely failed, causing hundreds of vehicles to be lost.
+<>January 8th — January 11th
+<> Battle for Luzon
+<>On January 9th 1945, the Battle of Luzon, the largest island of the Philippine archipelago, began. It lasted until the very end of the war, although the Americans and Filipinos managed to recapture most of the island by March. At the beginning of the battle, 175,000 American soldiers landed on the island, although the landing operation was hampered by attacks from kamikaze pilots. In late January and early February, the island saw the largest tank battle in the Pacific theater.
+<>January 12th — January 15th
+<> Operation Blackcock
+<>This little-known operation, named after a type of grouse, took place from 13th to 27th January 1945 on the border between the Netherlands and Germany. Having won the Ardennes, the Allies began to advance towards Germany, and in the “Roermond Triangle” between the Ruhr, Wurm and Maas rivers, British forces encountered three lines of German defense. However, the Germans were outnumbered and lacked air support, so their defeat was only a matter of time. Operation Blackcock had been fully achieved.
+<>January 16th — January 19th
+<> Breaking the Blockade of Leningrad
+<>On January 18th 1943, the Red Army broke the blockade of Leningrad, which had been going on since September 1941, as part of Operation Iskra. Although the corridor controlled by the USSR was initially only 8-11 km wide, a highway and a railway were built in the shortest possible time to provide the city with everything it needed and to evacuate people. The Red Army was unable to continue its success, as it was only a year later that the enemy was completely driven away from Leningrad.
+<>January 20th — January 23rd
+<> Battle of Anzio
+<>In December 1943, Allied forces in Italy were stopped by the Gustav Line. In order to bypass the Axis fortifications from the flanks, the Allies carried out an amphibious operation, landing on January 22nd 1944 at Anzio. American General John Lucas, who commanded the operation, did not believe in its success and, instead of using the element of surprise to attack the German from behind, began to fortify himself in the Anzio and Nettuno area. Field Marshal Kesselring transferred all available troops to this area, flooded the Pontine Marshes and pinned the Allies down with continuous artillery fire. A month later, General Lucas was removed from command, and the Battle of Anzio ultimately lasted until June.
+<>
+<>January 24th — January 27th
+<> Heiligenbeil Pocket
+<>On January 26th 1945, the 4th Army of the Wehrmacht made a final attempt to break out of the encirclement near Heiligenbeil in East Prussia (now Mamonovo in the Kaliningrad region). The attempt ended in failure, as on January 30th, the ring of Soviet troops closed, and the Germans could only hold their positions and evacuate civilians across the Baltic Sea (the high command forbade the evacuation of the military). On March 29th, the pocket was liquidated.
+<>January 28th — January 31st
+<> Battle of Khafji
+<>Throughout the second half of January 1991, the international coalition effectively attacked Iraq from the air. Saddam Hussein wanted to engage his opponents in ground battles, where the Iraqi army had more experience due to the recently concluded Iran-Iraq War. On January 29th 100 Iraqi tanks crossed the border between Kuwait and Saudi Arabia to attack the forces of the international coalition and take the city of Ras al-Khafji. The city’s population had been evacuated in advance. Throughout January 30th, the Iraqis managed to defend the city, but on February 1st they were forced to retreat. This battle demonstrated the importance of air support in modern warfare.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

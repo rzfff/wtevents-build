@@ -1,0 +1,1122 @@
+{
+  "results": [
+    {
+      "aid": 2044,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "进击的冰球！",
+      "name_en": null,
+      "name_zh": "进击的冰球！",
+      "start": "2025-04-07",
+      "end": "2025-04-11T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "截至北京时间 4 月 11 日 15:00",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "奖励码“OVI”激活截止（领取“冰球印花”贴花）",
+          "when": "2025-04-11T15:00:00Z"
+        },
+        {
+          "what": "主机平台“呼号：冰球手”头像解锁任务窗口截止",
+          "when": "2025-04-14T21:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "“冰球” 贴花",
+        "“冰球印花” 贴花",
+        "“呼号：冰球手” 资料头像"
+      ],
+      "tasks": "使用II级及以上苏/美载具完成8场战斗得“冰球”贴花，8场胜利得“呼号：冰球手”头像；商店个人资料页激活奖励码OVI领“冰球印花”贴花",
+      "sub_events": [
+        {
+          "name": "主机平台“呼号：冰球手”头像解锁任务",
+          "start": "2025-04-09T21:00:00Z",
+          "end": "2025-04-14T21:00:00Z"
+        }
+      ],
+      "notes": "开始时间未明示，取文章发布日；时刻均为北京时间",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2046,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "勇气时刻：菲律宾",
+      "name_en": null,
+      "name_zh": "勇气时刻：菲律宾",
+      "start": "2025-04-09",
+      "end": "2025-04-17T14:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "本次主题特惠活动持续至北京时间 4 月 17 日 14:00",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "勇气时刻：菲律宾礼包 929→465 CN¥",
+          "percent": 50,
+          "note": "含佩刀“天空闪光”/F-5C/斯图亚特 VI 礼包、贴花与头衔"
+        },
+        {
+          "target": "多种商品",
+          "item": "捆绑包内 3 款礼包单独七折",
+          "percent": 30,
+          "note": "佩刀“天空闪光”/F-5C/斯图亚特 VI，4月9日至4月16日14:00"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "特殊贴花：菲律宾之鹰",
+        "专属头衔：公民之盾",
+        "F-86F-35 佩刀“天空闪光”(美国)",
+        "F-5C",
+        "斯图亚特 VI (加拿大第 5 装甲师)"
+      ],
+      "tasks": "购买菲律宾纪念礼包（五折）得贴花头衔；已拥有载具者活动期内用对应载具各打3场战斗同样得贴花头衔；LIVE.WT社区涂装永久开放金鹰购买",
+      "sub_events": [
+        {
+          "name": "捆绑包内 3 款礼包单独七折",
+          "start": "2025-04-09",
+          "end": "2025-04-16T14:00:00Z"
+        }
+      ],
+      "notes": "开始时间取文章发布日（4月9日菲律宾英勇日）；时刻为北京时间",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2053,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "载人航天飞行日纪念贴花活动上线！",
+      "name_en": null,
+      "name_zh": "载人航天飞行日纪念贴花活动上线！",
+      "start": "2025-04-11T18:00:00Z",
+      "end": "2025-04-14T18:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 4 月 11 日 18:00 至 4 月 14 日 18:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“载人航天日 2025”贴花"
+      ],
+      "tasks": "使用III级及以上苏联空中载具完成3场战斗（活跃度≥70%）即可获得“载人航天日 2025”贴花",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2054,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "纪念瓦西里·马茨耶维奇诞辰，苏联喷火限时返售！",
+      "name_en": null,
+      "name_zh": "纪念瓦西里·马茨耶维奇诞辰，苏联喷火限时返售！",
+      "start": "2025-04-11T21:00:00Z",
+      "end": "2025-04-14T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间：北京时间 4 月 11 日 21:00 至 4 月 14 日 21:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "喷火 Mk IXc (苏联) 6090 金鹰",
+          "percent": null,
+          "note": "限时返售，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "上架期间以 6090 金鹰在苏联空战科技树高级载具栏购买喷火 Mk IXc",
+      "sub_events": [],
+      "notes": "纪念瓦西里·马茨耶维奇诞辰",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2058,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "BO 105 CB-2 限时返场，可通过金鹰购买！",
+      "name_en": null,
+      "name_zh": "BO 105 CB-2 限时返场，可通过金鹰购买！",
+      "start": "2025-04-17T00:00:00Z",
+      "end": "2025-04-21T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间: 北京时间 4 月 17 日 0 点至 4 月 21 日 15:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "BO 105 CB-2 七折 5992 金鹰",
+          "percent": 30,
+          "note": "限时返场"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "4月17日0点至21日15:00以 5992 金鹰在德国直升机高级载具栏购买 BO 105 CB-2",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2059,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "复活节快乐！",
+      "name_en": null,
+      "name_zh": "复活节快乐！",
+      "start": "2025-04-18",
+      "end": "2025-04-23T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "截至北京时间 4 月 23 日 15:00 活动截止前",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "奖励码“HAPPYEASTER”激活截止",
+          "when": "2025-04-23T15:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "“复活节彩蛋”贴花",
+        "“复活节兔子”贴花"
+      ],
+      "tasks": "个人资料界面输入奖励码 HAPPYEASTER 得“复活节彩蛋”贴花；激活后使用任意II级及以上载具完成3场战斗得“复活节兔子”贴花",
+      "sub_events": [],
+      "notes": "开始时间未明示，取文章发布日",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2065,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "纪念圣乔治节，英格兰圣乔治十字旗限时上架！",
+      "name_en": null,
+      "name_zh": "纪念圣乔治节，英格兰圣乔治十字旗限时上架！",
+      "start": "2025-04-23T18:00:00Z",
+      "end": "2025-04-25T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间：北京时间 4 月 23 日 18:00 至 4 月 25 日 15:00",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "“英格兰圣乔治十字旗”贴花 500 金鹰",
+          "percent": null,
+          "note": "限时上架3天，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "上架期间以 500 金鹰在个人资料→贴花→通用→旗帜处购买“英格兰圣乔治十字旗”贴花",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2066,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "FFA P-16 首飞周年纪念，游戏内重新上架！",
+      "name_en": null,
+      "name_zh": "FFA P-16 首飞周年纪念，游戏内重新上架！",
+      "start": "2025-04-25T18:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "上架时间：北京时间 4 月 25 日 18:00 起",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "FFA P-16 9090 金鹰",
+          "percent": null,
+          "note": "重返科技树，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "以 9090 金鹰在德国空战科技树高级载具栏购买 FFA P-16",
+      "sub_events": [],
+      "notes": "上架无截止时间",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2067,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "意大利解放 80 周年纪念贴花上线！",
+      "name_en": null,
+      "name_zh": "意大利解放 80 周年纪念贴花上线！",
+      "start": "2025-04-25T20:00:00Z",
+      "end": "2025-04-28T20:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 4 月 25 日 20:00 至 4 月 28 日 20:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“2025 意大利解放日”贴花"
+      ],
+      "tasks": "使用III级及以上意大利载具完成3场战斗（活跃度≥70%）即可获得“2025 意大利解放日”贴花",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2068,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "日本黄金周纪念贴花活动登场！",
+      "name_en": null,
+      "name_zh": "日本黄金周纪念贴花活动登场！",
+      "start": "2025-04-29T18:00:00Z",
+      "end": "2025-05-02T18:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 4 月 29 日 18:00 至 5 月 2 日 18:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“东京塔”贴花"
+      ],
+      "tasks": "使用III级及以上日本载具完成3场战斗（活跃度≥70%）即可获得“东京塔”贴花",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2070,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "史海拾遗·五月：胜利之路",
+      "name_en": null,
+      "name_zh": "史海拾遗·五月：胜利之路",
+      "start": "2025-05-01",
+      "end": "2025-05-31",
+      "end_precision": "day",
+      "end_raw": "从 5 月 1 日至 5 月 31 日期间",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "金鹰购买本期特供头像（斯捷潘·涅乌斯特罗耶夫）截止",
+          "when": "2025-06-03T19:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "本期史海拾遗活动特供头像",
+        "作战物资箱",
+        "20-50% 研发加成卡",
+        "20-50% 银狮加成卡",
+        "3-5 份备用载具兑换卡",
+        "1 天高级账户时长",
+        "随机地面载具涂装"
+      ],
+      "tasks": "5月内按日程完成8项历史战役任务，每项得1个作战物资箱（随机奖励），全部完成得本期特供头像；头像亦可金鹰直购（至6月3日19:30）",
+      "sub_events": [
+        {
+          "name": "婆罗洲行动：塔拉坎战役",
+          "start": "2025-05-01",
+          "end": "2025-05-04"
+        },
+        {
+          "name": "马达加斯加战役",
+          "start": "2025-05-04",
+          "end": "2025-05-07"
+        },
+        {
+          "name": "欧战胜利日",
+          "start": "2025-05-07",
+          "end": "2025-05-10"
+        },
+        {
+          "name": "冠冕行动",
+          "start": "2025-05-10",
+          "end": "2025-05-13"
+        },
+        {
+          "name": "突尼斯战役尾声",
+          "start": "2025-05-13",
+          "end": "2025-05-17"
+        },
+        {
+          "name": "克里特岛战役",
+          "start": "2025-05-18",
+          "end": "2025-05-22"
+        },
+        {
+          "name": "森格尔防线",
+          "start": "2025-05-23",
+          "end": "2025-05-26"
+        },
+        {
+          "name": "F-4 鬼怪首飞",
+          "start": "2025-05-27",
+          "end": "2025-05-31"
+        }
+      ],
+      "notes": "任务窗口为北京时间19:00起至截止日19:30；各战役窗口按日精度",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2075,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "防空压制 (SEAD) 活动战端再起！",
+      "name_en": null,
+      "name_zh": "防空压制 (SEAD) 活动战端再起！",
+      "start": "2025-05-02T22:00:00Z",
+      "end": "2025-05-05T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 5 月 2 日 22:00 至 5 月 5 日 12:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "周末测试活动：经基地“军事行动与竞技场”侧边栏进入SEAD任务，摧毁防空目标获银狮/研发收益",
+      "sub_events": [],
+      "notes": "游戏模式二次测试活动，无道具奖励",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2079,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Gaijin 商店开启胜利日特卖！",
+      "name_en": null,
+      "name_zh": "Gaijin 商店开启胜利日特卖！",
+      "start": "2025-05-07T19:00:00Z",
+      "end": "2025-05-14T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 5 月 7 日 19:00 至 5 月 14 日 19:00",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "“胜利之翼”礼包合集 1094→766 CN¥",
+          "percent": 30,
+          "note": "6 款同盟国王牌座驾礼包"
+        },
+        {
+          "target": "捆绑包",
+          "item": "“胜利履印”礼包合集 1164→815 CN¥",
+          "percent": 30,
+          "note": "6 款地面载具礼包"
+        },
+        {
+          "target": "捆绑包",
+          "item": "“胜利兵器”礼包合集 2258→1129 CN¥",
+          "percent": 50,
+          "note": "12 款礼包合集"
+        },
+        {
+          "target": "多种商品",
+          "item": "新手礼包×9 及哈立德-I、T29、柴油虎王、苏-25K、F-5C 等 36 款礼包五折",
+          "percent": 50,
+          "note": "AH-64D(荷兰)、幼狮鸭翼型、米-35M(巴基斯坦)、萨博 J35XS、F-4J(UK)、挑战者 2(OES) 特卖后从市场下架"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "5月7日19:00至14日19:00期间于 Gaijin 商店购买折扣礼包与礼包合集",
+      "sub_events": [],
+      "notes": "五折礼包数量按正文列举统计",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2080,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "欧洲战场胜利日 80 周年纪念活动隆重开幕！",
+      "name_en": null,
+      "name_zh": "欧洲战场胜利日 80 周年纪念活动隆重开幕！",
+      "start": "2025-05-07T21:00:00Z",
+      "end": "2025-05-12T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 5 月 7 日 21:00 至 5 月 12 日 21:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "“ 胜利属于我们 ！”海报贴花",
+        "“ DS-39 ”地面载具装饰挂件",
+        "“ 欧洲战场胜利日 80 周年纪念 ”资料背景画面",
+        "往年胜利日装饰道具返场物资箱",
+        "贴花：后方战线/祖国母亲/战士-解放者/胜利者群像",
+        "挂件：布伦 Mk II/ROKS-3/M1 加兰德/SG-43/马克沁-托卡列夫轻机枪/汤米冲锋枪",
+        "舰艇挂件：玛蒂尔达 II/120-PM-38"
+      ],
+      "tasks": "III级+载具3场（活跃度≥70%）得海报贴花；III级+地面载具获20000分得DS-39挂件；III级+取得5场胜利得背景画面；道具商店购买返场物资箱",
+      "sub_events": [
+        {
+          "name": "Gaijin 商店胜利专题特卖",
+          "start": "2025-05-07T19:00:00Z",
+          "end": "2025-05-14T19:00:00Z"
+        },
+        {
+          "name": "胜利传奇：T-34-85“游击队员”",
+          "start": "2025-05-08T19:00:00Z",
+          "end": "2025-05-20T19:00:00Z"
+        }
+      ],
+      "notes": "任务奖励+返场物资箱+两项子活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2090,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "纪念英帝国末代航空节，喷火魏兹曼座机正式回归！",
+      "name_en": null,
+      "name_zh": "纪念英帝国末代航空节，喷火魏兹曼座机正式回归！",
+      "start": "2025-05-20T19:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "上架时间：北京时间 5 月 20 日 19:00 起",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "喷火 LF Mk.IXe (埃泽尔·魏兹曼座机) 4880 金鹰",
+          "percent": null,
+          "note": "重新上架，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "以 4880 金鹰在以色列空战科技树高级载具栏购买喷火 LF Mk.IXe",
+      "sub_events": [],
+      "notes": "上架无截止时间",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2097,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "纪念法国海军节，VLT-2 回归科技树，贴花活动同步开启！",
+      "name_en": null,
+      "name_zh": "纪念法国海军节，VLT-2 回归科技树，贴花活动同步开启！",
+      "start": "2025-05-22T19:00:00Z",
+      "end": "2025-05-26T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 5 月 22 日 19:00 至 5 月 26 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "VLT-2 4880 金鹰",
+          "percent": null,
+          "note": "重返科技树，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“法国海军轻步兵徽标”贴花"
+      ],
+      "tasks": "使用III级及以上法国海战舰艇完成3场战斗（活跃度≥70%）得贴花；VLT-2 以 4880 金鹰回归法国近岸高级栏",
+      "sub_events": [],
+      "notes": "VLT-2 上架无截止时间；贴花任务窗口至5月26日19:00",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2102,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "格奈森瑙号与塞瓦斯托波尔号开启预购！",
+      "name_en": null,
+      "name_zh": "格奈森瑙号与塞瓦斯托波尔号开启预购！",
+      "start": "2025-05-23",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "预购：格奈森瑙号礼包 585 CN¥",
+          "percent": null,
+          "note": "含载具+3000金鹰+30天高级+头衔/挂件"
+        },
+        {
+          "target": "捆绑包",
+          "item": "预购：塞瓦斯托波尔号礼包 585 CN¥",
+          "percent": null,
+          "note": "含载具+3000金鹰+30天高级+头衔/船旗"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“光荣暴击”专属头衔",
+        "“格奈森瑙号舰徽”装饰挂件",
+        "“赤色铁卫”专属头衔",
+        "“塞瓦斯托波尔市旗帜”船旗"
+      ],
+      "tasks": "预购两款战舰礼包（各585 CN¥），重大版本更新实装后到账使用",
+      "sub_events": [],
+      "notes": "预购无截止日期；开始时间取文章发布日",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2105,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "鸢首飞纪念日，游戏内限时返售！",
+      "name_en": null,
+      "name_zh": "鸢首飞纪念日，游戏内限时返售！",
+      "start": "2025-05-27T19:00:00Z",
+      "end": "2025-05-30T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间：北京时间 5 月 27 日 19:00 至 5 月 30 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "鸢 (达索 Milan) 七折 6363 金鹰",
+          "percent": 30,
+          "note": "限时返售"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "5月27日19:00至30日19:00以 6363 金鹰在法国空战科技树高级载具栏购买鸢式",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.95
+    },
+    {
+      "aid": 2106,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "史海拾遗·六月：荒原骑兵",
+      "name_en": null,
+      "name_zh": "史海拾遗·六月：荒原骑兵",
+      "start": "2025-06-01",
+      "end": "2025-06-30",
+      "end_precision": "day",
+      "end_raw": "从 6 月 1 日至 6 月 30 日期间",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "金鹰购买本期特供头像（西奥多·罗斯福三世）截止",
+          "when": "2025-07-03T19:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "本期史海拾遗活动特供头像",
+        "作战物资箱",
+        "20-50% 研发加成卡",
+        "20-50% 银狮加成卡",
+        "3-5 份备用载具兑换卡",
+        "1 天高级账户时长",
+        "随机地面载具涂装"
+      ],
+      "tasks": "6月内按日程完成8项历史战役任务，每项得作战物资箱（随机奖励），全部完成得本期特供头像；头像亦可金鹰直购（至7月3日19:30）",
+      "sub_events": [
+        {
+          "name": "中途岛战役",
+          "start": "2025-06-01",
+          "end": "2025-06-04"
+        },
+        {
+          "name": "诺曼底登陆",
+          "start": "2025-06-05",
+          "end": "2025-06-08"
+        },
+        {
+          "name": "维堡-彼得罗扎沃茨克攻势",
+          "start": "2025-06-09",
+          "end": "2025-06-12"
+        },
+        {
+          "name": "波卡基村之战",
+          "start": "2025-06-12",
+          "end": "2025-06-15"
+        },
+        {
+          "name": "战斧行动",
+          "start": "2025-06-15",
+          "end": "2025-06-18"
+        },
+        {
+          "name": "菲律宾海海战",
+          "start": "2025-06-19",
+          "end": "2025-06-22"
+        },
+        {
+          "name": "拉塞尼艾战役",
+          "start": "2025-06-23",
+          "end": "2025-06-26"
+        },
+        {
+          "name": "蓝色方案",
+          "start": "2025-06-27",
+          "end": "2025-06-30"
+        }
+      ],
+      "notes": "任务窗口为北京时间19:00起至截止日19:30",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2109,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Fw 190 与 Bf 109 首飞纪念日，游戏内折扣限时开启！",
+      "name_en": null,
+      "name_zh": "Fw 190 与 Bf 109 首飞纪念日，游戏内折扣限时开启！",
+      "start": "2025-05-28T18:00:00Z",
+      "end": "2025-06-02T18:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 5 月 28 日 18:00 至 6 月 2 日 18:00",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "6 款 Bf 109/Fw 190 金鹰载具七折：175/700/1015/2695/3248/3416 金鹰",
+          "percent": 30,
+          "note": "Bf 109 A 弗莱格尔座机、Bf 109 E-7(日)、Bf 109 F-4(美)、Fw 190 A-8(美)、Bf 109 G-2(意)、Bf 109 G-6(芬)"
+        },
+        {
+          "target": "多种商品",
+          "item": "Bf 109 Z-1/Fw 190 A-5(日)/Fw 190 D-9(苏) 限时上架：2980/2980/7420 金鹰",
+          "percent": null,
+          "note": "同窗口限时开放金鹰购买"
+        },
+        {
+          "target": "载具",
+          "item": "Fw 190 D-13 七折 3416 金鹰",
+          "percent": 30,
+          "note": "重返科技树；6月2日18:00 后恢复原价"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "5月28日18:00至6月2日18:00：多款Bf 109/Fw 190金鹰载具七折；Bf 109 Z-1、Fw 190 A-5(日)、Fw 190 D-9(苏)限时上架；Fw 190 D-13返售并七折",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2110,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "得梅因号开工纪念日，游戏内重新上架！",
+      "name_en": null,
+      "name_zh": "得梅因号开工纪念日，游戏内重新上架！",
+      "start": "2025-05-28T19:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "上架时间：北京时间 5 月 28 日 19:00 起",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "得梅因号 8020 金鹰",
+          "percent": null,
+          "note": "重返科技树，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "以 8020 金鹰在美国远洋海军科技树高级载具栏购买得梅因号",
+      "sub_events": [],
+      "notes": "上架无截止时间",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2113,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "西班牙武装部队纪念日，VRCC 重新上架！",
+      "name_en": null,
+      "name_zh": "西班牙武装部队纪念日，VRCC 重新上架！",
+      "start": "2025-05-29T17:00:00Z",
+      "end": null,
+      "end_precision": null,
+      "end_raw": "上架时间：北京时间 5 月 29 日 17:00 起",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "VRCC 8910 金鹰",
+          "percent": null,
+          "note": "重返科技树，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "以 8910 金鹰在意大利陆战科技树高级载具栏购买 VRCC",
+      "sub_events": [],
+      "notes": "上架无截止时间",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2114,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "纪念瑞典乡土防卫队日，SAV 20.12.48 限时返售，贴花活动开启！",
+      "name_en": null,
+      "name_zh": "纪念瑞典乡土防卫队日，SAV 20.12.48 限时返售，贴花活动开启！",
+      "start": "2025-05-29T19:00:00Z",
+      "end": "2025-06-02T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间：北京时间 5 月 29 日 19:00 至 6 月 2 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "SAV 20.12.48 1300 金鹰",
+          "percent": null,
+          "note": "限时返售，无折扣"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“克鲁努贝里团纹章”贴花"
+      ],
+      "tasks": "使用III级及以上瑞典载具完成3场战斗（活跃度≥70%）得“克鲁努贝里团纹章”贴花；同窗口 1300 金鹰购 SAV 20.12.48",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2118,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "土耳其空军纪念日，贴花与折扣活动限时开启！",
+      "name_en": null,
+      "name_zh": "土耳其空军纪念日，贴花与折扣活动限时开启！",
+      "start": "2025-05-30T21:00:00Z",
+      "end": "2025-06-02T21:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 5 月 30 日 21:00 至 6 月 2 日 21:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "T 129 ATAK 五折 4635 金鹰",
+          "percent": 50,
+          "note": ""
+        },
+        {
+          "target": "载具",
+          "item": "土耳其 F-104S 五折 4635 金鹰",
+          "percent": 50,
+          "note": "特卖后保留科技树，恢复原价"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“土耳其空军飞行员徽标”贴花"
+      ],
+      "tasks": "使用III级及以上土耳其空中载具完成3场战斗（活跃度≥70%）得贴花；T 129 ATAK 与 F-104S 五折",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2119,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "豹 2 OTCo 开启预购！",
+      "name_en": null,
+      "name_zh": "豹 2 OTCo 开启预购！",
+      "start": "2025-05-30",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "预购：豹 2 OTCo 礼包 499 CN¥",
+          "percent": null,
+          "note": "含载具+2500金鹰+20天高级+头衔/贴花"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“矢志坚守”专属头衔",
+        "“ 荷兰皇家陆军地 43 机械化旅徽标 ”特殊贴花"
+      ],
+      "tasks": "预购豹 2 OTCo 礼包（499 CN¥），新版本实装后到账，含预购专属头衔与贴花",
+      "sub_events": [],
+      "notes": "预购无截止日期；开始时间取文章发布日",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2124,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "勇气时刻：加拿大",
+      "name_en": null,
+      "name_zh": "勇气时刻：加拿大",
+      "start": "2025-06-01T17:00:00Z",
+      "end": "2025-06-09T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 6 月 1 日 17:00 至 6 月 9 日 17:00",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "“直抵繁星”捆绑包 160→79.99 CN¥",
+          "percent": 50,
+          "note": "野马 D-20/F/A-18C 早期型/佩刀“天空闪光”礼包+加拿大涂装+头衔"
+        },
+        {
+          "target": "捆绑包",
+          "item": "“夙夜守望”捆绑包 87.47→43.74 CN¥",
+          "percent": 50,
+          "note": "M5A1(加5装)/豹 2A4M CAN/公羊 II+头衔"
+        },
+        {
+          "target": "捆绑包",
+          "item": "预购：诺斯罗普 NF-5A 礼包 69.99 CN¥",
+          "percent": null,
+          "note": "预购；含2500金鹰+20天高级+头衔/贴花/涂装"
+        },
+        {
+          "target": "载具",
+          "item": "公羊 II (英国) 五折 576 金鹰",
+          "percent": 50,
+          "note": "6月1日17:00至6月4日19:00"
+        },
+        {
+          "target": "载具",
+          "item": "海达人号 4880 金鹰 / 斯图亚特 VI 700 金鹰",
+          "percent": null,
+          "note": "限时返售，6月1日17:00至6月4日19:00"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“加拿大武装部队纹章”贴花",
+        "特殊头衔“直抵繁星”",
+        "特殊头衔“夙夜守望”",
+        "预购奖励：“自由战士”头衔",
+        "预购奖励：“荷兰皇家空军第 313 战斗机联队徽标”贴花",
+        "预购奖励：阿伯茨福德航展展示涂装"
+      ],
+      "tasks": "购加拿大主题捆绑包得头衔（已有载具者各3场战斗同得）；III级+英国载具3场得纹章贴花；NF-5A预购；公羊II五折；海达人号/斯图亚特VI返售",
+      "sub_events": [
+        {
+          "name": "海达人号与斯图亚特 VI 限时返售",
+          "start": "2025-06-01T17:00:00Z",
+          "end": "2025-06-04T19:00:00Z"
+        },
+        {
+          "name": "公羊 II (英国) 限时五折",
+          "start": "2025-06-01T17:00:00Z",
+          "end": "2025-06-04T19:00:00Z"
+        },
+        {
+          "name": "“加拿大武装部队纹章”贴花任务",
+          "start": "2025-06-01T17:00:00Z",
+          "end": "2025-06-04T17:00:00Z"
+        }
+      ],
+      "notes": "多子活动并行，主窗口取商城特惠期",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2133,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "M-51 与梅卡瓦实战纪念日，游戏内高级版本重新上架 ！",
+      "name_en": null,
+      "name_zh": "M-51 与梅卡瓦实战纪念日，游戏内高级版本重新上架 ！",
+      "start": "2025-06-04T19:00:00Z",
+      "end": "2025-06-09T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "截至东八区时间 6 月 9 日 19:00 前，M51 焊接型与梅卡瓦 Mk 2D 享限时七折",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "M-51 焊接型 七折 3146 金鹰（原 4880）",
+          "percent": 30,
+          "note": ""
+        },
+        {
+          "target": "载具",
+          "item": "梅卡瓦 Mk 2D 七折 6237 金鹰（原 8910）",
+          "percent": 30,
+          "note": ""
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "6月4日19:00起 M-51 焊接型与梅卡瓦 Mk 2D 重返以色列高级栏；6月9日19:00 前七折，之后恢复原价",
+      "sub_events": [],
+      "notes": "折扣截止后两车按原价继续上架",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2140,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "诺曼底登陆纪念活动开幕，专属折扣与锦标赛来袭！",
+      "name_en": null,
+      "name_zh": "诺曼底登陆纪念活动开幕，专属折扣与锦标赛来袭！",
+      "start": "2025-06-06T19:00:00Z",
+      "end": "2025-06-09T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 6 月 6 日 19:00 起至 6 月 9 日 19:00",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "“敢为人先”捆绑包 706→494 CN¥",
+          "percent": 30,
+          "note": ""
+        },
+        {
+          "target": "捆绑包",
+          "item": "“破敌重锤”捆绑包 686→480 CN¥",
+          "percent": 30,
+          "note": ""
+        },
+        {
+          "target": "捆绑包",
+          "item": "“战争霸主”捆绑包 1392→696 CN¥",
+          "percent": 50,
+          "note": "含前两包全部内容与奖励"
+        },
+        {
+          "target": "载具",
+          "item": "贝尔法斯特号轻巡洋舰 限时折扣",
+          "percent": null,
+          "note": "折扣率未标明；6月6日19:00至10日19:00"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "诺曼底登陆日系列锦标赛报名截止",
+          "when": "2025-06-13"
+        }
+      ],
+      "rewards_text": [
+        "特殊贴花：“美国第 1 军徽标”",
+        "特殊贴花：“英国第 2 军臂章”",
+        "特殊贴花：“盟军远征部队最高司令部徽标”",
+        "专属头衔：敢为人先/破敌重锤/战争霸主",
+        "T86 两栖坦克歼击车",
+        "“2025 诺曼底登陆日”纪念贴花",
+        "锦标赛：特殊纪念贴花与“诺曼底王牌”头衔"
+      ],
+      "tasks": "购诺曼底捆绑包得贴花头衔（已有全部载具则活动期内3胜同得）；T86 活动得分解锁；III级+美/英/法载具3场得纪念贴花；锦标赛报名至6月13日",
+      "sub_events": [
+        {
+          "name": "T86 两栖坦克活动",
+          "start": "2025-06-05T19:00:00Z",
+          "end": "2025-06-17T19:00:00Z"
+        },
+        {
+          "name": "史海拾遗：西奥多·罗斯福三世",
+          "start": "2025-06-01T19:00:00Z",
+          "end": "2025-06-30T19:00:00Z"
+        },
+        {
+          "name": "“2025 诺曼底登陆日”纪念贴花任务",
+          "start": "2025-06-06T19:00:00Z",
+          "end": "2025-06-10T15:00:00Z"
+        },
+        {
+          "name": "贝尔法斯特号限时折扣",
+          "start": "2025-06-06T19:00:00Z",
+          "end": "2025-06-10T19:00:00Z"
+        }
+      ],
+      "notes": "捆绑包奖励6月11日后发放；主窗口取捆绑包特卖期",
+      "confidence": 0.85
+    },
+    {
+      "aid": 2143,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "纪念波利卡波夫诞辰，I-16 28 型限时返售，折扣活动同步上线！",
+      "name_en": null,
+      "name_zh": "纪念波利卡波夫诞辰，I-16 28 型限时返售，折扣活动同步上线！",
+      "start": "2025-06-09T19:00:00Z",
+      "end": "2025-06-12T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间：北京时间 6 月 9 日 19:00 至 6 月 12 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "I-16 28 型 1350 金鹰",
+          "percent": null,
+          "note": "限时上架返售，无折扣"
+        },
+        {
+          "target": "载具",
+          "item": "I-153P 七折 665 金鹰",
+          "percent": 30,
+          "note": ""
+        },
+        {
+          "target": "载具",
+          "item": "I-153 (M62) 茹科夫斯基座机 七折 280 金鹰",
+          "percent": 30,
+          "note": ""
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "6月9日19:00至12日19:00：I-16 28型以1350金鹰返售；I-153P 与 I-153(M62)茹科夫斯基座机七折",
+      "sub_events": [],
+      "notes": "",
+      "confidence": 0.9
+    },
+    {
+      "aid": 2147,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "意大利海军纪念日，工兵号限时返售，贴花活动同步开启！",
+      "name_en": null,
+      "name_zh": "意大利海军纪念日，工兵号限时返售，贴花活动同步开启！",
+      "start": "2025-06-10T19:00:00Z",
+      "end": "2025-06-13T19:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "上架时间：北京时间 6 月 10 日 19:00 至 6 月 13 日 19:00",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "工兵号驱逐舰 3850 金鹰",
+          "percent": null,
+          "note": "限时返售，无折扣"
+        },
+        {
+          "target": "载具",
+          "item": "波拉号重巡洋舰 七折 5614 金鹰",
+          "percent": 30,
+          "note": ""
+        },
+        {
+          "target": "载具",
+          "item": "莱昂纳多·达·芬奇号战列舰 七折 5866 金鹰",
+          "percent": 30,
+          "note": ""
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“意大利海岸警卫队纹章”贴花"
+      ],
+      "tasks": "使用III级及以上意大利海战舰艇完成3场战斗（活跃度≥70%）得贴花（至13日15:00）；工兵号返售；波拉号/达芬奇号七折",
+      "sub_events": [
+        {
+          "name": "“意大利海岸警卫队纹章”贴花任务",
+          "start": "2025-06-10T19:00:00Z",
+          "end": "2025-06-13T15:00:00Z"
+        }
+      ],
+      "notes": "",
+      "confidence": 0.9
+    }
+  ]
+}

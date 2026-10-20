@@ -1,0 +1,103 @@
+[Development] Pre-order: HMS Duke of York - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-order: HMS Duke of York
+19 October 2026
+Development
+<>Meet the Scharnhorst killer and future flagship of the Home Fleet, the British HMS Duke of York, coming to War Thunder in the next major update!
+Pre-order - HMS Duke of York Pack
+This pack includes:
+HMS Duke of York (Great Britain, Rank VI)
+Premium account for 30 days
+3000 Golden Eagles
+Pre-order bonus: unique “The King’s Speech” title
+Pre-order bonus: unique “White Rose of York” decal
+Pre-order bonus: unique Flag of York *
+79.99
+STORE
+<> *available after the next major update.
+<> HMS Duke of York: A Premium (Pre-order) Battleship for Great Britain at Rank VI
+<>At a glance:
+<>Excellent armor
+<>Improved anti-aircraft battery
+<>Ten 356 mm main battery guns
+<>HE-VT shells for secondary battery guns
+<>Average mobility
+<>Seaplane
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Introducing the HMS Duke of York!
+<>Today pre-orders for HMS Duke of York have started! This battleship features excellent armor, improved anti-aircraft weaponry and is a bag of fun. Let’s take a deeper look!
+<> Using the HMS Duke of York in Battle
+<>HMS Duke of York features excellent protection and a solid main battery, although her mobility is rather modest, similar to the characteristics of her sistership, HMS Prince of Wales. HMS Duke of York is coming to the game in her 1943 configuration, meaning she has more anti-aircraft weaponry, specifically the number of 20 mm automatic guns increased to 30! This means HMS Duke of York excels in a defensive role, being highly resilient and capable of withstanding even prolonged, concentrated fire. Regarding firepower, HMS Duke of York’s main guns are not the most powerful at this rank, so engaging at medium range is needed to maximize combat effectiveness. A notable feature of this battleship is the proximity-fuzed HE ammunition in her 133 mm secondary guns, serving as effective long-range anti-aircraft weaponry which are also highly effective against exposed crew decks.
+<> Interesting: It is said that the ship’s cat — a crew favorite named Whiskey — napped peacefully throughout the long chase and firefight with the Scharnhorst!
+<>
+<> Feature Spotlight: Armor
+<>Like many high-ranking British battleships, HMS Duke of York prioritizes protection over firepower. Its armor is concentrated around the citadel, where the tall main belt is 381 mm thick, the main turret barbettes reach 330 mm, and the armored deck is 152 mm thick. These are impressive figures! At long ranges, HMS Duke of York is mainly vulnerable to the largest calibers in the game.
+<>
+<> Developer comment: HMS Duke of York will be the second high-ranking British premium ship, and while HMS Nelson’s strength lies in its powerful salvo — despite its long reload time and slow movement speed — HMS Duke of York’s key feature is its survivability. It can absorb damage and survive for a long time even under the heaviest fire, while still delivering decent damage and boasting better mobility than HMS Nelson. The addition of HMS Duke of York therefore gives captains two premium ship options with different playstyles for Britain, making them good for researching the British tree, but still not unique enough where if you don't buy them, you still have plenty of similar options in the research tree to enjoy.
+Vehicle History (open spoiler)
+▼
+<>HMS Duke of York was one of five King George V-class battleships. The ship entered service in November 1941. In December of that year, she transported Prime Minister Winston Churchill to the United States for a meeting with President Roosevelt. From March to September 1942, HMS Duke of York carried out Arctic convoy escort duties. She was then transferred to Gibraltar, where she became the flagship of Force H. In November 1942, she participated in the Allied landings in North Africa. Later, she returned to the Home Fleet and took part in diversionary operations during the invasion of Sicily in 1943.
+<>In December 1943, HMS Duke of York, operating as part of a task force, intercepted the German battleship Scharnhorst off the coast of Norway. During the Battle of North Cape, Scharnhorst scored two hits on the British ship, but they caused no serious damage. During the ensuing chase and intense bombardment, HMS Duke of York scored at least ten main-battery hits, which ultimately slowed Scharnhorst down. This enabled British destroyers to launch torpedo attacks and sink the German ship. The chase and battle lasted more than ten hours.
+<>In 1945, HMS Duke of York was assigned to the British Pacific Fleet and was present at the Japanese surrender. After the war, she served again as the flagship of the Home Fleet and later as the flagship of the Reserve Fleet. She was placed in reserve in 1951 and struck from the naval register in 1957, being scrapped the following year.
+<>HMS Duke of York is available for pre-order from today, where you can get yourself the ship itself and some pre-order bonuses, like Premium Account time and Golden Eagles. Until the next blog, high seas guys!
+<> Please note that vehicle specifications may be subject to revision and change before being added to the game.
+Read more:
+Community Update No.13: What’s Coming Up!
+15 October 2026
+Nuclear Escalation: Testing the Upgraded Southeastern City!
+7 October 2026
+Desert Predator: AMV (BMP-3)
+1 October 2026
+HMS Lion: One Last Roar
+14 September 2026
+Share the news with your friends!
+<

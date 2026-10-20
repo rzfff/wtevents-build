@@ -1,0 +1,116 @@
+[Special] St. Patricks Day - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+St. Patricks Day
+Attention! Outdated news format. Content may not display correctly.
+17 March 2016
+Special
+St. Patrick's Day is a cultural and religious holiday celebrated on the 17th of March, and named in honour of the patron saint of Ireland. The festival commemorates the arrival of Christianity in Ireland, as well as celebrating Irish heritage and culture. St. Patrick's Day is now celebrated by many people throughout the world, Irish and non-Irish alike, with food, drink and all things green.
+From March 17th 15:00 GMT to March 18th 15:00 GMT
+Just play the game and win St. Patrick’s trophy, containing one of the following decals
+<>
+<>
+<>
+<> Irish flag
+<>
+<>
+<> Mugs(15)
+<>
+<>
+<> Unique Four-leaf clover decal
+*obtainable only during St. Patrick's day
+<> By completing all 3 stages you will receive 3 decals and 90 000 :
+<> 1st Task: To receive the first trophy and 20 000 destroy 20 enemy vehicles with vehicle of Rank 3 or above.
+<> 2nd Task: To receive the second trophy and 30 000 destroy 30 enemy vehicles with vehicle of Rank 3 or above.
+<> 3rd Task: To receive the third trophy and 40 000 destroy 40 enemy vehicles with vehicle of Rank 3 or above.
+<>AI vehicles are not counted towards the progress. 2x RB & SB multipliers.
+<>
+Thunder League “Dog tag” owners may use their three-coloured smoke to recreate the Irish flag , share it on Facebook page or Twitter with hashtag:
+#wt_StPatricksDay #StPatricksDay
+Authors of the best screenshots’ will receive some Golden Eagles from the leprechaun’s lucky Hat! The prize fund is 5 000 , which will be split between 5 to 10 winners with minimal reward being 300 . You can post your screenshots right under our St. Patrick's Day posts on Facebook and Twitter too.
+<> Winners of St. Patrick Screenshot competition:
+<>
+by Arnau
+<>
+<> by Nomad
+<>
+<> by Takeno
+By Vincent
+<>
+<> By RemoR
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

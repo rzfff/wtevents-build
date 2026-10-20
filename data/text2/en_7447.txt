@@ -1,0 +1,78 @@
+[Special] 80th Anniversary of the Battle of Moscow - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+80th Anniversary of the Battle of Moscow
+Attention! Outdated news format. Content may not display correctly.
+3 December 2021
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+<>December the 5th is a day of Military Glory in Russia. 80 years ago, the Soviet army began the counteroffensive along the entire front line near Moscow that became one of the turning points of the Second World War.
+<>From the 3rd of December (11:00 GMT) until the 6th of December (11:30 GMT) complete the special tasks to get Battle of Moscow prizes.
+<>Awards
+“Battle of Moscow” decal
+"Maxim Gun" decoration
+<>Tasks
+<>Play 3 battles while controlling USSR vehicles of rank III or above, and an activity 70% or above, to achieve a special decal: the “Battle of Moscow”.
+<>Destroy 40/20/20 (AB/RB/SB) enemy vehicles in random battles, while controlling T-34 (1940), T-34 (1941), T-28, T-34-57, GAZ-AAA (4M), T-26, KV-1 (L-11), T-60, T-26 (1 Gv.T.Br.), T-34 (1 Gv.T.Br.), ZiS-30, MiG-3-15 (BK), LaGG-3-11, IL-2 (1941), I-153 M-62, Zhukovsky’s I-153-M62, I-16 type 24, I-16 type 18, I-16 type 28, Pe-2-1, Pe-3, LaGG-3-8, or Yak-1, to achieve a “Maxim Gun” decoration for ground vehicles.
+<>Track your progress by clicking your nickname, then Achievements → Memorial Date.
+<>Temporarily on sale for Golden Eagles: T-34 (1st Gv.T.Br.)
+<>The premium T-34 (1st Gv.T.Br.) in unique winter camouflage will be available for purchase for Golden Eagles in the game in the Soviet research tree until 11:30 GMT on the 6th of December.
+<>The tank is armed with a 76mm F-34 cannon which confidently destroys heavy and lightly armoured enemy vehicles. The main shell in battle is the BR-350B and also smoke D-350A shell which comes in handy for hiding your location in dangerous situations. It is also possible to take several high-explosive OF-350M shells to destroy lightly armoured enemy vehicles.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

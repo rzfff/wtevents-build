@@ -1,0 +1,77 @@
+[Special] Two fighters and a decal for Swedish Air Force Day - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Two fighters and a decal for Swedish Air Force Day
+30 June 2023
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>On July 1st, 1926 the Swedish Air Force was created by merger of airborne divisions of army and navy. Even though it didn’t participate in World War II, it was preparing to by raising its numbers — and kept doing it in the beginning of the Cold War. By 1957 Sweden held the fourth most powerful air force in the world, consisting of a thousand modern aircraft. After the Cold War ended, Sweden massively decreased the number of aircraft in its service: currently its Air Force employs only about 200 vehicles.
+<>J29D and J35A Fighters for Golden Eagles
+<> J29D Tunnan
+<> J35A Draken
+<>From June 30th (09:00 GMT) until July 4th (09:00 GMT) two Swedish jet fighters will be available for purchase for Golden Eagles.
+<>J29D Tunnan looks really weird, but don’t let its appearance fool you: it’s really fast and well-equipped, perfect for any role! J35A Draken is capable of going supersonic, and yet it turns quite quickly, and thanks to that it often emerges victorious in air duels.
+<>“Swedish Air Force Day” decal
+<>From 30th (09:00 GMT) until July 4th (09:00 GMT), play 3 battles using Swedish aircraft (rank III or higher, with an activity of not less than 70%) to receive the “Swedish Air Force Day” decal.
+<>Complete the task in random battles, except for Enduring Confrontation missions and [Assault] mode. Track your progress in the hangar by clicking Nickname → Achievements → Holidays → Swedish Air Force Day.
+“Swedish Air Force Day” decal
+<>You can find the decal in the “Holidays” tab in the Customisation menu.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

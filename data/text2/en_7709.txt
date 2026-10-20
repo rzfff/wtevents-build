@@ -1,0 +1,107 @@
+[Special] Top Ace Challenge! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Top Ace Challenge!
+Attention! Outdated news format. Content may not display correctly.
+27 May 2022
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>If you’re drooling over the freshly announced F-14A, we’d like to suggest some rigorous training before you sit in the pilot seat of the Tomcat. This weekend daring pilots will fight it out using the best aircraft — and only the top aces will get the prizes.
+<>Until May 30th (7:00 GMT) destroy 20 airplanes of other players in AB mode or 10 in RB or SB modes using Rank VII aircraft and receive one of the following prizes:
+1 day of Premium Account
+Research Points and Silver Lions boosters for 20-50% (20% for 10 battles, 30% for 5 battles, 50% for 3 battles)
+3-5 Universal Backups
+<>Jet Strike 4x4 RB Tournament
+<>Join the tournament for jet aircraft that will take place in 4x4 format in the RB game mode. The task for each team is to destroy more aircraft than the enemy team and gain air superiority by capturing the air points over the battlefield.
+<>Registration for the teams is open until June 1st (17:00 GMT).
+<> REGISTRATION
+<>Tournament format: Double elimination, best of 3.
+<>Available aircraft:
+USA: F-86F-2, F-86F-35, F-86F-25, FJ-4B, A-4B
+Germany: G.91 R/3, MiG-15bis
+USSR: MiG-17, MiG-15bis
+Great Britain: Hunter F.1, Venom FB.4
+Japan: F-86F-30, Ki-200
+Italy: G.91 R/1
+France: S.O.4050 Vautour IIA, Super Mystere B2
+China: J-4, F-86F-30, J-2
+Sweden: J29F
+<>Tournament locations: 38th Parallel, Norway, Pacific Hidden Base and Iron Range.
+<> Prize fund: 15 000 Golden Eagles, boosters and other prizes.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

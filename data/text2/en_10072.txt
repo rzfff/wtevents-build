@@ -1,0 +1,144 @@
+[Shop] [Special] A Decal, Bundles and Discounts for D-Day - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+A Decal, Bundles and Discounts for D-Day
+5 June 2026
+Shop
+Special
+<>June 6th 1944 was one of the most important days in the history of the Second World War. As part of the massive Operation Overlord, the Western Front opened in the European theater of operations through the coordinated efforts of the Allied army, air force, and navy. More than 150,000 soldiers landed on the beaches of Normandy, marking the beginning of the rapid liberation of France.
+<>Unique Bundles Available in the Gaijin.net Store!
+<> When: From June 5th (11:00 GMT) until June 8th (11:00 GMT).
+“First in Deed” Bundle -30%
+The Kit Includes:
+M4A3E2 Sherman Jumbo Cobra King;
+M18 Black Cat Pack;
+George Bostwick's P-47M-1-RE Thunderbolt Pack;
+Mustang Pack;
+Unique title: “First in Deed”;
+Unique decal: “First United States Army Insignia”.
+98.36 68.85
+Store
+“Sledgehammer” Bundle -30%
+The Kit Includes:
+M10 Achilles Pack;
+Sherman Firefly Ic Pack;
+Prendergast`s Spitfire FR Mk.XIVe Pack;
+Typhoon Pack;
+Unique title: “Sledgehammer”;
+Unique decal: “2nd Army Formation badge”.
+93.96 65.77
+Store
+“Overlord” Bundle -50%
+The Kit Includes:
+M4A3E2 Sherman Jumbo Cobra King;
+M18 Black Cat Pack;
+George Bostwick's P-47M-1-RE Thunderbolt Pack;
+Mustang Pack;
+M10 Achilles Pack;
+Sherman Firefly Ic Pack;
+Prendergast`s Spitfire FR Mk.XIVe Pack;
+Typhoon Pack;
+Unique title: “Overlord”;
+Unique decal: “SHAEF insignia”.
+Decals and titles from “First in deed” and “Sledgehammer” bundles.
+192 96.16
+Store
+<> Please note! You can also get the unique titles and decals if you log into the game from June 5th to June 8th and get at least three victories, while at the same time you have previously purchased all separate packs that are included in the bundles above.
+<>Take part in the Wings Over Water event to get the Spitfire Mk Vb Floatplane!
+<> When: From June 3rd (11:00 GMT) until June 15th (11:00 GMT).
+<>Take part in air battles, earn points, receive themed decals and a Spitfire Mk.Vb floatplane with legendary British pilot Nigel at the controls!
+<> CLICK HERE FOR ALL THE DETAILS
+<>Pages of History (June): The Beaches of Normandy!
+<> When: From June 1st (11:00 GMT) until June 30th (11:00 GMT).
+<>Earn the Landing zone: Normandy player profile background by completing 8 Pages of History missions throughout June!
+<>
+CLICK HERE FOR ALL THE DETAILs
+<>Get the “D-Day 2026” decal!
+<>Decorate your vehicles with this unique decal.
+<> When: June 5th (11:00 GMT) until June 8th (11:00 GMT).
+<> Task: Earn 3,000 mission points in battles where you used US, British or French vehicles at rank III or higher to receive the “D-Day 2026” decal!
+<>
+<>“D-Day 2026” decal
+<> Please note: After finishing the task, you need to collect the reward manually.
+<> Additional details:
+<>You can complete the task in random battles.
+<>Track your progress in the hangar by clicking Nickname → Achievements → Holidays → D-Day.
+<>You can find the decal in the “Holidays” tab in the customization menu.
+<>HMS Belfast and USS Arkansas are available at a 50% Discount!
+<> When: From June 5th (11:00 GMT) until June 8th (11:00 GMT).
+<> Where: USA / Great Britain > Bluewater fleet > Premium vehicles.
+<> Great Britain: HMS Belfast (Rank IV) for 4,010 Golden Eagles
+<> USA: USS Arkansas (Rank V) for 4,010 Golden Eagles
+<>USS Arkansas is only available for purchase during the promotion.
+<>
+<>
+<>
+<>
+<>
+<> About the ship
+<> HMS Belfast is now a museum ship in London, but she fought in many battles in the mid-20th century. HMS Belfast escorted Arctic convoys to the Soviet Union, participated in the Battle of North Cape and the sinking of the battleship Scharnhorst, and provided fire support during the Normandy landings. In the game, this light cruiser boasts well-protected magazines, a powerful anti-aircraft battery, and a powerful broadside. However, the lack of armor-piercing shells forces the ship to close in on enemies.
+<>
+<>
+<>
+<>
+<> About the ship
+<> USS Arkansas patrolled and escorted ships across the Atlantic. In June 1944, she provided fire support during the Normandy landings, and in August, in southern France. At the end of the war, she distinguished herself in the Pacific theater during the landings on Iwo Jima and Okinawa. For a dreadnought, the Arkansas had a decent anti-aircraft battery, and her main battery consisted of a whopping twelve 305 mm guns.
+<>D-Day Tournaments
+<>Don’t miss the D-Day tournaments! Check the TSS portal through the link below.
+<> D-DAY TOURNAMENTS
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

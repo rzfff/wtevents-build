@@ -1,0 +1,99 @@
+[Historical] Operation Typhoon - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation Typhoon
+Attention! Outdated news format. Content may not display correctly.
+2 January 2015
+Historical
+Junkers Ju 87 B-2 in winter camouflage during Operation Typhoon. This special camouflage can be purchased with Golden Eagles
+or unlocked in-game by destroying 200 ground targets in Arcade Battles or 100 ground targets in Realistic or Simulator Battles.
+Until 14.00 GMT on January 3rd, get the winter camouflage for Ju 87 B-2 at 50% discount (100 )
+The name "Operation Typhoon" was given to the German offensive on the Eastern Front that began on 2nd October 1941. After the invasion of the Soviet Union in 1941, things were looking dire for the Red Army. To the north, Army Group "North" of the Wehrmacht marched through the Baltic States and managed to encircle Leningrad. To the south, German forces managed to capture Kiev, isolate the Crimean Peninsula as well as capture the strategic region of Donbas. Now they were preparing to launch an offensive towards the capital of the USSR itself – Moscow.
+<>
+<>
+German Sturmgeschütze advancing
+during Operation Typhoon
+Army Group "Center", which was earlier involved in combat in Belarus and central USSR, was tasked with capturing the city. Even though on paper the force looked menacing, it had its own share of problems. The overstretched supply lines meant that resupplying was often prolonged, and many soldiers were not fully equipped for the fighting. Also, a lot of the tanks and armored vehicles needed maintenance from the earlier fighting. Regardless, Field Marshal Feodor von Bock still commanded a force of 2 million men, 1000 tanks and 549 aircraft. The force was supposed to attack towards Moscow, isolating any encountered Red Army forces in encircled areas (known as Kesseln).
+On the Red Army side, the defense was being hastily prepared. Just before the offensive began, the Red Army could count on forces of the Reserve Front, commanded by Marshal Siemon Budionny, as well as the Briansk Front, commanded by Lieutenant General Andriei Yeromienko. The second line of defense consisted of the forces of the Western Front, commanded by Lieutenant General Ivan Koniev. Overall, the Red Army forces totalled around 1.3 million men, 3000 tanks and 545 planes.
+<>
+<>
+Heavy M1931 Howitzer of the Red Army
+supporting the defensive operations
+On the 30th September the early phase of the operation began. The 2nd Panzer Army commanded by Colonel General Heinz Guderian began its assault on the town of Orel. Three days later the main phase of Operation "Typhoon" began, with the 3rd and 4th Panzer Armies attacking the Reserve Front forces around Viazma. The German assault was relentless, and even though the Soviet soldiers fought bravely they were quickly encircled near Viazma. At the same time, Guderian's forces captured Orel and encircled the Soviet forces in another Kessel near Briansk. Overall, 5 Soviet armies found themselves surrounded. While most of the soldiers were killed or captured, some managed to escape the encirclement and even staged some local counterattacks.
+The success of the first thrust was, however, to be short-lived. With the stretched supply lines, exhausted soldiers and deteriorating weather, the initial success of the German assault could not maintain its momentum. The Red Army, even though defeated, managed to regroup and consolidate the defence perimeter around the capital. The pivotal fight for Moscow was just around the corner.
+<> Author: Adam “BONKERS” Lisiewicz
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

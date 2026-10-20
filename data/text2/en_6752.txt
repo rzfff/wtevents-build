@@ -1,0 +1,99 @@
+[Market] Trophy with a user-made “Starfighters” camo - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Trophy with a user-made “Starfighters” camo
+Attention! Outdated news format. Content may not display correctly.
+29 May 2020
+Market
+<>40 new camos from content creators from the Live.WT portal arrive to the game under the program of user content support.
+<>Get a unique trophy simply by playing the game! Activate your camo coupons, or sell them on the Market to get Gaijin Coins (GJN)!
+<>Contents in the “Starfighters” trophy:
+<>Coupons for rare vehicles
+<>16 camouflage coupons for ground vehicles
+<>19 camouflage coupons for aircraft
+<>2 camouflage coupons for naval vehicles
+<>3 camouflage coupons for helicopters
+<>Coupon for the “Starfighters” decal
+<>
+<>To unlock the trophy, you will need a new “Starfighters" key, which can be purchased on the Market for GJN.
+<> MARKET
+<>How to get it?
+<>The “Starfighters” trophy drops periodicity (with a specific probability) in random battles in all modes (except for the cooperative PvE “Assault” and “World War” modes). The minimum requirements to earn a trophy will be to participate in a battle, in a vehicle of rank II or higher, while achieving a battle-activity of at least 50%.
+<>For PlayStation 4® and Xbox One players, the key and trophy will be available for Golden Eagles in the in-game item shop.
+<>More about the Market and GJN
+<> The Market is a place where players can buy and sell various in-game items. Items are bought and sold using a special currency called Gaijin Coins which allow you to gain access to most War Thunder premium content.
+<>In other words, you can not only spend here, but also earn money! Now you can go to the Market directly from the game by selecting the appropriate link in the menu.
+GJN can be used to purchase Golden Eagles, meaning that their owners have access to RP transfer, crew skill training, modification purchases, and other features unlocked by the premium currency.
+GJN will be accepted not only on the Market, but also in the premium shop, so you can pay 100% of the cost of premium vehicles, Golden Eagles packs or premium account time with them!
+GJN will not disappear. Its balance is easy to replenish by trading unnecessary items on the Market. They are also assist in completing some event tasks by purchasing, for example, required parts from other players.
+<>Learn how to create your own custom camouflages and earn real money through our Revenue Share program!
+<>New item exchange for consoles
+<>PS4 and Xbox players previously had to open a number of trophies to get required camos. Undesired items could be exchanged with significant losses. As a result, even after opening a hundred, or even more trophies, players might not find the camo they needed, Meanwhile, PC players had direct access to the desired camos through the Market.
+<>We’ve decided to make the exchange for items from the Starfighters trophy easier. Now, you don’t need to exchange vouchers on one of three camo types (regular, uncommon, or rare). Instead, vouchers can be exchanged on any camo, and camos won’t repeat if you get them once. Thus, if you exchange 40 times (the “Starfighters” camo total number), you’ll get all available camos, including those you wanted the most. After opening 40, this exchange becomes disabled, but you may still exchange vouchers for a random item from the “Starfighters” trophy to get unique vehicles.
+About other trophies ▼
+<> “Viking Fury” Trophy
+<> “Northern Wind” Trophy
+<> “Night Vision" Trophy
+<> “Imperial Navy” Trophy
+<> “Locked on” Trophy
+<> “Supersonic” Trophy
+<> “The Valkyries” Trophy
+<> "Project-X I" Trophy
+<> “Project-X II” Trophy
+<> CONTRIBUTION AGREEMENT
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

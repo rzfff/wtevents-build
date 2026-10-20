@@ -1,0 +1,92 @@
+[Event] Try out “Suppression of Enemy Air Defenses”, An Asymmetrical Battle for Air Supremacy! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Try out “Suppression of Enemy Air Defenses”, An Asymmetrical Battle for Air Supremacy!
+22 April 2025
+Event
+<>Get your pilot helmets on, it’s time for a new challenge! Today, we’re presenting the “Suppression of Enemy Air Defenses” (SEAD) event — a new asymmetrical game mode where one team takes on the role of the attackers, and the other team defends strategically important S-75 SAM positions.
+<>Take part in this two day event and test out some new mechanics that we’re working on!
+<> When: From April 22nd (11:00 GMT) until April 24th (11:00 GMT).
+<>You can access the event from the hangar through: Events & Tournaments -> Suppression of Enemy Air Defenses
+<> How the event works
+<>The S-75 and Shilkas are primary targets!
+<>The defending team in this event must protect AI controlled Soviet S-75 surface-to-air missile systems. Helping to defend these systems are AI controlled ZSU-23-4 “Shilka” anti-air vehicles. Both of these potent air defense systems pose a deadly threat to the attacking team — they’ll need to learn the terrain, come up with approach tactics and use the right selection of weaponry to be successful.
+<> Roles and Objectives
+<>Attacking Team
+<>Your mission is to destroy all S-75 SAM positions at all costs! Not only do the attackers have aircraft, they also have helicopters, opening up new possibilities for stealthy attacks and pinpoint missile strikes. The F-4E Phantom II serves as the primary strike force, equipped with rockets and bombs for ground targets, along with air-to-air missiles for engaging enemy aircraft. The AH-1F is armed with ATGMs and rockets, capable of providing more precise air-to-ground fire to take out the air defense missile systems.
+<>Defending Team
+<>Your mission is to defend the S-75 positions from the attacking enemy! Coordinate your actions with other players and build a layered defense to counter the attacking team. You’ll be equipped with the MiG-21bis, armed with air-to-air missiles to repel the enemy.
+<> Event Features
+<>Here are some key event features that are useful to know:
+<>The gameplay in this event is asymmetrical. One team attacks and the other defends. This requires you to adapt to different roles and strategies.
+<>There’s no markers in this mode, so you’ll not see enemy markers on the map. Use your aircraft’s systems and piloting skills to find and destroy the enemy.
+<>Each player has 3 respawns, giving both teams the flexibility to experiment with tactics, and giving the attacking players the ability to use different types of vehicles.
+<>For the first time in an air mode, the attacking team has access to both helicopters and planes, offering unique opportunities in coordinating attacks to take enemies out from afar and support friendly planes.
+<>All players that have an aircraft of rank V or higher in their hangar can participate in the event.
+<>The vehicles that you’ll use in the event are automatically assigned and don’t need to be purchased.
+<>Vehicles have the spawn cost in SL, which will be refunded if the plane is not destroyed when the mission ends or if you exit the plane in the safe exit zones. The amount of refunded SL depends on the condition of the aircraft.
+<>Safe exit zones become available for aircraft once all the weapons of a certain type have been expended. If you have spawned in with air-to-ground weaponry, you will need to use all of it, air-to-air missiles are not taken into account, however, if you have spawned in with just air-to-air missiles, you will need to use all of them.
+<>You’ll be able to earn research points and Silver Lions by taking part in the event.
+<> Why not in Random Battles?
+<>Asymmetrical modes are not for everyone, and they have their own specific approach. As players queue in random battles with their own custom lineup, if they were to randomly encounter a game mode like this, they may incidentally have an ineffective selection of vehicles that aren’t suitable for a more specialized mission like this one. “Suppression of Enemy Air Defense” requires certain vehicles and weapons for interesting and effective gameplay. In addition, the difficulty of the event (due to the presence of S-75s and a large number of very effective Shilkas) may be too high for random battles, where players often use a variety of vehicles to complete more general objectives.
+<> “Suppression of Enemy Air Defense” is just the beginning!
+<>We’re using this event as a testing ground for ideas that we plan to use in future large-scale modes. This scenario will be one of the missions in the “Aerial Warfare” operations, one of which will feature in the future in World War Mode. In Aerial Warfare, players will only have access to aircraft (ground vehicles will be AI), and the focus will be on aerial combat and the completion of strategic objectives. We’ll tell you more about Aerial Warfare at a later date!
+<> Developers note: We would like to note that ARMs ( Anti-Radiation Missile ) of the period reflected in the event were not as effective in many cases compared to their more modern counterparts. In some situations, they would simply not hit their intended targets without any mistakes from the pilot , and it would no t be very clear to the player as to why the missile has missed. For this event, the combination of early SAMs vs aircraft with unguided weaponry works well and provides counteracting gameplay, so ARMs won’t be featured in it.
+<> We understand many of you wish to see ARM weaponry, and it is part of our longer term considerations, particularly in the modern gameplay era, however it is still too early to go into further detail about this right now. So stay tuned!
+<>Don’t miss the chance to participate in this unique event from April 22nd to April 24th! Make sure to prepare for intense air battles that require teamwork and excellent piloting — see you in the sky!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

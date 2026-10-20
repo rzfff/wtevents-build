@@ -1,0 +1,87 @@
+[Event] Victory Day in War Thunder! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Victory Day in War Thunder!
+8 May 2024
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Tens of millions of people from multiple nations around the globe fought, demonstrated acts of bravery and sacrificed themselves for years to ensure that the war would come to an end. Their efforts and heroism were not in vain. It’s Victory Day, which means we’re celebrating its anniversary with several activities for you to participate in!
+<> When: From May 8th until May 13th (11:00 GMT) play War Thunder and get rewards!
+“ Victorious countries ” decal
+<> Task: Play 3 battles with an activity of 70% or higher.
+“ Tommy Gun ” decoration
+<> Task: Get a total of 20,000 mission points with vehicles of rank III or higher in Ground Battles.
+“ Victory Banner ” naval flag
+<> Task: Get a total of 10,000 mission points with vehicles of rank III or higher in Naval Battles.
+<>You can track the progress you’ve made for each task by going to your Nickname > Achievements > Victory Day.
+<>We’ve prepared trophies with rewards from previous Victory Day events that can be found in the in-game Item Shop. Purchasing a trophy will give you Allied weapon decorations or decals that you don’t yet have. The decals are dedicated to three main Soviet military memorials: “Rear-Front”, “Motherland”, and “Warrior Liberator”. The decorations are: “Bren Mk II”, “ROKS-3”, “M1 Garand”, “SG-43” and “Maxim-Tokarev Machine Gun”, plus the “Matilda II” and “120-PM-38” for Bluewater fleet vehicles.
+<>Discounts in the Gaijin.net store
+<>
+<>From May 6th until May 13th, you’ll find discounts on many packs, plus rare bundles with themed vehicles that are dedicated to Victory Day in the Gaijin.net Store. The larger “Weapons of Victory” bundle has received a particularly large discount. Additionally, the unique IS-2 “Revenge” tank can be temporarily purchased for Golden Eagles in-game!
+<> Click here for the full details
+<>Legend of Victory: Eremin’s Yak-3!
+<>From May 8th until May 20th, take part in the Legend of Victory event to earn yourself themed decals, a decoration and a vehicle. The grand vehicle reward is a personalized Yak-3 owned by Soviet Major Boris Eremin!
+<>Collective farmer Ferapont Golovatov, together with his family, relatives and neighbors collected an amount of 100,000 rubles and transferred it to the Soviet Government in May 1944 for the construction of a personalized Yak-3 fighter with a dedicated inscription for Major Boris Eremin. Eremin flew this aircraft until the very end of the war and achieved 6 aerial victories.
+<> Click here for the full details
+<>“Victory” series of tournaments
+<>Until May 12th, take part in any of the 14 tournaments in the Victory series! Festive decals and titles await you here, along with a total prize pool of 184,000 Golden Eagles. You can follow the tournament schedule and participate in them at tss.warthunder.com.
+<> Let’s celebrate together!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

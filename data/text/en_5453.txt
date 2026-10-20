@@ -1,0 +1,220 @@
+[Special] Chronicles of World War II in War Thunder - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Chronicles of World War II in War Thunder
+Attention! Outdated news format. Content may not display correctly.
+8 May 2018
+Special
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>The end of WWII was a proud victory for allied forces across the globe, celebrated worldwide. After many years of war, the time for peace had come. But for players of War Thunder, the battle has just begun! Now, the time has come, your chance to relive some of the battles, occurring towards the end of the war! Prove your worth in battle, and show that you are deserving of new vehicles, and dozens of other rewards!
+<>From the 14th of April until 11:00 GMT on the 10th of May
+<>Collect your well-earned premium vehicles and dozens of other rewards for participating in the ‘Chronicles of World War II’ event!
+<>
+<> EVENT CALENDAR
+<>T18E2
+<>TANDEM-MAI
+LORRAINE 155 MLE.50
+WHIRLWIND P.9
+<>Achieve 6 “Chronicle awards” in ground vehicles
+<>Achieve 6 “Chronicle awards” flying aircraft
+<>Achieve 11 “Chronicle awards” in ground vehicles
+<>Achieve 11 “Chronicle awards” flying aircraft
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>For achieving 3 “Chronicle awards” in ground vehicles
+<>For achieving 3 “Chronicle awards” flying aircraft
+<>For every two “Chronicle awards” that tankers achieve, you will receive one of the following items: 50-200% Silver Lion booster, 50-200% Research Points booster, 5 random backup vehicles for ground vehicles of ranks II-V, a random camouflage for ground vehicles of ranks II-IV, a random talisman for ground vehicles of ranks II-IV.
+<>For every two “Chronicle awards” that pilots achieve, you will receive one of the following items: 50-200% Silver Lion booster, 50-200% Research Points booster, 5 random backup vehicles for aircraft of ranks II-V, a random camouflage for aircraft of ranks II-IV, a random talisman for aircraft of ranks II-IV.
+<>If you get all 13 “Ground vehicle Chronicle rewards” you will receive 2 unique camos - 1 for T18E2 and 1 for Lorraine 155 mle50 .
+<>If you get all 13 “Aircraft Chronicle rewards” you will receive 2 unique camos - 1 for Tandem-MAI and 1 for Whirlwind P.9
+T18E2: a Tank on Wheels ▼
+<>The T18E2 Boarhound is a heavy wheeled armoured car that can compete with early-WWII medium tanks in terms of mass, firepower, and armour. The T18E2 is an 8x8 armoured car, i.e. an all-wheel drive vehicle. The vehicle’s armour is 50 mm thick, but the T18E2 can still reach speeds of up to 80 km/h. The armoured car is equipped with a precision 57mm cannon with a high rate of fire and two types of armour-piercing rounds: single-piece and APHE. The T18E2 is especially good at recon and supporting attacking tank groups.
+Lorraine Automoteur 155mm mle50: the French “Hunter” ▼
+<>The chassis of the Lorraine 40t (which should be familiar to our players by now) has been fitted with a massive 155 mm Howitzer in a simple casemate-style armoured enclosure. And so we have the Lorraine Automoteur 155mm mle50, the first high-calibre French SPG in the game. The SPG’s ammo loadout includes 28 separately loaded shells weighing over 40 kg each. An excellent special feature of this SPG is that, instead of a familiar AA machine gun, it is equipped with an automatic 20 mm cannon, which means that you have a good chance of defending yourself against enemy aircraft and even annoying light tanks.
+Tandem-MAI: The Little Attack Aircraft that Could ▼
+<>The Sh-Tandem is one of the most unusual aircraft in War Thunder. This small high-speed attack aircraft was developed in the second half of the 30s. The vertical fins on this aircraft are installed on an extra rear wing, which made it possible to significantly reduce its length while preserving a large wingspan. In War Thunder the cute little Sh-Tandem will be waiting for you at rank 1 in the USSR military aircraft branch, so hurry up and get it in your hangar!
+Westland Whirlwind P.9: a Dual-Motor Whirlwind ▼
+<>The Whirlwind heavy fighter was the first single-seat dual-engined fighter used by Great Britain’s RAF. The aircraft was originally created as a high-altitude interceptor for use against enemy bombers, so one of the project’s primary conditions was the ability to install guns on it. The aircraft’s impressive arsenal of four 20mm British Hispanos is augmented by bombs – the aircraft was actually used as a fighter-bomber during the war. Several variants of armament were tested for the P.9 prototype, in particular, one with linkless ammunition feed. Unlike the standard version, the P.9 doesn’t have a bomb rack but it does have impressive offensive weaponry - 4 Hispano cannons - with an ammo load of 484 shells, twice as much as the serial models!
+<>Objectives
+<>“Chronicle awards” can only be earned by completing any 3 out of 5 objectives during the special events from the Chronicles of World War II event. The objectives will not change during the cycle of events, but will be updated every 3rd day at 11:00 GMT.
+<>“Chronicle awards” for tankers (while controlling ground vehicles)
+<>Defeat 40/20/14 enemies (AB/RB/SB).
+<>Get the Supporting Fire achievement (assist by playing in a squad and destroying an enemy unit) 5 times.
+<>Earn at least 2,000 points in 8 battles (RB and SB : 4 battles).
+<>Win 10 battles with an activity of 70% or higher.
+<>Defeat 11/6/4 players in one battle (AB/RB/SB) while controlling ground vehicles.
+<>“Chronicle awards” for pilots (while controlling aircraft)
+<>Shoot down 30/15/10 enemies (AB/RB/SB).
+<>Get the Supporting Fire achievement (assist by playing in s squad and destroying an enemy unit) 4 times.
+<>Earn at least 2,000 points in 7 battles. (4 in RB and SB)
+<>Win 10 battles with an activity of 60% or higher.
+<>Defeat 11/3/2 players in 1 battle (AB/RB/SB) while controlling an aircraft.
+<>Terms
+<>You can only receive “Chronicle awards” by completing objectives during Chronicles of World War II events.
+<>Chronicles of World War II battles can be found by going to “Events and Tournaments” → “Chronicles of World War II.”
+<>There may be possible balance changes (number of players on each side) in the “WW2 Chronicles events, based on statistics - victories/defeats ratio.
+<>Progress of aircraft and ground vehicle achievements depends on the type of vehicle you were using at the end of the battle. (E.g. you should be flying an aircraft when the battle ends in combined battle event in order to get air achievement)
+<>You need to complete 3 out of 5 objectives to receive a “Chronicle award.” Only “Chronicle awards” for tankers will count towards unlocking special event ground vehicles, and only “Chronicle awards” for pilots will count towards unlocking special event aircraft.
+<>You have 2 days to complete objectives and get “Chronicle awards.” Objectives will be updated every three days at 11:00 GMT.
+<>Camouflage and equipment crate talismans (for 2 Chronicle rewards) are only granted for vehicles that you have researched.
+<>You can track your objective completion by clicking on “nickname” → “Achievements” → “Chronicles of World War II.”
+<>A “Chronicle award” will have been earned if its achievement ★ is marked yellow.
+<>Missed “Chronicle awards” can be purchased on the Achievements screen.
+<>13 Chronicle awards, 5 decorations and 6 decals - for every 3rd award. Wait, yes! You will get one more decoration and decal for the 13th Chronicle award on the 8th of May! The final decal can be obtained in the “Decal” Trophy for 125,000 Special objectives. This means you will be able to get all of them!
+<>Assemble your own reward!
+<>On our website’s homepage you will see an interactive counter that indicates the number of Special Objectives completed by all War Thunder players. With each new stage, participants in the special event will receive extra rewards, and the final stage will earn you ‘Vehicle Blueprints’ that you can use to assemble a tank and an aircraft!
+<> Concerning the "assemble your reward" bug:
+<>Some of those who took part in the WW2 Chronicles marathon might have faced a specific bug after completing the 'Assemble your own reward" Special tasks. After reaching the 4th stage (400,000 special tasks completed), some players received a coupon with a specific vehicle instead of a blueprint by a mistake.
+<>We are very sorry for the inconvenience and we are working to fix the bug. The blueprints are already available as well as the possibility to assemble items from the received parts as well as selling Coupons (which you received after this publication) on the Market. We will make an additional announcement about the coupons that the players received on the 4th of May during this week. The coupons are restricted for selling at the moment, but you may still use your coupons to receive the desired vehicles. We are really sorry for all the inconvenience once again, Stay tuned.
+<>50,000 Special Objectives
+<>125,000 Special Objectives
+<>250,000 Special Objectives
+400,000 Special Objectives
+<>77% RP booster for 7 battles
+<>Granted to players who have completed any Special Objective
+<>Decal Trophy or “Beretta Model 38” decoration
+<>Granted to players who have completed 3 Special Objectives for 1 vehicle class
+<>Camouflages for the "Matilda” and “PV-2”
+<>Granted to players who have completed 5 Special Objectives for 1 vehicle class
+<>Vehicle Blueprints for the “Matilda” and “PV-2”
+<>Granted to players who have completed 7 Special Objectives for 1 vehicle class
+<>Extra Rewards and Unlocking Vehicle Blueprints
+<>We’ve prepared time-tested, well-known vehicles, decorators, and decals from previous special events for you.
+<>Complete Special Objectives in vehicles of ranks III-VI in Random Battles or Chronicles of World War II events, receive ‘Parts’, and use them to assemble the reward you want to unlock!
+<>Decal Trophy
+<>Decorator Trophy
+<>Matilda Mk. II infantry tank with F-96 (USSR)
+<>PV-2 Harpoon bomber (USA)
+<>Unlock with 2 Parts
+<>Unlock with 4 Parts
+<>Unlock with 12 Parts and 1 Vehicle “Matilda” Blueprint
+Unlock with 12 Parts and 1 Vehicle “PV-2” Blueprint
+<>Objectives for receiving Parts
+<>Every objective you complete will earn you exactly 1 Part. Special Objectives can be completed in vehicles of ranks III-VI (unless otherwise indicated) in Random Battles and during Chronicles of World War II events.
+<>14th of April — 21st of April
+<>Destroy 150 enemy tanks while controlling a medium or light tank.
+<>Set 50 ground vehicles on fire.
+<>Capture 50 zones.
+<>Destroy a vehicle, 1.0 BR higher than your own, 10 times.
+<>14th of April — 21st of April
+<>Shoot down 100 enemy aircraft in a fighter aircraft.
+<>Get the Unguided achievement (destroy an aircraft with rockets) twice.
+<>Capture an airfield in Arcade battles once.
+<>Shoot down an aircraft, 1.0 BR higher than yours, 10 times.
+<>21st of April — 28th of April
+<>Destroy 10 enemies from a distance of at least 800 meters.
+<>Destroy 60 enemies while controlling an SPG.
+<>Achieve the “Eye for Eye” achievement (destroy a player that destroyed you) 15 times.
+<>Defeat five enemies in a row without being hit in any way.
+<>21st of April — 28th of April
+<>Shoot down 2 enemy aircraft while controlling your own aircraft’s defensive turrets.
+<>Drop a total of 15 tons (TNT) of bombs on enemy bases while controlling a bomber.
+<>Get the “Eye for Eye” achievement (destroy a player that destroyed you) 10 times.
+<>Shoot down 5 aircraft in a row without being hit in any way.
+<>28th of April — 4th of May
+<>Destroy 110 medium tanks, 60 heavy tanks, 40 SPGs, and 20 SPAAs.
+<>Destroy 20 aircraft while controlling a ground vehicles.
+<>Defeat 11/6/4 enemies without losing your vehicle (AB/RB/SB).
+<>Defeat 4 enemies with artillery
+<>28th of April — 4th of May
+<>Shoot down 80 fighters, 30 attackers and 30 bombers.
+<>Destroy 10 ships.
+<>Shoot down 9/5/5 enemy aircraft without losing your own aircraft (AB/RB/SB).
+<>Destroy an enemy aircraft with a bomb.
+<>4th of May — 10th of May
+<>Win an Assault tank mission (on any rank).
+<>Try something new and win 1 mission in AB, RB, and SB.
+<>Defeat 125 enemies while controlling a heavy tank.
+<>Win 1 battle while controlling a ground vehicle of rank II or higher from every nation (excluding Italian ground vehicles).
+<>4th of May — 10th of May
+<>Win an Assault aircraft mission (on any rank).
+<>Try something new and win 1 mission in AB, RB, and SB (lobby).
+<>Destroy 20 ground targets while controlling an attack aircraft.
+<>Win 1 battle while controlling an aircraft of rank II or higher from every nation.
+<>Terms
+<>Special Objectives to receive Parts can be completed in random battles in all game modes (except “Assault” battles) in vehicles of ranks III-VI (unless otherwise indicated) and in the Chronicles of World War II events.
+<>When the counter reaches level 2 (125,000 special tasks completed) players, who have completed 3 Special tasks for aircraft will receive a “decal” trophy, players, who have completed 3 Special tasks for ground vehicles will receive a “Beretta Model 38” 3d decoration
+<>Parts earned by completing Special Objectives in the air and on the ground are identical in every way and can be used to assemble any reward.
+<>Assembly will be done in ‘Inventory’, in the "Workshop" tab.
+<>Assembled Coupons can be sold at the Market.
+<>Individual Parts can not be sold at the Market.
+<>Coupons for decals, decorations and also the blueprints can be disassembled for a number of Parts.
+<>You can track your objectives progress by clicking on “nickname” → “Achievements” → “Assemble a reward myself.”
+<>Every completed Special Objective goes toward the total count on the homepage of the War Thunder website.
+<>The information on the website’s interactive counter regarding the total number of Special Objectives completed by all players will be updated every hour.
+<>Additional rewards for reaching stages are awarded within 48 hours.
+<> More about the achievements : Supporting Fire, Unguided, and “Eye for Eye”.
+<>There are separate objectives for pilots and tankers, but it is possible to complete them simultaneously and get all the prizes.
+<>We have enabled additional mechanics that will allow you to receive:
+<>disassemble 3 parts coupon with 3d decoration
+<>disassemble 1 part coupon with decal
+<>2 parts - for ground vehicle/aircraft blueprint
+<>The War Thunder team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,707 @@
+{
+  "results": [
+    {
+      "aid": 9803,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Get a Themed Decal for Chinese Air Force Day!",
+      "name_en": "Get a Themed Decal for Chinese Air Force Day!",
+      "name_zh": null,
+      "start": "2025-11-11T10:00:00Z",
+      "end": "2025-11-14T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From November 11th (10:00 GMT) until November 14th (10:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“PLA Air Force chevron” decal"],
+      "tasks": "用III级及以上中国飞机在随机战斗(除[突击])累计3000任务点,完成后手动领取贴花。",
+      "sub_events": [],
+      "notes": "解放军空军成立日(11月11日)纪念任务,纯贴花奖励。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9805,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "A Decal Trophy and Lanovski’s P-47M-1-RE Thunderbolt has a Discount for Poland’s National Independence Day!",
+      "name_en": "A Decal Trophy and Lanovski’s P-47M-1-RE Thunderbolt has a Discount for Poland’s National Independence Day!",
+      "name_zh": null,
+      "start": "2025-11-11T11:00:00Z",
+      "end": "2025-11-14T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From November 11th (11:00 GMT) until November 14th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Lanovski’s P-47M-1-RE Thunderbolt — 7折 4263金鹰", "percent": 30, "note": "促销结束后停售"}
+      ],
+      "deadlines": [
+        {"what": "Lanovski’s P-47M-1-RE 促销结束后停售", "when": "2025-11-14T11:00:00Z"}
+      ],
+      "rewards_text": ["“Polish Hussar Helmet” decal", "“Polish cockade” decal", "“Attacking Eagle” decal", "“Polish Phoenix” decal", "“Kotwica” decal"],
+      "tasks": "美/英系III级以上载具赚3000任务点开「Poland’s National Independence Day」战利品得5选1贴花,集齐后改得加成道具;载具直接金鹰购买。",
+      "sub_events": [],
+      "notes": "同文两个并行内容(载具折扣+贴花战利品任务),时间窗一致。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9806,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Decals and Rare German Premium Tanks for Bundeswehr Day!",
+      "name_en": "Decals and Rare German Premium Tanks for Bundeswehr Day!",
+      "name_zh": null,
+      "start": "2025-11-12T11:00:00Z",
+      "end": "2025-11-15T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From November 12th (11:00 GMT) until November 15th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Pz.Sfl.Ic — 1000金鹰;Panzer IV/70(A) — 2980金鹰(限时返场)", "percent": null, "note": "未标注折扣"}
+      ],
+      "deadlines": [
+        {"what": "两辆稀有金鹰坦克限时返场结束", "when": "2025-11-15T11:00:00Z"}
+      ],
+      "rewards_text": ["“Chevron of the Bundeswehr Command” decal"],
+      "tasks": "德系III级以上载具赚3000任务点得「Chevron of the Bundeswehr Command」贴花;坦克促销期金鹰直购。",
+      "sub_events": [],
+      "notes": "联邦国防军日(11月12日)。两坦克为限时返场,文中未写折扣百分比。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9808,
+      "lang": "en",
+      "is_event": true,
+      "type": "market",
+      "title": "40 New User-Created Camouflages in the Spearhead Trophy!",
+      "name_en": "40 New User-Created Camouflages in the Spearhead Trophy!",
+      "name_zh": null,
+      "start": "2025-11-14",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["Spearhead decal", "coupons for rare vehicles", "40 user-created camouflage coupons"],
+      "tasks": "II级以上载具战斗(活跃度≥50%)概率掉落Spearhead战利品;PC需在Market购Spearhead Key开启,主机可金鹰开。",
+      "sub_events": [],
+      "notes": "Market用户涂装战利品随Spearhead大版本上线,常驻至下期;start取文章发布日,无结束时间。钥匙GJN计价。",
+      "confidence": 0.8
+    },
+    {
+      "aid": 9811,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Bullet Hell: The Old Fashioned Way!",
+      "name_en": "Bullet Hell: The Old Fashioned Way!",
+      "name_zh": null,
+      "start": "2025-11-19T11:00:00Z",
+      "end": "2025-11-21T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "November 19th (11:00 GMT) until November 21st (11:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动页参加Bullet Hell:8v8、BR12.7-14.3喷气仅机炮(副武器进场自动丢弃),先摧毁20机获胜;3次重生。",
+      "sub_events": [],
+      "notes": "两天限时趣味活动模式,只产研发与银狮,无专属奖励载具。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9814,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Pages of History (December): The Hero of the Ardennes",
+      "name_en": "Pages of History (December): The Hero of the Ardennes",
+      "name_zh": null,
+      "start": "2025-12-01",
+      "end": "2025-12-30",
+      "end_precision": "day",
+      "end_raw": "From December 1st until December 30th",
+      "discounts": [],
+      "deadlines": [
+        {"what": "金鹰直购本期「Francis Currey」头像截止", "when": "2026-01-03T11:30:00Z"}
+      ],
+      "rewards_text": ["Francis Currey profile icon"],
+      "tasks": "12月按日历连续完成8个历史任务(随机战斗,除[突击]),每个得战利品,全部完成得专属头像;头像可金鹰直购。",
+      "sub_events": [],
+      "notes": "月度任务链。正文写任务至12月30日,但日历末段(12月27-31日)延至31日;每任务最后一天11:00-11:30 GMT结算。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 9824,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "It’s Time for Black Friday in War Thunder!",
+      "name_en": "It’s Time for Black Friday in War Thunder!",
+      "name_zh": null,
+      "start": "2025-11-28T11:00:00Z",
+      "end": "2025-12-05T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From November 28th 11:00 GMT until December 5th 11:00 GMT",
+      "discounts": [
+        {"target": "捆绑包", "item": "“Black Friday” Bundle(4礼包+Back in Black头衔)— 133→66.48美元", "percent": 50, "note": "最终价视已拥有车辆浮动"},
+        {"target": "多种商品", "item": "包内4礼包单购:Black Shark、M18 “Black Cat”、A43 Black Prince、P-61A-1 Black Widow", "percent": 30, "note": "聚合"}
+      ],
+      "deadlines": [
+        {"what": "已拥有全部四车玩家打3场得“Back in Black”头衔截止", "when": "2025-12-04"}
+      ],
+      "rewards_text": ["Back in Black title"],
+      "tasks": "Gaijin商店购黑五捆绑包或单买各礼包(-30%);已拥有全部四车者用任一车辆打3场即可领头衔。",
+      "sub_events": [],
+      "notes": "捆绑包内含Black Shark/M18 Black Cat/A43 Black Prince/P-61A-11 Black Widow四包;PC/Mac/Linux专属,主机有对应捆绑包。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9846,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Get Your Hands on the Hudson Mk V for the Anniversary of its First Flight!",
+      "name_en": "Get Your Hands on the Hudson Mk V for the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2025-12-10T11:00:00Z",
+      "end": "2025-12-15T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 10th (11:00 GMT) until December 15th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Hudson Mk V — 700金鹰(限时返场)", "percent": null, "note": "未标注折扣"}
+      ],
+      "deadlines": [
+        {"what": "Hudson Mk V 限时返场结束", "when": "2025-12-15T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": "促销期内在商店(英系>空军>金币载具)以700金鹰直接购买。",
+      "sub_events": [],
+      "notes": "纪念Hudson首飞(1938-12-10)的金币载具限时返场。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9852,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Centauro RGO Returns With a Discount on Oman Armed Forces Day!",
+      "name_en": "The Centauro RGO Returns With a Discount on Oman Armed Forces Day!",
+      "name_zh": null,
+      "start": "2025-12-11T11:00:00Z",
+      "end": "2025-12-15T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 11th (11:00 GMT) until December 15th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Centauro RGO — 7折 6734金鹰", "percent": 30, "note": "促销结束后仍继续在售"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "促销期内在商店(意系>陆军>金币载具)以6734金鹰(7折)购买。",
+      "sub_events": [],
+      "notes": "阿曼武装部队日(12月11日)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9863,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The Festive Cupcake for Silver Lions!",
+      "name_en": "The Festive Cupcake for Silver Lions!",
+      "name_zh": null,
+      "start": "2025-12-17T11:00:00Z",
+      "end": "2026-01-13T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from December 17th (11:00 GMT) until January 13th (11:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["T-80UD/BE", "Kfir C.10", "IJN Kirishima", "M.B.151C.1", "Mirage 2000C-S4", "Vilkas", "USS Mississippi", "J9 Early", "Tornado IDS MFG", "T-80UM2", "USS Newport News", "Late 298D", "MiG-23MF (Germany)", "C. 202D", "AGS", "A.C.I", "IJN Hayanami", "MPK Pr.201K", "MiG-21PFM", "Ro.57 Quadriarma", "Class 3 (P)", "E.B.R. (1954)", "USS Baltimore", "Type K-8 No.13", "TIS MA", "J6K1", "Merkava Mk.2B (USA)", "QF 3.7 Ram", "Jaguar", "PT-811", "Fw 190 C", "M.B.152C1", "T30", "SU-85A", "PBM-3 “Mariner”", "Leningrad", "P-40C", "NC.900", "Ersatz M10", "AEC Mk II", "Me 262 A-2a", "Ki-21-I hei", "LVT(A)(4) ZIS-2 (USA)", "Type 62 (USSR)", "P-63C-5 (USSR)", "VK 45.01 (P)", "M8A1 GMC", "I-301", "“Xmas Tree” decal", "“Christmas Wreath” decoration", "“Powder Day” decal", "“Ski” decoration", "Call sign “Snow Maiden” icon", "“The Witch's House” decoration"],
+      "tasks": "拥有II级以上研发载具的玩家在道具商店以6万银狮/个购买并开启Festive Cupcake,开出往届冬季活动载具/涂装/贴花/装饰等。",
+      "sub_events": [],
+      "notes": "银狮礼盒(非金鹰),跨年至2026-01-13;部分物品首次以可交易券形式投放Market。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9864,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Winter Sale in War Thunder!",
+      "name_en": "The Winter Sale in War Thunder!",
+      "name_zh": null,
+      "start": "2025-12-18T11:00:00Z",
+      "end": "2025-12-24T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 18th (11:00 GMT) until December 24th (11:00 GMT)",
+      "discounts": [
+        {"target": "多种商品", "item": "银狮/金鹰全部载具 5折", "percent": 50, "note": "不含Line of Contact/Spearhead/Tusk Force新车及中队载具"},
+        {"target": "多种商品", "item": "全部改装件、护身符、备件 5折", "percent": 50, "note": "同上除外条款"},
+        {"target": "高级账户", "item": "游戏内90/365天及Gaijin.net商店180天高级账户 5折", "percent": 50, "note": null},
+        {"target": "多种商品", "item": "Gaijin商店全部新手包(Starter Packs) 5折", "percent": 50, "note": null}
+      ],
+      "deadlines": [
+        {"what": "金币直升机 AH-1S Kisarazu(日,VI级)停售", "when": "2025-12-24T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": "促销期内游戏内购载具/改装件/护身符/备件/高级账户自动5折;Gaijin商店新手包同步5折。",
+      "sub_events": [],
+      "notes": "游戏内冬促第一阶段;12月24日起转Gaijin商店礼包促销(另见12-24公告)。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9865,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Celebrate the Winter Holidays and the New Year in War Thunder!",
+      "name_en": "Celebrate the Winter Holidays and the New Year in War Thunder!",
+      "name_zh": null,
+      "start": "2025-12-22T12:00:00Z",
+      "end": "2026-01-05T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 22nd (12:00 GMT) until January 5th (12:00 GMT)",
+      "discounts": [
+        {"target": "多种商品", "item": "游戏内载具/改装件/护身符/备件/高级账户/新手包 5折(同12-18冬促)", "percent": 50, "note": "子活动汇总"}
+      ],
+      "deadlines": [
+        {"what": "商店兑换码 NEWYEAR26(免费“Elf helper”贴花)有效期至", "when": "2026-02-01"}
+      ],
+      "rewards_text": ["“Warrior Horse” decal", "“Garden Gnome Deer” decoration for ground vehicles", "“Christmas Gazebo” decoration for ships", "“Elf helper” decal", "MiG-25PD", "H-75M", "IJN Tosa", "CRV Block 2"],
+      "tasks": "III级以上:累计2000任务点得贴花、地面20000得陆装装饰、海军20000得舰装饰;商店输NEWYEAR26领免费贴花;并参与各子活动。",
+      "sub_events": [
+        {"name": "Festive Cupcake 银狮礼盒", "start": "2025-12-17T11:00:00Z", "end": "2026-01-13T11:00:00Z", "note": "6万银狮/个"},
+        {"name": "Winter Concert 任务活动(奖励含高阶载具)", "start": "2025-12-19T11:00:00Z", "end": "2026-01-08T11:00:00Z", "note": "另有专项公告"},
+        {"name": "Tank Snowball 雪球对战", "start": "2025-12-23", "end": null, "note": "文中仅预告12月23日开始"},
+        {"name": "游戏内5折冬促", "start": "2025-12-18T11:00:00Z", "end": "2025-12-24T11:00:00Z", "note": "另见9864"}
+      ],
+      "notes": "冬季节日总览公告;start/end取头条「Holiday Rewards」任务窗。Winter Concert奖励:MiG-25PD(苏VII)、H-75M(中I金币)、IJN Tosa(日VI)、CRV Block 2(英VII)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9869,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Tank Snowball: Get Ready For a Snowball Fight!",
+      "name_en": "Tank Snowball: Get Ready For a Snowball Fight!",
+      "name_zh": null,
+      "start": "2025-12-23T12:00:00Z",
+      "end": "2026-01-01T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 23rd (12:00 GMT) until January 1st (11:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“Firework Mortar” decoration for ground vehicles"],
+      "tasks": "活动页参加Tank Snowball(专用Snowballer坦克),击中50块敌方标靶得「Firework Mortar」装饰;不愿打可499金鹰在成就页直购。",
+      "sub_events": [],
+      "notes": "圣诞雪球趣味模式,先60次摧毁或占点获胜;仅产银狮,任务点不计入Winter Concert地面任务;单次重生。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9870,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The Winter Sale in the Gaijin Store!",
+      "name_en": "The Winter Sale in the Gaijin Store!",
+      "name_zh": null,
+      "start": "2025-12-24T11:00:00Z",
+      "end": "2026-01-01T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 24th (11:00 GMT) until January 1st (11:00 GMT)",
+      "discounts": [
+        {"target": "多种商品", "item": "34款精选礼包 5折", "percent": 50, "note": "聚合"},
+        {"target": "多种商品", "item": "Holiday Collection 12礼包(F-2A ADTW、MiG-29 Sniper、JA 37DI Viggen F21、Leopard 2 (OTCo)、Al-Khalid-I、Challenger DS、Merkava Mk.3 Ra’am Sagol、F/A-18C Hornet (Swiss)、M1 KVT、T-80U-E1、A-10A Thunderbolt (Early)、MiG-21 Bison)各5折", "percent": 50, "note": "购包赠Ugly Sweater涂装;促销期涂装亦可金鹰购"}
+      ],
+      "deadlines": [
+        {"what": "已有老买家3胜/车领Holiday Collection涂装截止", "when": "2026-01-02"},
+        {"what": "Arkansas Pack 与 Object 140 Pack 促销结束后全平台停售", "when": "2026-01-01T11:00:00Z"}
+      ],
+      "rewards_text": ["Ugly Sweater camouflage (Holiday Collection)"],
+      "tasks": "促销期商店5折购指定礼包;购Holiday Collection 12包之一送丑毛衣涂装;此前购车的老玩家用对应车辆各3胜领涂装。",
+      "sub_events": [],
+      "notes": "Gaijin商店冬促(礼包阶段),接9864游戏内冬促。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9873,
+      "lang": "en",
+      "is_event": true,
+      "type": "market",
+      "title": "40 New User-Created Camouflages in the Line of Contact Trophy!",
+      "name_en": "40 New User-Created Camouflages in the Line of Contact Trophy!",
+      "name_zh": null,
+      "start": "2025-12-29",
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["Line of Contact decal", "coupons for rare vehicles", "40 user-created camouflage coupons"],
+      "tasks": "II级以上载具战斗(活跃度≥50%)概率掉落Line of Contact战利品;PC需在Market购Line of Contact Key开启,主机可金鹰开。",
+      "sub_events": [],
+      "notes": "Market用户涂装战利品随Line of Contact大版本(2025年第5个)上线,常驻至下期;start取文章发布日,无结束时间。",
+      "confidence": 0.8
+    },
+    {
+      "aid": 9874,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Pages of History (January): In the Skies of Leningrad",
+      "name_en": "Pages of History (January): In the Skies of Leningrad",
+      "name_zh": null,
+      "start": "2026-01-01",
+      "end": "2026-01-31",
+      "end_precision": "day",
+      "end_raw": "From January 1st until January 31st",
+      "discounts": [],
+      "deadlines": [
+        {"what": "金鹰直购本期「Pyotr Pilyutov」头像截止", "when": "2026-02-03T11:30:00Z"}
+      ],
+      "rewards_text": ["Pyotr Pilyutov profile icon"],
+      "tasks": "1月按日历连续完成8个历史任务(随机战斗,除[突击]),每个得战利品,全部完成得专属头像;头像可金鹰直购。",
+      "sub_events": [],
+      "notes": "月度任务链;每任务最后一天11:00-11:30 GMT结算。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 9875,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The German Sea Hawk Mk.100 is on Sale for German Air Force Day!",
+      "name_en": "The German Sea Hawk Mk.100 is on Sale for German Air Force Day!",
+      "name_zh": null,
+      "start": "2026-01-09T11:00:00Z",
+      "end": "2026-01-12T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From January 9th (11:00 GMT) until January 12th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Sea Hawk Mk.100 — 7折 5992金鹰", "percent": 30, "note": "仅促销期有售"}
+      ],
+      "deadlines": [
+        {"what": "Sea Hawk Mk.100 促销结束后停售", "when": "2026-01-12T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": "促销期内在商店(德系>空军>金币载具)以5992金鹰(7折)购买。",
+      "sub_events": [],
+      "notes": "德国空军日(1月9日,1956年成立)。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9877,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The SAV 20.12.48 for Swedish Armed Forces Day!",
+      "name_en": "The SAV 20.12.48 for Swedish Armed Forces Day!",
+      "name_zh": null,
+      "start": "2026-01-14T11:00:00Z",
+      "end": "2026-01-17T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From January 14th (11:00 GMT) until January 17th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "SAV 20.12.48 — 1300金鹰(限时返场)", "percent": null, "note": "未标注折扣,仅促销期有售"}
+      ],
+      "deadlines": [
+        {"what": "SAV 20.12.48 促销结束后停售", "when": "2026-01-17T11:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": "促销期内在商店(瑞典系>陆军>金币载具)以1300金鹰直接购买。",
+      "sub_events": [],
+      "notes": "瑞典武装部队日。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9878,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The XM1 (GM) Returns for Operation Desert Storm’s Anniversary!",
+      "name_en": "The XM1 (GM) Returns for Operation Desert Storm’s Anniversary!",
+      "name_zh": null,
+      "start": "2026-01-16T11:00:00Z",
+      "end": "2026-01-19T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From January 16th (11:00 GMT) until January 19th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "XM1 (GM) — 7折 6111金鹰", "percent": 30, "note": "促销后以原价继续在售"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "促销期内在商店(美系>陆军>金币载具)以6111金鹰(7折)购买;错过折扣仍可原价购。",
+      "sub_events": [],
+      "notes": "海湾战争「沙漠风暴行动」纪念日(1991-01-17)。hint中“until February 24th”为正文叙述地面战开始日,非活动窗。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9884,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Pages of History (February): Operation Detachment",
+      "name_en": "Pages of History (February): Operation Detachment",
+      "name_zh": null,
+      "start": "2026-02-01",
+      "end": "2026-02-28",
+      "end_precision": "day",
+      "end_raw": "From February 1st until February 28th",
+      "discounts": [],
+      "deadlines": [
+        {"what": "金鹰直购「Landing Zone - Iwo Jima」背景截止", "when": "2026-03-03T11:30:00Z"}
+      ],
+      "rewards_text": ["Landing Zone - Iwo Jima profile background"],
+      "tasks": "2月按日历连续完成8个历史任务(随机战斗,除[突击]),每个得战利品,全部完成得专属资料背景;背景可金鹰直购。",
+      "sub_events": [],
+      "notes": "月度任务链,本期全完成奖励为资料背景(非头像)。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 9887,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Bullet Hell Returns Today, With Changes!",
+      "name_en": "Bullet Hell Returns Today, With Changes!",
+      "name_zh": null,
+      "start": "2026-02-05T11:00:00Z",
+      "end": "2026-02-09T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "February 5th (11:00 GMT) until February 9th (11:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动页参加Bullet Hell(4天):8v8喷气仅机炮,BR下限扩至8.3,+-1.0分房,需2架适配飞机,先摧毁20机获胜;3次重生。",
+      "sub_events": [],
+      "notes": "9811的复刻迭代版:取消重生银狮花费,改标准备件/维修机制;轰炸机与无机炮飞机禁用。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9890,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Don’t Miss Out On Discounts in the Gaijin.Net Store!",
+      "name_en": "Don’t Miss Out On Discounts in the Gaijin.Net Store!",
+      "name_zh": null,
+      "start": "2026-02-09T11:00:00Z",
+      "end": "2026-02-16T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 9th (11:00 GMT) until February 16th (11:00 GMT)",
+      "discounts": [
+        {"target": "多种商品", "item": "CF-188 Hornet Pack、MiG-23ML Pack、JH-7A Prototype Pack、USS Maryland Pack 各5折", "percent": 50, "note": "聚合"}
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "促销期内在Gaijin.Net商店以5折购买4款指定礼包。",
+      "sub_events": [],
+      "notes": "小型定向礼包促销。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9891,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Don’t Miss Out on Decals, Discounts, and Rare Vehicles for Japan’s National Foundation Day!",
+      "name_en": "Don’t Miss Out on Decals, Discounts, and Rare Vehicles for Japan’s National Foundation Day!",
+      "name_zh": null,
+      "start": "2026-02-11T07:00:00Z",
+      "end": "2026-02-18T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 11th (07:00 GMT) until February 18th (07:00 GMT)",
+      "discounts": [
+        {"target": "捆绑包", "item": "Type 16 (FPS) Pack — 59.99→30美元", "percent": 50, "note": "含15天高级+2000金鹰"},
+        {"target": "捆绑包", "item": "Type 90B “Fuji” Pack — 69.99→35美元", "percent": 50, "note": "含20天高级+2500金鹰"},
+        {"target": "捆绑包", "item": "Type 74 Red Star Pack — 49.99→25美元", "percent": 50, "note": "含15天高级+2000金鹰"},
+        {"target": "捆绑包", "item": "F-2A ADTW Pack — 79.99→40美元", "percent": 50, "note": "含30天高级+3000金鹰"},
+        {"target": "捆绑包", "item": "IJN Nagato Pack — 79.99→40美元", "percent": 50, "note": "含30天高级+3000金鹰"},
+        {"target": "捆绑包", "item": "Hawk 209 Pack — 69.99→35美元", "percent": 50, "note": "含20天高级+2500金鹰"},
+        {"target": "载具", "item": "IJN Kiyoshimo — 4880金鹰;A6M5 Ko — 3850金鹰(限时返场)", "percent": null, "note": "未标注折扣,仅促销期有售"}
+      ],
+      "deadlines": [
+        {"what": "IJN Kiyoshimo 与 A6M5 Ko 促销结束后停售", "when": "2026-02-18T07:00:00Z"}
+      ],
+      "rewards_text": ["“Symbols of Japan” decal", "“Dancing Cranes” decal", "“Day of Japan” decal", "“The Guardian of Japan” decal"],
+      "tasks": "日系III级以上载具赚3000任务点开「Japan’s National Foundation Day」战利品得4选1贴花,集齐后得加成道具;礼包/载具直接购买。",
+      "sub_events": [],
+      "notes": "日本建国纪念日;三个板块(商店礼包5折、金币载具返场、贴花任务)时间窗一致(07:00 GMT起)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9895,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Celebrate Valentine’s Day with Decals, Decorations and the Return of a Rare Tank!",
+      "name_en": "Celebrate Valentine’s Day with Decals, Decorations and the Return of a Rare Tank!",
+      "name_zh": null,
+      "start": "2026-02-13T11:00:00Z",
+      "end": "2026-02-16T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 13th (11:00 GMT) until February 16th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "MK-IX “Valentine” — 1000金鹰(限时返场)", "percent": null, "note": "未标注折扣"}
+      ],
+      "deadlines": [
+        {"what": "MK-IX “Valentine” 限时返场结束", "when": "2026-02-16T11:00:00Z"}
+      ],
+      "rewards_text": ["“My Love” decal", "“Heart of Roses” decal", "“Neon Valentine” decal", "“Into the depths of love” decal", "“Anchor of Love” decoration", "“Compound Bow” decoration", "“Teddy Bear with a Heart” decoration"],
+      "tasks": "任意系III级以上:3000任务点得贴花战利品、20000任务点得装饰战利品;道具商店亦可用金鹰购同类战利品(开出未拥有的);坦克1000金鹰直购。",
+      "sub_events": [],
+      "notes": "情人节;贴花/装饰两任务窗与商店战利品、坦克返场窗一致。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9896,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The BO 105 CB-2 is Temporarily Available at a Discounted Price to Celebrate its First Flight Anniversary!",
+      "name_en": "The BO 105 CB-2 is Temporarily Available at a Discounted Price to Celebrate its First Flight Anniversary!",
+      "name_zh": null,
+      "start": "2026-02-16T10:00:00Z",
+      "end": "2026-02-19T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 16th (10:00 GMT) until February 19th (10:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "BO 105 CB-2 — 7折 5992金鹰", "percent": 30, "note": "仅促销期有售"}
+      ],
+      "deadlines": [
+        {"what": "BO 105 CB-2 促销结束后停售", "when": "2026-02-19T10:00:00Z"}
+      ],
+      "rewards_text": [],
+      "tasks": "促销期内在商店(德系>直升机>金币载具)以5992金鹰(7折)购买。",
+      "sub_events": [],
+      "notes": "纪念Bo 105首飞(1967-02-16)。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 9899,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The Horseshoe Pouch!",
+      "name_en": "The Horseshoe Pouch!",
+      "name_zh": null,
+      "start": "2026-02-17T11:00:00Z",
+      "end": "2026-03-16T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from February 17th (11:00 GMT) until March 16th (11:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["XF5U-1", "A-26C-45", "AMX-50 (TO90/930)", "Pr.183 BM-21", "T55E1", "“Crocodile Jaws” decal", "“Emblem of the Coldstream Guards” decal", "“Gladius” decoration", "“Death valley sign” decoration", "“Douglas MacArthur” player icon", "“Colt–Browning M1895” decoration"],
+      "tasks": "拥有II级以上研发载具的玩家在道具商店以6万银狮/个购买并开启Horseshoe Pouch,开出往届活动(二战编年史/Pages of History/世界大战/周年庆等)物品。",
+      "sub_events": [],
+      "notes": "马年(2026)主题银狮礼盒;含War Thunder生日、1月战令等历史奖励,部分首次以可交易券投放。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9900,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Celebrate the Lunar New Year with a Decal, a Decoration, and Discounts!",
+      "name_en": "Celebrate the Lunar New Year with a Decal, a Decoration, and Discounts!",
+      "name_zh": null,
+      "start": "2026-02-17T11:00:00Z",
+      "end": "2026-02-24T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 17th (11:00 GMT) until February 24th (11:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Type 69-IIa — 5折 4190金鹰;T-62 №545 — 5折 4365金鹰;ZTZ96A (P) — 5折 4635金鹰", "percent": 50, "note": "Type 69-IIa 与 T-62 №545 促销后停售"},
+        {"target": "捆绑包", "item": "“The Dark Stallion” Bundle(A-5C+Type 96A Prototype包+头衔贴花)— 125→62.49美元", "percent": 50, "note": null},
+        {"target": "捆绑包", "item": "“Golden Spears and Iron Horses” Bundle(Al-Khalid+Z-19E包+头衔贴花)— 120→60美元", "percent": 50, "note": null},
+        {"target": "多种商品", "item": "Lunar New Year 捆绑包及 Chinese Starter Pack 5折", "percent": 50, "note": "聚合句,PC/Mac/Linux专属"}
+      ],
+      "deadlines": [
+        {"what": "Type 69-IIa 与 T-62 №545 促销结束后停售", "when": "2026-02-24T09:00:00Z"}
+      ],
+      "rewards_text": ["“Red Fire Horse” decal", "“Horse Figurine” decoration"],
+      "tasks": "中国系III级以上:3000任务点得「Red Fire Horse」贴花(17-24日);20000任务点得「Horse Figurine」装饰(18-25日);礼包/载具直接购买。",
+      "sub_events": [
+        {"name": "「Horse Figurine」装饰任务(比贴花晚一天)", "start": "2026-02-18T11:00:00Z", "end": "2026-02-25T11:00:00Z", "note": null},
+        {"name": "中国金币载具5折(Type 69-IIa/T-62 №545/ZTZ96A (P))", "start": "2026-02-17T09:00:00Z", "end": "2026-02-24T09:00:00Z", "note": null},
+        {"name": "Gaijin.net商店春节捆绑包与新手包5折", "start": "2026-02-17T09:00:00Z", "end": "2026-02-24T09:00:00Z", "note": "已有A-5C+ZTZ96A(P)或Al-Khalid+Z-19E者各打3场可领对应头衔贴花(17-24日)"}
+      ],
+      "notes": "农历火马年;注意9:00与11:00 GMT两套窗口并存,装饰任务整体晚一天。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9909,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Decals and Discounts on Vehicles for South African Armed Forces Day!",
+      "name_en": "Decals and Discounts on Vehicles for South African Armed Forces Day!",
+      "name_zh": null,
+      "start": "2026-02-20",
+      "end": "2026-02-23T10:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 20th until February 23rd (10:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Rooikat 105 — 7折 6363金鹰;Rooivalk Mk1F CSH — 7折 5992金鹰", "percent": 30, "note": "英系>陆军/直升机>金币载具"},
+        {"target": "捆绑包", "item": "South African Armed Forces Day bundle(Rooikat 105 Pack+Rooivalk Pack)— 110→54.99美元", "percent": 50, "note": null}
+      ],
+      "deadlines": [],
+      "rewards_text": ["“Emblem of No. 2 Squadron of the South African Air Force” decal"],
+      "tasks": "英系III级以上载具赚3000任务点得南非空军第2中队徽贴花(至2月24日10:00 GMT);载具与捆绑包直接购买。",
+      "sub_events": [
+        {"name": "南非空军第2中队徽贴花任务", "start": "2026-02-20", "end": "2026-02-24T10:00:00Z", "note": "“From today”,比折扣窗晚一天结束"},
+        {"name": "SAADF捆绑包5折(Gaijin商店)", "start": "2026-02-20", "end": "2026-02-23T10:00:00Z", "note": null}
+      ],
+      "notes": "南非武装部队日(2月21日);折扣窗开始时刻未给出(仅日期),end取折扣窗2月23日10:00 GMT,任务窗至24日。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 9913,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "A Decal, Decoration, the Object 140 and Discounts on Soviet Vehicles!",
+      "name_en": "A Decal, Decoration, the Object 140 and Discounts on Soviet Vehicles!",
+      "name_zh": null,
+      "start": "2026-02-20T09:00:00Z",
+      "end": "2026-02-25T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 20th (09:00 GMT) until February 25th (09:00 GMT)",
+      "discounts": [
+        {"target": "载具", "item": "Object 140 — 7折 6111金鹰", "percent": 30, "note": "促销后原价继续在售"},
+        {"target": "多种商品", "item": "Gaijin商店全部苏系载具礼包 7折(BMPT-72 “Terminator-2”、Su-30MK2 AMV、“In May ‘45”包除外)", "percent": 30, "note": "聚合"},
+        {"target": "捆绑包", "item": "T-72AV (TURMS-T)+Su-25K Bundle — 125→62.49美元", "percent": 50, "note": null},
+        {"target": "捆绑包", "item": "Ka-50+T-80U-E1 Bundle — 120→59.99美元", "percent": 50, "note": null},
+        {"target": "捆绑包", "item": "Red Army Day 2026 Bundle(KV-1E+Т-34 mod. 1941+IL-2 Avenger+Peshka包)— 65.96→32.98美元", "percent": 50, "note": null},
+        {"target": "载具", "item": "KV-1E — 3200金鹰;T-34 (1st Gv.T.Br.) — 1300金鹰;Pe-2-205 — 1500金鹰;IL-2 Avenger — 1300金鹰", "percent": null, "note": "金鹰直购(红军建军日2026包内同款)"}
+      ],
+      "deadlines": [],
+      "rewards_text": ["“Bogatyr” decal", "“SSh-36” decoration", "“Kuban papakha” decoration", "“Budenovka” decoration", "“Pavise shield” decoration", "“Gallic Shield” decoration", "“Heraldic shield” decoration"],
+      "tasks": "苏系III级以上:3000任务点得「Bogatyr」贴花、10000任务点(限地面载具)得「SSh-36」装饰;金鹰购「Red Army Foundation Day」战利品得往届装饰,集齐6盾牌得「Heraldic shield」。",
+      "sub_events": [],
+      "notes": "红军建军日(2月23日);Object 140返场+商店苏系7折+两个任务+金鹰战利品,全部同窗(09:00 GMT)。hint中“February 2th”为正文笔误(应为25th)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 9920,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Pages of History (March): The Legless Ace",
+      "name_en": "Pages of History (March): The Legless Ace",
+      "name_zh": null,
+      "start": "2026-03-01",
+      "end": "2026-03-31",
+      "end_precision": "day",
+      "end_raw": "From March 1st until March 31st",
+      "discounts": [],
+      "deadlines": [
+        {"what": "金鹰直购「Douglas Bader」头像截止", "when": "2026-04-03T11:30:00Z"}
+      ],
+      "rewards_text": ["Douglas Bader profile icon"],
+      "tasks": "3月按日历连续完成8个历史任务(随机战斗,除[突击]),每个得战利品,全部完成得专属头像;头像可金鹰直购至4月3日。",
+      "sub_events": [],
+      "notes": "月度任务链。hint中“until April 3rd (11:30 GMT)”为头像直购截止;日历末段3月27-31日。",
+      "confidence": 0.85
+    }
+  ]
+}

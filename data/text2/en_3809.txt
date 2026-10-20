@@ -1,0 +1,75 @@
+[Event] Boulogne-sur-Mer - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Boulogne-sur-Mer
+Attention! Outdated news format. Content may not display correctly.
+8 July 2016
+Event
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1140
+From 15:00 GMT on the 8th of July to 07:00 GMT on the 11th of July
+Take a part in historical aircraft mission
+[Operation] "Boulogne-sur-Mer" (+30% RP & SL)
+in the new location “La Manche”!
+The mission will be in RB and SB game modes with historical vehicle setups. You can find it in the “Events and Tournaments” tab in the game's main menu under the name [Operation] Boulogne-sur-Mer.
+For the first time in the War Thunder history, the reconstruction of the “Battle of Britain” will be fought over La Manche(The English Channel) between the south-eastern area of Britain and over part of France. During the operation, the Allies have to protect troops which are evacuated from mainland Europe to Great Britain by sea, and the Germans - will not allow the convoy to reach the coast of the island nation.​
+After the crushing defeats of 1939 across Europe at the hands of the German War Machine, 1940 saw final fall of the allies in mainland Europe in the Battle of France. Now, as the summer of 1940 began, only Great Britain and the volunteers from other nations who served within her ranks stood as the last barrier before Germany’s total domination of Europe.
+German morale was high after the victories leading up to this point, with the British Army and RAF suffering a chain of humiliating defeats concluding with Dunkirk. After last ditch attempt by Hitler that invited the British to surrender, Winston Churchill famously vowed to fight on, regardless of the situation. Thus began the Battle of Britain.
+The Luftwaffe's primary objective was to batter Royal Air Force airfields and destroy the aircraft of the RAF en mass so that a land invasion could begin.The Kriegsmarine began to isolate and cut off the vital atlantic supply lines that were the lifeblood of the British war effort. The British braced themselves to defend against the full might of the Luftwaffe and German forces for what would prove be a vital turning point in the Second World war.
+After weeks of preparation on both sides, the Battle ferociously began on July the 10th 1940.
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

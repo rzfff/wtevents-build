@@ -1,0 +1,108 @@
+[Special] Operation S.U.M.M.E.R. (updated 03/08/2016) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation S.U.M.M.E.R. (updated 03/08/2016)
+Attention! Outdated news format. Content may not display correctly.
+10 August 2016
+Special
+Pilots and tankers, the last month of summer will be a month to remember. We’re announcing the start of a big new event: Operation S.U.M.M.E.R. Four new premium vehicles straight from the testing grounds, new decals and other prizes for the best warriors in the skies and on the ground!
+<>
+"Operation S.U.M.M.E.R." will run from July 22nd to August 22nd
+Get premium vehicles from Testing Ground "113", decorations, decals and other prizes!
+Open the mission calendar for the Task list!
+<>
+<> UPDATE 01/08/2016
+Fellow pilots and tankers, we have received new orders from HQ:
+The requirements of many tasks for receiving Marks of Distinction in “Operation S.U.M.M.E.R.” have been lowered for this week (from August 1st to August 7th).
+<>The price for Marks of Distinction for tankers and pilots has also been lowered in the Item Shop - 299 instead of 599 ​.
+During this week, players who bought the Marks of Distinction for the old price will receive the difference between the old price and the new one in golden eagles.
+<> UPDATE 03/08/2016
+<>Dear players! On August 3rd at 08:00 GMT, the game servers will be unavailable due to the implementation of 1.61 "Glory Road"! Tasks for "Operation S.U.M.M.E.R" on August 2nd and August 3rd will be extended for 24 hours. Premium accounts will be compensated upon completion of the maintenance. Follow the news! Thank you for your patience!
+The military arts never stop changing. Somewhere on the front line, shells are firing and turrets are torn off turret rings. Off to the side, engineers strive night and day to perfect their fighting machines: new engines and weapons are developed and armour is strengthened. The results of their efforts are now perfectly tangible.
+Click here to read more...
+Soldiers, HQ has received prototypes of military vehicles from Testing Ground 113. This testing ground specializes in a wide array of tasks, from testing the newest prototype ground vehicles and aircraft to benchmarking power trains and complex equipment. Each of these vehicles has its own story: from the famous ‘Uhu’ reconnaissance aircraft that became a test platform for the latest aircraft engines, to a new development: the KV-220 heavy tank, worthy of inheriting the laurel of Kliment Voroshilov, surpassing it in armour, power and armament. The appearance of these vehicles clearly reflects the titanic effort spent on designing and upgrading them. Months in the tender care of mechanics has also left its mark: all testing ground vehicles perform at their peak characteristics as soon as the engine is first started, and their genius engineers have given the vehicles premium status.
+There’s a reason these vehicles have been deployed. There is a task at hand: to test these prototype vehicles in real battle conditions with minimal losses. Only the most experienced crews will be able to handle this challenge. Command has decided to distribute the vehicles amongst the best soldiers who have shown their outstanding skills on the battlefield. Now is the time to prove that you are worthy of discovering all the potential of a brand new weapon. You don’t even have to choose – you can get all these vehicles at once by participating in a new operation, codenamed ‘S.U.M.M.E.R.’!
+Naturally, there are going to be other useful gifts from the home front too. New decals and other rewards await the event’s participants.
+<>
+Vehicles from Testing Ground "113"
+<>
+Fw 189 Uhu
+Grant Mk.I
+F7F-3 Tigercat
+КV-220
+<>
+<>
+Progress demands resources, and they are often harder to find than a genius solution. A suitable platform was required to test a new modification of front-line bomber engines, but the Me.410 was as precious as air on the field for intercepting enemy Flying Fortresses. The solution was simple and elegant. The air force had sufficient numbers of the Fw 189 Uhu – a famous reconnaissance aircraft – and its configuration, light design and simple installation process for new power train parts and mechanisms made the aircraft a perfect test platform.
+Any new vehicle of an enemy or ally often becomes not only a soldier in your army or a target for testing out your weapons, but also an object of deep study with a view to absorbing the experience of engineers from other countries. The M3 Lee was no exception. Test data obtained in the testing grounds are sure to help Britain make its new military vehicle prototypes even better, and the Grant modification, stripped down to the screws, has again taken on its original form, receiving protection from the deadly sands of the desert and an upgraded turret. The M3 Grant is ready to serve the greater good in real battles on the side of Britain.
+The original Grumman F7F Tigercat is the first US twin-engine carrier-borne fighter – it stands out for its very high maximum speed and powerful frontal armament. But better is always good. A third modification of this aircraft has arrived from the testing ground, equipped with a new power train. The engineers haven’t failed to take advantage of this, and it became possible to mount additional launchers with rockets, including the large anti-ship Tiny Tim rockets!
+Success has to be capitalized on. The Soviet KV-1 heavy tank is undeniable proof of that. A vehicle that struck fear into German tankers’ hearts was sure to find a successor, and it didn’t have to wait long for one. The KV-220 has undergone its finishing touches at Testing Ground 113 and is ready to surprise the enemy with its even thicker armour and more powerful cannon, for which, incidentally, an entirely new turret had to be created. The long-barreled 85 mm F-30 cannon is just what the first KV was missing, and it guarantees the efficacy of this successor on the battlefield.
+<>
+More about the vehicle →
+More about the vehicle →
+More about the vehicle →
+More about the vehicle →
+<>
+<> Military camouflages are also available for all the Testing Ground 113 vehicles presented here.
+<>
+<>
+<>
+<>
+<>
+How to participate
+“Operation S.U.M.M.E.R.” will take place from July 22nd to August 22nd
+Every day, pilots and tankers will receive tasks to get “Marks of Distinction” completing which will guarantee participants new 3d decorations, decals, discounts and other bonuses. The most active participants will become owners of the unique premium vehicles from “Testing Ground 113”!
+If you missed the Marks of Distinction
+Each task will be available for 1 day and will be changed to another after 24 hours. Each weekend players will have 4 tasks for pilots and tankers and can be completed within the 2 days. The "Marks of Distinction" ( and ​) can still be obtained with Golden Eagles at any time during the event from the day that they appear in the Item Shop (future Marks not available until they are released).
+Main prize - testing range “113” vehicles:
+<>
+<>
+<>
+<>
+<>
+18 pilot Marks of Destinction - German Fw 189 Uhu
+Light bomber -

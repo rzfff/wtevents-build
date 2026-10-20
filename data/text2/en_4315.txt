@@ -1,0 +1,209 @@
+[Event] War in Mid Air - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+War in Mid Air
+Attention! Outdated news format. Content may not display correctly.
+4 November 2016
+Event
+From 15:00 GMT on November 4th until 07:00 GMT on November 7th
+'War In Mid Air' is available in the following Arcade-mode events:
+<>
+Eastern Europe
+Normandy
+Tunisia
+Poland
+Guadalcanal
+<>
+vs.
+vs.
+vs.
+vs.
+vs.
+Click here to show participating vehicles!
+<
+<>
+Attacker's vehicles
+Attacker's vehicles
+Attacker's vehicles
+Attacker's vehicles
+Attacker's vehicles
+<>
+Bf 109 G-6
+Ju 87 B-2
+Ju 87 D-3
+Ju 87 D-5
+Ju 87 G-1
+Ju 87 G-2
+Ju 88 A-1
+Ju 88 A-4
+Bf 110 C-4
+Hs 129 B-2
+Hs 129 B-2 (Romania)
+Hs 129 B-3
+Me 410 A-1
+Me 410 A-1/U4
+Me 410 B-1
+Me 410 B-2/U4
+Fw 190 A5/U2
+P-47D
+P-47D-28
+P-47M-1RE
+P-51D-20NA
+P-51D-10
+P-51D-5
+B-25J-1
+B-25J-20
+F6F-3
+Hellcat F. Mk.I
+Spitfire Mk. IX (USA)
+Plagis' Spitfire Mk. IX
+Spitfire Mk. IX
+Typhoon Mk. IB
+Typhoon Mk. IB/Late
+Tempest Mk. V (Vickers)
+Beaufighter Mk.X
+Firefly Mk. V
+Firefly Mk. I
+Seafire FR Mk. 47
+Seafire Mk. 17
+Mosquito FB Mk. 18
+Mosquito FB Mk. 6
+Blenheim Mk. IV
+DB-7
+Boston Mk. I
+Bf 109 G-6
+Ju 87 B-2
+Ju 87 D-3
+Ju 87 D-5
+Ju 87 G-1
+Ju 87 G-2
+Ju 88 A-1
+Ju 88 A-4
+Bf 110 C-4
+Hs 129 B-2
+Hs 129 B-2 (Romania)
+Hs 129 B-3
+Me 410 A-1
+Me 410 A-1/U4
+Me 410 B-1
+Me 410 B-2/U4
+Fw 190 A5/U2​
+IL-2-37
+IL-2M (1943)
+IL-2 (1942)
+IL-2M
+IL-2M 'Avenger'
+Yak 9T
+Yak 9K
+Pe-2-1
+Pe-2-205
+Pe-2-31
+Pe-2-83
+Pe-3
+Pe-3bis
+Pe-3 (early)
+B-25J-30
+Ki-45 hei
+Ki-45 ko
+Ki-45 otsu
+Ki-45 tei
+Ki-96
+Ki-102 otsu
+D3A1
+F1M2
+H6K4
+G4M1
+B5N2
+B7A2
+<>
+Defender's vehicles:
+Defender's vehicles:
+Defender's vehicles:
+Defender's vehicles:
+Defender's vehicles:
+<>
+M13 MGMC
+M16 MGMC
+M15 CGMC
+ZSU 37
+ZUT 37
+4M GAZ AAA
+72-K GAZ MM
+Flakpanzer I
+Flakpanzer 38(t) Gepard
+Sd.Kfz. 6/2
+Flakpanzer Wirbelwind
+Flakpanzer Ostwind
+T17E2
+AC Mk. II AA
+Crusader AA Mk. II
+Crusader AA Mk. I
+Flakpanzer I
+Flakpanzer 38(t) Gepard
+Sd.Kfz. 6/2
+Flakpanzer Wirbelwind
+Flakpanzer Ostwind
+M13 MGMC
+M16 MGMC
+M15 CGMC
+M19
+Dear Players!
+In 'War in Mid Air' the teams are split between attackers and defenders. The task of the attacking aircraft team is to destroy any tanks that are positioned inside the city, as well as any anti-air player vehicles. The task of the defending anti-aircraft vehicles is to stop the rout from happening and hold the position in the city until the attacker has bled all his tickets or lost all aircraft.
+Tickets for the attacking team will reduce up to the point when all the city ground vehicles have been destroyed. If the aviation succeed in their task, the ticket bleed stops and the the task will switch to destroying the remaining, player controlled anti-air vehicles.
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

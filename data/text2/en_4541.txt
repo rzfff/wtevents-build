@@ -1,0 +1,105 @@
+[Shop] How can you get premium vehicles? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get premium vehicles? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+8 March 2017
+Shop
+<>
+Dear Players,
+we are pleased to present to you an updated assortment in the war bonds shop in March. Complete Battle Tasks and earn War Bonds by simply playing War Thunder and exchange it for many valuable prizes including premium vehicles!
+Battle Tasks will be available to you after reaching the 3rd rank of any nation in the game. You can read more about War Bonds and Battle Tasks in the War Thunder wiki.
+Good luck and see you on the battlefield!
+<> Ki-100-II - The last of the Ki-61 family
+<>
+<>
+<>
+The Japanese Kawasaki Ki-100 was the most recent development of the Ki-61 line of military fighters. Its twin brother - the Ki-100-II was further development attempt to introduce high-altitude interceptor equipped with a supercharger capable of intercepting enemy bombers at a great altitude. Based on the series-produced Ki-100-Ib, by August 1945 three Ki-100-IIs were built with turbochargers and a methanol injection system for WEP. These were the most modern aircraft of their type. Because of the end of the war, these planes did not go into large-scale series production.
+<> Hudson Mk V - A twin-engined rascal!
+<>
+<>
+<>
+Aviation has presented many cases of military machines which, after the end of the conflict, were adapted for use in civilian service. The twin engine Lockheed Super Electra was a good example that went in the complete opposite direction however. A well known and respected passenger aircraft became a no less recognizable light bomber, known in the European World War II theater as the Hudson. The Hudson also enrolled in history as the first Allied aircraft operating from the British Isles credited with shooting down a German aircraft during the opening stages of World War II.
+<>
+You can get these machines just by playing!
+Detailed list of the Warbond items in the shop this month: ▼
+<>
+<>SMK
+<>Bf 109F-4 (USA)
+<>Pz.III N
+<>Ki-100-II
+<>Hudson Mk.V
+<>"Glamouras" pin-up, Decal by Colin 'Fenris' Muir
+<>Supply boxes (3D decorations - Camouflage)
+<>Supply boxes (3D decorations - other)
+<>Supply boxes containing 50/100/300/600/800% SL and RP boosts valid for 1 battle
+<>Premium booster: + 150% RP for 2 battles
+<>Supply box with vehicle rent for 1 to 24 hours for the following vehicles:
+<>Super Hellcat
+<>Yak-3 (VK-107)
+<>J2M5
+<>Pz.Bfw.VI (P)
+<>Cromwell RP-3
+<>Order
+<>
+<>"Glamouras" pin-up, 2nd Photo Charting Squadron, USAF
+<> Decal by Colin 'Fenris' Muir
+Battle tasks: These individual tasks bring variety into the gameplay and prevent situations when all the players in a battle try to complete one specific task ignoring mission objectives that are needed for a victory. They are available for players that have reached the 3rd rank of any nation. For completion, the player will receive Silver Lions and Warbonds - special in-game currency with their own shop, where you can purchase many of different items.
+You can read more about battle tasks and war bonds in our devblog.
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

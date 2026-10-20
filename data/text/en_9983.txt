@@ -1,0 +1,170 @@
+[Event] Nuclear Thunder! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Nuclear Thunder!
+1 April 2026
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Take command of frontline and strategic aircraft armed with nuclear bombs with yields up to 1.6 megatons and protected by ECM. The situation on the battlefield is constantly changing. Break through enemy defenses, destroy enemy depots and convoys to cut off the front’s supply lines and drastically affect the flow of the operation. Disable airfields and destroy SPGs, MLRS and tactical missile systems which attack the positions of your ground troops from afar and can conduct strikes in the most unexpected and critical places. Suppress anti-aircraft positions, including those of medium and long range systems, using the latest addition to your arsenal — anti-radiation missiles (ARMs), and of course gain air superiority. All without a limit on the number of respawns!
+<> When: From April 1st until April 13th (11:00 GMT) , play Nuclear Thunder, complete stages to get and keep the iconic B-52H and Tu-95M !
+<> Participate in the event and complete sta ges to permanently unlock legendary strategic bombers!
+<>By completing stages, you’ll earn two iconic Cold War strategic bombers: the B-52H and Tu-95M . They’ll be added to your research tree, meaning you’ll be able to use them in regular battles even after the event ends! Although, without the nuclear weapons and ECM capabilities.
+<>You can earn points in the Nuclear Thunder event by playing as the USA and USSR. The event can be found under Events and Tournaments -> Nuclear Thunder.
+<> Rewards
+<>Six stages are available for the USA and the USSR. Every 2 days, you can complete one for each side. To obtain both aircraft, you need to complete five stages for each of the sides!
+<>Each stage for each side will be unlocked for 7700 mission points and will bring a new reward.
+<>Stages change once every 2 days at 11:00 GMT: April 3rd, 5th, 7th, 9th and 11th.
+<> USA
+<>Rewards are given when you complete a specific number of stages:
+<> For 1 Stage : one of the decal rewards
+<> For 2 Stages : trophy with a random reward
+<> For 3 Stages : one of the decal rewards
+<> For 4 Stages : trophy with a random reward
+<> For 5 Stages : B-52H and 3 random modifications
+<> For 6 Stages : 3 random modifications for B-52H
+<>Son of Killroy
+<>Ground Pounder
+<> B-52H
+<> An Event Vehicle Bomber for the USA at Rank VI
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>At a glance:
+<>The first 8-engine aircraft in the game!
+<>The largest payload in the game, including 18 x 2000 lbs and 51 x 750 lbs bombs
+<>New Mk.117 AIR assault bombs
+<>Thermal imaging
+<>Defensive turret with a 20 mm Vulcan cannon
+<>A large number of countermeasure charges
+<>The largest aircraft in the game
+Vehicle History ▼
+<>The B-52H modification was the last production version of the famous Boeing B-52 Stratofortress strategic bomber to date and the only one remaining in service with the US Air Force to this day.
+<>Development began in January 1959, based on the B-52G version. The main difference were the new engines: the J57 turbojet engines were replaced by more fuel-efficient and powerful TF33-P-1 turbofan engines.
+<>The B-52H’s maiden flight took place in March 1961, and the aircraft entered service with the US Air Force’s Strategic Air Command that same month. A total of 102 aircraft of this modification were built between 1960 and 1962. The last production aircraft was delivered in June 1962.
+<>The B-52H, which has undergone multiple, extensive modernization programs, remains the backbone of US strategic aviation, demonstrating unprecedented longevity in aviation history. They are expected to remain combat-ready until the 2050s, almost a century after the first examples were built!
+<>
+<> USSR
+<>Rewards are given when you complete a specific number of stages:
+<> For 1 Stage : trophy with a random reward
+<> For 2 Stages : Tu-95M loading screen
+<> For 3 Stages : trophy with a random reward
+<> For 4 Stages : Tu-95M profile background
+<> For 5 Stages : Tu-95M and 3 random modifications
+<> For 6 Stages : 3 random modification for Tu-95M
+<>Tu-95M profile background
+<> Tu-95M
+<> An Event Vehicle Bomber for the USSR at Rank VI
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>At a glance:
+<>FAB-9000, the largest bomb in the game
+<>Up to 12,000 kg payload, including two FAB-5000 and four FAB-3000 bombs
+<>Turrets with 23 mm cannons
+<>RWR
+<>The most beautiful engine sound (according to the designer!)
+Vehicle History ▼
+<>Development of the Tu-95 strategic bomber began in 1951 amidst the intense confrontation between the USSR and the United States. Designers were tasked with creating an intercontinental nuclear weapons carrier capable of reaching potential enemy territory.
+<>The first prototype was built by 1952 and submitted for testing in Zhukovsky, which highlighted the need to improve the aircraft’s performance. In 1956, the decision was made to thoroughly modernize it with more powerful engines.
+<>An updated version, designated the Tu-95M, was put into serial production and subsequently upgraded several times, remaining in service until the 1980s.
+<> Details
+<>Among the rewards in the event is also this trophy. When opened, there is a chance to receive one of the following items:
+<>50,000 - 100,000 Silver Lions
+<>Silver Lion and Research Point boosters
+<>Random Wagers and Orders
+<>Universal Backups (1 - 3)
+<>A random camouflage for a vehicle you own
+<>1 day of Premium Account
+<>You can track the progress of the task by clicking on your nickname and selecting the menu Achievements → Nuclear Thunder.
+<>Each stage can be purchased for 999 Golden Eagles and unlocks the corresponding reward until April 17th.
+<> Please note: After finishing a stage, you need to collect the reward manually. To do this, click on your nickname, Achievements → Nuclear Thunder and click the “Get Reward” button.
+<>
+<> Anti-radiation missiles
+<>There’s a new weapon in the game: anti-radiation missiles (ARM)! These are designed to destroy radio sources, primarily the radars of medium and long-range anti-aircraft systems. During the event, these missiles will not have the guidance error inherent in real-life missiles, a proximity sensor, or frequency limitations so that they can hit anti-aircraft systems more frequently.
+<>But don’t think these missiles will destroy anti-aircraft guns in a jiffy. The sites of medium- and long-range anti-aircraft systems are covered with other anti-aircraft systems for self-defense, moreover, all SAMs and SPAAs in the event can locate and attack not just the aircraft, but munitions as well, so to successfully penetrate air defenses, you’ll have to work together with other pilots to overload the anti-aircraft defenses in a given area.
+<>The following missiles are presented:
+<> The AGM-88A HARM is an American anti-radiation missile with a maximum launch range of up to 150 km.
+<> The Kh-58U is a Soviet anti-radiation missile with a maximum launch range of up to 120 km.
+<> The Kh-25MPU is a Soviet anti-radiation missile with a maximum launch range of up to 40 km.
+<> The sides
+<>The opposing sides in this event will be the USA and the USSR. Players can take aircraft with a Battle Rating of 10.3-13.0 (with some exceptions).
+<> Please note: if you don’t have any high-rank aircraft, you can still take part in the event using the preset vehicles with the new interesting weapons, which we’ll discuss below.
+<> USA
+<>US players have access to the A-10A Early , A-6E TRAM , F-4E , A-7E , and B-52H by default.
+<>In addition to their standard armament, the A-6E TRAM and A-7E also have AGM-88A anti-radiation missiles. The F-4E and A-7E can carry the B61 bomb, with thermonuclear warheads of 5 and 30 kilotons. The B-52H carries the B28, with a yield of 1.45 megatons. That’s nearly one and a half million tons of TNT!
+<> USSR
+<>USSR players have access to the Su-25T , MiG-23MLD , Su-24M , and Tu-95M by default.
+<>In addition to their familiar armament, the Su-24M also boast two Kh-58U anti-radiation missiles, while the Su-25T can carry Kh-25MPU s. The MiG-23MLD can carry the RN-28 bomb, a 5-kiloton thermonuclear warhead. The Su-24M carries the 30-kiloton RN-40. And the Tu-95M "Bear" carries the RDS-37, a 1.6-megaton bomb.
+<>In the event, the B-52H and Tu-95M will be protected by very powerful ECM systems, setting up noise and deception jamming, which will make it impossible to attack them with any radar-homing missiles and will make it harder to find them with the radar.
+<> Fight on the Tropical Coast
+<>Welcome to the Tropical Coast, a special map created for this massive battle. It was inspired by the landscape of Central America, where snow-capped mountain ranges give way to dense tropical jungle, with valleys and gorges dotted with small villages in between. The total area of ​​the new location is comparable to countries like Sri Lanka, Croatia, or Lithuania!
+<> The frontline
+<>The front is maintained by supply lines from the rear. The central element is the tactical assembly area with fuel, ammunition, and armored vehicle depots. This is where fuel and ammunition supply convoys from rear depots proceed, and from there, armored vehicle convoys are formed heading toward the front: to resupply strongpoints and for the assault.
+<>To advance, you must attack depots, troop deployment sites, and enemy columns. However, you will be confronted by anti-aircraft guns of various types: from short and medium-range systems like the Shilka, Gepard, Strela, Osa, FlaRakPz I, Buk, and Hawk, to truly long-range Patriot and S-300P air defense systems.
+<>However, you don’t have to do all the work yourself. Supporting and covering allied ground forces can greatly help hold or successfully attack a section of the front. And we’re not just talking about the usual columns of tanks and cannon artillery! The teams have mobile M270 and Smerch MLRS crews, as well as Lance and Tochka tactical missile systems with cluster warhead missiles, which can reach critical areas from a long range. By taking out the enemy’s long-range artillery systems, you can drastically lower the losses of allied armored vehicles which will significantly aid them in the attack on the enemy positions.
+<> Escalation levels
+<>As the battle progresses, both sides suffer losses, increasing the escalation level. There are three levels in total, and as each level is reached, increasingly powerful nuclear weapons become available.
+<>At the very beginning tactical nuclear weapons are unavailable and the battle is fought with conventional means. However, starting from the first escalation level the conflict reaches the nuclear stage, where for spawn points access is granted to 5 kt bombs, at level two, to 30 kt bombs. At level three, the maximum, access is granted to the B-52H and Tu-95M strategic bombers, with bomb yields of 1.45 Mt and 1.6 Mt respectively.
+<> Airfields
+<>Airfields will become milestones in the advance to victory. Penetrate enemy defenses, destroy smaller enemy airfields and try to reach the main objective — a huge airbase deep within the defensive lines. Its destruction will end the standoff and ensure immediate victory in the mission! Effectively destroying these strategic targets will require the most powerful weapons, so suppress resistance on the ground and deliver strategic nuclear munitions to them!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

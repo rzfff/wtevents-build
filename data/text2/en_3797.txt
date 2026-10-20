@@ -1,0 +1,101 @@
+[Shop] How can you get a Pz.III N? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get a Pz.III N? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+30 June 2016
+Shop
+<>
+Pilots and tankers, we now have new offers for you in the renewed “Warbonds” shop. The beginning of the new month will give you access to new premium vehicles which will be available for the completion of battle tasks.
+In order to receive them, just complete daily Battle tasks in War Thunder battles and earn a special currency - “Warbonds”, which can be used to purchase vehicles previously only obtainable with Golden Eagles!
+Two of the five available vehicles:
+Pz.III N
+Pz.III N - The best tank of the III series, this vehicle not only has a better speed than T-34’s it also features a nice 75mm gun with powerful HEAT ammo! Though the Pz.III N has a short barreled gun it is still a great choice for short distance battles - good reload rate and a fast rotating turret make this tank a very dangerous opponent.
+<> ZUT-37
+ZUT-37 - an Sh-37 autocannon mounted on the chassis of the T-70 makes a nimble and stealthy AA-tank. Only two crew members and a slow rotating turret are the disadvantages, but they are well compensated for with its awesome speed and fast turning chassis.
+<>
+We have also added a box that contains “orders” - you can purchase them with warbonds from now on.
+The current war bonds will not be removed immediately at this time, you will still be able to use them only until the 7th of July for the purchase of some goods in the war bond shop.
+5 different premium vehicles from different nations and other items will be available in the “Warbonds” shop this month:
+<>
+In July for earned war bonds you can obtain:
+Pz.III N;
+Ki-43-II (USA);
+F4U-1a (Japan);
+Zut-37;
+Boomerang Mk.II
+"Tiger" emblem of No. 405th Bomb squadron USAF.
+Decal by Colin 'Fenris' Muir
+Supply boxes (3D decorations - Signs);
+Supply boxes (3D decorations - other);
+Supply boxes containing from 50% to 800% and valid for 1 battle;
+Premium booster +200% for 1 battle;
+Supply box with vehicle rent for 1 to 24 hours for the following vehicles:
+M26E1;
+Yak-3 (VK-107);
+Pz.Bfw.VI (P);
+AC IV Thunderbolt;
+B-17E (Japan).
+Order.
+<>
+<>
+<>
+"Tiger" emblem of No. 405th Bomb squadron USAF. Decal by Colin 'Fenris' Muir
+Battle tasks - these individual tasks bring variety into the gameplay and prevent situations when all the players in a battle try to complete one specific task ignoring mission objectives needed for a victory. They are available for players that have reached the 3rd rank of any nation. For completion, the player will receive Silver Lions and Warbonds - special in-game currency with their own shop, where you can purchase a lot of different items.
+You can read more about battle tasks and war bonds in our devblog .
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

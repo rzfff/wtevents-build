@@ -1,0 +1,88 @@
+[Vday] BM-13N: Say Hello from Katyusha! (updated) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+BM-13N: Say Hello from Katyusha! (updated)
+Attention! Outdated news format. Content may not display correctly.
+5 May 2017
+Vday
+From May 6th 11:00 GMT to May 10th 11:00 GMT
+New event “Rocket launch”
+From 6th of May use the promo code KATYUSHA and activate it on the website
+↓
+When you enter the game you will receive Katyusha’s fellow warrior - the BM-8-24 rocket tank for an hour
+and a special title " Incinerator "
+↓
+During this time destroy 5 enemies (only players controlled vehicles) in one battle in event, whilst driving the BM-8-24.
+↓
+Receive your Katyusha for completing the task!
+You already own the BM-8-24? Just win one game in event
+↓
+Receive your Katyusha for completing the task!
+<>You may activate the code once every 24 hours (between 11:00 GMT and 11:00 GMT on the following day). You will be able to activate the code a total of 4 times.
+<>The BM-8-24 as well as other vehicles from the Allies will be available at a 30% discount during the whole event!
+<> NEW! New event for the BM-8-24 only. You have two spawns available even if you don’t have any backups. The event will be available in AB and RB.
+<>Attention! Only players, who have reached rank 3 in any nation may participate
+<>Special conditions may be changed!
+A terrifying howl, the smoke trails of dozens of rockets and an ocean of fire in which enemy troops and fortifications drown. This became one of the most vivid symbols of WW2. German troops nicknamed the BM-13 rocket launcher “Stalin’s organ”, while the Red Army affectionately named it Katyusha. In honour of the 72nd anniversary of victory in the WW2, we are proud to present the legendary Katyusha in War Thunder!
+Historical Note ▼
+From the first large battles of WW2, the experience of using rocket artillery showed that the BM-13 Katyusha vehicles were highly effective in destroying enemy ground troops and vehicles. The high shell spread rate was compensated for by each launcher’s high rate of fire and the practice of using Katyushas only in an artillery battery, provided a high density of fire over a large area. In addition, the characteristic howl as the shells launched during massed fire, along with the explosions and destruction that the BM-13 launchers dished out, had a significant psychological effect on enemy soldiers. In short, the Katyusha was a magnificent weapon and its battle career took it all the way from the summer of 1941 to Berlin itself.
+Throughout its service, engineers tried to improve the rocket launcher’s design, increase its accuracy and volley power, and adapt the Katyusha design for use on various platforms. Thus appeared torpedo boats with Katyusha launchers (for example, Project 1124 ), the launchers were even mounted on tanks (the BM-8-24 familiar to our players). Experiments were also done on a classic Katyusha on a truck chassis. This is because a factory evacuation in 1941 put a stop to the manufacture of the ZIS-6 trucks for which the multiple rocket launcher system was designed. At the same time, as part of the lend-lease program, the USSR began to mobilize the fairly reasonable American Studebaker US6 trucks. It was these very trucks that were chosen as bases for the rocket launchers, for which the design of the platform and the launcher system itself required specific changes. The vehicle received the designation BM-13N. In total, over 1,800 Katyushas were built on the Studebaker chassis. It was in this form that the Katyusha was produced until the end of the war. This Soviet rocket launcher on an American chassis took part in all offensive operations from 1943 to 1945. It’s a true weapon of victory!
+<>
+In our game, the BM-13N Katyusha is a collectible vehicle at rank II in the Soviet ground vehicle tech tree. Because it was possible to hit targets at distances of several hundred meters even with a fully lowered frame with launchers for 16 rockets, the player must fight at very long ranges. In addition, the vehicle has its specifics – only two crew members fit into the Studebaker cabin. So the correct tactic whilst driving a Katyusha is to engage the enemy from a long range using cover - the powerful rockets will do the rest. All the remaining rocket loading is done from outside the vehicle. In short, playing on the Katyusha in War Thunder battles isn’t easy, but this wonderful machine will be a true jewel in the hangar of any collector!
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

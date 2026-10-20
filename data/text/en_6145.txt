@@ -1,0 +1,139 @@
+[Special] Battlefield Engineer! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Battlefield Engineer!
+Attention! Outdated news format. Content may not display correctly.
+11 April 2019
+Special
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>From April 11th 11:00 GMT until April 22nd 11:00 GMT
+<>Restore the rare fighter - the I-180S and trade it for the VFW SPG, Pr.122bis submarine chaser, the Ju 388 J interceptor, the Merkava Mk.1 MBT or the light cruiser HMS Tiger .
+<>Warriors!
+<>We managed to recapture an aircraft building facility that does not appear on any of the maps. There we discovered a very interesting I-180S fighter. We should move them back to the home front, but the railways are still controlled by our enemy. So the only option is to restore them and transport them under their own power!
+<>Rewards in the special
+<>I-180S - Rank II Premium Aircraft (USSR)
+<>VFW - Rank III Premium Vehicle (Germany)
+<>Project 122bis - Rank II Premium Vessel (USSR)
+<>Ju 388 J - Rank IV Premium Aircraft (Germany)
+<>Merkava Mk.1 - Rank VI Event Vehicle (USA)
+<>HMS Tiger - Rank IV Event Vessel (Britain)
+<>I-180S — is an extremely valuable machine, you may of course leave an operational vehicle for yourself, and also trade a coupon on the Market or trade it for the vehicle you personally prefer.
+<>You will receive a damaged I-180S after the first battle which you will be able to begin repairing. The first fully restored aircraft can be traded for the I-180S coupon.
+<>The initial assembled I-180S fighter will be available as a I-180S coupon.
+<>The second and further I-180S fighters will be received as Vouchers. 1 Voucher for one fighter.
+<>A I-180S coupon can be traded for either the VFW or Project 122bis coupon.
+<>1 Voucher can be traded for a I-180S, a VFW or the Project 122bis coupon.
+<>2 Vouchers can be traded for one of the following coupons: The Ju 388 J , a Merkava Mk.1 or HMS Tiger.
+Here is an instruction on how to receive rare vehicle “Coupons” and trading “Vouchers” for “Coupons” ▼
+<>Aircraft diagnostics
+<>The first step in repairing your aircraft is diagnosing the vehicle in a diagnostic test flight where you will be able to see the defective components so that you can concentrate on replacing them. The damage to the components is unique for each aircraft and in most cases they can be indicated by visual inspection. Armament, flaps, brakes - these and other components can be tested in a diagnostic flight.
+<>At an airbase you will receive a toolkit for the I-180S assembly, which contains a non-functional aircraft that requires a diagnostic test flight. After the diagnostic flight, you will be able to choose a list of possible aircraft defects . For each correct guess, you will receive two extra Technician Toolkits.
+<>Be careful, you can choose a list of defects only once for each non-functional aircraft. You can choose lists of defects only during the first three assemblies on your account. After that, you will be unable to receive additional Technician Toolkits and you will have to start disassembling an aircraft.
+<>Once you find the defects, you may disassemble the aircraft using Technician Toolkits and start repairing it.
+<>Aircraft repair
+<>Your task is simple - define all defective components and replace them with new ones. Using functional components, assemble all parts of the fighter into a complete aircraft.
+<>Only a fully repaired I-180S will be able to move to the home front under its own power and bring you your reward!
+<> I-180S (non-functional) - your aircraft that needs repairs. Can be sent on a diagnostic flight and subsequently disassembled into parts.
+<> Parts - are units of a fighter aircraft (like wings, fuselage etc.) that can be disassembled into components if they should be replaced. They cannot be purchased on the Market.
+<> Components - are elements of the aircraft units (Parts) that may be defective. If a Component is defective you should get a new one in battle or purchase it on the Market. If a Component is functional you can use it to assemble Parts.
+<> Aircraft Maintenance Technician Toolkits - are the expendable tools that are used for examining Components, Parts, assembling and disassembling. Can be received in battle, after disassembling defective components or purchased on the Market.
+<>Spare Aircraft Maintenance Technician Toolkits and new Components can be traded on the Market, you might as well purchase the missing ones.
+<>It is not necessary to use the Market to assemble an aircraft - you can do it all on your own.
+<>Extra rewards for the top performing players
+<>The more efficient players will be able to assemble their vehicles 80% faster (it’s an average for all War Thunder game modes, including trading spare Aircraft Maintenance Technician Toolkits on the Market and purchasing new components for the GaijinCoins you received)! You will need to meet some further requirements: be the first in the team at the end of a battle and you will receive an extra trophy that contains between one and three, and in rare cases - 10 Aircraft Maintenance Technician Toolkits. Occasionally you will be able to receive a coupon for a unique camo for one of the Special’s vehicles. You can either activate it or trade it on the Market.
+<>I-180S: Standard summer camouflage
+<>Pr.122bis: Disrupting camouflage of the USSR patrol fleet
+<>VFW: Late three-colour spotted summer camouflage
+<>Ju 388 J: Two-colour camouflage (RLM 75 / RLM 77) Germany, 1945
+<>HMS Tiger: Disrupting camouflage of the British Royal Navy
+<>Merkava Mk.1: Experimental three-colour camouflage of the Israeli armoured forces
+<>Terms
+<>You are guaranteed to receive a non-functional I-180S and Aircraft Maintenance Technician Toolkits if you take part in rank 2 or higher battles with a battle activity of at least 50%.
+<>The items in the special can be gained in the following game modes:
+<>Arcade ground battles
+<>Realistic ground battles
+<>Simulator ground battles
+<>Arcade air battles
+<>Realistic air battles
+<>Arcade naval battles
+<>Realistic naval battles
+<>For every 10 minutes you spend in a battle you receive a special crate that contains from 1 to 3 Aircraft Maintenance Technician Toolkits. Occasionally, 10 kits may be received if player is very lucky. Any extra time you spend in battle will not be removed from your progress and will be taken into account in the next battle. For example, if you spend 23 minutes in a battle you are guaranteed to receive 2 trophies and 3 minutes will be added to the time you spend in the next battle.
+<>After the end of a battle, players who took first place in any competing team receive an additional trophy that contains one of the following items:
+<>1-3 Aircraft Maintenance Technician Toolkits;
+<>10 Aircraft Maintenance Technician Toolkits;
+<>A coupon for a special event vehicle camo.
+<>It takes about 13-15 hours of the time in the game to assemble a complete I-180S.
+<>New components can be gained in rank 2 or higher battles with a battle activity of at least 50% or they can be purchased on the Market.
+<>Examination, assembly and disassembly take some time.
+<>An option to trade items on the Market is shown in their description.
+<>To repair the second and any subsequent vehicles you may need more rare “New Components”.
+<>You can gain the items in battle from April 11th till April 22nd.
+<>From April 22nd till april 29th you can either assemble the I-180S using the Market or trade any unused items for Warbonds.
+<>On the 29th of April all the items in this special except vehicle coupons and camouflages will be removed from your inventory.
+PlayStation 4® and Xbox One players’ options ▼
+<>You can purchase a “I-180S Aircraft Recovery Manual”
+<>Owners of the “I-180S Aircraft Recovery Manual” can receive “Aircraft Designer Toolkits” in battles for up to two hours after purchase. Using these Toolkits the players will be able to craft “new Components” thus significantly boosting the I-180S assembly progress.
+<>Headquarters — trade options
+<>You may also trade 3 “Aircraft Designer Toolkits” for any “new Component” in the Headquarters.
+<>You can trade coupons of the very rare (Ju 388 J, HMS Tiger, Merkava Mk.1) vehicles camouflages for the rare (I-180S, Pr.122bis, VFW) vehicles camouflages, or 5 Technician Toolkits;
+<>A coupon for the rare vehicles (I-180S, Pr.122bis, VFW) camouflage can be traded for a similar coupon for any other rare vehicle or 5 Technician Toolkits.
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

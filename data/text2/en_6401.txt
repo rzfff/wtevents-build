@@ -1,0 +1,97 @@
+[Event] Naval Enduring Confrontation - La Manche (RB) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Naval Enduring Confrontation - La Manche (RB)
+Attention! Outdated news format. Content may not display correctly.
+27 September 2019
+Event
+<>We invite you to take part in the naval forces Enduring Confrontation event, which will allow you to experience naval scenarios which you may already be familiar with if you’ve participated in aircraft Enduring Confrontation events.
+<>From 13:00 GMT on the 27th of September until 07:00 GMT on the 30th of September
+<>[Enduring Confrontation] La Manche (RB)
+<>The event end time may be subject to change. Costs for respawning, and awards, may also be changed over the event period.
+<>In naval Enduring Confrontation, battles will be held around ports which are involved in the key objectives of the mission. Teams will receive points for capturing and holding the ports, and also for completing other mission tasks. The team which reaches 150,000 points first wins.
+<>Required vehicles in setup: Fleet of BR 3.7 - 4.3
+<>Acceptable vehicles in setup: Fleet and aircraft of BR 1.0 - 5.7
+<>The number of respawns is not limited and you can respawn with the same vehicle multiple times, but every respawn will cost Silver Lions depending on the repair cost of the vehicle. Aircraft fly outs require a fixed amount of available respawn points and depend on the class of the aircraft or the presence of suspended weaponry on a fighter. Respawns in ships with a BR of 4.7 and higher require respawn points depending on the BR.
+<>Thank you for all the feedback and suggestions submitted on the last session.
+<>Changes from the previous launch:
+<>The mission is available in the RB game mode. Reloading and repairing ships is available in the ports. Reloading and repairing aircraft is available only at allied airfields.
+<>Repair and reloading mechanics for hydroplanes and seaplanes at allied ports is under development and isn’t currently available in the missions.
+<>The respawn costs for fighters have been reduced. The respawn costs for bombers have been increased. Fighters with suspended weaponry have been equated to bombers in terms of cost of respawn.
+<>The following logic will be applied to port capture: At the beginning of the port capture by the enemy team it will lose respawn points. After this, there are two possible options available.
+<>If the enemy team captures the port, after a certain time the will be enemy respawn available points on it.
+<>If enemy team didn’t capture the port and the point remains neutral then after a specific time, respawn points for the team which owned the port last will appear.
+<>A bug has been fixed where capturing the enemy port did not disable the respawn for the enemy team in that port, this made capturing almost impossible.
+<>A bug has been fixed where after a successful capture of the port, the team that captured it has no respawn points for it or just loses respawn points after some time.
+<>Air respawn points for friendly and hostile convoys have been removed.
+<>Respawn points for players at the edges of the map have been replaced so that they won’t overlap with the respawn points of convoys.
+<>Convoy paths have been fixed so as to prevent abrupt ship maneuvers right at the start.
+<>The possibility to split port respawn points into two parts has been added for destroyers, boats and cruisers. Cruisers will respawn in the deeper areas of the port area, destroyers and boats at the very edge.
+<>In the Enduring Confrontation mission “La Manche” (aircraft and naval version) all the existing scenarios, such as front line, ground battles etc have been activated (except ground convoys).
+<>In the Enduring Confrontation mission “La Manche” (aircraft and naval version), when capturing the enemy port, the square on the map in which the port is located will be considered captured, with the front line accordingly appearing.
+<>The formation of the front line will now take into account the sea coast, and it will no longer be formed within the sea.
+Available scenarios (click to unfold) ▼
+<>Naval convoys
+<>New scenario for Enduring Confrontation: naval convoys. On the map border, naval convoys will appear which will move towards the sea ports of their respective team. Whilst the convoy is active, the allied team has additional respawn points close to it. The enemy team will also have respawn points at a distance from the convoy. The number of ships in the convoy depends on the number of players in the game session and on the port size where the convoy is attempting to reach.
+<>Port attack
+<>New scenario for Enduring Confrontation: port attack. Each team will have 3 ports at the start of the mission. Each port has several AI ships which will defend the base. Each port is immediately available for players to capture and there are no additional tasks for capturing the ports. If the convoy from the “naval convoy” scenario reaches its port it is very likely that the AI ships from this port will attack one of the enemy ports and the players will receive additional points for helping them to capture enemy port.
+<>Naval bombers
+<>In case there is an active naval convoy on the map the enemy team may have a bomber which will attack and destroy the convoy. The entire logic of the scenario is working in the same way as for ordinary bombers attacking ground bases, but now their targets are convoy ships.
+<>Don't forget to leave feedback in comments section below!
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,92 @@
+[Event] Dreams Come True: TOG II - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Dreams Come True: TOG II
+31 October 2023
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>The TOG II is a British prototype super-heavy tank that was developed at the start of World War II. The TOG II was developed by “The Old Gang” — a committee set up by the same members who created tanks of the First World War. This long-awaited “land battleship” comes to War Thunder as part of the game’s 11th Anniversary. Play to get it as well as other cool prizes!
+<> When: From November 1st (11:00 GMT) until November 13th (11:00 GMT): Earn points in battles, unlock stages and receive prizes!
+<> TOG II — A Premium Rank III for Britain.
+<>The grand prize for this event! Complete 6 stages and it will be yours forever.
+<> Decals and Decorations!
+<>You can also earn the following decals and decorations for stages 1 to 5.
+“Death Valley”
+decoration
+“Colt–Browning M1895” decoration
+<>
+<>
+<>
+Special decals
+<>How to get prizes
+<>Each stage will be unlocked for 35,000 mission points and will bring a new reward.
+<>You can get mission points in ground battles with rank III or above in AB, RB and SB game modes. The number of mission points for completing a task depends on the game mode and the maximum rank if the vehicle used in the battle. The multiplier for earning points is specified in the mission description.
+<>You can also get points by using any event vehicles of rank I-II. Such vehicles have the name of the event in which it was obtained in the vehicle card.
+<>Stages change every two days at 11:00 GMT: November 3rd, 5th, 7th, 9th, 11th.
+<>Rewards will be given for certain number of completed stages:
+For 1 stage: “T.O.G. No. 2” decal.
+For 2 stages: one of the decal prizes.
+For 3 stages: one of the decorator prizes.
+For 4 stages: one of the decal prizes.
+For 5 stages: one of the decorator prizes.
+For 6 stages: the TOG II Premium.
+<>You can track the progress of the challenge by clicking on your nickname and selecting the menu ”Achievements → Dreams Come True”. If you didn’t finish the stage in time until 16th of November you will be able to purchase passing stages for Golden Eagles in the achievement window and get corresponding prizes.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

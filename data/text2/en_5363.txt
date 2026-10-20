@@ -1,0 +1,118 @@
+[Event] "Total Domination" and "Enduring Confrontation" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+"Total Domination" and "Enduring Confrontation"
+Attention! Outdated news format. Content may not display correctly.
+2 March 2018
+Event
+<>From 2nd of March 15:00 GMT to 5th of March 07:00 GMT
+<>We noticed that you liked the variety of events for the weekend. Let's not limit ourselves in the first days of spring!
+<>“Total domination”
+<>Only team work! In this event on the locations “Advance to the Rhine”, “Berlin” and “Abandoned Factory” your team will need to take a control over 2 points at the same time and hold them for 15 seconds to win in one of several rounds. Seems to be easy but without your teammates and organized work it will be hard to win.
+<>Event features:
+<>Rounds will be solved in one mission;
+<>Point will be captured only if there are no enemies inside;
+<>You will be able to participate on any vehicles of rank III and higher of any nation;
+<>Event will be available in AB and RB game modes in 8 vs 8 battles.
+<>“Enduring Confrontation” Ruhr
+<>Classical confrontation in aircraft RB with fixed setups.
+<>Award for the battle will be given out at the end of the battle. It will also be possible to perform achievements in the event from now on - for example, to receive camouflages.
+Available vehicles ▼
+<>Britain and USA:
+<>P-47D-25
+<>P-47D-28
+<>P-47M-1-RE
+<>P-51D-5
+<>P-51D-10
+<>P-51D-20 NA
+<>B-25J-20
+<>B-17E/L
+<>B-17G-60-VE
+<>Spitfire LF. Mk.IXc
+<>Spitfire F. Mk.IX
+<>Spitfire LF. Mk.IX
+<>Spitfire LF. Mk.IXc
+<>Spitfire F. Mk.XVI
+<>Spitfire FR Mk.XIVe
+<>Tempest Mk.V
+<>Typhoon Mk.Ib
+<>Typhoon Mk.Ib/L
+<>Lancaster B Mk.I
+<>Lancaster B Mk.III
+<>Germany:
+<>Bf 109G-10
+<>Bf 109G-14
+<>Bf 109K-4
+<>Fw 190F-8
+<>Fw 190A-8
+<>Fw 190D-9
+<>Fw 190D-12
+<>Fw 190D-13
+<>Ta 152H-1
+<>Me 410A-1
+<>Me 410A-1/U2
+<>Me 410A-1/U4
+<>Me 410B-1
+<>Me 410B-1/U2
+<>Me 410B-2/U4
+<>Me 410B-6/R3
+<>Do 217K-1
+<>Do 217M-1
+<>Combined Simulator Battles
+<>From realism to simulator. We continue to test respawn score mechanics in Simulator Battles. Now we will start setup 3.1 in this game mode without markers.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

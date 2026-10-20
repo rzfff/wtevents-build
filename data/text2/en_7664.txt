@@ -1,0 +1,120 @@
+[Event] Pages of History (May) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (May)
+Attention! Outdated news format. Content may not display correctly.
+28 April 2022
+Event
+<>For the whole month you will have 8 tasks available to you one by one. Completion of each task will bring you a trophy with a reward and completion of all of them will bring a unique in-game player icon.
+<>A detailed description of the task for current game and your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>Mikhail Yegorov was a Red Army sergeant that participated in the Battle for Berlin. He, along with Meliton Kantaria, raised the Soviet Flag over the Reichstag: first at the main entrance of the building, and later on its roof for the famous photo.
+Mikhail Yegorov
+<>You may immediately purchase the profile icon for Golden Eagles until June 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (May)
+<>Trophy with a reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles
+20-50% SL booster for 3-10 battles
+3-5 universal backup vehicles
+1 day premium account
+Random camouflage for ground vehicles from among those available to obtain in the game through achievements or purchase for Golden Eagles.
+<>May 1st — May 4th
+Battle of the Coral Sea
+<>One of the most important battles in the history of naval warfare occurred in early May of 1942. The Battle of the Coral Sea was the first air-naval battle in history, as none of the carriers fired at each other. As a result, Japan had sunk more ships, but the Allies managed to halt a major Japanese offensive for the first time in World War II.
+<>May 4th — May 7th
+P-47 first flight
+<>The P-47 Thunderbolt fighter first took flight on May 6th, 1941. Nicknamed "Jug" for its appearance, it was one of the heaviest and most powerful aircraft of the World War II era. The P-47 was successful in both air combat and ground assault; it was widely used in European and Pacific theaters of World War II and also by the USSR through the lend-lease program.
+<>May 7th — May 10th
+The end of the Great Patriotic War
+<>Victory! The Red Army repelled the Axis powers for four long years: it defended Moscow, took back Stalingrad, reclaimed the initiative at Kursk, and then kicked the invaders out and chased them all the way to Berlin. The German Instrument of Surrender marked the end of the Great Patriotic War — the hardest in the entire history of the USSR and Russia.
+<>May 10th — May 13th
+Operation Diadem
+<>To Rome! Beginning in early 1944, the Allies had tried to breach the Gustav Line whilst taking heavy casualties. The fourth attempt, called Operation Diadem, began May 11th and turned out to be successful, opening the path towards the capital of Italy.
+<>May 13th — May 16th
+The end of the Tunisian campaign
+<>The North African campaign that lasted for almost three years had been put to an end in Tunisia. By May 13th, 1943 over 200,000 German and Italian soldiers had surrendered to the Allied forces, allowing them to turn to Sicily and later continental Italy.
+<>May 18th — May 21st
+Creation of the North Caucasian Front
+<>The North Caucasian Front was created by the USSR on May 20th, 1942 to defend The Azov and Black sea coastlines. Led by Marshal Semyon Budenny, the North Caucasian Front was fought in the Stavropol and Krasnodar regions, stopping the invading forces from crossing the Caucasus mountain range.
+<>May 22nd — May 25th
+Battle of Boulogne
+<>During the Battle for France, German forces surrounded the Allies in the town of Boulogne-sur-Mer, forcing them to defend themselves. Poor communication between the Allies led to a large number of British troops evacuating by sea, abandoning the Welsh Guards and surprising the French. Nevertheless, the defense of Boulogne had delayed the German advance towards Dunkirk, where the mass evacuation of Allied troops took place.
+<>May 27th — May 30th
+Bf 109 first flight
+<>The Messerschmitt Bf 109, a legendary fighter aircraft, took to the air for the first time on May 28th, 1935. It soon became the most mass-produced German aircraft. It was used by numerous aces of World War II: from Günther Rall to Erich Hartmann, the most successful fighter ace in history. Even with the advent of jet aircraft, the Bf 109 remained popular: the Spanish Air Force continued to use it until late in 1965.
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

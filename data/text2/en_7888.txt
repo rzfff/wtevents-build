@@ -1,0 +1,120 @@
+[Event] Pages of History (October) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (October)
+Attention! Outdated news format. Content may not display correctly.
+26 September 2022
+Event
+<>For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon.
+<>A detailed description of the current task as well as your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>During the Yom Kippur War he commanded Israel's 7th Armored Brigade that held off the Syrian advance on the Golan Heights. Ben-Gal had foreseen the war two weeks before it started and began to prepare his brigade despite being laughed at. As a result the 7th Armored Brigade was the only unit in the state of full readiness at the start of the war. Their heroism and Ben-Gal's leadership were instrumental in ensuring Israel's victory over Syria.
+Avigdor Ben-Gal
+<>You can immediately purchase the profile icon for Golden Eagles until November 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (October).
+<>Trophy with a reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>October 2 — October 5
+Volturno Line
+<>The Volturno Line was the southernmost of the German lines of defense in Italy that were set up after the Allies landed there in 1943. On the night of October 3rd the British infantry forces crossed the Volturno line by landing on the northern side of the Biferno river. However, they were left without any vehicle support and had to desperately defend themselves until noon of October 5th, when their engineers managed to finally complete the bridge across Biferno. After that the Allies began their offensive, and the Wehrmacht abandoned the Volturno line.
+<>October 6 — October 9
+Valley of Tears
+<>The name "Valley of Tears" was given to the place of a huge scale tank battle between Israel and Syria during the Yom Kippur War of 1973. A single Israeli brigade held off an advance of an entire Syrian division, having destroyed several hundred tanks during a four-day defense. When Israel's strength was all but depleted, the Syrian forces withdrew.
+<>October 10— October 13
+Battle of Cape Esperance
+<>On the night of October 11th, 1942, an American unit patrolling near cape Esperance of Guadalcanal intercepted Japanese forces en route to shell the Henderson Field airfield. Americans took the Japanese by surprise and forced them to retreat, but couldn't stop them from unloading supplies. Two days later Henderson Field was destroyed by Japanese bombardment.
+<>October 14— October 16
+Battle of the Chinese Farm
+<>From October 15th until October 18th, 1973, the bloodiest battle of the Yom Kippur War was fought on the eastern bank of the Suez Canal. The Israeli forces wanted to cross the canal, but were met with fierce resistance from Egypt. Both sides suffered heavy losses, until Israel used the entire might of its Air Force to support the ground units, and sent a battalion of paratroopers to distract the enemy from the rear. The namesake of the battle was an irrigation station that the Egyptians held: the Israelis mistook the Japanese writing on the machinery there for Chinese characters.
+<>October 16th — October 19th
+Tikhvin Defensive Operation
+<>On October 16th, 1941, the Tikhvin Defensive Operation began. Its aim was to stop the eastward advance of the Wehrmacht in the Leningrad Oblast. Despite the Germans taking Tikhvin and thus severing the railway supply route to Leningrad, the operation was a success: the Soviet forces stopped the Germans from reaching their Finnish allies and completing the blockade of the city.
+<>October 20— October 23
+Second Battle of El Alamein
+<>On the night of October 23rd, 1942, the British and Commonwealth forces that had until then been defending on the North African front went on the offensive. Thanks to their deceptive maneuvers, field marshal Rommel couldn't figure out the direction from which the attack would take place and had spread his forces. The Allies had superiority in numbers, and so the Axis powers lost most of their vehicles in the battle and were forced to retreat from Egypt all the way to Tunisia.
+<>October 24— October 27
+P-51 first flight
+<>On October 15th, 1940, the first prototype of the P-51 Mustang, the first airplane with laminar flow airfoils, took flight. These single-seat fighter planes were widely used by Great Britain and the USA during WWII and Korean War, and by Israel during the Suez Crisis.
+<>October 28— October 31
+Budapest operation
+<>October 29, 1944, saw the beginning of the Soviet operation to remove Hungary from WWII. Fierce fighting for Budapest lasted for three and a half months and ended with Soviet victory. Germany sent lots of reinforcements into Budapest, and that helped the Red Army advance faster during the Vistula–Oder offensive.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

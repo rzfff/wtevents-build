@@ -1,0 +1,245 @@
+{
+ "results": [
+  {
+   "key": "2018_silent_thunder",
+   "start_override": "2018-03-31T12:00:00Z",
+   "end": "2018-04-03T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "The test session will be held from 12:00 GMT on March 31st until 12:00 GMT on April 3rd",
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "全员开放测试:3月31日12:00 GMT起在Spitzbergen海域驾驶美英俄核潜艇(亚森/前卫/弗吉尼亚级)争夺战略区域,占领后发射巡航/弹道导弹;从机库加入",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "官网页面日期为2018-01-01,实际测试窗口为3月31日至4月3日(骨架start=2018-04-01,正文更精确)"
+  },
+  {
+   "key": "2017_rank_ix",
+   "start_override": "2017-03-31T17:00:00Z",
+   "end": "2017-04-03T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 17:00 GMT on the 31st of March till 07:00 GMT on the 3rd of April",
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "公开测试:从机库加入特殊事件,试驾IX级载具(豹2A5、T-90A、Mi-35、GM-64直升机),地图为中东/西奈/废弃工厂",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": ""
+  },
+  {
+   "key": "2016_sailing_fleet",
+   "start_override": null,
+   "end": null,
+   "end_precision": null,
+   "end_raw": null,
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "街机模式「事件」标签进入风帆舰队首次公开测试,试驾皇家海军风帆战舰科技树:Golden Hind、HMS Victory、HMS Shah、HMS Warrior等",
+   "sub_events": [],
+   "confidence": 0.8,
+   "notes": "本文为活动结束通告(2016-04-01发布),正文无活动起止时间"
+  },
+  {
+   "key": "2015_march_to_victory",
+   "start_override": null,
+   "end": null,
+   "end_precision": null,
+   "end_raw": null,
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "通过「事件」菜单加入,以美/苏/德任意队列排队;ST-1行走坦克加入三国阵容,官方称需在战斗中证明自己以赢得驾驶资格",
+   "sub_events": [],
+   "confidence": 0.85,
+   "notes": ""
+  },
+  {
+   "key": "2015_unrealistic_battles",
+   "start_override": null,
+   "end": null,
+   "end_precision": null,
+   "end_raw": null,
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "「事件」标签加入,阵容不限;试驾SPS-255特种谢尔曼(极速10km/h、橡胶装甲、血条机制),体验恶搞版简化战斗",
+   "sub_events": [],
+   "confidence": 0.85,
+   "notes": ""
+  },
+  {
+   "key": "2014_gaijilla",
+   "start_override": null,
+   "end": null,
+   "end_precision": null,
+   "end_raw": null,
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "安装Dev服务器客户端后,在街机模式使用日本实验级巨型怪兽Gaijilla GD-11a参战",
+   "sub_events": [],
+   "confidence": 0.8,
+   "notes": "活动位于开发服务器(Dev server),正文无活动起止时间"
+  },
+  {
+   "key": "2013_little_ponies_in_the_sky",
+   "start_override": null,
+   "end": null,
+   "end_precision": null,
+   "end_raw": null,
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "2013年4月1日全球更新加入小马阵营:黄/白/紫/粉/橙/蓝六种小马带专属武器,机库内直接可用,街机空战模式飞行",
+   "sub_events": [],
+   "confidence": 0.85,
+   "notes": ""
+  },
+  {
+   "key": "2026_legend_of_victory_kv_8",
+   "start_override": "2026-05-06T11:00:00Z",
+   "end": "2026-05-18T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From May 6th (11:00 GMT) until May 18th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "胜利传奇：KV-8",
+   "zh_id": 2585,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」(Upgrade for coupon)道具有效期,逾期从库存删除",
+     "when": "2026-05-22T11:00:00Z"
+    },
+    {
+     "what": "金鹰购买未完成阶段截止(成就界面)",
+     "when": "2026-05-22T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "未完成阶段金鹰购买:85%进度半价,95%进度降至1/5",
+     "percent": null,
+     "note": "动态折扣;示例:26000/30000分=299金鹰,29000分=119金鹰"
+    }
+   ],
+   "tasks": "陆战街机/历史/全真III级以上(或I-II级活动载具)赚任务分,每阶段30000分,共6阶段,每2天刷新(5月8-16日11:00 GMT);2/4阶段贴花,5阶段FOG-2挂件,6阶段KV-8兑换券;奖励在成就页手动领取",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "zh文号2585为同活动中文公告(北京时间19:00=11:00 GMT互证);2586为配套开发日志"
+  },
+  {
+   "key": "2025_legend_of_victory_t_34_85_partisan",
+   "start_override": "2025-05-08T11:00:00Z",
+   "end": "2025-05-20T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From May 8th (11:00 GMT) until May 20th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "胜利传奇：T-34-85“游击队员”号车登场！",
+   "zh_id": 2071,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」(Upgrade for coupon)道具有效期,逾期从库存删除",
+     "when": "2025-05-23T11:00:00Z"
+    },
+    {
+     "what": "金鹰购买未完成阶段截止(成就界面)",
+     "when": "2025-05-23T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "未完成阶段金鹰购买:85%进度半价,95%进度降至1/5",
+     "percent": null,
+     "note": "动态折扣;示例:30000/35000分=349金鹰,33500分=139金鹰"
+    }
+   ],
+   "tasks": "陆战III级以上(或活动载具)赚任务分,每阶段35000分,共6阶段,每2天刷新(5月10-18日11:00 GMT);2/4阶段贴花,5阶段布拉日尼科夫头像,6阶段T-34-85兑换券;奖励手动领取",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "官方预告:研发树现有T-34-85将移至III级,IV级将新增带“撞锤”稳定器的新T-34-85,T-34-85E保持IV级不变"
+  },
+  {
+   "key": "2025_dreams_come_true_xf5u",
+   "start_override": "2025-10-31T11:00:00Z",
+   "end": "2025-11-14T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From October 31st (11:00 GMT) until November 14th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {
+     "what": "金鹰购买未完成阶段截止(成就界面,原文未给时刻)",
+     "when": "2025-11-17"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "未完成阶段金鹰购买:85%进度半价,95%进度降至1/5",
+     "percent": null,
+     "note": "动态折扣;示例:30000/35000分=499金鹰,33500分=199金鹰"
+    }
+   ],
+   "tasks": "空战III级以上(或活动载具)赚任务分,每阶段35000分,共7阶段,每2天刷新(11月2-12日11:00 GMT);1/3阶段贴花,2阶段头像框,4阶段背景,5阶段加载画面,6阶段XF5U,7阶段专属迷彩;奖励手动领取",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "3个中文候选均非本活动(2344=万圣节装饰/竞速活动,2345=鹰200开发日志,2347=13周年折扣),故name_zh留空;同期万圣节活动(10/24-11/3)与本活动并行"
+  },
+  {
+   "key": "2024_dreams_come_true_kv_7",
+   "start_override": "2024-11-01T11:00:00Z",
+   "end": "2024-11-13T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From November 1st (11:00 GMT) until November 13th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "梦想成真：KV-7",
+   "zh_id": 1795,
+   "deadlines": [
+    {
+     "what": "金鹰购买未完成阶段截止(成就界面,原文未给时刻)",
+     "when": "2024-11-18"
+    }
+   ],
+   "discounts": [],
+   "tasks": "战争雷霆12周年活动:陆战III级以上(或活动载具)赚任务分,每阶段35000分,共6阶段,每2天刷新(11月3-11日11:00 GMT);1/3宝箱,2/4贴花,5阶段挂件,6阶段KV-7;奖励手动领取",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "zh文号1795为同活动中文公告;本文无金鹰阶段折扣定价示例,仅可金鹰补购"
+  },
+  {
+   "key": "2023_dreams_come_true_tog_ii",
+   "start_override": null,
+   "end": null,
+   "end_precision": null,
+   "end_raw": null,
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "开发公告:TOG II为游戏11周年「Dreams Come True」活动奖励,参与活动完成6个阶段即永久获得;活动细节见文内链接的另一篇文章",
+   "sub_events": [],
+   "confidence": 0.7,
+   "notes": "正文无活动起止时间,活动细节在外链文章;无中文候选文"
+  }
+ ]
+}

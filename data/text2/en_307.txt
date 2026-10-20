@@ -1,0 +1,100 @@
+[SPECIAL]: 90th anniversary of Focke-Wulf - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+: 90th anniversary of Focke-Wulf
+Attention! Outdated news format. Content may not display correctly.
+24 October 2013
+SPECIAL
+From October 24th 15:00 GMT (08:00 PDT) to October 25th 15:00 GMT (08:00 PDT) War Thunder presents special discounts for fighters of FW series:
+10% special discount for following aircraft purchase prices:
+FW 190 A-5, FW 190 A-5/U2, FW 190 F-8, FW 190 D-12, Ta 152 H-1
+<>
+Focke-Wulf
+<>
+The company was founded in Bremen, Germany on the 24th October 1923 as Bremer Flugzeugbau AG by Heinrich Focke and Georg Wulf, not long after this, they formalized their association on the 1st of January, 1924 with the creation of Focke-Wulf Flugzeugbau AG.
+<>
+Financial support followed the success of the A7 Storch two-seater, which was flown in November 1921. Unfortunately, Wulf was killed on the 29th of September, 1927 test flying the F-19 Ente canard.
+<>
+In 1931 the company acquired the license to build the Cierva C.19 Mk IV autogiro. Focke, from that point, concentrated on rotary-wing design and testing, fixed-wing design was entrusted to Kurt Tank as government pressure forced a merger with Albatros-Flugzeugwerke of Berlin in 1931 where Albatros-Flugzeugwerke Kurt Tank was an engineer and test pilot. Kurt Tank became head of the technical department and started work on the Fw 44 Stieglitz (Goldfinch). Focke resigned to form Focke-Achgelis, Tank was appointed technical director.
+<>
+The company were reorganized in June 1936 as GmbH under control of AEG. Focke-Wulf ceased operations in 1945 at the end of the war; they reformed in 1951 and combined with Weser Flugzeugbau to form Vereinigte Flugzeugtechnische Werke.
+<>
+Throughout its engineering history, Focke-Wulf produced many and varied high quality aircraft. The First company design was the A16 commercial transport aircraft, followed by the A17, the more powerful 650 hp BMW Vl-powered the A 29 and the A 38 airliners. A design for the S 24 Kiebitz two-seat trainer won the 1931 German Aerobatic Championship flown by Gerd Achgelis, who conducted a maiden flight of Fw 44 Stieglitz trainer late in the summer of 1932, which was widely used by the fledgling Luftwaffe and by European and South American countries.
+<>
+The First Tank design produced in any numbers (approximately 1,000) was the Fw 56 Stosser fighter/dive-bomber and advanced trainer, this was followed in 1935 by Fw 58 Weihe communications aircraft/crew trainer and in 1938 the Fw 189 reconnaissance aircraft was created. The Fw 200 Condor airliner was flown in July 1937, which developed into the Fw 200C long-range reconnaissance aircraft.
+<>
+It’s most famous and worthy aircraft was created with a production total of more than 19,000, the legendary Fw 190 Würger (Shrike) fighter; which first flew on June 1st, 1939, entered squadron service in August 1941. Later,a High-altitude version, with revised high aspect ratio wing was produced, this was designated the Ta 152.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

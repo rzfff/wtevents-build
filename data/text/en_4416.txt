@@ -1,0 +1,136 @@
+[Special] War Thunder Winter Holiday - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+War Thunder Winter Holiday
+Attention! Outdated news format. Content may not display correctly.
+23 December 2016
+Special
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+Get the max from the outgoing year! 4 highly collectible vehicles for tankers and pilots are waiting for you, as well as dozens of the New Year trophies.
+We have created this special based on the feedback and suggestions of players. Now you have the opportunity to choose from tasks that suit your gaming schedule in the updated event “WW2 Chronicles” with new vehicles and in the new locations.
+<>
+From the 23rd of December, 15:00 GMT until the 16th of January, 07:00 GMT
+Win valuable prizes in the War Thunder Chronicles!
+For tankers: LVT ZiS-2 (USA) and Type 62 (USSR),
+and for pilots - Ki-21 hei (Japan) and Me 262A-2a Sturmvogel (Germany),
+or all of them together! Plus many other prizes!
+Open War Thunder Chronicles calendar
+<>Terms and conditions
+To receive the prizes you need to complete a few stages. Each stage will continue for 2 days and will consist of five fixed tasks. You can choose to complete only 3 from those available:
+<>
+<> If you are a tanker:
+<>Destroy 40 player-controlled enemy vehicles (x2 multiplier for RB and x3 for SB)
+<>Gain "supporting fire" achievement 5 times in battles - assist in destroying enemy vehicles whilst in a squad
+<>Earn 2017 or more score 5 times in battles (2 times for RB and SB)
+<>Get 10 wins (with a minimal activity of 70%)
+<>Get 3 wins in a row (with a minimum activity of 70%)
+<> If you are a pilot:
+<>Destroy 30 player-controlled enemy vehicles (x2 multiplier for RB and x3 for SB)
+<>Gain "supporting fire" achievement 4 times in battles - assist in destroying enemy vehicles whilst in a squad
+<>Earn 2017 or more score 5 times in battles (2 times for RB and SB)
+<>Get 10 wins (with a minimal activity of 60%)
+<>Get 3 wins in a row (with a minimum activity of 60%)
+<>​
+You can complete the stages and tasks only in “WW2 Chronicles”
+If you missed any stages you can buy them in the in-game store.
+We remind you that the completion of the WW2 Chronicles tasks will be counted as tasks for Japanese ground forces CBT!
+<>
+Your Prizes!
+For every second completed stage you will receive a “New Year trophy” which will include one of the following items:
+<>
+<>"Xmas rocket" Decal
+<>"Xmas sock" Decal
+<>"Xmas tree" Decal
+<>3d Decoration "Sled"
+<>3d Decoration "Ski"
+<>3d Decoration "Skates"
+<>100-900% boosters
+<>100-900% boosters
+<>Random talisman for rank 2-4 ground vehicles or aircraft
+<>Random camouflage for rank 2-4 ground vehicles or aircraft
+<>х10 random back-up vehicle for rank 2-4 ground vehicles or aircraft
+<>
+Xmas rocket Decal
+Xmas sock Decal
+Xmas tree Decal
+★ By completing 6 stages you will receive the LVT ZiS-2 (USA), if you are completing tasks for tankers or the Ki-21 hei (Japan), if you are completing tasks for pilots.
+★ If you have completed 10 stages you will receive the main prize: Type 62 (USSR) f you are completing tasks for tankers or Me 262 Sturmvogel (Germany) if you are completing tasks for pilots..
+<>More about the vehicles:
+<>
+LVT ZiS-2
+(USA Rank II)
+Type 62
+(USSR Rank IV)
+Ki-21 hei
+(Japan Rank I)
+Me 262A-2a Sturmvogel
+(Germany Rank V)
+<>
+<>
+The Soviet super-penetrating ZiS-2 cannon on the chassis of the floating American tank - that’s how Chinese engineers redesigned the U.S. LVT-4. This vehicle will appear at the second rank in the U.S. tree once you compete 6 stages of the marathon.
+The classic layout scheme and a very familiar silhouette. The Chinese Type 62 is ideal for Soviet tankers. As a lightweight version of the Type 59 (the vehicle weighs 15 tons less), the Type 62 is known for its mobility and 85mm cannon that will cover not only you, but also your ally.
+With the introduction of Japanese ground forces, the Emperor's army needs good cover from the skies. The Ki-21 - a twin-engine bomber, offers great defensive weaponry with no “blind zones”, a good bomb load and is maneuverable enough to destroy half of the enemy team in one raid - just ask them politely to drive close to each other.
+Can anyone win with 30 mm cannons? Yes. What about rocket boosters? Sure. With 48 rockets under the wings? Well, yes. Yes, even with the 50mm cannon. More? Now you can also carry bombs!
+“Schwalbe”, gentlemen. Classical "Swallow", which just lost 2 of the 4 30mm cannons for the ability to carry bombs. The finishing touch to a collection for German pilots and players that appreciate the power and beauty.
+<>
+<>
+<>
+<>
+<>
+An award with every step in War Thunder!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

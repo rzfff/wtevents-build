@@ -1,0 +1,110 @@
+[Competition] Prize Question: The Winners! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Prize Question: The Winners!
+Attention! Outdated news format. Content may not display correctly.
+22 August 2015
+Competition
+Dear Players!
+This Saturday, August 22nd, we will present to you the Big Q&A with Gaijin CEO Anton Yudintsev , combining interesting questions not only from the Player Meeting during gamescom 2015 , but also from our recent Prize Question! competition. So, be sure to stay tuned for the news, it's going to be a long, informative and very interesting read!
+Now, however, we are pleased to announce the winners of our said Prize Question! competition:
+The player who asked the question with the most votes:
+Lucas Tran on Facebook will receive:
+<>
+ZOTAC GEFORCE
+GTX 750 GRAPHICS CARD
+Those who asked the ten questions picked by us:
+Lucas Tran, Y3_SkyBreaker, Vestrilund, swedeonthemoose, Sidewinder00,
+_Kiri_, Harveyp1, Stuka_Hunter, Joao611, az508
+<>
+EXCLUSIVE CROSSOUT
+BATTLE TEST ACCESS
+<>
+1 000
+GOLDEN EAGLES
+Ten randomly choosen players of all that participated in the vote:
+UthorAnnwn, BergesWithTigers, LoknarStarlight, Gingersnaps14015, Dark_Lord_Bane,
+nricolas360, MarcelzlinCZ, max_asg, JakCurse, piotrek84g
+<>
+EXCLUSIVE CROSSOUT
+BATTLE TEST ACCESS
+<>
+1 000
+GOLDEN EAGLES
+<>
+Your prizes will be awarded to your accounts at the beginning of next week. Congratulations!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,359 @@
+{
+ "results": [
+  {
+   "key": "2026_lion_of_peshawar",
+   "start_override": null,
+   "end": "2026-04-29T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 15th (11:00 GMT) until April 29th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "白沙瓦雄狮崛起，歼-6 丙剑指蓝天！",
+   "zh_id": 2563,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止(可使用或换任务奖券),金鹰补购阶段同日截止",
+     "when": "2026-05-04T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "空战模式(街机/历史/全真)III级以上积任务分,每阶段35,000分,共7阶段(每2天刷新),第7阶段得F-6C歼-6丙兑换券;60万分并行得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2026_pacific_pearl",
+   "start_override": null,
+   "end": "2026-03-30T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From March 12th (11:00 GMT) until March 30th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "太平洋遗珠——俄克拉荷马号归来！",
+   "zh_id": 2513,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2026-04-03T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "海战模式(街机/历史)III级以上积任务分,每阶段45,000分,共9阶段(每2天刷新),第8阶段得USS俄克拉荷马号兑换券,第9阶段专属涂装+4随机改装件;75万分得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2026_workhorse",
+   "start_override": null,
+   "end": "2026-03-09T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From February 19th (11:00 GMT) until March 9th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "军马迎春，荷兰 F-16A 腾跃贺年！",
+   "zh_id": 2469,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2026-03-13T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "空战模式III级以上积任务分,每阶段45,000分,共9阶段(每2天刷新),第8阶段得荷兰F-16A(法国树VIII级)兑换券,第9阶段专属涂装+4随机改装件;75万分得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "马年贺岁主题活动"
+  },
+  {
+   "key": "2026_paintball_arena",
+   "start_override": null,
+   "end": "2026-02-09T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From January 22nd (11:00 GMT) until February 9th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "彩弹竞技场欢乐开启，T-72B3“竞技场”下场恶斗！",
+   "zh_id": 2454,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2026-02-13T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "陆战模式III级以上积任务分,每阶段45,000分,共9阶段(每2天刷新),第8阶段得T-72B3“竞技场”兑换券,第9阶段专属涂装+4随机改装件;75万分得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "中文版文末误写金鹰补购截止为「12月13日」,应为2月13日(与英文版及兑换券强化截止一致)"
+  },
+  {
+   "key": "2025_winter_concert",
+   "start_override": null,
+   "end": "2026-01-08T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From December 19th (11:00 GMT) until January 8th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "冬日音乐狂欢汇，战雷年终双节庆！",
+   "zh_id": 2431,
+   "deadlines": [
+    {
+     "what": "错过的卓越之星(Marks of Distinction)可金鹰补购截止",
+     "when": "2026-01-12"
+    },
+    {
+     "what": "「兑换券升级」道具有效截止(可使用或换任务奖券)",
+     "when": "2026-02-01T12:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰补购错过的卓越之星(每枚)",
+     "percent": null,
+     "note": "接近完成时价格显著降低,正文未给具体百分数;周期活动补购机制"
+    }
+   ],
+   "tasks": "海陆空三线任务(对应模式III级以上或往年活动载具),40,000分/枚卓越之星,每2天刷新;8星得载具兑换券(MiG-25PD/土佐/CRV Block 2),10星得「兑换券升级」;H-75M为I级金币机直接激活",
+   "sub_events": [
+    {
+     "title": "节日纸杯蛋糕(Festive Cupcake)银狮箱",
+     "start": null,
+     "end": null,
+     "note": "活动下一周上线,60,000银狮/个,含往届冬季活动载具、涂装、贴花等,部分道具首次以兑换券形式发售"
+    }
+   ],
+   "confidence": 0.9,
+   "notes": "圣诞+新年双节活动;「兑换券升级」截止为12:00 GMT(其余活动多为11:00);4款奖励载具:H-75M(中国I级金币)、MiG-25PD(苏VII级)、IJN土佐(日VI级)、Boxer CRV Block 2(英VII级)"
+  },
+  {
+   "key": "2025_sea_defender",
+   "start_override": null,
+   "end": "2025-12-17T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From December 3rd (11:00 GMT) until December 17th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "海上卫士活动即将开幕，AK-225 出击！",
+   "zh_id": 2402,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2025-12-22T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "海战模式(街机/历史)III级以上积任务分,每阶段35,000分,共7阶段(每2天刷新),第7阶段得AK-225巡逻炮艇兑换券;60万分并行得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2025_fast_and_dangerous",
+   "start_override": null,
+   "end": "2025-12-03T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From November 19th (11:00 GMT) until December 3rd (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "速度与危机——R400 狂飙上阵！",
+   "zh_id": 2387,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2025-12-08T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "陆战模式III级以上积任务分,每阶段35,000分,共7阶段(每2天刷新),第7阶段得R400轮式轻坦兑换券;60万分并行得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2025_semper_fidelis",
+   "start_override": null,
+   "end": "2025-10-20T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From October 2nd (11:00 GMT) until October 20th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "永远忠诚——EFV 抢滩登陆！",
+   "zh_id": 2303,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2025-10-24T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "陆战模式III级以上积任务分,每阶段35,000分,共9阶段(每2天刷新),第8阶段得EFV两栖远征战车兑换券,第9阶段专属涂装+4随机改装件;70万分得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "「兑换券强化」所需分数英文版作70万、中文版作75万,两版不一致,按英文版取70万;英文版每阶段分数原文误排为「3 5,000」,按35,000计(与金鹰示例30,000→499/33,500→199吻合)"
+  },
+  {
+   "key": "2025_black_hussar",
+   "start_override": null,
+   "end": "2025-09-22T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From September 4th (11:00 GMT) until September 22nd (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "马肯森号出航，重铸黑色骠骑兵不灭荣光！",
+   "zh_id": 2236,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2025-09-25T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "海战模式(街机/历史)III级以上积任务分,每阶段45,000分,共9阶段(每2天刷新),第8阶段得马肯森号战列巡洋舰兑换券,第9阶段专属涂装+4随机改装件;75万分得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": ""
+  },
+  {
+   "key": "2025_sky_guard",
+   "start_override": null,
+   "end": "2025-08-27T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From August 13th (11:00 GMT) until August 27th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "参加“天空卫士”周期活动，赢取 F-106A 三角标枪截击机！",
+   "zh_id": 2210,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具获取截止(60万任务分,早于活动结束,英中文版一致)",
+     "when": "2025-08-25T11:00:00Z"
+    },
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2025-08-29T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "空战模式III级以上积任务分,每阶段35,000分,共7阶段(每2天刷新),第7阶段得F-106A“六响左轮”兑换券;60万分并行得「兑换券强化」(8月25日截止)",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": ""
+  },
+  {
+   "key": "2025_naples_of_the_east",
+   "start_override": null,
+   "end": "2025-08-06T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From July 23rd (11:00 GMT) until August 6th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "东洋那不勒斯遗珍——四阪号海防舰参上！",
+   "zh_id": 2194,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止",
+     "when": "2025-08-10T11:00:00Z"
+    },
+    {
+     "what": "金鹰补购阶段截止(正文仅给日期,未给时刻)",
+     "when": "2025-08-11"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时499金鹰(半价),95%时199金鹰(1/5价)",
+     "percent": 50,
+     "note": "周期活动阶段补购机制,越接近完成折扣越大,最高减免80%"
+    }
+   ],
+   "tasks": "海战模式(街机/历史)III级以上积任务分,每阶段35,000分,共7阶段(每2天刷新),第7阶段得四阪号海防舰(IJN Shisaka)兑换券;60万分并行得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "兑换券强化道具8月10日11:00 GMT失效,而金鹰补购截止正文写8月11日,两处略有出入"
+  },
+  {
+   "key": "2025_normandy_44",
+   "start_override": null,
+   "end": "2025-06-17T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From June 5th (11:00 GMT) until June 17th (11:00 GMT)",
+   "type": "marathon",
+   "name_zh": "诺曼底滩头惊雷——T86 两栖坦克蓄势待发！",
+   "zh_id": 2125,
+   "deadlines": [
+    {
+     "what": "「兑换券强化」道具有效截止,金鹰补购阶段同日截止",
+     "when": "2025-06-20T11:00:00Z"
+    }
+   ],
+   "discounts": [
+    {
+     "target": "战斗通行证跳级",
+     "item": "金鹰购买未完成阶段:进度85%时349金鹰(半价),95%时139金鹰(1/5价)",
+     "percent": 50,
+     "note": "奖励为III级金币载具,补购价低于常规活动(499/199);最高减免80%"
+    }
+   ],
+   "tasks": "陆战模式III级以上积任务分,每阶段35,000分,共6阶段(每2天刷新),第6阶段得T86两栖坦克(III级金币载具)兑换券;50万分并行得「兑换券强化」",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "霸王行动(诺曼底登陆)81周年主题活动;英文版每阶段分数原文误排为「3 5,000」,按35,000计"
+  }
+ ]
+}

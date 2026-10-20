@@ -1,0 +1,101 @@
+Lavochkin's Birthday - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Lavochkin's Birthday
+Attention! Outdated news format. Content may not display correctly.
+10 September 2013
+<>
+On the 11th of September year 1900 Semyon Lavochkin - Soviet aerospace engineer, Soviet aircraft designer - was born.
+<>
+<>
+<>
+<>
+To Celebrate the birthday of the great aircraft designer from September 11th 08:00 GMT (01:00 PDT) to September 12th 08:00 GMT (01:00 PDT) War Thunder presents
+Special Event:
+х5 experience bonus for the first victory
+Special discounts for purchase, repair, modifications and crew costs:
+75% for La-5FN
+30% for La-7 and La-7b
+15% for captured German premium La-5FN
+<>
+Semyon Lavochkin
+<>
+Lavochkin was born in Smolensk on 29th August 1900. After graduation in 1918, he enlisted in the Red Army and served in the infantry in the Russian Civil War. In 1920, he began studies at the Moscow State Technical University, from which he graduated in 1927. He then served for two years as an intern at the design department of the TsAGI Central Aero hydrodynamic Institute under the direction of Andrei Tupolev, where he assisted in the design of the Tupolev TB-3 heavy bomber. While at TsAGI, he his colleagues included the French seaplane designer Paul Richard, as well as Mikhail Gurevich and Nikolai Kamov.
+In the early 1930s, he transferred to the Central Design Office, where he was assigned work on stratospheric aircraft and balloons, and pressurized cockpits. However, as he came increasingly interested in the design of fighter aircraft, he moved to the design office of Dmitry Pavlovich Grigorovich, whom he assisted in the development of the Grigorovich I-Z fighter.
+In 1938, after combat experiences in the Spanish Civil War and at the Battles of Khalkhin Gol against the Japanese, it became clear that the Soviet fighter designs were lagging behind international standards. Lavochkin established his own design bureau in 1939. Starting with the LaGG-1, he produced thousands of fighters which formed the backbone of the Soviet Air Force during the Second World War. He is especially known for the La-5 and La-7, which are among the best Soviet fighter aircraft of World War II. The top Allied ace, Ivan Kozhedub shot down 62 German airplanes, flying in fighters designed by Lavochkin. From 1941 to 1945 a total of over 22,000 Lavochkin fighters were produced. However, Lavochkin's fortunes faded after the war. His La-9 and La-11 were the last piston-engined fighters in Soviet service, and were replaced after a short time by jets. Although he continued pioneering work in this field (the La-176 was the first Soviet supersonic aircraft), his aircraft consistently placed second in competitions with other design bureaux, notably that of Artem Ivanovich Mikoyan.
+After his death, due to a heart attack during a test of an air defence system in the Kazakh SSR at the age of 60, the focus of the design office shifted to surface to air missiles (most notably the SA-2 Guideline), and to space projects.
+In 1944, Lavochkin was given the honorary rank of Major-General of Engineering/Technical Service. From 1950-1958, Lavochkin also served as a deputy of the Supreme Soviet of the USSR. He also became an Academician of USSR Academy of Sciences in 1958. He died and was buried in the Novodevichy Cemetery.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,102 @@
+[Event] Pages of History (November) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (November)
+25 October 2022
+Event
+<>For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon.
+<>A detailed description of the current task as well as your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>A French pilot who defected to the Allies after his homeland was captured by Germany. He fought for the RAF in 1940-42, and from 1943 was a part of the Normandy squadron (later Normandy-Niemen regiment) that fought the Luftwaffe on the eastern front. He took part in the Battle of Kursk, Operation Bagration and the East Prussian offensive. For his valour in battles he earned the highest Soviet decorations: title of Hero of the Soviet Union, the Gold Star and the Order of Lenin.
+Marcel Albert
+<>You can immediately purchase the profile icon for Golden Eagles until December 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (November).
+<>Trophy with a reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>November 1st — November 4th
+Barbara Line
+<>After breaching the Volturno line in October of 1943, the Werhmacht retreated to the Barbara line, the next defensive formation in Central Italy. The Allies stormed it during the beginning of November both from the west (American forces) and the east (British forces). The Germans didn't linger for too long: after a brief battle they retreated to the well-defended Bernhardt line.
+<>November 5th — November 8th
+Hawker Hurricane first flight
+<>On November 6th, 1935, the maiden flight of the British single-seat Hawker Hurricane took place. It was widely used during WWII: Hurricanes formed the bulk of the RAF during the Battle for Britain, and, even though they weren't as advanced as the Spitfire, they won the greatest number of victories during that period of the war.
+<>November 9th — November 12th
+Gomel-Rechitsa operation
+<>On November 10th, 1943, the operation to retake Gomel from the Wehrmacht began. As Gomel itself was very well defended, the Red Army command decided to move its forces across the Dnieper and take Rechitsa in a surprise move. It allowed the Soviet forces to move on Gomel from three sides, encircle and eventually capture it, severing the connection between the Center and South German army groups.
+<>November 12th — November 15th
+Naval Battle of Guadalcanal
+<>The decisive battle in the Guadalcanal campaign took place on November 12th-15th, 1942 near the Solomon Islands. Both sides took heavy losses, but in the end the US managed to repel the Japanese attempts to push the Allies out of Guadalcanal. It was a major strategic victory for the USA, and the then President Franklin Roosevelt called it the turning point in the history of the Pacific theater of the war.
+<>November 16th — November 19th
+Operation Crusader
+<>November 18th, 1941 saw the start of Operation Crusader, a massive offensive by the Allies on the North African front, on the border of Libya and Egypt. They managed to push back the Axis forces under the command of Erwin Rommel and stop them from advancing into Egypt and taking the strategically important Suez Canal.
+<>November 19th — November 22nd
+Operation Uranus
+<>Operation Uranus was the codename of the Soviet strategic operation that began on November 19th, 1942. The Red Army connected three of its fronts to encircle the Axis forces in Stalingrad. The fighting lasted for the greater part of the winter and ended in early February with Field Marshal Paulus' capitulation.
+<>November 23rd — November 26th
+Formation of the fighter regiment "Normandie-Niemen"
+<>On November 25th, 1942 USSR and France signed an agreement about forming a French aircraft squadron on Soviet territory. It was named "Normandy"; its pilots learned to fly Yak-1 and Yak-7 planes in late 1942 — early 1943, and then participated in the battles against the Axis from Spring 1943. For its part in liberating the Niemen river region this unit that by that time grew to become an entire regiment was named "Normandy-Niemen'' in late 1944, with its best pilots receiving the highest Soviet accolades. The regiment is still serving in the French Air Force.
+<>November 27th— November 30th
+Operation Tariq al-Qods
+<>During the Iran-Iraq war, on November 29, 1981, Iran began Operation Tariq al-Qods ("The road to Jerusalem'') that aimed to reclaim the city of Bostan that was taken by Iraq in early war. Due to bad weather conditions, the Iraqi forces didn't anticipate the attack that happened both from the north and the south at once, and were completely defeated. Within the same year, Iran managed to liberate around 40 percent of the territory that Iraq captured earlier.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+<

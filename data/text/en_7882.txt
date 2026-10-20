@@ -1,0 +1,137 @@
+[Event] Project “Overpowered” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Project “Overpowered”
+Attention! Outdated news format. Content may not display correctly.
+21 September 2022
+Event
+<>Good military vehicles aren’t only about their characteristics: they also need to be cheap to produce, easy to repair and open to serious upgrading. A perfect example of such a machine is the legendary Po-2 light bomber. This all-round great aircraft earned the love and respect of pilots 95 years ago, and now it has become famous among War Thunder players for its phenomenal capabilities when controlled by an experienced pilot. What a surprising coincidence it is, then, that Po-2 was chosen by the Organization as a platform for upgrades in Project “Overpowered”.
+<>Create an “Overpowered” version of one of the most amazing aircraft in the game, use it as intended, and then exchange it for exclusive vehicles of different classes. A worthy aircraft deserves worthy rewards.
+<>From September 22nd (12:00 GMT) until October 6th (12:00 GMT)
+<>Collect special modifications of the Po-2 and exchange them for unique vehicles!
+<>
+<>The event has been prolonged until October 6th. Now three additional tasks to receive Materials and Pieces of Tape are available for you, as well as the ability to earn Aircraft Technician Toolkits and additional Pieces of Tape for three more days!
+<>Rewards
+<> Po-2M (Rank I) — premium,
+coupon
+Cost: 1 Po-2 “Overpowered” aircraft.
+<>Legendary good and legendary bad! The Mule, the slowest aircraft in the game, now with floats and premium status. Is it worthless? Is it OP? Depends on you!
+<> SMS Ostfriesland (Rank V) — event, coupon
+Cost: 3 Po-2 “Overpowered” aircraft.
+<>Dreadnought battleship Ostfriesland combines all the main qualities of such ships: powerful main caliber guns, heavy armor and low speed.
+<> CCVL (Rank VI) — event,
+coupon
+Cost: 3 Po-2 “Overpowered” aircraft
+<>This American experimental light tank is protected only from bullets and fragments, but its impressive mobility and great guns make it a perfect scout and sniper.
+<> Jaguar E (Rank VI) — event,
+coupon
+Cost: 3 Po-2 “Overpowered” aircraft
+<>The two-seat Jaguar E is one of France's best strike aircraft. Large payloads and an excellent choice of guided and unguided weapons!
+<>How to participate
+<>Fight in battle! After each battle the necessary materials will go to the menu “Workshop → Overpowered” .
+<>In this project you will collect the parts of the Po-2 from materials you get in battles, then upgrade them to the special “Overpowered” version and then assemble the unique aircraft. The more aircraft you collect the more valuable vehicles you can exchange.
+<>Key items
+Materials
+<>Are necessary to assemble parts. Open the box with materials after the battle.
+Will be given for every 3000* mission scores
+Each box contains 4 to 6 materials.
+Pieces of Tape
+<>Will be combined into a Roll of Tape that will be used to assemble the Po-2 Overpowered from parts.
+Will be given for every 15000* mission scores.
+With a small chance a whole piece of tape can be dropped.
+Aircraft Technician Toolkits
+<>Once you have enough of these toolkits you can train a team of aircraft technicians to help you build the Po-2 Overpowered from parts..
+Will be given out for 1st place in the battle.
+<>* — the base number of mission score, without taking into account the game mode multiplier and vehicle rank.
+<>During one battle you can get several boxes with materials as well as pieces of tape. The remaining accumulated points will be counted in the next battle.
+<>Crafting the details
+<>Click the “Build” button in the “Workshop → Overpowered”. Assembly takes place in the following order: Materials → Parts → Refinement of parts → Po-2 "Overpowered".
+<>Materials for making parts can be traded on the market.
+<>How to receive rewards
+<>Finished versions of the Po-2 “Overpowered” can be exchanged for exclusive event vehicles!
+SMS Ostfriesland, CCVL and Jaguar E can be obtained from the start of the event and until 12:00 GMT on the 17th of October.
+Po-2M can be obtained from 12:00 GMT on the 10th of October until 12:00 GMT on the 17th of October. PlayStation and Xbox players can get this vehicle from 12:00 GMT on the 3rd of October until 12:00 GMT on the 17th of October.
+<>All event vehicles will be issued in the form of coupons that can be activated on your account or traded on the market.
+<>For PlayStation and Xbox players
+<>The lack of a Marketplace won’t slow your progress. Obtain any special items you need for Golden Eagles by navigating to “Workshop → Overpowered”:
+<>
+Materials — 42 items.
+<>A box with materials for Golden Eagles.
+Assistant
+<>Allows you to receive additional “Pieces of Tape” in battles without restrictions - 6 items for every 15000* mission scores. And it is also cute! .
+<>* — the base number of mission score, without taking into account the game mode multiplier and vehicle rank.
+<>Terms
+All event items can be obtained in the following game modes:
+Ground arcade, realistic and simulator battles.
+Aircraft arcade and realistic battles.
+Naval arcade and realistic battles.
+The number of items received in battle is limited.
+Crates with Materials — up to 25 per day and up to 250 for the whole event (until 12:00 GMT on the 6th of October).
+Pieces of Tape — up to 5 per day and up to 40 for the whole event (until 12:00 GMT on the 6th of October)
+Aircraft Technician Toolkits — up to 300 for the whole event (until 12:00 GMT on the 6th of October).
+You can track the progress of obtaining event items as well as the daily and total limits by clicking on your nickname and selecting in the menu Achievements → Overpowered.
+Multipliers for earning mission points depend on the game mode and the maximum rank of the vehicle used in the battle and are specified in the description of each task.
+Crates with Materials and Pieces of Tape can be earned not only on the vehicles of rank III or higher but also on all event vehicles that were obtained in major game events. The vehicle cards of such vehicles contain the names of the events in which they first became available in the game.
+The possibility of whether or not an item can be traded on the market is indicated in their description.
+Event times:
+Crates with Materials, Pieces of Tape and Aircraft Technician Toolkits can be earned in the battles from 12:00 GMT on the 22nd September until 12:00 GMT on the 3rd of October.
+You can assemble parts from materials until 12:00 GMT on the 10th of October.
+All event items except vehicle coupons can be traded on the market until 11:30 GMT on the 10th of October.
+At 12:00 GMT on the 10th of October all event items with the exception of assembled and in the progress of assembling Po-2 “Overpowered” and vehicle coupons will be deleted from the inventory and the market.
+At 12:00 GMT on the 17th of October all copies of the Po-2 “Overpowered” will be requisitioned by the Organization and your memories will be erased. Have time to exchange the Po-2 “Overpowered” for the event vehicles and finish all important business before this moment!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

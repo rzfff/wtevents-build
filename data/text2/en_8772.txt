@@ -1,0 +1,88 @@
+[Shop] [Development] Pre-orders: Type 90B “Fuji” and Merkava Mk.3 Raam Segol - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-orders: Type 90B “Fuji” and Merkava Mk.3 Raam Segol
+1 March 2024
+Shop
+Development
+<>We’re announcing two premiums that are available for pre-order from today: the Type 90B “Fuji” for Japan, and the Merkava Mk.3 Raam Segol for Israel.
+<> Meet the Type 90B “Fuji”
+<>Type 90B tanks are deservedly considered one of the best vehicles in the Japanese ground forces tree. Firstly, this tank’s 120 mm gun has an auto loader, allowing you to fire rounds from the first-stage ammunition rack with a reload time of just 4 seconds! Secondly, this tank is very mobile and has unique hydro pneumatic suspension, giving it the ability to peek in and out from behind low objects or hills. The Type 90B “Fuji” is a special premium version of the Type 90, featuring the Third Company of the Fuji School Armored Instructor Regiment insignia.
+Pre-order — Type 90B “Fuji” Pack
+The Kit Includes:
+Type 90B “Fuji” (Rank VII, Japan)
+2500 Golden Eagles
+Premium account for 20 days
+Pre-order bonus: unique “Golden tank” title
+Pre-order bonus: unique “The 1st Mechanized Battalion Insignia” decal
+Pre-order bonus: 1st Mechanized Battalion, Evaluation Support Unit camouflage
+69.99
+Store
+<> Meet the Merkava Mk.3 Raam Segol
+<>The Merkava Mk.3 Raam Segol is an experimental version of the Israeli Army’s Merkava Mk.3 main battle tank, featuring the Raam Segol. In real life, this system automatically turns the tank’s turret in the direction of the laser and releases smoke grenades automatically. However in game, we’ll not be implementing this functionality as in many instances, it would interfere with the player’s control mid-combat. In-game, the Raam Segol will warn about the direction from where a laser is and the player will be able to launch smoke grenades or maneuver away as normal. In addition, this tank features thermal imaging, an effective APFSDS shell and a HE-TF shell.
+<>The Merkava Mk.3 Raam Segol is a premium and is available for pre-order, giving you the unique “Purple Thunder” title, which is the translated name of Raam Segol, and a decal!
+Pre-order — Merkava Mk.3 Raam Segol Pack
+The Kit Includes:
+Merkava Mk.3 Raam Segol (Rank VII, Israel)
+2500 Golden Eagles
+Premium account for 20 days
+Pre-order bonus: unique “Purple Thunder” title
+Pre-order bonus: unique “Purple Thunder” decal
+69.99
+Store
+Read more:
+HMS Lion: One Last Roar
+14 September 2026
+MiG-35: The Last MiG
+11 September 2026
+H145M: Angry Dragonfly
+11 September 2026
+F-102A Delta Dagger: The “Bear” Hunter
+10 September 2026
+Share the news with your friends!
+<

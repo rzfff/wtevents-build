@@ -1,0 +1,99 @@
+[Event] The Road for the Brave - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Road for the Brave
+Attention! Outdated news format. Content may not display correctly.
+21 October 2016
+Event
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+Pilots and tankers!
+Today we present to you, a very unique task involving the control over a strategic point. For this task, the battle will unfold at Mozdok, or more precisely in a particularly small area of it: the central road. Whichever team controls it will be able to ensure the speedy delivery of supplies to their own side, but the battle promises to be unusual, with each side controlling entirely different types of forces, one side in the air and the other on the ground.
+From October the 21th 12:00 GMT to October the 24th 07:00 GMT
+Take part in “The Road for the Brave” AB-Event by defending strategic points in
+ground force vehicles, or attacking in air force vehicles to seize control!
+Event Goals
+The team in control of aircraft must capture a road initially belonging to the ground force team, and in turn, they must defend the road against capture for 15 minutes.
+The road can be captured by making a short run along it with an aircraft’s landing gear making contact with the ground, similar to the Airfield capture in Arcade domination aircraft battles.
+Victory is awarded to the pilots after 5 successful captures of the road.
+Victory is awarded to the tankers if the road is successfully defended for 15 minutes.
+Both sides will use rank one vehicles. Command has been unable to provide any anti-aircraft guns to the tankers’ side.
+Event Characteristics
+<>Mission length is limited to 15 minutes.
+<>The event will be available in Arcade Battle mode.
+<>Unlimited respawns for both sides.
+<>The aircraft team’s points constantly decrease and run out at the 15 minute mark.
+<>The ground forces team loses 20% of their points after each road capture (5 captures are required in total).
+Pilots, here are a few simple tips that could come in very handy in this battle:
+<>
+<>
+<> Switch on shadows!​
+<>
+Enable shadows in your client settings – they can really help you to determine exactly when you make contact with the road.
+Attack!​
+<>
+Some vehicles will be equipped with bombs. Use them!
+Swerve!​
+<>
+Don’t stop maneuvering after you touch down! Swerve across the road and you’ll be a lot harder to hit.
+Be careful!​
+<>
+It’s better to lose a second than your aircraft. Be careful when approaching the road to land, and be especially attentive at the moment you touch down.
+Tankers, the tips for you are simple – just destroy everything that tries to capture the road!
+To both pilots and tankers – work with your team and victory will be yours!
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

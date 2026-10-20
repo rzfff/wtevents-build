@@ -1,0 +1,164 @@
+[Special] Operation H.E.A.T. - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation H.E.A.T.
+Attention! Outdated news format. Content may not display correctly.
+2 August 2019
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>How is the water, warriors? It is very important because, this summer, we will meet our comrades-in-arms - the commanders of naval vessels who will join our tankers and pilots in the big summer event. H.E.A.T. begins!
+<>From 11:00 GMT on the 2nd of August until 07:00 GMT on the 26th of August
+<>Earn Marks of Distinction in battles by completing special tasks and get unique vehicles and other prizes!
+<>Awards
+<>Introducing 6 new premium vehicles for tankers, pilots and sailors!
+BT-7 (F-32) rank II, USSR
+<>Great tank for lively shootouts in ranks II and III Check the Devblog !
+Bf 110 C-6 rank II, Germany
+<>Extremely interesting aircraft to use in lower rank battles. Check the Devblog !
+River class (K-246) rank II, Britain
+<>British premium event vessel at lower ranks. Check the Devblog !
+AUBL/74 HVG rank V, Italy
+<>The Fiat AUBL/74 recon assault armoured car was the first Italian-designed vehicle of its class. Check the Devblog !
+P-59A rank IV, USA
+<>One of the exciting prizes in Operation H.E.A.T. and the first Rank IV jet in game! Check the Devblog !
+IJN Yūd achi rank III, Japan
+<>Yūdachi is a decent rank III destroyer whose advantages include, first and foremost, excellent armament! Check the Devblog !
+<>All event vehicles, decorations and decals are obtained with coupons!
+<>Unique camouflages for event vehicles, decorations and decals in Operation H.E.A.T. will be opened with the receipt of a Mark of Distinction.
+<>For “Mark of Distinction for pilots":
+<>⭐x2 — coupon for decal one random "Flame" decal
+<>⭐x4 — coupon for one random "Flame" decal
+<>⭐x5 — Bf 110 C-6 coupon
+<>⭐x6 — Bf 110 C-6 camouflage
+<>⭐x6 — coupon for one random "Flame" decal
+<>⭐x8 — coupon for one random "Flame" decal
+<>⭐x10 — P-59A coupon
+<>⭐x11 — P-59A camouflage
+<>⭐x12 — coupon for one random "Flame" decal
+<>For “Mark of Distinction for tankers":
+<>⭐x3 — coupon for one random “Ammunition” decoration
+<>⭐x5 — BT-7 (F-32) coupon
+<>⭐x6 — BT-7 (F-32) camouflage
+<>⭐x6 — coupon for one random “Ammunition” decoration
+<>⭐x9 — coupon for one random “Ammunition” decoration
+<>⭐x10 — AUBL/74 HVG coupon
+<>⭐x11 — AUBL/74 HVG camouflage
+<>⭐x12 — coupon for one random “Ammunition” decoration
+<>For “Mark of Distinction for sailors":
+<>⭐x3 — coupon for one random "Flame" decal
+<>⭐x5 — River class (K-246) coupon
+<>⭐x6 — River class (K-246) camouflage
+<>⭐x6 — coupon for one random "Flame" decal
+<>⭐x9 — coupon for one random "Flame" decal
+<>⭐x10 — Yuudachi coupon
+<>⭐x11 — Yuudachi camouflage
+<>⭐x12 — coupon for one random "Flame" decal
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
+<>Tasks
+<>To receive the “Mark of Distinction” you need to complete any 3 tasks from 5 available in Air and Ground of rank III or higher. Tasks will not change and will be reset every 2 days at 11:00 GMT.
+<>"Mark of Distinction for pilots”:
+<>By controlling aircraft
+<>Destroy 35 enemies in AB (18 in RB, 12 in SB).
+<>Win 10 battles (with activity of 60% and higher).
+<>Drop 10 tons of Bomb TNT on enemy bases in total.
+<>Destroy 11 enemies in one battle (4 in RB, 2 in SB).
+<>Help allies 7 times to destroy enemy vehicles.
+<>"Mark of Distinction for tankers”:
+<>By controlling ground vehicles
+<>Destroy 45 enemies in AB (23 in RB, 15 in SB).
+<>Win 10 battles (with activity of 70% and higher).
+<>Capture 15 points in ground battles whilst controlling ground vehicle or helicopter.
+<>Destroy 11 enemies in one battle (6 in RB, 4 in SB).
+<>Help allies 25 times to destroy enemy vehicles.
+<>"Mark of Distinction for sailors”:
+<>By controlling fleet
+<>Make 25,000 damage whilst controlling a ship.
+<>Win 10 battles (with activity of 50% and higher).
+<>Capture 10 points in naval battle whilst controlling ship or aircraft.
+<>Destroy 3 enemies with torpedoes whilst controlling ship or aircraft.
+<>Finish the battle on the first place in naval battles.
+<>You can purchase the “Mark of Distinction” for Golden Eagles without even completing the task in the menu: Nickname → Achievements → Operation H.E.A.T. → “Mark of Distinction” until the 29th of August.
+<>Detailed terms
+<>To receive a “Mark of Distinction” you need to complete any 3 tasks from 5 for the respective type of vehicles.
+<>You can complete the tasks in random battles (excluding “Enduring Confrontation” and “Assault”) in vehicles of rank III-VII (for ships - rank II-IV). The exact terms of achievement are in the game client.
+<>Performing tasks must be completed with the destruction, and assistance in the destruction of, player controlled vehicles, NOT AI controlled vehicles.
+<>By completing the task “Win 10 times” in combined ground battles, the task will be counted as completed with the type of vehicle in which you finished the battle (ground vehicle or aircraft of the specified rank). By completing the same task in naval battles, the task will always be counted for ships.
+<>You can follow your progress by clicking on your nickname → Achievements → Operation H.E.A.T.
+<>The “Mark of Distinction” will be counted as received if the achievements are coloured gold.
+<>Missed “Marks of Distinction” can be purchased in the Achievement window until the 29th of August. Don't make an error by choosing between the group of achievements - pilots, tankers and sailors.
+<>Coupons will be given out regardless of whether you already have the items from them.
+<>Coupons will not be available for trading on the market before the 30th of August. You can see in the game the time from which the coupon can be traded in the coupon description.
+<>PS4 and Xbox players will be able to exchange decals and decorations within a week after the event begins and will be available until the 30th of September.
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

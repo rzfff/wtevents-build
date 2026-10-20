@@ -1,0 +1,100 @@
+[Development] The April Fools event is over! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The April Fools event is over!
+Attention! Outdated news format. Content may not display correctly.
+1 April 2016
+Development
+The April Fool's Event is over. Thank you for participating and offering feedback!
+Pilots, tankers and sailors!
+We would like to announce the first open test of a sailing fleet in War Thunder. We introduce the first research tree for the Royal Navy and invite you to test the legendary ships of the Golden Age of Sail!
+Currently the sailing fleet is available in the “events” tab in Arcade mode. After testing this type of battle we plan to introduce an “open world” that, unlike the existing one will be run directly by players and will be mostly PvE oriented. The players will have to cooperate against pirates that will appear randomly on the map, protecting their merchant vessels and caravans; attack the ships that carry gold, perform amphibious assaults, attack forts. However joining a fleet is not necessary - a player may keep all rewards to himself once he completes the task alone.
+<>
+Confrontation of the nations that laid claim to the “Mistress of the seas” title lasted for centuries and recreating this is a new interesting challenge for us. We created the first step in that direction in the previous year when we added seawater simulation based on NVIDIA Waveworks that not only looks natural but also has realistic wave physics. The other important issue for a sailing ship is the “air”, or weather. Our new implementation allows us to recreate a detailed cloud layer up to the horizon, define several types of clouds, create dynamic weather changes and greatly improve available weather conditions: from calm sea to heavy storm.
+Add this to the already accurate representation of the night sky and astronomical recreation allows real sailors to truly navigate by the stars and sun. Besides that, our detailed damage model will allow us to recreate all the nuances of the ship armouring that have not yet been implemented in the other games. The damage model will be especially interesting when the sailing ships will meet other vessel types such as fireboats (branders).
+<>
+And now some details about the Royal Navy tree and some of its vessels:
+Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+<>
+' 'Golden Hind'' - at the moment this ship started out from England she was an unknown galleon by the name of “Pelican” with Francis Drake on board. Back then he was not yet a Knight, but the Queen had already paid her attention to the promising captain. During the round-the-world voyage, the galleon was renamed to the “Golden Hind”. The next time the ship saw British shores was on November the 5th, 1580 with her lower hold full of valuable goods. The “Golden Hind” thus became the second vessel that managed to circumnavigate the globe. Queen Elizabeth dubbed Francis a knight in the port of Plymouth. According to some sources total income of the voyage made 4700% with most of it going right into the Kingdom’s treasury.
+HMS ''Victory'' - the most famous first-class battleship in the world. She won her fame being the flagship of Horatio Nelson during the famous battle of Trafalgar. The famous phrase “England expects that every man will do his duty” was signalled from this ship. Nelson was mortally wounded on the deck of “Victory” by a French musketeer. The ship cost 63175 pounds to build which roughly equivalent 100 million dollars today. At the moment it is the oldest operational ship in the world which is also a museum in Portsmouth.
+HMS ''Shah'' - an iron hulled, wooden sheathed frigate without armour protection. She was originally purposed for service far abroad. On the 29th of May 1877 HMS ''Shah'' along with HMS ''Amethyst' took part in the battle with the Peruvian “Huascar”, inflicting serious damage to the latter and thus forcing the ship to retreat. “Shah” was the first vessel to use the Whitehead torpedo, though the launch wasn’t successful.
+HMS ''Warrior'' - The top-ranked ship of the tree, this armour-plated frigate was the first ironclad designed for the open seas that was constructed completely from iron. When the “Warrior” was laid down in 1859 she was invulnerable to any artillery of the time. The ship had both a steam engine and sails which allowed her to perform tasks efficiently whatever the weather conditions.
+<> The other ships of the British tree will be available later - follow the news!​
+Set sail!
+The War Thunder Team
+Read more:
+HMS Lion: One Last Roar
+14 September 2026
+MiG-35: The Last MiG
+11 September 2026
+H145M: Angry Dragonfly
+11 September 2026
+F-102A Delta Dagger: The “Bear” Hunter
+10 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

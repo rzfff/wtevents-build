@@ -1,0 +1,89 @@
+[Event] Deep Strike: Attack and Defend Important Infrastructure! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Deep Strike: Attack and Defend Important Infrastructure!
+22 October 2025
+Event
+<>Pilots, get yourself ready, as it’s time for takeoff! Today we’re introducing the Deep Strike event — an asymmetrical game mode where one team attacks and the other defends important infrastructure in one of several locations.
+<>Take part in this two-day event and try out new mechanics that we’re working on! Read on to learn more about Deep Strike.
+<> When: From October 22nd (11:00 GMT) until October 24th (11:00 GMT)
+<> Where: Events and Tournaments -> Deep Strike
+<> How does Deep Strike work?
+<>For those of you who have already played the “Suppression of Enemy Air Defenses” (SEAD) event back in April, you’ll feel familiar with Deep Strike, as the vehicles, operational logic and many other aspects are similar. However, instead of a SAM site, the key objective is now industrial facilities that can be destroyed dynamically. Below, we’ll dive into the new objective for both teams first, and then we’ll cover what else is similar to the SEAD event.
+<> Destroy or Defend an oil refinery or power plant !
+<>In Deep Strike, the defending team must protect an oil refinery or power plant composed of dozens of buildings that have their own damage model, protected by AI-controlled Rapier and ZSU-23-4V Shilka systems. Both of these systems pose a deadly threat to the attacking team, who will have to devise tactics to engage, destroy, evade and effectively utilize their available arsenal to complete their objective.
+<> Roles and Objectives
+<>As an attacker, your objective is to inflict as much damage as possible to the oil refinery or power plant. You’ll have access to a helicopter as well as a plane, offering new opportunities for stealth attacks and precision missile strikes. The plane of choice to serve as the main strike force for the attacker side is the F-4E Phantom II, armed with missiles and bombs to destroy the infrastructure and SAM systems, along with air-to-air missiles to destroy enemy aircraft. The AH-1F helicopter is armed with ATGMs and unguided rockets to precisely destroy the defending team’s SAM systems.
+<>As a defender, your objective is to protect the infrastructure from the incoming attacker team. Coordinate with your allies and build a layered defense to prevent the attackers from carrying out their objective. You’ll pilot the formidable MiG-21bis, armed with air-to-air missiles to take out the enemy Phantoms and AH-1Fs.
+<> Event Features
+<>The gameplay in this event is asymmetrical: one team attacks and the other defends. This requires you to adapt to different roles and strategies.
+<>There are no enemy markers on aircraft or on the map. Use your aircraft’s systems and your experience to find and destroy your enemies.
+<>Each player has 3 respawns available, giving both teams the opportunity to experiment with tactics. The attacking team can also alternate the aircraft they use.
+<>The attacking team has access to both planes and helicopters, providing unique opportunities to coordinate attacks to destroy enemies from afar and support allied aircraft.
+<>All players who have an aircraft at rank V or higher in their hangar can take part in the event.
+<>The vehicles used in the event are issued automatically and do not need to be purchased.
+<>Respawning in a vehicle requires Silver Lions, which are returned at the end of the mission if the plane or helicopter wasn’t destroyed, or when leaving the vehicle in a safe exit zone. The number of Silver Lions returned depends on the vehicle’s condition.
+<>Safe exit zones become available once all weapons of a certain type have been used. If you respawn with anti-ground weapons, you must use them all; air-to-air missiles are not counted; if you respawn with only air-to-air missiles, you must use them.
+<>You can earn research points and Silver Lions in the Deep Strike event.
+<> Why not in random battles?
+<>Asymmetrical modes aren’t for everyone, as they require a special approach. If players were to play this mode in random battles with their own vehicle lineups, their vehicles and ordnance would likely be ineffective or too powerful in a specialized mission like Deep Strike. Deep Strike requires specific vehicles and ordnance for engaging and effective gameplay.
+<> Air War
+<>As with the SEAD event, we’re using Deep Strike as a testing ground for ideas that we’re exploring in a new type of operation for World War Mode, called Aerial Warfare. In this event, players will only control aircraft (ground vehicles will be controlled by AI), and the focus will be on aerial combat and strategic objectives. We’ll tell you more about Aerial Warfare at a later date!
+<>Don’t miss your chance to participate in this unique event from October 22nd to 24th! We’re also planning to re-launch Deep Strike again in an upcoming weekend, which we’ll announce soon, so stay tuned for the details there.
+<> Get ready for intense aerial battles that will require teamwork and excellent piloting skills, and be sure to share your thoughts about this event with us. See you in the skies!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

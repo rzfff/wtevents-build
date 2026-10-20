@@ -1,0 +1,97 @@
+[Event] Happy tanker’s day! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Happy tanker’s day!
+Attention! Outdated news format. Content may not display correctly.
+9 September 2017
+Event
+<>
+From 12.00 GMT on the 8th of September till 10:00 on the 11th of September
+Special prizes for all tankers in War Thunder!
+Event is back! We extended it till 10:00GMT on the 11th September. Sorry for inconvenience!
+<>With this event, you'll be able to get the Soviet ⭐M3 Medium (USSR) or the SU-76M 5th Gv.Kav.Corps. Together with one of the tanks, you will also receive unique decals.!
+Do you already own these vehicles? Then for completing the tasks you will receive “Red Star” decoration.
+<> How do you receive the prize?
+<>Activate the bonus code “TANKERSDAY” on the special page
+<>After that win 5 battles with a battle activity of 70% or more whilst driving rank III or higher ground vehicles.
+<>Get one of the two event prizes:
+<>⭐M3 Medium tank (USSR) + set of decals ;
+<>SU-76M 5th Gv.Kav.Corps+ set of decals ;
+<> "Red Star" decoration (only if you already have 2 mentioned ground vehicles on your account).
+Terms
+<>You can only start to achieve “Tanker’ day - 5 victories” after activating the bonus code “TANKERSDAY” for your account
+<>You can check the availability of the bonus code in the Purchase history of your profile.
+<>You can track the victories in the achievements by clicking in the game on your Nickname → Achievements → Tanker’s Day → Tanker’s Day - 5 victories.
+<>If you already have ⭐M3 Medium (USSR) on your account, so you will receive SU-76M 5th Gv.Kav.Corps. Respectively if you already have SU-76M 5th Gv.Kav.Corps so you will receive ⭐M3 Medium (USSR) by completing the task.
+<>If you have both ground vehicles and the decoration, activate the bonus, complete the task and leave a request here .
+Welcome to the special event "Tug of War"!
+Do you remember how to use towing cable?
+You better make sure, it will be useful in this challenge!
+The main goal is to recover and evacuate a Gepard SPAA. The vehicle’s engine is out of service, so the only way to deliver it is to use the towing cable to drag it to your team’s zone. The enemy team will do everything to prevent you from doing it and towing is not an easy task on rough surfaces. If you want to be the one who achieves victory, you will need to choose a vehicle with a powerful engine and enough mass.
+The main victory condition is that the enemy team should lose all its points. You can do this by delivering the “recovered” tank to the special zone for your team. As soon as the above named vehicle reaches the zone - your enemy will start to lose points.
+Terms:
+<>Capture and hold the Gepard SPAA at your base.
+<>A destroyed “disputed” SPAAG will reappear in the central zone after 10 seconds.
+<>A team loses 500 points if one of its members is knocked out.
+<>The longer the recovered SPAAG is in the evac zone the faster the enemies lose their points.
+<>The towed Gepard is vulnerable and can be destroyed but for destroying it the team will receive a 2000 point penalty.
+<>You may want to destroy the evacuated Gepard in a no-win situation, or when the “disputed” SPAAG is almost delivered to the enemy zone. By sacrificing some points, you can still create a chance of gaining victory.
+<>Each team consists of 4 players.
+<>You can respawn with all ground vehicles in your lineup.
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

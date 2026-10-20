@@ -1,0 +1,73 @@
+[News] Modern tanks and helicopters arrive on War Thunder’s frontlines - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Modern tanks and helicopters arrive on War Thunder’s frontlines
+Attention! Outdated news format. Content may not display correctly.
+31 March 2017
+News
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+From 17:00 GMT on the 31st of March till 07:00 GMT on the 3rd of April
+open testing for rank IX vehicles on three maps: Middle East, Sinai and Abandoned Factory
+After serious preparation, we’ve begun to expand War Thunder’s research trees up to rank IX. Additionally, we’re introducing a brand new vehicle type - combat helicopters!
+Almost from the very beginning of War Thunder’s development, we received tons of requests and thoughtful suggestions from fans for the introduction of modern military vehicles. We ran exhaustive in-game tests and, before the game’s release, implemented specific mechanics that would allow us to considerably expand the game’s time frame to accommodate combat vehicles from various eras.
+Based on War Thunder’s expanded research trees, we’ll begin to introduce air combat and armoured vehicles up to rank IX. The top vehicles at this rank will include well-known machines of mass destruction, like the M1A2 Abrams, Т-14 “Armata”, F-22 Raptor, Т-50 PАК FА and many more. From the cockpit of these modern combat vehicles, players will experience reactive armour, unleash smokescreens, and deliver death from the skies with precision weaponry. Full research trees for all nations will be published at a later date, so stay tuned for that news.
+So, without further ado, we’d like to invite players to participate in the first open mass testing of some of these rank IX vehicles. Players will be able to drive the Leopard 2A5 and the Т-90А , as well as pilot some of the the very first helicopters in the game, the Russian MI-35 transport and attack helicopter and the American GM-64 of the German air force. The test will be held in a special event, which can be accessed and joined directly from your hangar.
+We hope you’ll enjoy testing these new vehicles as much as we’ve enjoyed implementing them. Thanks to your invaluable participation in this test, we’ll be able to build on what War Thunder does best and offer an even better experience for our fans.
+See you on the battlefield!
+<> The War Thunder team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,252 @@
+{
+ "results": [
+  {
+   "key": "2026_season_xxii_the_elusive_musketeer",
+   "start_override": null,
+   "end": "2026-04-22T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "Beginning on: January 21st (12:00 GMT) Ending on: April 22nd (12:00 GMT)",
+   "type": "battlepass",
+   "name_zh": "战斗通行证新赛季“神秘火枪手”上线，奖券商店阵容现已揭晓！",
+   "zh_id": 2455,
+   "deadlines": [
+    {
+     "what": "105/125 级两张升级券可在下赛季开始后兑换下一季战斗通行证免费资格",
+     "when": "2026-04-22 赛季结束后"
+    }
+   ],
+   "discounts": [],
+   "tasks": "登录得1-5进度点，每日任务2-5点，周挑战30点；每级10点；通行证2000金鹰解锁全部等级，2500金鹰升级版含150进度点(15级)；开季28天后可金鹰购进度点。",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "主奖：瑞典 J30 蚊式与法国 ELC 901；奖券商店新上架 USS Wilkinson；黄道系列贴花回归+新 Völva 贴花。"
+  },
+  {
+   "key": "2026_season_xxiii_apollo_s_chariot",
+   "start_override": null,
+   "end": "2026-07-22T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "Beginning on: April 22nd (12:00 GMT) Ending on: July 22nd (12:00 GMT)",
+   "type": "battlepass",
+   "name_zh": "战斗通行证新赛季“阿波罗战车”上线，奖券商店阵容现已揭晓！",
+   "zh_id": 2573,
+   "deadlines": [
+    {
+     "what": "105/125 级两张升级券可在下赛季开始后兑换下一季战斗通行证免费资格",
+     "when": "2026-07-22 赛季结束后"
+    }
+   ],
+   "discounts": [],
+   "tasks": "登录得1-5进度点，每日任务2-5点，周挑战30点；每级10点；通行证2000金鹰解锁全部等级，2500金鹰升级版含150进度点(15级)；开季28天后可金鹰购进度点。",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "主奖：以色列喷火 LF Mk IXc(截短翼)与日本凉月号驱逐舰；奖券商店新上架 Ram II；Occult 系列收尾 Nekomata 贴花，集齐得 Baroness Saturday。"
+  },
+  {
+   "key": "2026_season_xxiv_do_it_yourself",
+   "start_override": null,
+   "end": "2026-10-21T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "Beginning on: July 22nd (12:00 GMT) Ending on: October 21st (12:00 GMT)",
+   "type": "battlepass",
+   "name_zh": "战斗通行证新赛季“自己动手”上线，奖券商店阵容现已揭晓！",
+   "zh_id": 2698,
+   "deadlines": [
+    {
+     "what": "105/125 级两张升级券可在下赛季开始后兑换下一季战斗通行证免费资格",
+     "when": "2026-10-21 赛季结束后"
+    }
+   ],
+   "discounts": [],
+   "tasks": "登录得1-5进度点，每日任务2-5点，周挑战30点；每级10点；通行证2000金鹰解锁全部等级，2500金鹰升级版含150进度点(15级)；开季28天后可金鹰购进度点。",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "主奖：意大利 IAR-81C(DB 605)与 FIAT 6616UB；奖券商店新上架 Bf 109 T-2；含 2020 年经典贴花回归奖池与新品 Black Widow 贴花。"
+  },
+  {
+   "key": "2026_nuclear_thunder",
+   "start_override": null,
+   "end": "2026-04-13T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 1st until April 13th (11:00 GMT)",
+   "type": "april",
+   "name_zh": "原子雷霆！",
+   "zh_id": 2556,
+   "deadlines": [
+    {
+     "what": "阶段每2天 11:00 GMT 切换：4月3/5/7/9/11日",
+     "when": "2026-04-11"
+    },
+    {
+     "what": "每阶段可花 999 金鹰补购，奖励解锁截止4月17日",
+     "when": "2026-04-17"
+    }
+   ],
+   "discounts": [],
+   "tasks": "美苏两阵营各6阶段，每阶段7700任务分，每2天11:00 GMT开放新阶段；各完成5阶段分别得 B-52H 与 Tu-95M(永久入科技树)；BR 10.3-13.0，可用预置载具。",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "愚人节活动；新武器反辐射导弹 AGM-88A/Kh-58U/Kh-25MPU(活动期间无制导误差)；新地图 Tropical Coast；B-52H 与 Tu-95M 活动后无核弹与 ECM。"
+  },
+  {
+   "key": "2025_the_great_war",
+   "start_override": null,
+   "end": "2025-04-07T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 1st until April 7th (11:00 GMT)",
+   "type": "april",
+   "name_zh": "战争雷霆：一战风云！",
+   "zh_id": 2036,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "协约国与德意志帝国各6阶段，每阶段5000任务分，每天11:00 GMT换阶段(4月2-6日)；各完成5阶段得全部载具；打1场活跃度≥70%得加载画面；每阶段可599金鹰补购。",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "愚人节活动；奖励载具永久入科技树；活动内坦克机动性强化，常规战斗用历史性能；SPAD S.XIII 与 Fokker D.VII 不可获得(将登 Aces of Thunder)；可驾驶齐柏林飞艇；AI 步兵5分/人、每战上限500分。"
+  },
+  {
+   "key": "2024_mad_thunder",
+   "start_override": "2024-04-01T11:00:00Z",
+   "end": "2024-04-22T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 1st (11:00 GMT) until April 22nd (11:00 GMT).",
+   "type": "april",
+   "name_zh": "废土雷霆：战意勃发！",
+   "zh_id": 1494,
+   "deadlines": [
+    {
+     "what": "全部资源、载具与改装件将从库存移除",
+     "when": "2024-04-23T11:00:00Z"
+    }
+   ],
+   "discounts": [],
+   "tasks": "组队/混战两模式收集资源并限时撤离；击毁敌人攒怒气值强化战车；进度树用资源合成载具与改装件；大沙暴来临前须撤离；活动结束后全部道具移除。",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "愚人节活动(疯狂的麦克斯梗)；奖励为贴花/装饰/船旗/加载画面/图标/称号；载具仅活动内使用，4月23日移除；中文版活动名「废土雷霆」。"
+  },
+  {
+   "key": "2023_mobile_infantry",
+   "start_override": "2023-03-31T12:00:00Z",
+   "end": "2023-04-17T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From March 31st (12:00 GMT) until April 17th (11:00 GMT)",
+   "type": "april",
+   "name_zh": "机动步兵活动",
+   "zh_id": 951,
+   "deadlines": [
+    {
+     "what": "皮纳塔棒(Lucky Piñata 材料)从库存移除，此后购阶段不补发",
+     "when": "2023-04-17T12:00:00Z"
+    },
+    {
+     "what": "金鹰补购阶段与领取奖励的最终截止",
+     "when": "2023-04-19T11:00:00Z"
+    }
+   ],
+   "discounts": [],
+   "tasks": "4种外骨骼步兵(突击/狙击/反坦克导弹/防空)巷战特殊任务；每阶段需在2天期内赚40000任务分解锁，新阶段4月2/4/6/8/10/12/14日11:00 GMT开放，共8阶段。",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "愚人节活动；任务分仅本活动内可得；奖励直接激活非兑换券；与 Lucky Piñata 活动联动(皮纳塔棒)；正文开始时间3月31日，较骨架4月1日为修正。"
+  },
+  {
+   "key": "2022_worm_thunder",
+   "start_override": "2022-04-01T09:00:00Z",
+   "end": "2022-04-25T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 1st 09:00 GMT until April 25th 11:00 GMT",
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {
+     "what": "未完成的荣誉标记(Marks of distinction)可金鹰补购，截止4月25日12:00 GMT",
+     "when": "2022-04-25T12:00:00Z"
+    }
+   ],
+   "discounts": [],
+   "tasks": "公牛/鹰两家族争夺沙漠3要点；「沙之路」每阶段2天，至少20000分升阶，集12枚荣誉标记得称号/头像/纹章/肉桂袋；每4000分得肉桂，每日上限10袋，可上市场交易。",
+   "sub_events": [
+    {
+     "title": "沙之路 (Path of the Sand)",
+     "start": "2022-04-01T11:00:00Z",
+     "end": "2022-04-25T11:30:00Z",
+     "note": "12 枚荣誉标记换独特称号/头像/纹章/肉桂袋"
+    },
+    {
+     "title": "四月宝箱 (April's Chest)",
+     "start": "2022-04-01",
+     "end": "2022-04-25",
+     "note": "宝箱1万银狮+钥匙5万银狮，可开出历届愚人节载具(含 Object 279、XM8 等)与涂装/消耗品"
+    }
+   ],
+   "confidence": 0.85,
+   "notes": "愚人节活动，《沙丘》梗(沙漠/香料/巨虫)；肉桂可上架市场；页面为旧版格式，奖励清单部分显示不完整；无中文版。"
+  },
+  {
+   "key": "2021_tailspin",
+   "start_override": "2021-04-01T11:00:00Z",
+   "end": "2021-04-05T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 11:00 GMT on the 1st of April till 12:00 GMT on the 5th of April",
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "卡通空战(空盗共和国)；击坠或助击累计10/25/50/85/130/185/250解锁7档战机；5/100/150/300击坠得贴花/Fox、Bear头像/「Air Pirate」称号。",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "愚人节活动：面向4+儿童的卡通画风玩笑(新年龄分级)；Fox/Bear 头像活动结束后变人形飞行员；与 Warfare 2077 共享「未来科技」拼装活动容器(每战斗10分钟1个)；无中文版。"
+  },
+  {
+   "key": "2021_warfare_2077",
+   "start_override": "2021-04-01T11:00:00Z",
+   "end": "2021-04-05T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 11:00 GMT on the 1st of April till 12:00 GMT on the 5th of April",
+   "type": "april",
+   "name_zh": "赛博雷霆2077",
+   "zh_id": 277,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "2077未来战场：激光坦克/智能导弹/无人机/光学迷彩(Minotaur/Hydra/Harpy/Wyvern等)；击坠或助击10/30/50/100/300得纪念章/头像/「Veteran 2077」称号。",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "愚人节活动(赛博朋克梗)；中文版结束时间写北京时间4月5日19:00(=11:00 GMT)，与英文版12:00 GMT差1小时，以英文为准；与 TailSpin 共享「未来科技」拼装容器。"
+  },
+  {
+   "key": "2020_space_thunder",
+   "start_override": "2020-04-01T11:00:00Z",
+   "end": "2020-04-06T09:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 1st, (11:00 GMT) till April 6th (09:00 GMT)",
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "4类太空服(突击/侦察/近战/支援)太空平台作战，歼灭对方全部力量；掉落黑漆用于 Space Race 拼装活动载具自制涂装，成品涂装可上架市场。",
+   "sub_events": [],
+   "confidence": 0.8,
+   "notes": "愚人节活动；月球发现 Object 279 的太空竞赛梗；黑漆与成品涂装均关联 Space Race 拼装活动；本文无积分/阶段任务结构；无中文版。"
+  },
+  {
+   "key": "2019_earth_thunder",
+   "start_override": "2019-04-01T11:00:00Z",
+   "end": "2019-04-05T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 11:00 GMT on the 1st of April until 11:00 GMT on the 5th of April",
+   "type": "april",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "绿丘市异形竞技场战斗；入口在游戏内「事件」标签；正文仅背景故事与预告，无任务与奖励细节。",
+   "sub_events": [],
+   "confidence": 0.75,
+   "notes": "愚人节活动；阴谋论风格宣传文，无奖励结构(UFO 战斗)；无中文版。"
+  }
+ ]
+}

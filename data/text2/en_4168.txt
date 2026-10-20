@@ -1,0 +1,102 @@
+[Shop] How can you get a captured Bf 109 F-4? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get a captured Bf 109 F-4? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+1 August 2016
+Shop
+<>
+Pilots and tankers, we now have new offers for you in the renewed “Warbonds” shop. The beginning of the new month will give you access to new premium vehicles which will be available for the completion of battle tasks.
+In order to receive them, just complete daily Battle tasks in War Thunder battles and earn a special currency - “Warbonds”, which can be used to purchase vehicles previously only obtainable with Golden Eagles!
+Three of the five available vehicles:
+Hellcat Mk I (Britain)
+The American Grumman F6F Hellcat was one of the most famous and feared aircraft in the skies above the Pacific during the Second World War. However the aircraft also played a vital role in the Royal Navy’s Fleet Air Arm, with some 1300 being delivered under the “lend-lease” agreement. Initially proposed as the Grumman Gannet, the Hellcat F Mk I began operations with the Royal Navy in 1943. This rugged and sturdy fighter is armed with 6 x 50.cal M2 Browning machine guns and can be loaded with HVAR rockets, 1000lb bombs and even Tiny Tim rockets. Dont miss your chance to add this American Naval Legend to your British Fleet Air Arm collection!
+<> Bf 109 F-4 (USA)
+The Friedrich series of the Messerschmitt Bf 109 was regarded by many its pilots to be the finest of all models. Its no surprise that the allies were particularly eager to get their hands on any of the Luftwaffe's famous eagles for testing and evaluation, who could blame them! The Bf 109 F-4 is a true community favorite amongst War Thunder Pilots. Its exceptional all round performance and centerline weaponry arrangement make it a staple of many virtual battles. This American captured version reflects the aircraft in its testing scheme as it was evaluated by the USAAF. Coded EB-1. American pilots will not want to miss the opportunity to take to the skies in this German classic and reap the rewards of the excellent bonuses it provides
+<> P-39K-1 (USSR)
+The P-39 was not a massive success story for the Bell Aircraft Corporation in United States service. Overshadowed by the P-51 and P-47, it was never really given a chance in USAAF service. The USSR however, was very happy with the performance and characteristics of the aircraft and employed the aircraft under “Lend-Lease” to great success. Many Soviet Aces, such as Alexander Pokryshkin and Nikolay Gulaev for example, piloted the P-39 into battle as did so many other Soviet pilots during the Second World War. The Airacobra’s powerful 37mm cannon made it excellent as a medium to low level supporting aircraft, as well as an air-superiority fighter over the Eastern front. The Soviet P-39K-1 can now join the ranks of your Soviet Air Force line-up with Warbonds!
+<>
+We have also added a box that contains “orders” - you can purchase them with warbonds from now on.
+The current war bonds will not be removed immediately at this time, you will still be able to use them only until the 7th of August for the purchase of some goods in the war bond shop.
+5 different premium vehicles from different nations and other items will be available in the “Warbonds” shop this month:
+<>
+In July for earned war bonds you can obtain:
+Hellcat Mk I (Britain)
+IL-2 (1942) (Germany)
+Bf 109 E-3 (Japan)
+Bf 109 F-4 (USA)
+P-39K-1 (USSR)
+"Fighting Cock" emblem of No. 43 Squadron, RAF. Decal by Colin 'Fenris' Muir
+Supply boxes (3D decorations - Signs)
+Supply boxes (3D decorations - other)
+Supply boxes containing 30/60/90/300/600/900% and boosts valid for 1 battle
+Premium booster: +180%
+Supply box with vehicle rent for 1 to 24 hours for the following vehicles:
+Cromwell RP-3
+Do.335B-2
+J2M4 Kai
+Super Hellcat
+SU-122P
+Order
+<>
+<>
+<>
+"Fighting Cock" emblem of No. 43 Squadron, RAF. Decal by Colin 'Fenris' Muir
+Battle tasks - these individual tasks bring variety into the gameplay and prevent situations when all the players in a battle try to complete one specific task ignoring mission objectives needed for a victory. They are available for players that have reached the 3rd rank of any nation. For completion, the player will receive Silver Lions and Warbonds - special in-game currency with their own shop, where you can purchase a lot of different items.
+You can read more about battle tasks and war bonds in our devblog .
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

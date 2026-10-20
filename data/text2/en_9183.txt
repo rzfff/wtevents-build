@@ -1,0 +1,92 @@
+[Event] Play in the KV-7 vs KV-7 Event and Earn Tickets To Have a Chance of Winning the IS-7 During Our Anniversary Stream! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Play in the KV-7 vs KV-7 Event and Earn Tickets To Have a Chance of Winning the IS-7 During Our Anniversary Stream!
+1 November 2024
+Event
+<>Today, the Dreams Come True event featuring the KV-7 as the main reward has started! While exciting as it is, it’s War Thunder’s 12th birthday this year, so we wanted to spice it up a bit for you. We’re happy to announce a few side activities related to the KV-7 and the game’s anniversary!
+KV-7 Dreams Come True Event Details
+<>Your eyes don’t deceive you — there’s now a chance to win the famous IS-7. As it’s War Thunder’s 12th anniversary, we’re giving away IS-7 heavy tanks during our anniversary stream to 12 lucky winners through earned tickets during a new event. Read on!
+<> Introducing the “Chasing the Older Brother” Event!
+<> When: From November 15th (11:00 GMT) until November 18th (11:00 GMT), earn mission points in the “Chasing the Older Brother” event and get tickets for a chance to win the famous IS-7, added directly to your account.
+<>The “Chasing the Older Brother” is an event with arcade levels of difficulty where everyone plays in a KV-7 vs KV-7 mode with no aircraft set on “classic” small maps: [Domination] Kuban, [Domination] Poland, [Domination] Eastern Europe, [Domination] Abandoned Factory, [Domination] Karelia, [Domination #1] Mozdok, [Domination] Advance to the Rhine, [Domination] Sinai, [Domination] Volokolamsk. Everyone has 3 respawns.
+<>To participate in the Chasing the Older Brother event you need to own the KV-7, which is obtainable during the Dreams Come True event.
+<>You can find this event under Events & Tournaments from the hangar.
+<> Tickets
+<>Let’s see what tickets are. 1 ticket is given for every 5,000 mission points earned in the “Chasing the Older Brother” event. Tickets are limited to 5 per day (a new day starts at 11:00 GMT), so the maximum amount of tickets you can acquire is 15.
+<>You can track your daily progress by heading to your Profile > Achievements > “Chasing the older brother” section. Each ticket that you earn has its own unique ID in your inventory.
+<> Here is a link to the full list of player IDs and ticket IDs. It will be removed after two weeks.
+<>You can look up your ID in the list by first finding it on your profile page and then searching the file for it — all your tickets with corresponding IDs are in it.
+<>Read below to see how tickets give you a chance to win the IS-7.
+<> Tickets & How they can win you the IS-7 on the Anniversary Stream
+<>How do earned tickets convert into a chance to win the IS-7? On November 22nd (16:00 GMT), we’re going to host an anniversary stream where among other things, this giveaway will take place with Mike and Tom being the hosts.
+The list of winners ▼
+<>ID: 166771147, 68203021, 12421220, 15690456, 138071412, 50367629, 108935917, 8561703, 1890636, 80971772, 91001217, 45362359
+<> WAR THUNDER's twitch channel
+<>Each ticket that you have will enter you into the giveaway draw. The more tickets you have, the higher chance you have of winning.
+<>12 different winners will be drawn on stream — each will win the IS-7, added directly to their account! If a winner already owns the IS-7, we’ll contact them later to choose any pack from the Gaijin Store and another winner for the IS-7 will be redrawn on the stream.
+<> Twitch Drops!
+<>Twitch Drops will be available for the entire weekend on a select amount of content creator Twitch channels as well as the Official WT Channel during the anniversary giveaway stream. The exact channels can be seen on Twitch under the “Drops & Rewards” section. Be sure to watch to earn yourself some goodies!
+<> Login to your Twitch account → link your Gaijin account → click “Allow” to be able to receive Twitch Drops !
+<> When: From November 22nd (12:00 GMT) until November 25th (10:00 GMT).
+<> For 15 minutes watch time : 50% Research Points Booster for 10 battles
+<> For 30 minutes watch time : 50% Silver Lion Booster for 10 battles
+<> For 1 hour watch time: 1 day Premium Account
+<> For 2 hours watch time: “777th Tank Battalion Emblem” decal
+“777th Tank Battalion Emblem” decal
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

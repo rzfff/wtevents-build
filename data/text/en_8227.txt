@@ -1,0 +1,230 @@
+[Event] Legend of Victory: BM-31-12 “Andryusha” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Legend of Victory: BM-31-12 “Andryusha”
+5 May 2023
+Event
+<>Meet the bane of the Wehrmacht — MLRS BM-31-12 “Andryusha” ! This vehicle undertook its baptism by fire under Novgorod in Russia and helped push the front way back to Berlin — truly a Legend of Victory! You can receive it and many other prizes, including keys from the “Demolition crate” that contains items from past War Thunder events!
+<>From May 10th (11:00 GMT) until May 22nd (11:00 GMT) earn points in battles, unlock stages, and receive prizes!
+<>BM-31-12, Rank III, USSR, Premium
+<>The BM-31-12 will surely please fans of rocket artillery with its powerful strikes that leave no chances of survival for light and medium vehicles. Its warheads carry almost 30 kg of explosives — six times the amount of the legendary BM-13 “Katyusha”! “Andryusha” joined the fight late — in the final year of the war — but it certainly contributed to the Great Victory!
+Patchett Machine Carbine decoration
+M1918A2 decoration
+“T-54-412 board number"
+decal
+“Glory to the Stalin Guard!”
+decal
+"For excellent artillery training" decal
+<>How to earn prizes
+<>Each level unlocks for 35,000 mission points and earns you a new reward.
+<>Score mission points in ground battles of rank III or above in Arcade, Realistic, or Simulator battles. See the score multiplier in the description of the mission, it depends on the gaming mode and maximum rank of the vehicles for the mission.
+<>You may also score points using certain event vehicles of ranks I-II. Such vehicles have event names in their info cards.
+<>Stages change every two days at 11:00 GMT: 12th, 14th, 16th, 18th, and 20th of May.
+<>Your rewards are based on the number of stages you’ve unlocked:
+For 1 stage: “T-54-412” decal
+For 2 stages: one of decals + Crowbar
+For 3 stages: one of decorations + Crowbar
+For 4 stages: one of decals + Crowbar
+For 5 stages: one of decorations + Crowbar
+For 6 stages: premium BM-31-12 “Andryusha”
+<>You can track your progress by clicking on your Nickname → Achievements → Legend of Victory. If you don’t complete a stage in time, until May 25th you will be able to purchase the stages for Golden Eagles and receive the rewards.
+<>Demolition crate
+<>A unique opportunity to receive items from previous War Thunder events, including rewards from Chronicles of World War II, three seasons of World War, Pages of History, War Thunder Birthdays, and last year’s Legend of Victory — over a hundred different prizes in total!
+<>From May 10th (12:00 GMT) until June 5th (12:00 GMT) you can purchase a Demolition crate and a Crowbar to open the crate for Silver Lions in the in-game shop.
+<>Demolition crate contains unique decals, decorations, player icons, loading screens, vehicles, and camouflages. Some items from past events appear for the first time as coupons, and you can trade them on the Marketplace! There are also Silver Lions, boosters, universal backups, wagers, and orders.
+Demolition crate
+Crowbar
+<>The price of a Demolition crate is 10 000 Silver Lions, the price of a Crowbar is 50 000 Silver Lions. You can also receive a Crowbar for unlocking 2, 3, 4, and 5 levels of the Legend of Victory event. On June 5th, 12:00 GMT all Demolition crates and Crowbars will disappear from your inventory, so be sure to use them before that time!
+"Tiger Jaws" decal
+Profile icon John Lavarack
+Battle of Vitebsk decal
+Owen Machine Carbine
+decoration
+USS Phelps emblem
+Semi-automatic sniper rifle
+decoration
+<>
+<>
+<>
+<>
+<>
+<>All prizes are immediately activated on your account, but there is a chance to receive some of them as coupons, unless stated otherwise.
+Full list of items in Demolition crates (open spoiler) ▼
+<>Vehicles (will be immediately activated on an account or in the form of coupons):
+He 51 B-2/H
+TB-3M-17-32 (immediately activated on the account only)
+LaGG-3-23 (immediately activated on the account only)
+DB-7 (Great Britain)
+XF5F
+I-29
+M8 LAC
+Ya-5M (immediately activated on the account only)
+D.371 H.S.9 (immediately activated on the account only)
+A13 Mk II 1939
+38 cm Sturmmörser (immediately activated on the account only)
+IS-2 No.321 (immediately activated on the account only)
+BA-11
+USS Phelps
+IL-2 M-82
+M60 AMBT
+AMX-50 Surblindé
+Spitfire F Mk IXc
+T18E2
+Lorraine 155 Mle.50 (immediately activated on the account only)
+Tandem MAI (immediately activated on the account only)
+Whirlwind P.9
+PV-2D
+Yak-3T (immediately activated on the account only)
+MK-II "Matilda" (USSR)
+Excelsior
+KV-2 (1940)
+Comet I "Iron Duke IV"
+Bong's P-38J-15
+MBR-2-M-34
+Spitfire Mk IXc (USSR) (immediately activated on the account only)
+Hawk H-75A-2 (Germany)
+<>Camouflages (only in the form of coupons):
+BA-11: Bicolor summer camouflage (first time as a coupon)
+USS Phelps: Deforming camouflage Measure 32 (first time as a coupon)
+IL-2 M-82: Bicolor camouflage (first time as a coupon)
+M60 AMBT: Tricolor summer camouflage (first time as a coupon)
+T18E2: European camouflage (first time as a coupon)
+Whirlwind P.9: Standard unpainted camouflage (first time as a coupon)
+PV-2D: "Olathe" camouflage
+MK-II "Matilda" (USSR): Summer camouflage
+<>Decorations (will be immediately activated on an account or in the form of coupons):
+Anniversary cake (immediately activated on the account only)
+Golden X (immediately activated on the account only)
+PIAT (first time as a coupon)
+M1919A6 (first time as a coupon)
+Semi-automatic sniper rifle (Germany) (first time as a coupon)
+Assault rifle (Israel) (first time as a coupon)
+Reising M50
+Owen Machine Carbine
+PPD 34/38
+Mauser M98K
+Type 99 sniper rifle
+Beretta Model 38
+PPSh-41
+М3 "Grease gun"
+PPSh-42
+StG 44
+Type 100
+<>Decals (will be immediately activated on an account or in the form of coupons):
+10 Year Better Together decal (immediately activated on the account only)
+10 years ahead! pin-up (immediately activated on the account only)
+The Snail is 9 years old! decal (immediately activated on the account only)
+8 years of Victories! (immediately activated on the account only)
+7 years of War Thunder! (immediately activated on the account only)
+6 years of War Thunder! (immediately activated on the account only)
+5 years of War Thunder! (immediately activated on the account only)
+Brave text (first time as a coupon)
+Strong text (first time as a coupon)
+321 tank number (first time as a coupon)
+The Kerch–Eltigen Operation (first time as a coupon)
+The Philippines Campaign (1941-1942) (first time as a coupon)
+USS Phelps emblem (immediately activated on the account only)
+Battle of the Chinese Farm (first time as a coupon)
+Battle for the Fulda Gap (first time as a coupon)
+Emblem of the 600th Armored Brigade (immediately activated on the account only)
+Operation Nordwind
+Second Battle of El Alamein
+Battle for Caen
+Battle of Vitebsk
+Bear head (first time as a coupon)
+Boar head (first time as a coupon)
+Crocodile head (first time as a coupon)
+Snake head (first time as a coupon)
+Tiger head (first time as a coupon)
+Wolf head (first time as a coupon)
+Monster Jaws (first time as a coupon)
+Tiger Jaws (first time as a coupon)
+Shark Jaws (first time as a coupon)
+Boar Jaws (first time as a coupon)
+Crocodile Jaws (first time as a coupon)
+<>Profile icons (will be immediately activated on an account):
+John Lavarack
+Mikhail Yegorov
+Richard Winters
+Charles Upham
+Aleksandra Samusenko
+Marcario Garcia
+Avigdor Ben-Gal
+Marcel Albert
+Gregory Boyington
+Dmitry Osatyuk
+Norman Schwarzkopf
+Reginald Mitchell
+Gerard Roope
+<>Loading screens (will be immediately activated on the account):
+9th Anniversary of War Thunder
+38 cm Sturmmörser
+<>Trophies (only in the form of coupons):
+World War trophy (decoration)
+World War trophy (vehicle)
+<>Silver Lions
+10000 — 1000000
+<>Expendable item
+Battle trophy (RP booster)
+Battle trophy (SL booster)
+Universal back-up
+Universal back-up x2
+Universal back-up x3
+Random wager
+Random order
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

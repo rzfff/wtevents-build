@@ -1,0 +1,104 @@
+[Event] Pages of History (October): Pacific Ace - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (October): Pacific Ace
+27 September 2024
+Event
+<>In this month’s Pages of History, you’ll be at the center of events that took place in different theaters of war. Belarus, the Philippines, Egypt and Hungary: take part in battles with the vehicles corresponding to these historic battles and receive prizes.
+<>
+<>From October 1st until October 31st, you’ll be offered 8 tasks consecutively. Completing each will reward you with a trophy, and completing all of them will earn you a unique player icon.
+<>Richard Bong was the most successful American ace of World War II who shot down 40 enemy aircraft in his P-38 Lightning. Bong himself considered his accuracy to be poor, but he compensated for this with his audacity: he got as close to enemy aircraft as possible to make sure he hit them. At 22, he became a captain, at 23, a major, and at 24 for his heroism in the Battle of Leyte, he was awarded the Medal of Honor.
+<> Richard Bong
+<>You can immediately purchase this profile icon for Golden Eagles until November 3rd, 11:30 GMT without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>October 1st — October 4th
+<> Battle of the Scheldt
+<>From October 2nd to November 8th 1944, Canadian troops fought a series of military operations along the Scheldt River on the border between Belgium and the Netherlands to secure Allied supply lines through the port of Antwerp. Due to Allied strategic errors, the battle began too late. The Germans were reinforced and ready to defend themselves, making it become the longest and bloodiest engagement for the Canadian Army in the war.
+<>October 5th — October 8th
+<> Battle of Vella Lavella (naval)
+<>In October 1943, Japan was evacuating its garrisons from the Solomon Islands. On October 6th, 600 Japanese soldiers remained on the northern part of the island of Vella Lavella, boarding barges guarded by 9 destroyers. The Americans sent 6 of their own destroyers to intercept the evacuation, but they were unable to stop it. As a result of the battle, both sides lost one destroyer each.
+<>October 9th — October 12th
+<> Orsha Operation
+<>From October 12th to December 2nd, 1943, the USSR conducted an unsuccessful offensive operation near the city of Orsha in Belarus. The troops, exhausted by the just-completed Smolensk operation, were not ready to overcome the well-organized multi-echelon defense of the Wehrmacht and suffered huge losses of more than 100,000 soldiers, 25,000 of which were killed. Following the operation, the commander of the Western Front, General Vasily Sokolovsky, was removed from his position.
+<>October 13th — October 17th
+<> Gumbinnen Operation
+<>On October 16th, 1944, Soviet troops launched an offensive into East Prussia, where the Wehrmacht held a strong defense. By October 22nd, the Red Army had taken Goldap and Gumbinnen, but within days it had lost both cities and was pushed back. Both sides suffered significant losses.
+<>October 17th — October 20th
+<> Battle of Leyte
+<>At dawn on October 17th 1944, American forces began landing in the Philippines. The Leyte garrison, consisting of tens of thousands of Japanese soldiers, held out until the end of the year, with individual guerrillas continuing to resist until the end of the war.
+<>October 20th — October 23rd
+<> Second Battle of El Alamein
+<>On October 23rd 1942, the decisive battle of the North African campaign of World War II began. In 13 days of intense fighting, Allied forces under the command of Bernard Montgomery defeated the Italo-German group of Erwin Rommel, pushing them out of Egypt and Libya into Tunisia and putting an end to the threat of the Axis reaching the Middle East.
+<>
+<>October 23rd — October 27th
+<> Battle of Henderson Field
+<>On August 7th 1942, the Americans captured the Henderson Field airfield on Guadalcanal. Japanese troops made several attempts to recapture it, the last of which occurred on October 23rd-26th: infantry with air and sea support unsuccessfully attacked Henderson Field. In three days, Japan lost 2-3 thousand soldiers, a cruiser and 14 aircraft.
+<>October 28th — October 31st
+<> Budapest Operation
+<>After Romania went over to the Allies, the USSR turned its attention to their next strategic target: Hungary. Hitler considered its retention to be the most important task and spared no resources for this purpose. Soviet and Romanian troops began their offensive on October 29th, but they reached Budapest itself only two months later, and took it only by mid-February.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

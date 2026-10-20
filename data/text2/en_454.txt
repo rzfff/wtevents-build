@@ -1,0 +1,105 @@
+Operation Hailstone – The Truk Offensive - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation Hailstone – The Truk Offensive
+Attention! Outdated news format. Content may not display correctly.
+16 February 2014
+From 12:00 GMT (04:00 PST) February 16th till 06:00 GMT February 18th (22:00 PST February 17th)
++30% RP gain for SBD-3, TBF-1c and F6F-3
+<>
+By early 1944 the United States Navy was on the offensive in the Pacific Theatre of Operations. The USN and USMC swept westward, island hopping from objective to objective to close the gap with their ultimate goal: Japan. One of the main threats to progress for US forces were the Japanese naval and air bases on the Truk island in the Carolines . Japan had occupied the Caroline Islands in 1914 and had built up a presence during the inter-war period. By the time hostilities had broken out with the United States, the Truk Lagoon was now home to the main Japanese base in the South Pacific, often compared to Pearl Harbor and known as the ‘Gibraltar of the Pacific’. Five airstrips and a seaplane base housed Truk’s air assets, whilst facilities were also in place to operate aircraft carriers, battleships – including the colossal Yamato and Musashi - and smaller warships. Coastal defence batteries, submarine pens, torpedo boat stations and radar added to the island fortress network which blocked the path of the US military and threatened future operations in the Marshall Islands. Truk was also the site of a temporary holding facility for allied Prisoners of War.
+<>
+In February 1944, under the command of veteran naval aviator Vice Admiral Marc Mitscher, US Task Force 58 moved into position for the assault: Operation Hailstone. Task Force 58 was centered around five fleet carriers – USS Enterprise, USS Yorktown, USS Essex, USS Intrepid and USS Bunker Hill – supported by four smaller light carriers, seven battleships and a formidable force of smaller warships. The nine aircraft carriers had embarked a force of over 500 naval aircraft, including F6F Hellcat fighters, TBF Avenger torpedo bombers and SBD Dauntless dive bombers.
+<>
+Using the elements to his advantage Vice Admiral Mitscher attacked on February 16th from behind the cover of a weather front which helped him to achieve some surprise against the defending Japanese forces. However, US reconnaissance flights earlier in the month had already alerted Japanese forces in the area that Truk was a potential target. As a result of this, Japanese Admiral Koga had already ordered many of his naval assets to be moved to safer areas.
+<>
+Waves of attacks by air, surface vessels and submarines were carried out over the next two days and nights, with warships also being positioned to prevent any attempted Japanese escape from the anchorage. Hellcats quickly established air superiority in the skies over Truk, claiming 56 Japanese aircraft shot down and destroying a further 72 on the ground in exchange for only four losses. Avengers and Dauntlesses who joined the surface fleet’s attack on Japanese shipping: three Japanese light cruisers, six destroyers, several other smaller warships and auxiliaries and a staggering 32 transport and merchant vessels were sunk by the American onslaught, totaling 191,000 tons of shipping lost. Many of the merchant vessels were already loaded with vital supplies and reinforcements for Japanese units in theatre.
+<>
+The defenses and facilities of Truk itself were also subjected to constant attack by Avengers and Dauntlesses, as well as Hellcats equipped for the ground attack role, as witnessed by the POWs at the holding facility including top scoring USMC fighter ace ‘Pappy’ Boyington . Japanese retaliatory strikes were executed throughout the battle, with light damage being sustained to the battleship USS Iowa from a Japanese bombing attack, and a torpedo striking the carrier USS Intrepid and forcing her to retreat to Pearl Harbor for repairs.
+<>
+The sheer tonnage of Japanese shipping destroyed in only two days was unparalleled. Of arguably equal importance was the destruction wreaked upon Japanese air power in the area: seventy aircraft were lost in air-to-air combat, with a further two hundred destroyed on the ground. US aerial losses were between twenty and twenty five aircraft, mainly to anti-aircraft fire over Truk itself. 29 US aircrew were killed, with a further 11 lives being lost from the attack on USS Intrepid.
+<>
+The strategic effect of the overwhelming successes of Operation Hailstone was remarkable. The Japanese garrison at Eniwetok Atoll in the Marshall Islands was denied the vital support it needed, and this too fell to the advancing American forces within a week, after sustaining over 2500 casualties. Truk, like so many other island bases, was isolated by the American island hopping strategy and left virtually ineffective. Two months later some 100 Japanese aircraft were re-located to Truk but these too were all but destroyed by American air attacks. Truk was never the target of any of the allied forces’ amphibious landings, but was formally surrendered on September 2nd 1944 aboard the heavy cruiser USS Portland.
+<>
+With so many ships destroyed in the relatively shallow waters of the Pacific, Truk is now known as the ‘Wreck Diving Capital of the World’. Operation Hailstone is today remembered as one of the most destructive operations in naval history.
+<>
+Discuss on our forums
+<>
+The author
+Mark Barber, War Thunder Historical Consultant
+<>
+Mark Barber is a pilot in the British Royal Navy's Fleet Air Arm. His first book was published by Osprey Publishing in 2008; subsequently, he has written several more titles for Osprey and has also published articles for several magazines, including the UK's top selling aviation magazine 'FlyPast'. His main areas of interest are British Naval Aviation in the First and Second World Wars and RAF Fighter Command in the Second World War. He currently works with Gaijin Entertainment as a Historical Consultant, helping to run the Historical Section of the War Thunder forums and heading up the Ace of the Month series.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,99 @@
+Operation "Epsom" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation "Epsom"
+Attention! Outdated news format. Content may not display correctly.
+30 June 2014
+<>
+<>
+<>
+A Churchill tank moves up towards the village of Tourville, in preparation for an attack on Hill 112
+With the Normandy landings being a success in June 1944, the Allies continued their advance into occupied France. The allies were faced with several strategic objectives to capture and secure to ensure forces were supported by a safe and reliable logistics route. These included Cherbourg, Le Havre and perhaps the most difficult of all early objectives: Caen.
+Operation Epsom was created and implemented for the capture of Caen in order to establish a bridgehead. It once again pitted the famous adversaries, General Erwin Rommel and General Bernard Montgomery, who had last fought against each other across the sands of North Africa. Caen did not fall into the hands of the Allies on D-Day as initially planned; it was therefore imperative to set up an operation to capture this vital point. Mainly opposing the Canadian and British troops as they pushed inland were regular German army units supported by elements of the Hitler Youth and SS Panzer Divisions.
+<>
+<>
+<>
+Bundesarchiv, Bild 101I-301-1955-18A / Kurth / CC-BY-SA, German troops on PzKpfw V Panther, Normandy
+In the days following the success at Gold, Sword and Juno beaches, British and Canadian forces advanced to the south. Some 60,000 soldiers supported by 600 British and Canadian armoured vehicles advanced towards the vital strategic objective of Caen. Montgomery, relying on tried and tested tactics, launched the assault on June 26 by a shot of rolling artillery. His plan relied on massive artillery fire to neutralize his opponent whilst moving up assault troops. His guns were not intended to aim at the objectives directly, but rather as an area attack weapon. The effect was immediate and disorganized the German defenses.
+Nevertheless, the plan soon encountered problems: the allies were facing fanatics of the 12th Panzer SS Hitlerjungend. Against multiple attacks, German forces dug in and fought without surrender, breaking up the advance of the Anglo-Canadian forces. A significant Canadian breakthrough, a vital corridor which allowed a flow of reinforcements, was also severely threatened when the two sides found themselves under a German counter attack.
+<>
+<>
+<>
+A 17-pdr anti-tank gun and 'Quad' artillery tractor burning on Hill 112 after being hit by mortar fire, 15 July 1944.
+Another notable clash was the Battle of Hill 112, about 10km from the town of Caen, which overlooks the city. It was fiercly guarded by Rommel’s forces. This location was vital for strategic control of Normandy since it allowed the surveillance of the valleys of the Odon and Orne. Despite the onslaught by British Churchill tanks, only one side of the hill was captured. German resistance was fierce with Tiger and Panther tanks stands opposing the British for this key position. The British armored force was removed from the hill and relocated on the evening of June 29th in an attmept to guard against further counter attacks by SS Panzers. Only a small light infantry group remained on site but were driven from their position by the Germans overnight.
+Post war analysis of Operation Epsom is still very much debated in terms of which side, if any, gained an upper hand. The only conclusion which can be drawn beyond dispute is that the operation was hugely costly for both the allies and the German forces.
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

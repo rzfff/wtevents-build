@@ -1,0 +1,180 @@
+[Shop] Summer Sale in the Gaijin Store! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Summer Sale in the Gaijin Store!
+Attention! Outdated news format. Content may not display correctly.
+23 June 2021
+Shop
+<>From the 23rd of June at 11:00 GMT until the 30th of June at 11:00 GMT
+<> Bundles and standalone packs with a discount!
+<>30% discounts!
+<>All vehicle packs (except “Red Skies” update packs) are discounted!
+<>Special bundles 50% off!
+<>Don’t miss the chance to get rare aircraft - P-38K and La-11 !
+P-38K and T29 Bundle -50%
+The Bundle Includes:
+T29 Pack;
+P-38K Pack.
+69.98 34.99
+Store
+La-11 and IS-6 Bundle -50%
+The Bundle Includes:
+IS-6 Pack;
+La-11 Pack.
+69.98 34.99
+Store
+Dora and King Tiger Bundle -50%
+The Bundle Includes:
+King Tiger Pack;
+Dora Pack.
+69.98 34.99
+Store
+Yak-38 and T-55AM-1 Bundle -50%
+The Bundle Includes:
+T-55AM-1 Pack;
+Yak-38 Pack.
+119.98 60
+Store
+Black Shark and T-72AV (TURMS-T) Bundle -50%
+The Bundle Includes:
+T-72AV (TURMS-T) Pack;
+Black Shark Pack.
+109.98 55
+Store
+German Fiat G.91 R/4 and Leopard Bundle -50%
+The Bundle Includes:
+Leopard Pack;
+German Fiat G.91 R/4 Pack.
+109.98 55
+Store
+Fiat G.91 R/4 and OF-40 Mk.2 (MTCA) Bundle -50%
+The Bundle Includes:
+OF-40 Mk.2 (MTCA) Pack;
+Fiat G.91 R/4 Pack.
+109.98 55
+Store
+AV-8A Harrier and XM-1 General Motors Bundle -50%
+The Bundle Includes:
+XM-1 General Motors Pack;
+AV-8A Harrier Pack.
+119.98 60
+Store
+JASDF Sabre and Type 74 mod G/Kai Bundle -50%
+The Bundle Includes:
+Type 74 mod G/Kai Pack;
+JASDF Sabre Pack.
+109.98 55
+Store
+Shenyang F-5 and Type 69-IIG Bundle -50%
+The Bundle Includes:
+Type 69-IIG Pack;
+Shenyang F-5 Pack.
+109.98 55
+Store
+Saab J-29D and CV 90105 TML Bundle -50%
+The Bundle Includes:
+CV 90105 TML Pack;
+Saab J-29D Pack.
+109.98 55
+Store
+Hunter FGA.9 and Rooikat 105 Bundle -50%
+The Bundle Includes:
+Rooikat 105 Pack;
+Hunter FGA.9 Pack.
+109.98 55
+Store
+Vautour IIA and Super AMX-30 Bundle -50%
+The Bundle Includes:
+Super AMX-30 Pack;
+Vautour IIA Pack.
+109.98 55
+Store
+SO.8000 Narval and Somua SM Bundle -50%
+The Bundle Includes:
+Somua SM Pack;
+SO.8000 Narval Pack.
+69.98 34.99
+Store
+Wyvern and AVRE Bundle -50%
+The Bundle Includes:
+AVRE Pack;
+Wyvern Pack.
+79.98 40
+Store
+<>
+<>The final price of the bundle will depend on whether you already have some of the packs or not. Be sure to login to the store to see your individual price!
+<>The offer is valid for PC, Mac and Linux users only.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

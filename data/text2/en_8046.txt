@@ -1,0 +1,107 @@
+[Shop] War Thunder winter Sale! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+War Thunder winter Sale!
+29 December 2022
+Shop
+<> From the 29th of December at 11:00 GMT until the 5th of January at 11:00 GMT
+<>A second wave of discounts!
+<> Purchase
+<>Discounted customizable bundles!
+<>The new discount mechanism will allow you to create your own bundle of multiple packs with a discount by adding them to your Cart. Each single pack has 25% off, but the discount increases to 50% if you add two or more packs to the Cart at once.
+<> Note! The discount will only be applied if you add these packs to the Shopping Cart and purchase them all together as part of one transaction. All vehicle packs are eligible for this offer except for Starter packs and those added in the “Fire and Ice" and “Apex Predators” updates.
+<>Additional bonuses!
+<>In addition to the discounts, you will receive unique decals and titles by purchasing packs selected for the Winter Sale via the Cart.
+<> 2 packs
+Unique Fanboy Snail decal;
+<>Unique “Fanboy” title.
+<> 3 packs
+Unique The Connoisseur Snail decal;
+<>Unique “Connoisseur” title.
+<> 4 packs
+Unique Treasure hunter Snail decal;
+<>Unique “Treasure hunter” title.
+<> $/€150+ spent
+Unique “Shopaholic” title.
+<>If you made several separate purchases via the Cart, you will receive all respective bonuses after recalculation. For example, if you make one purchase of 2 packs and another purchase of 3 packs, you will receive all 3 decals and titles after recalculation. Recalculation will be made after January 9th.
+<> Note! You can also get the unique “Shopaholic” title, if you log in to the game from the 29th of December until the 5th of January and gain three victories, and at the same time you have previously purchased all packs that are included in the sale. The title will be assigned after the 9th of January to all users who have fulfilled these conditions.
+<>The offer is valid for PC, Mac and Linux users only. PlayStation and Xbox users will be able to get unique titles and decals if they make purchases worth $/€40, $/€60, $/€80, and $/€150 respectively during the offer. Titles and decals will be assigned after the 9th of January to all users who have fulfilled these conditions.
+<> Note! The following packs will be retired from stores on all platforms after the promotion ends:
+T129 ATAK Pack;
+Vautour IIN Pack;
+Lightning F.53 Pack;
+Type 74 mod G/Kai Pack.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,120 @@
+[Special] All you need to know about aircraft crews - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+All you need to know about aircraft crews
+Attention! Outdated news format. Content may not display correctly.
+4 July 2014
+Special
+From 15:00 GMT July 4 to 02:00 GMT July 7:
+20% Discount on crews accelerated training for Golden Eagles
+20% Discount on "Expert" qualification
+30% Discount on "Ace" qualification
+Today we would like to give you an insight into aircraft crew skills and qualifications . This game system is entirely optional, which means that both a novice and experienced player in War Thunder can achieve the best results, even when using inexperienced crews. With the help of skills and qualifications, pilots can adapt the game to their own unique fighting style and use their favourite vehicles to their full extent. Many veteran pilots are proud of their high level crews!
+The number of points accrued for flight crew experience depends on the research points obtained in a battle. In Realistic and Simulator battles you will receive approximately 1% of the research points earned for the aircraft the crew is flying in; in Arcade battles you gain 3%, but the experience is spread among multiple crews. So the average speed of leveling in all three modes is approximately equal. There is another way to develop the crew - buying experience points for Golden Eagles in the " Accelerated Training " menu.
+Manage your skills via the Crew menu
+Note the pilot icon in the lower left corner of the slot crew. Silver icon means there are some experience points unallocated, while the golden one indicates that there is a lot of experience to distribute!
+Experience points can be spent to research skills. The higher is the level of a skill, the more experience it takes to advance it. Let’s find out what the advantages are for each of the skills.
+<>
+Pilot Skills
+Keen Vision - Enhances the detection range when spotting enemies, i.e. the maximum distance at which the target indicator may appear. This ranges between 4km (untrained) to 8km (maxed). Detection is only made within a cone in the direction of view of the player. Maximum detection distance is also dependent on the size of the target, lighting conditions and other factors.
+Awareness - Enhances the detection range of enemy targets between 150m(untrained) to 300m(maxed). Detection is carried out in all directions around the aircraft, regardless of the direction that the player is observing.
+This is how the battle looks for a pilot with minimum (left) and maximum (right) Keen Vision and Awareness
+G-Tolerance - influences the maximum overload, to which a pilot can adapt efficiently (observed as a degree of "blackout" or “redout” shown on screen during sharp turns etc). In addition, in mouse aiming mode, this skill makes the aircraft more "responsive" to the actions of the player and reduces the response time to acting on command when affected by g-forces.
+Stamina - affects the speed of recovery from pilot overload, reducing the time to full recovery from 20 to 10 seconds. Stamina is spent in aircraft maneuvers and affects the maximum overload. In addition, it has an effect on the accuracy of mouse aiming mode with the mouse.
+Vitality - reduces the likelihood of the pilot receiving a mortal wound. For the novice pilot the second .303 bullet hit or comparable shrapnel impact is usually fatal; while a pilot with the vitality maxed out can, with a measure of luck, survive one hit from a .50 (12.7mm) M2 Browning machine gun.
+Gunners
+Gunners protecting a bomber formation
+Number of Experienced Gunners - all skills with gunners are reduced proportionally to the difference between the amount of gunners on the selected aircraft and the number of experienced gunners in the crew. For example, an He.111H-6 bomber has 5 gunners positions. If there is a crew of only two experienced gunners all their skills will be reduced by 60%, with four - 20%, with all five positions filled, their skills will be fully effective.
+The number of gunners on the plane corresponds to the number of installed gunner positions, the exact number is indicated at the bottom right of the crew development window and in the aircraft card.
+Fire Accuracy - This skill only applies when the gunner is controlled by AI. Increases the traverse speed of a turret, increases the maximum burst length by up to 3 times, increases the distance at which gunners can start firing at a target by up to 275% (55% in RB/SB), increases the distance at which the targets direction can be anticipated, increases the chance of simultaneous fire and “leading” the target, removes miscalculation in “leading” the target (decreased by 7 times for RB / SB when researched completely) .
+Precision - This skill only applies when the gunner is controlled by AI. Reduces scatter of the gun by 2.5 times (2 times in RB/SB), increases the burst length by up to a third when fully researched, increases the distance that gunners open fire in arcade battles by a marginal amount (up to 8%), increases the chance of simultaneous fire and “leading” the target just like fire accuracy.
+G-Tolerance - works in the same way as the pilot skill. Results in gunners maintaining their accuracy and precision when g-forces are acting on them .
+Stamina - works in the same way as the pilot skill.
+Vitality - works in the same way as the pilot skill.
+Ground Service
+Repair Speed - Reduces repair time both at the airfield in the game and in the hangar by up to 3 times when fully researched. For example, the base repair time of the Bf 109 F-4/trop in AB is 7 hours 50 minutes, while with repair speed it is reduced to 2 hours 36 minutes.
+Repair Rank - determines the maximum aircraft Rank to which the repair skill is applied. Has a total of five stages according to the number of vehicle ranks in the game. For instance, the Bf 109 F-4/trop requires repair rank 3. If the repair rank is lower, the repair time will remain at 7 hours 50 minutes no matter how high the repair speed skill is.
+Reload Speed - Reduces the rearming time in the air three times for cannons & machine guns, two times for bombs, rockets and torpedoes and four times for turrets. Fully leveling La-5FN crew’s reloading skill will cause the rearmament time of cannons to go down from 40 seconds to 13.3; bombs will be reloaded in 20 seconds instead of 40.
+Weapon Maintenance - reduces the chance of weapons jamming due to overheating by up to 3 times, reduces the angular velocity of bombs, rockets and torpedoes by up to 3 times, thereby significantly improving their accuracy.
+Qualification
+Qualifications sub-menu
+Unlike skills, qualifications are acquired only for a named aircraft or tank. Qualification is an exceptional skill of the crew in controlling this particular vehicle. To learn it, a certain crew level needs to be achieved. Crew level is a total of all skills learned by a the crew.
+The first level of qualification, " Expert ", increases Keen Vision, Awareness, Precision and Fire Accuracy of gunners, Repair and Reload Speed skills by 30; the second level, " Ace " increases these skills by another 20 points.
+In order to use these skills at their maximum level, a pilot needs to research them up to level 50 and obtain two qualifications. For instance, a pilot who levelled the "Keen Vision" skill up to 50 will detect targets approximately 6 km away; after getting the “Expert” qualification he will then see enemy targets at 7.2 km; finally, reaching “Ace” grade qualification will increase this detection distance to the maximum of 8 km.
+Take advantage of the weekend’s special offer and purchase experience points and qualifications with a discount !
+Join the discussion of the aircraft crew skills here !
+The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

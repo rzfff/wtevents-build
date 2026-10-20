@@ -1,0 +1,124 @@
+[Shop] How can you get premium vehicles? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get premium vehicles? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+30 June 2017
+Shop
+<>
+<>
+Join the Battle Tasks, earn Warbonds and unlock premium vehicles and other bonuses. We are pleased to remind you that an updated assortment is available in the war bonds shop for July.
+Complete Battle Tasks and earn War Bonds by simply playing War Thunder and exchange them for many valuable prizes including premium vehicles!
+Battle Tasks will be available to you after reaching the 3rd rank of any nation in the game. You can read more about War Bonds and Battle Tasks in the War Thunder wiki .
+Good luck and see you on the battlefield!
+<>D.520 (Britain)
+<>
+<>
+As a single-seat, all-metal aircraft which first entered service in 1940, the D.520 fits the role of an interceptor/fighter. This aircraft is most effective when in a squad; while its flight characteristics may be considered mediocre, the fact that it sports a relatively well-armoured construction compensates. Its respectable 20 mm hispano cannon allows for reasonable firepower when paired with the 4 x 7.5 mm MAC machine guns, though keep your ammunition stocks in mind as they can run out fast! Considered on the heavier side of single-seat fighter aircraft, the D.520 can effectively out-endure enemy squads, as well as out-gun many other types of aircraft at its tier.
+<>Ki-100-II (Japan)
+<>
+<>
+With its classic Japanese aviational maneuverability, favourable armament placement, high speed, and agreeable turn and rolling rates, the Ki-100-II serves as a good fighter that can be flown in a variety of combat situations, as long as you are aware of its capabilities… and flaws. With minimal armour protection, the aircraft struggles to endure considerable fire, and additionally, its engine it prone to burning out when struck. Use its positive flight-characteristics to avoid fire and take advantage of its powerful armament placements (2 x 20 mm Ho-5 cannons and 2 x 12.7 mm Ho-103 machine guns) to tear your enemies apart before they do the same to you!
+<>
+You can get these machines just by playing!
+Detailed list of the Warbond items in the shop this month: ▼
+<>
+<>D.520 (Britain)
+<>T-34-747(r) (Germany)
+<>Ki-100-II (Japan)
+<>P-51D-10 (USA)
+<>P-39K-1 (USSR)
+<>Emblème "Texas Longhorn", 1st Lt. John D. Landers,
+9th FS, 49th FG, USAAF, New Guinea, 1942 - Colin 'Fenris' Muir
+<>Supply boxes (3D decorations - Signs)
+<>Supply boxes (3D decorations - camouflage)
+Supply boxes containing 30/60/90/300/600/900% RP and SL boosts valid for 1 battle
+Premium booster: +200% SL for 1 battle
+Supply box with vehicle rent for 1 to 24 hours for the following vehicles:
+<>Spitfire F Mk.XIVc
+<>Pz.Bfw.VI (P)
+<>B-17E (Japan)
+<>M26E1
+<>Fw.190D-9 (USSR)
+Order
+<>
+<>"Texas Longhorn", 1st Lt. John D. Landers,
+9th FS, 49th FG, USAAF, New Guinea, 1942
+<>Author - Colin 'Fenris' Muir
+Battle tasks: These individual tasks bring variety into the gameplay and prevent situations when all the players in a battle try to complete one specific task ignoring mission objectives that are needed for a victory. They are available for players that have reached the 3rd rank of any nation. For completion, the player will receive Silver Lions and Warbonds - special in-game currency with their own shop, where you can purchase many of different items.
+You can read more about battle tasks and war bonds in our devblog.
+<>Enjoy the new items available and see you on the battlefield!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,116 @@
+[Special] “Space Thunder” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Space Thunder”
+Attention! Outdated news format. Content may not display correctly.
+1 April 2020
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Space mining has always been far from peaceful, but corporations managed to rub along together. Until now, when they found on the Moon the mysterious Object 279 , a powerful weapon of the first space race. There can’t be alliances and codexes when you strive to possess such an artifact, so professionals step forward.
+<>Your employers want to control resource platforms in open space, these are perfect transfer sites. You are weapons free with the whole arsenal of combat space suits available in several variants.
+<> Get Object 279
+<>From April 1st, (11:00 GMT) till April 6th (09:00 GMT) - In Events mode, lead your combat space suit into the battle and eliminate all opposing forces on the strategic platforms.
+<>
+<>You may receive unique black paint to create custom camos for the prize vehicles in the Space Race event.
+<>Custom camos are available for crafting in the menu from hangar: “Workshop”→”Space Race”.
+<>In battles you may also receive a ready camo for a Space Race vehicle.
+<>This camo can be sold on the Market.
+<>Combat space suits
+<>
+<>
+<>
+<>
+<>
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Choose your role in the upcoming battle. All combat suits are split into four classes featuring unique weapon setups and characteristics. All suits feature sensor systems to detect enemies and incoming missiles.
+Assault CSS
+<>Well balanced between mobility and firepower, this space suit is efficient at all distances. Armored plates protect the pilot from back and front. Available for all mercenaries, even without any spawn points.
+Scout CSS
+<>Light and mobile combat suit with frontal protection, designed for flanking attacks. Plenty of ammo allows spray-and-pray in the enemy’s direction.
+Close Quarters CSS
+<>All-round protected combat suit, extremely efficient at short distances.
+Support CSS
+<>Heavy suit featuring powerful weapons and good front and back protection. Its hard-hitting cannons are able to penetrate enemy armor with a single hit.
+<> Characteristics:
+<>12.5mm heavy machine guns.
+<>2000 rounds.
+<>16 universal short distance grenades.
+<>Average agility
+<> Characteristics:
+<>7,62mm machine guns
+<>9000 rounds
+<>16 universal short distance grenades.
+<>High agility
+<> Characteristics:
+<>40mm grenade launchers with smart proximity fuse to counter enemy suits and missiles.
+<>1200 rounds
+<>16 universal short distance grenades.
+<>Low agility
+<> Characteristics:
+<>30mm guns with hollow charge shells and guided missiles
+<>800 rounds
+<>4 missiles.
+<>Low agility
+<>There’s a thin armor plate between you and frosty infinity, but any gains are worth the risk!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

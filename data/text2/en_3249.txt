@@ -1,0 +1,244 @@
+[Special] Summertime Madness - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Summertime Madness
+Attention! Outdated news format. Content may not display correctly.
+6 August 2015
+Special
+This thursday on August 6th “Summertime Madness” comes to War Thunder
+An unprecedented prize fund, bigger than never before!
+<>
+This time we prepared not only tasks and prizes but also an unusual game event: from August 6th to August 17th complete the tasks to get a ticket for the “March to Victory!” tournament with total prize fund of more than 500 000 where mighty walking tank ST-1 will be available.
+Every day we will introduce new tasks to complete, both in the skies and on the ground. The prizes will be “Madness trophies” - you can win tickets for the “March to Victory!” tournament, premium vehicles and other prizes! Completing all 20 tasks both in the skies and on the ground you will reward you with a unique “Madman!” title!
+Every day “Madness trophies” will become more valuable and will offer better chances to get the premium tank KV-1B (Germany), P-63A-10 (USSR) premium aircraft and tournament tickets. Apart from completing the tasks, the tickets can be purchased in the “Events and tournaments” tab (after the start of the tournament) or in the item shop as a part of a minor and major “Madness trophy”.
+<> Terms:
+<>Completing “Madness in the skies” tasks increases your chances to receive the premium P-63A-10 (USSR) ;
+<>Completing “Madness on the ground” tasks increases your chances to receive the premium KV-1B (Germany) ;
+<>All “Summertime madness” tasks can be completed using vehicles of ranks II-V (exception - Flying Boats on Rank I in "Floats") ;
+<>You can track your progress in the “Achievements” tab - “Summertime madness” ;
+<>Tasks which require a team victory should be completed with more than 60% battle activity ;
+<>Some tasks have multipliers depending on the mode, these will be shown in the description; all requirements are shown for Arcade battles and may vary for other modes;
+<> Rewards for “March to Victory!”:
+<>March to victory” tournament available from August 7th to August 19th 8:00 GMT.
+<> Working days: from 17:00 GMT to 22:00 GMT
+Weekends: from August 14th 15:00 GMT to August 17th 8:00 GMT
+<>For each 5 victories you receive a new tournament ticket which will allow you to continue participation within the tournament
+<>For each 10 victories you will receive a “Madness trophy”
+<>The prize fund in Golden Eagles will be given out as follows:
+<>1st place: 100 000
+<>Places 2nd-5th: 30 000
+<>Places 6th-10th: 15 000
+<>Places 11th-30th: 5 000
+<>Places 31rd-100th: 1 000
+<>The player who destroys most enemies (non-AI) will receive the additional reward of 50 000 .
+<>
+<>
+<> Unique premium KV-1B (Germany)
+Unique premium P-63A-10 (USSR)
+<> Madness in the skies
+<>
+<> Stage:
+Day:
+Task:
+<>
+<>
+<> I
+August 6th
+Destroy 30 enemy fighters whilst flying
+aircraft from either Japan or USA.
+<>
+<>
+<> II
+August 7th
+Destroy 60 ground targets controlled by AI whilst
+flying aircraft from either USA or Germany.
+<>
+<>
+<> III
+August 8 - 9th
+Achieve 30 victories whilst flying aircraft
+from either Great Britain or Germany.
+<>
+<>
+<> IV
+August 10th
+Destroy 30 ships flying bombers
+from either Great Britain or Japan.
+<>
+<>
+<> V
+August 11th
+Destroy 20 enemy aircraft flying
+an attacker, bomber or flying boat.
+<>
+<>
+<> VI
+August 12th
+Destroy 40 enemy aircraft flying aircraft
+from the Fw.190 series or MiG series.
+<>
+<>
+<> VII
+August 13th
+Destroy 30 enemy attackers or heavy fighters flying aircraft
+from one of the following series - Pe, IL-2, IL-10 and Ki-45.
+<>
+<>
+<> VIII
+August 14th
+Destroy 30 enemy flying boats using flying boats from
+either USA or Japan. Floats event available!
+<>
+<>
+<> IX
+August 15-16th
+Achieve 3 victories finishing in 1st place at the end of the
+battle flying an aircraft from any nation. No RB/SB multipliers!
+<>
+<>
+<> X
+August 17th
+Destroy 30 enemy aircraft flying an aircraft from any nation.
+<>
+<> Madness on the ground
+<>
+<> Stage:
+Day:
+Task:
+<>
+<>
+<> I
+August 6th
+Destroy 25 enemy ground vehicles whilst
+driving medium tanks from either USSR or Germany.
+<>
+<>
+<> II
+August 7th
+Destroy 10 enemy aircraft whilst driving
+an SPAA from any nation. War in the mid Air event available!
+<>
+<>
+<> III
+August 8 - 9th
+Destroy 30 enemy ground vehicles whilst flying aircraft from
+either Germany, USSR or USA. War in the mid Air event available!
+<>
+<>
+<> IV
+August 10th
+Destroy 5 enemy heavy tanks whilst
+driving a Medium tank from any nation.
+<>
+<>
+<> V
+August 11th
+Achieve 7 victories whilst driving Heavy tank from any nation.
+<>
+<>
+<> VI
+August 12th
+Destroy 20 enemy SPAA whilst driving an SPAA from
+any nation. Rapid fire event available!
+<>
+<>
+<> VII
+August 13th
+Destroy 30 enemy vehicles whilst driving a tank
+from one of the following series - Т-34, M4 or Pz.IV.
+<>
+<>
+<> VIII
+August 14th
+Destroy 20 enemy vehicles driving an SPG from any nation.
+<>
+<>
+<> IX
+August 15-16th
+Achieve 3 victories finishing in 1st place in the end of the battle
+whilst driving ground vehicles from any nation. No RB/SB multipliers!
+<>
+<>
+<> X
+August 17th
+Destroy 25 enemy ground vehicles whilst
+driving ground vehicles from any nation.
+<>
+Complete Madness Tasks, take part in the Madness tournament
+and be a part of War Thunder “Summertime Madness”!
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

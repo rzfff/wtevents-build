@@ -1,0 +1,136 @@
+[Special] Victory Day! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Victory Day!
+Attention! Outdated news format. Content may not display correctly.
+8 May 2019
+Special
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<> On the 8th of May, 1945, the Allied forces who fought World War II in the West celebrated “VE Day” or “Victory in Europe Day”. Cities in most of the Allied nations, as well as formerly occupied cities in Western Europe, raised flags and banners, rejoicing in the defeat of the Nazi war machine.
+<> Finally, on the 8th of May, German troops throughout Europe laid down their arms: In Prague, Germans surrendered to their Soviet counterparts, after the latter had lost more than 8,000 soldiers, and the Germans many more; in Copenhagen and Oslo; at Karlshorst, near Berlin; in northern Latvia; on the Channel Island of Sark — the German surrender was completed in a final cease-fire. More surrender documents were signed in Berlin and in Eastern Germany.
+<>Pilots, Captains and Tank Commanders!
+<>Discounts of up to 50% in the game and in the Store
+<>From 11:00 GMT 8th of May until 09:00 GMT 13th of May
+<>30% discount for any Allied nation vehicles purchased with SL or GE in game (including premium vehicles) except those from update 1.87 "Locked On!" .
+<>50% discount for premium account for periods of 90 and 365 days!
+<>Special vehicle bundles with special discounts of up to 50%!
+"Wings of Victory" bundle -50%
+The Kit Includes:
+Dolgushin's La-7 Pack, Golovachev's Yak-9M Pack;
+Prendergast`s Spitfire FR Mk.XIVe Pack;
+Plagis' Spitfire Mk. IXc Pack;
+Bostwick's P-47M-1-RE Thunderbolt Pack;
+Wetmore`s P-51D-10 Pack.
+148.94 74.47
+Store
+<>
+"Tracks of Victory" bundle -50%
+The Kit Includes:
+IS-2 Revenge for the Hero brother Pack;
+T-34-85E, 1945 Pack;
+M18 Black Cat Pack;
+М5А1 5th Canadian Armoured Division Pack.
+102.96 51.48
+Store
+<>
+<>Packs included in these bundles are also available separately with a 30% discount .
+<>PS4 and Xbox One users are able to purchase vehicles from these packs with a discount using Golden Eagles in the game.
+<>We also announce a final sale with a 50% discount for the following packs:
+<>M.B. 5
+<>SO.8000 Narval
+<>MTB Fairmile D
+<>After May 13th these packs will no longer be available for purchase across all platforms.
+<>Besides this, PlayStation Store and Xbox Store offer discounts for other bundles of the Allied vehicles.
+<>Daily 2х bonus to RP gain for the first victory
+<>From 00:01 GMT on the 9th of May until 00:01 GMT on the 11th of May
+<>You can receive bonuses for a victorious battle for each nation once per day after 00:01 GMT on May 9th and once after 00:01 GMT on May 10th
+<>Victory decals
+<>From 15:00 GMT on the 8th of May until 09:00 GMT on the 13th of May
+<>You will be able to get one of the Victory symbols for 3 battles in random battles with activity of 60% or higher while playing vehicles of rank 2 or higher.
+<>
+<>
+<>
+<>Complete one of the tasks while playing vehicles of rank 2 or higher and receive DP-27 MG.
+<>Play two battles and be the first in the team.
+<>Win 5 battles with battle activity of 60% or higher.
+<>Destroy 50/25/25 enemy vehicles (AB/RB/SB).
+<>You can follow your progress in your profile → Achievements → Victory Day.
+DP-27 MG
+<>Operation “Berlin” Event.
+<>From May 8th 15:00 GMT to May 13th 09:00 GMT
+<>Historical events for all modes with additional 30% RP gain bonus.
+<>“Victory” Tournaments
+<>From 17:00 GMT on the 10th of May until 18:39 GMT on the 12th of May
+<>
+<>
+<>Team tournaments in "4 on 4" format for all game modes with festive prizes.
+<>1st place — 1,500 GE, ceremonial camouflage for Т-80B , “Victory Star” emblem.
+<>2nd place — 1,000 GE, ceremonial camouflage for Т-64B , “Victory Star” emblem.
+<>3rd-8th place — up to 700 GE, “Victory Star” emblem.
+<>Register right now:
+<> Combined arms 4 vs 4 team tournament in Arcade Battles mode
+<> Combined arms 4 vs 4 team tournament in Realistic Battles mode
+<> Combined arms 4 vs 4 team tournament in Simulator Battles mode
+<>
+<> Victory will be ours!
+“Victory Star” emblem
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

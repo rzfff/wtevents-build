@@ -1,0 +1,88 @@
+[Shop] [Development] Pre-order: F-20A Tigershark - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-order: F-20A Tigershark
+1 March 2024
+Shop
+Development
+<>We’re announcing the brand-new premium F-20A Tigershark! Maneuverable, fast, a new powerful engine, and strong stubby wings plus an excellent selection of weapons is exactly the recipe to have some fun and be a real pain for the enemy team.
+Pre-order — F-20A Tigershark Pack
+The Kit Includes:
+F-20A Tigershark (Rank VIII, USA)
+Premium account for 20 days
+2500 Golden Eagles
+Pre-order bonus: unique “Aerial predator” title
+Pre-order bonus: unique “Shark” decal
+Pre-order bonus: unique demonstration camouflage USAF
+74.99
+Store
+<> F-20A Tigershark: A Premium Jet Fighter for the USA at Rank VIII
+<>Features:
+<>Great top speed!
+<>Variety of weapons.
+<>Excellent maneuverability.
+<>High flutter threshold.
+Vehicle History ▼
+<>Engineers from Northrop Corporation developed the F-20A Tigershark as a deep modernization of the F-5G fighter with improved flight and characteristics at a low cost. This new aircraft received a new power plant consisting of a single General Electric F404-100 engine, advanced avionics and radar, plus an expanded range of weapons. It made its first flight in 1982, where a total of 3 were built for testing. At the time of its creation, the F-20A was a direct competitor to the F-16 fighter jet, but was inferior to it and did not go into mass production. The only surviving F-20A was transferred to the California Science Center and is currently on display as an exhibit.
+<> Meet the F-20A Tigershark!
+<>This jet fighter could easily be called an F-5 on steroids, as everything loved about this series of compact fighters is preserved and improved: great thrust, high roll rate, short but strong wings, and an excellent choice of guided and unguided weaponry. Let’s take a further look at one of the main new vehicles coming in the next major update called Alpha Strike, and the first Rank VIII premium: the F-20A Tigershark that can be pre-ordered starting from today!
+<>Upon looking at the F-20A you’ll have noticed that the main external difference compared to the F-5 series is the rear fuselage, which is modified and fits just one General Electric F404-GE-100 turbofan engine. This engine alone produces significantly more thrust than the twin-engines found on the F-5E, meaning truly rocket-like capabilities and the ability to excel to a rate of climb of about 240 m/s, and a maximum speed of about 2200 km/h! To sum it up, imagine the maneuverability of the late F-5s, but enhanced by a very powerful engine: you get the F-20A Tigershark. Despite being compact and lightweight, this aircraft retains excellent resistance to high overloads to the fuselage and wings. As an example, you’ll easily be able to leave the combat area and any anti-aircraft radar coverage by diving sharply to tree-top level.
+<>Thanks to this, the F-20A’s true calling is air dueling, as it has excellent control when at almost any speed, is fast in a roll and has an effective air brake. To help out, its wing pylons can mount up to 6 x all-aspect AIM-9L Sidewinders for those short-range engagements, or a pair of AIM-7F Sparrows for long-range engagements. In addition to this, this aircraft is also equipped with advanced electronics, an excellent radar, an RWR and a pair of fast-firing 20 mm M39A3 cannons, which have a good ammunition count and are mounted in the nose of this aircraft. For defense against in-coming missiles, there’s also a total of 45 flares and chaff that can be launched, and last but not least, a 30 mm gun pod can also be mounted.
+<>Just like the F-5 series, the F-20A is not going to be out of place in ground battles, as this aircraft can drop regular bombs and fire rockets from low-altitudes. The cream of the crop though is its guided bombs in the form of 4 x AGM-65B air-to-ground missiles with a TV guidance head, best used from a higher altitude outside of the range of SAM vehicles that are commonly present at this rank.
+<>In short, the F-20A is going to become one of the best vehicles in our store and will be available in the game with the release of the next major update. Don’t miss your chance to pre-order this awesome jet fighter to receive a special red and white camouflage, a decal, a unique in-game title, premium account days and Golden Eagles!
+Read more:
+HMS Lion: One Last Roar
+14 September 2026
+MiG-35: The Last MiG
+11 September 2026
+H145M: Angry Dragonfly
+11 September 2026
+F-102A Delta Dagger: The “Bear” Hunter
+10 September 2026
+Share the news with your friends!
+<

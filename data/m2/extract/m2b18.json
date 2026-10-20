@@ -1,0 +1,902 @@
+{
+  "results": [
+    {
+      "aid": 7459,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Attack on Pearl Harbor",
+      "name_en": "Attack on Pearl Harbor",
+      "name_zh": null,
+      "start": "2021-12-07T11:00:00Z",
+      "end": "2021-12-10T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 7th of December until 11:30 GMT on the 10th of December",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account"
+      ],
+      "tasks": "用指定车辆(日:D3A1/A6M2/B5N2;美:P-36系/SBD-3/珍珠港美舰等)在随机战摧毁40/20/20(AB/RB/SB)敌人,完成珍珠港80周年纪念任务得战斗奖箱",
+      "sub_events": [],
+      "notes": "珍珠港事件80周年纪念战斗任务(special),奖箱随机开出一项奖励",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7465,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Attack on Nibeiwa",
+      "name_en": "Attack on Nibeiwa",
+      "name_zh": null,
+      "start": "2021-12-09T11:00:00Z",
+      "end": "2021-12-13T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 9th of December until 11:30 GMT on the 13th of December",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "Random camouflage for ground vehicles of rank I-II for Great Britain or Italy",
+        "1 day premium account"
+      ],
+      "tasks": "用指定英意车辆(CR.42/Gladiator/Blenheim/Matilda III等)在随机战摧毁40/20/20(AB/RB/SB),完成Nibeiwa纪念任务得战斗奖箱",
+      "sub_events": [],
+      "notes": "Operation Compass 81周年纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7478,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "End of the year giveaway - week 1!",
+      "name_en": "End of the year giveaway - week 1!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Logitech G915 LIGHTSPEED Wireless mechanical keyboard x1",
+        "War Thunder Apache Pack x1",
+        "War Thunder Apache Pack x1"
+      ],
+      "tasks": "在 Facebook 对 giveaway 帖点赞、评论并分享即可参与抽奖",
+      "sub_events": [],
+      "notes": "站外(Facebook)社区抽奖,非游戏内活动;正文未写起止时间,仅称开奖于开始后1周;帖内已列获奖者姓名",
+      "confidence": 0.5
+    },
+    {
+      "aid": 7486,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "FIAT Aircraft",
+      "name_en": "FIAT Aircraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "视频公告:FIAT 航空史专题视频(系列视频之一),无活动要素",
+      "confidence": 0.98
+    },
+    {
+      "aid": 7488,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The Ardennes Offensive",
+      "name_en": "The Ardennes Offensive",
+      "name_zh": null,
+      "start": "2021-12-16T11:00:00Z",
+      "end": "2021-12-19T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 16th of December until 11:30 GMT on the 19th of December",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "Random camouflage for ground vehicles of rank I-IV for USA or Germany",
+        "1 day premium account"
+      ],
+      "tasks": "用指定美系(谢尔曼系/Cobra King/P-47/P-51/A-26等)与德系(Sd.Kfz.234系/四号/虎王/黑豹/Bf 109/Fw 190等)车辆在随机战摧毁40/20/20(AB/RB/SB)",
+      "sub_events": [],
+      "notes": "阿登反击战(突出部战役)77周年纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7490,
+      "lang": "en",
+      "is_event": true,
+      "type": "market",
+      "title": "Trophies with a user-created “Winged Lions” camouflage",
+      "name_en": "Trophies with a user-created “Winged Lions” camouflage",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Coupons for rare vehicles",
+        "19 camouflage coupons for ground vehicles",
+        "17 camouflage coupons for aircraft",
+        "2 camouflage coupons for vessels",
+        "2 camouflage coupon for helicopters",
+        "Coupon for the “Winged Lions” decal"
+      ],
+      "tasks": "随机战(除Assault/World War)用rank II+载具、活跃度≥50%参战,按概率掉落Winged Lions奖箱;需在市场购Winged Lions钥匙开启,内容可自用或挂市场卖GJN",
+      "sub_events": [],
+      "notes": "用户创作迷彩市场奖箱系列(Winged Lions,40款新迷彩),正文无时间窗;主机版可用金鹰在游戏内商店购奖箱开启",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7492,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "End of the year giveaway - week 2!",
+      "name_en": "End of the year giveaway - week 2!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Intel i9-9900K Processor",
+        "War Thunder Apache Pack x1",
+        "War Thunder Apache Pack x1"
+      ],
+      "tasks": "在 Twitter 对 giveaway 帖点赞、评论并转推即可参与抽奖",
+      "sub_events": [],
+      "notes": "站外(Twitter)社区抽奖,非游戏内活动;正文未写起止时间,仅称开奖于开始后1周;帖内已列获奖者姓名",
+      "confidence": 0.5
+    },
+    {
+      "aid": 7493,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The first combat mission of the \"Flying Tigers\"",
+      "name_en": "The first combat mission of the \"Flying Tigers\"",
+      "name_zh": null,
+      "start": "2021-12-20T11:00:00Z",
+      "end": "2021-12-22T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "Complete the task from 11:00 GMT on the 20th of December until 11:30 GMT on the 22nd of December and get the reward!",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "10-30% RP booster for 3-10 battles",
+        "10-30% SL booster for 3-10 battles"
+      ],
+      "tasks": "用 P-40 系(P-40C/P-40E-1/H-81A-2/P-40E-1中国/P-40F-5 Lafayette等)在随机战摧毁20/10/10(AB/RB/SB),纪念飞虎队首战",
+      "sub_events": [],
+      "notes": "飞虎队首战80周年纪念战斗任务,奖励仅 booster",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7495,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Zotac Gaming RTX 3060 Ti Giveaway",
+      "name_en": "Zotac Gaming RTX 3060 Ti Giveaway",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC x1",
+        "AV-8A Harrier Pack x1",
+        "AV-8A Harrier Pack x1"
+      ],
+      "tasks": "在 Instagram 对 giveaway 帖点赞并评论一个希望加入战雷的新功能即可参与抽奖",
+      "sub_events": [],
+      "notes": "站外(Instagram)社区抽奖(Zotac 赞助),非游戏内活动;正文未写起止时间,仅称开奖于开始后1周;帖内已列获奖者姓名",
+      "confidence": 0.5
+    },
+    {
+      "aid": 7497,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Christmas in War Thunder!",
+      "name_en": "Christmas in War Thunder!",
+      "name_zh": null,
+      "start": "2021-12-22T11:00:00Z",
+      "end": "2022-01-03T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 24th (12:00 GMT) until January 3rd (07:00 GMT) / From December 22nd (11:00 GMT) until December 27th (11:00 GMT) / From December 27th (11:00 GMT) till January 3rd (11:00 GMT)",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "全场载具银狮/金鹰价5折(不含Winged Lions、Ground Breaking版本车与中队载具)",
+          "percent": 50,
+          "note": "2021-12-22 11:00 至 12-27 11:00 GMT"
+        },
+        {
+          "target": "多种商品",
+          "item": "talismans、back-ups、改件(modifications)5折",
+          "percent": 50,
+          "note": "同上窗口"
+        },
+        {
+          "target": "高级账户",
+          "item": "90/365天高级账户5折(180天仅在Gaijin.Net商店)",
+          "percent": 50,
+          "note": "12-22 11:00 至 12-27 11:00 GMT"
+        },
+        {
+          "target": "多种商品",
+          "item": "Gaijin.Net Store 商品最高5折",
+          "percent": 50,
+          "note": "12-27 11:00 至 2022-01-03 11:00 GMT"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“Raging Tiger” decal",
+        "Decoration for ground vehicles “Christmas sock”",
+        "Decoration for fleet “Christmas deer”"
+      ],
+      "tasks": "圣诞礼物任务:rank III+活跃度70%+打3场得Raging Tiger贴花;地面车rank III+击杀30得圣诞袜装饰;蓝水舰rank III+致5万伤害得圣诞鹿装饰",
+      "sub_events": [
+        {
+          "name": "圣诞树下礼物任务(贴花+装饰)",
+          "start": "2021-12-24T12:00:00Z",
+          "end": "2022-01-03T07:00:00Z"
+        },
+        {
+          "name": "Operation W.I.N.T.E.R.(引其他文章,本文仅给日期无时刻)",
+          "start": "2021-12-17",
+          "end": "2022-01-10"
+        },
+        {
+          "name": "Zotac 抽奖预告(Instagram,详见 aid 7495)",
+          "start": "2021-12-24",
+          "end": null
+        }
+      ],
+      "notes": "圣诞新年活动总览文,多窗口:游戏内折扣12-22~12-27、Gaijin.Net促销12-27~1-3、礼物任务12-24 12:00~1-3 07:00;主start/end取覆盖全部窗口的最早开始与最晚结束",
+      "confidence": 0.8
+    },
+    {
+      "aid": 7502,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "The New Year Sale!",
+      "name_en": "The New Year Sale!",
+      "name_zh": null,
+      "start": "2021-12-27T11:00:00Z",
+      "end": "2022-01-03T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 27th of December at 11:00 GMT until the 3rd of January at 11:00 GMT",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "9国 Winter Holidays 2021 捆绑包各5折(US/DE/USSR/UK/JP/CN/IT/FR/SE)",
+          "percent": 50,
+          "note": "109.98→54.99 等9档,各含2个pack+雪球贴花+专属称号"
+        },
+        {
+          "target": "礼包",
+          "item": "捆绑包内各单独 pack 可7折单独购买",
+          "percent": 30,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "全部 rank I/II/III/V pack 5折(Vautour IIN 除外)",
+          "percent": 50,
+          "note": "Magach 3 与 Sho't Kal Dalet 为停售前最后折扣机会"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "集齐全部雪球贴花者:12-27~1-3 登录且至少1胜,得 New Year Snail 贴花 + Snailmas special 称号",
+          "when": "2022-01-03"
+        },
+        {
+          "what": "符合条件者的称号与贴花统一发放",
+          "when": "2022-01-10"
+        }
+      ],
+      "rewards_text": [
+        "USA/German/Russian/British/Japanese/Chinese/Italian/French/Swedish snow globe decals",
+        "Unique titles: Armor Hard / Gunner for one / The Irony of Shooting / Guns Actually / Shell alone / Let the Shells Fly / Slimy Relative / Snail's Apprentice / Snail and His Friends",
+        "New Year Snail decal",
+        "Snailmas special title"
+      ],
+      "tasks": "新年大促:购9国冬季捆绑包享5折或单独pack 7折,全场rank I/II/III/V pack 5折;集齐雪球贴花者活动期内登录且胜1场得隐藏贴花与称号",
+      "sub_events": [],
+      "notes": "最终价格取决于已拥有pack;仅PC/Mac/Linux可得称号贴花,主机玩家拥有全部单独pack亦可获",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7503,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle of the Kerch Peninsula",
+      "name_en": "Battle of the Kerch Peninsula",
+      "name_zh": null,
+      "start": null,
+      "end": "2021-12-29T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "Complete the battle task until 11:30 GMT on the 29th of December to get the reward!",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "Random camouflage for ground vehicles of rank I-II for USSR or Germany",
+        "1 day premium account"
+      ],
+      "tasks": "用指定苏军(T-60/T-34早期/KV-1(L-11)/MiG-3/LaGG-3/Yak-1/IL-2等)与德军(Pz.III/Pz.IV早期/Bf 109 F/Ju 87等)车辆在随机战摧毁40/20/20(AB/RB/SB)",
+      "sub_events": [],
+      "notes": "刻赤半岛登陆战纪念任务;正文仅给截止时间,未写开始时间(文章发布于2021-12-27)",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7504,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Operation Bolo",
+      "name_en": "Operation Bolo",
+      "name_zh": null,
+      "start": "2022-01-02T11:00:00Z",
+      "end": "2022-01-05T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "Complete the task from 11:00 GMT on the 2nd of January until 11:30 GMT on the 5th of January and get the reward!",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account"
+      ],
+      "tasks": "用指定美机(F-4C/E/J Phantom II)或苏机(MiG-21F-13/SMT/bis/PFM)在随机战摧毁40/20/20(AB/RB/SB),纪念越战Bolo行动",
+      "sub_events": [],
+      "notes": "Bolo行动纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7509,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Holiday Spirit",
+      "name_en": "Holiday Spirit",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "视频公告:节日主题视频(Holiday Spirit),无活动要素",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7512,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Vistula–Oder offensive",
+      "name_en": "Vistula–Oder offensive",
+      "name_zh": null,
+      "start": "2022-01-10T11:00:00Z",
+      "end": "2022-01-13T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "Complete the task from 11:00 GMT on the 10th of January until 11:30 GMT on the 13th of January and get the reward!",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "Random camouflage for ground vehicles of rank I-IV for USSR or Germany",
+        "1 day premium account"
+      ],
+      "tasks": "用指定苏军(T-34-85/IS系/ISU-122/SU-100/La-7/Yak-9/IL-2系等)与德军(Sd.Kfz.234系/四号/虎王/黑豹/Bf 109/Fw 190等)车辆在随机战摧毁40/20/20(AB/RB/SB)",
+      "sub_events": [],
+      "notes": "维斯瓦河-奥得河攻势77周年纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7516,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Birthday of the MiG-17",
+      "name_en": "Birthday of the MiG-17",
+      "name_zh": null,
+      "start": "2022-01-14T11:00:00Z",
+      "end": "2022-01-16T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "Complete the task from 11:00 GMT on the 14th of January until 11:30 GMT on the 16th of January and get the reward!",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "10-30% RP booster for 3-10 battles",
+        "10-30% SL booster for 3-10 battles"
+      ],
+      "tasks": "用 MiG-17/MiG-17AS/Shenyang F-5/J-4 在随机战摧毁20/10/10(AB/RB/SB),纪念MiG-17首飞72周年",
+      "sub_events": [],
+      "notes": "正文末附 MiG-17AS Pack 售 49.99(含MiG-17AS+2000金鹰+15天高级账户),未标注折扣",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7525,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle of Anzio",
+      "name_en": "Battle of Anzio",
+      "name_zh": null,
+      "start": "2022-01-21T11:00:00Z",
+      "end": "2022-01-24T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 21st of January until 11:30 GMT on the 24th of January",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "Random camouflage for ground vehicles of rank I-IV for USA, Great Britain, Italy or Germany",
+        "1 day premium account"
+      ],
+      "tasks": "用指定德意(StuG III/四号/虎式/Bf 109/Ju 87;75/18 M41/C.205等)与美英(M10/M18/谢尔曼/Cromwell/Spitfire/Typhoon等)车辆在随机战摧毁40/20/20(AB/RB/SB)",
+      "sub_events": [],
+      "notes": "安齐奥战役78周年纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7531,
+      "lang": "en",
+      "is_event": true,
+      "type": "battlepass",
+      "title": "“Firepower”: Warbonds",
+      "name_en": "“Firepower”: Warbonds",
+      "name_zh": null,
+      "start": "2022-01-26",
+      "end": "2022-05-03",
+      "end_precision": "day",
+      "end_raw": "available from 26th of January until 3rd of May (one week after the end of the season)",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Firepower 赛季战券商店关闭(赛季结束后1周)",
+          "when": "2022-05-03"
+        }
+      ],
+      "rewards_text": [
+        "Crusader “The Saint”",
+        "Celere Sahariano",
+        "Mörkö-Morane",
+        "VS-8",
+        "P-51C-11-NT",
+        "T14",
+        "“Road Signs” trophy",
+        "“Shoo Shoo Shoo BABY” pinup decal"
+      ],
+      "tasks": "Firepower战令赛季的Warbond商店:需拥有rank III载具,用战令等级解锁所得战券兑换金币车/贴花/奖箱;商店开放整个赛季+1周",
+      "sub_events": [],
+      "notes": "战令战券商店公告;Crusader The Saint、Celere Sahariano、VS-8、P-51C-11-NT 为首次进入战券商店;正文仅给日期无时刻",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7532,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Australia Day",
+      "name_en": "Australia Day",
+      "name_zh": null,
+      "start": null,
+      "end": "2022-01-28T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "Until 11:00 GMT on the 28th of January",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Boomerang Mk.I 金鹰价减25%",
+          "percent": 25,
+          "note": "为购限时上架 Boomerang Mk.II 的前置;Mk.II 限售至 1-28 11:00 GMT,仅限已拥有 Mk.I 者"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Boomerang Mk.II 限时上架结束(金鹰购买)",
+          "when": "2022-01-28T11:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "“Australia Day” decal"
+      ],
+      "tasks": "驾英国飞机rank II+活跃度70%+打3场随机战(除Assault/Enduring Confrontation)得Australia Day贴花",
+      "sub_events": [],
+      "notes": "澳大利亚国庆日活动;正文未写任务开始时间;官方预告 Boomerang Mk.II 或将在后续更新获得挂弹",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7534,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Lunar New Year",
+      "name_en": "Lunar New Year",
+      "name_zh": null,
+      "start": "2022-01-28T11:00:00Z",
+      "end": "2022-02-01T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 28th of January (11:00 GMT) until the 1st of February (11:00 GMT)",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "Year of the Tiger bundle 154→61.6(4载具+Tiger徽章)",
+          "percent": 60,
+          "note": "含M46 Tiger/Fiat G.91 R/4/Tiger II Sla.16/EC-665 Tiger HAP;1-27 11:00 至 2-3 11:00 GMT"
+        },
+        {
+          "target": "礼包",
+          "item": "8国 Starter Pack(德美瑞典法日英意苏)5折",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "T-62(中国,rank VI)金鹰限时返场(至活动结束);Shenyang F-5 永久返场",
+          "when": "2022-02-03T11:00:00Z"
+        },
+        {
+          "what": "拥有捆绑包全部载具者于1-27~2-3登录且至少1胜,得专属贴花,2-4后发放",
+          "when": "2022-02-04"
+        }
+      ],
+      "rewards_text": [
+        "“Fu the Tiger” decal",
+        "“Sky lantern” decoration"
+      ],
+      "tasks": "用中国载具rank II+活跃度70%+打3场得Fu the Tiger贴花、赢5场得Sky lantern装饰(除Assault);另有虎年捆绑包6折与8国新手包5折",
+      "sub_events": [
+        {
+          "name": "Year of the Tiger bundle 6折及新手包5折窗口",
+          "start": "2022-01-27T11:00:00Z",
+          "end": "2022-02-03T11:00:00Z"
+        }
+      ],
+      "notes": "春节/农历新年活动;专属贴花仅PC/Mac/Linux可得,主机可购2-1发售的Year of the Tiger特别包",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7535,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Lend-Lease Aircraft",
+      "name_en": "Lend-Lease Aircraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "视频公告:租借法案飞机史专题视频,无活动要素",
+      "confidence": 0.98
+    },
+    {
+      "aid": 7540,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Bonus Golden Eagles when using Razer Gold!",
+      "name_en": "Bonus Golden Eagles when using Razer Gold!",
+      "name_zh": null,
+      "start": "2022-02-16T11:00:00Z",
+      "end": "2022-02-23T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 16th (11:00 GMT) until 23rd of February (11:00 GMT)",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "Razer Gold支付购2500+金鹰送20%奖励金鹰(2500+500=3000)",
+          "percent": 20,
+          "note": "赠送而非折扣;档位含2500/5000/10000/25000;不含日本/葡萄牙/巴西"
+        },
+        {
+          "target": "金鹰",
+          "item": "Razer Gold支付购1000及以下金鹰送10%(1000+100=1100)",
+          "percent": 10,
+          "note": "档位含150/1000"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Top 10 消费者抽奖:购2500+金鹰并关注Razer Gold Facebook,大奖Razer Barracuda X耳机+30天高级,9名安慰奖10美元Razer Gold券+15天高级",
+          "when": "2022-02-28"
+        }
+      ],
+      "rewards_text": [
+        "New Razer Golden Hex decal",
+        "New Razer Patch decal",
+        "Razer decal",
+        "Razer Hex decal",
+        "Razer Gold decal",
+        "Razer Retro decal",
+        "Team Razer decal",
+        "Razer Barracuda X headset",
+        "Premium account 30 days",
+        "10 USD Razer Gold voucher",
+        "Premium account 15 days"
+      ],
+      "tasks": "活动期经Razer Gold充值金鹰按档位送20%/10%奖励金鹰;以Razer Gold支付者另得7款Razer贴花(每款限1枚)",
+      "sub_events": [
+        {
+          "name": "Razer Gold Wallet 5%返利(购1000+金鹰返5% Razer Gold,不含欧盟/日本/巴西)",
+          "start": "2022-02-16",
+          "end": "2022-02-28"
+        }
+      ],
+      "notes": "支付渠道促销;金鹰奖励窗口至2-23,返利与抽奖窗口至2-28(后者仅给日期)",
+      "confidence": 0.8
+    },
+    {
+      "aid": 7541,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "End of the Battle of Stalingrad",
+      "name_en": "End of the Battle of Stalingrad",
+      "name_zh": null,
+      "start": "2022-02-02T11:00:00Z",
+      "end": "2022-02-07T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 2nd of February until 11:30 GMT on the 7th of February",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "Random camouflage for ground vehicles of rank I-III for USSR or Germany",
+        "1 day premium account"
+      ],
+      "tasks": "用指定苏军(T-70/T-34系/KV-1S/IL-2系/Yak-1B/La-5等)与德军(Pz.III L/StuG III F/Pz.IV F2/Bf 109 F-4/Ju 87系等)车辆在随机战摧毁40/20/20(AB/RB/SB)",
+      "sub_events": [],
+      "notes": "斯大林格勒战役结束80周年纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7546,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Operation Veritable",
+      "name_en": "Operation Veritable",
+      "name_zh": null,
+      "start": "2022-02-08T11:00:00Z",
+      "end": "2022-02-12T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 8th of February until 11:30 GMT on the 12th of February",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "Random camouflage for ground vehicles of rank I-IV for USA, Great Britain or Germany",
+        "1 day premium account"
+      ],
+      "tasks": "用指定美英(M5A1/谢尔曼系/Cobra King/P-47/P-51/Spitfire/Tempest等)与德军(Sd.Kfz.234系/四号/虎王/黑豹/Bf 109/Fw 190等)车辆在随机战摧毁40/20/20(AB/RB/SB)",
+      "sub_events": [],
+      "notes": "真实行动(Veritable)77周年纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7549,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "National Foundation Day in Japan",
+      "name_en": "National Foundation Day in Japan",
+      "name_zh": null,
+      "start": "2022-02-10T14:00:00Z",
+      "end": "2022-02-14T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 10th (14:00 GMT) to February 14th (07:00 GMT)",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Japanese Pacific Campaign pack 14.99→7.50(A6M5 Ko+15天高级+850金鹰)",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "IJN Kiyoshimo 驱逐舰与 J2M4 Kai 战斗机金鹰限时购结束",
+          "when": "2022-02-14T07:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "“Day of Japan” decal"
+      ],
+      "tasks": "驾日本载具rank III+活跃度70%+打3场随机战(除Assault/Enduring Confrontation)得Day of Japan贴花",
+      "sub_events": [],
+      "notes": "日本建国纪念日活动;贴花位于涂装Special页签",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7552,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Channel Dash",
+      "name_en": "Channel Dash",
+      "name_zh": null,
+      "start": "2022-02-11T11:00:00Z",
+      "end": "2022-02-14T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 11 of February until 11:30 GMT on the 14 of February",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Prinz Eugen Pack 59.99→44.99(Prinz Eugen+2000金鹰+30天高级)",
+          "percent": 25,
+          "note": "活动期间"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account"
+      ],
+      "tasks": "海军随机战用指定德舰(Jaguar/Z25/Prinz Eugen/Scharnhorst/Z12 Erich Giese/Z15 Erich Steinbrinck)对玩家载具造成20000伤害",
+      "sub_events": [],
+      "notes": "海峡冲刺(Channel Dash)80周年海战纪念任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7553,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Mitsubishi Aircraft",
+      "name_en": "Mitsubishi Aircraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "视频公告:三菱飞机史专题视频,无活动要素",
+      "confidence": 0.98
+    },
+    {
+      "aid": 7555,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Happy Valentine’s Day!",
+      "name_en": "Happy Valentine’s Day!",
+      "name_zh": null,
+      "start": "2022-02-11T13:00:00Z",
+      "end": "2022-02-15T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "Beginning on February 11th (13:00 GMT) until February 15th (11:00 GMT) Valentine’s Day comes to War Thunder!",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "MK-IX Valentine(苏系金币载具)限时购买,仅活动期间可购",
+          "when": "2022-02-15T11:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "“My Love” decal",
+        "“Anchor of love” decoration",
+        "St.Valentine’s trophy",
+        "MK-IX Valentine"
+      ],
+      "tasks": "rank III+活跃度70%+打3场得My Love贴花;舰船rank III+活跃度70%+赢5场得Anchor of love装饰;金鹰购St.Valentine's奖箱(开出未拥有贴花/装饰)",
+      "sub_events": [],
+      "notes": "情人节活动;奖箱含Heart and Spitfire、Cupid、Miss Behaven pin-up等11款贴花及Teddy Bear with heart、Compound bow装饰",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7562,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Battle of Iwo Jima",
+      "name_en": "Battle of Iwo Jima",
+      "name_zh": null,
+      "start": "2022-02-18T11:00:00Z",
+      "end": "2022-02-23T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 18th of February until 11:30 GMT on the 23rd of February",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account"
+      ],
+      "tasks": "用指定美军(M4A2/LVT(A)(4)/F4U-1A (USMC)/F4U-1D/F6F-5)与日军(Chi-Ha/Chi-Ha Kai/Chi-He/D4Y2/A6M3系/A6M5)车辆在随机战摧毁40/20/20(AB/RB/SB)",
+      "sub_events": [],
+      "notes": "硫磺岛战役77周年纪念战斗任务",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7564,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Day of the South African armed forces",
+      "name_en": "Day of the South African armed forces",
+      "name_zh": null,
+      "start": null,
+      "end": "2022-02-21T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "until 13:00 GMT on the 21st of February - 30% discount for the Rooikat 105!",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Rooikat 105 Pack 59.99→41.99(Rooikat 105+15天高级+2000金鹰)",
+          "percent": 30,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "南非国防军日促销:截止2022-02-21 13:00 GMT 前以7折购 Rooikat 105 礼包",
+      "sub_events": [],
+      "notes": "正文仅给折扣截止时间,未写开始时间(文章发布于2022-02-18);纯商店文,无任务",
+      "confidence": 0.9
+    }
+  ]
+}

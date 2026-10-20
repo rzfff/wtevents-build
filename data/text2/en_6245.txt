@@ -1,0 +1,78 @@
+[Event] Battle Royale — the training - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Battle Royale — the training
+Attention! Outdated news format. Content may not display correctly.
+28 June 2019
+Event
+<> Become the last player alive among dozens of opponents in a shrinking battle area! Pick the loot on the map to defeat all enemies up — blow them up with powerful artillery or repair all modules and restores the crew your tank in the battle. Choose tactics and find your optimal tank that will bring victory in the upcoming tournament with prizes!
+<>Battle Royale in War Thunder!
+<>From 10:30 GMT on the 28th of June until 07:00 GMT on the 1st of July
+<>Take part in the training battles of "Battle Royale" in AB and RB before the start of the tournament " King of the Hill ", which will take place very soon™!
+<>Player ratings are based on the place in the Leaderboard, and in the following sessions, opponents with the closest rating are selected for them.
+<>Terms:
+<>You may participate in vehicles of BRs from 6.0 to 7.0
+<>You can only play solo (not as squad)
+<>Battle locations: Port Novorossiysk, Abandoned factory, Stalingrad and Finland and for the first time Vietnam.
+<>There’s a bonus that can be picked up during battle that includes:
+<>Artillery — an extremely powerful strike that destroys anything within a specific radius but it takes a while before the barrage begins. Available for all vehicle types. Is not available at the end of a battle
+<>Repair kit - repairs all modules and restores all ammo.
+<>Med kit — restores the crew.
+<>Fire extinguisher.
+<>There are additional rewards for the top 3 players in training battles of "Battle Royale".
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

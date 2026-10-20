@@ -1,0 +1,84 @@
+[Special] Tankers’ Day: celebrate with us! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tankers’ Day: celebrate with us!
+Attention! Outdated news format. Content may not display correctly.
+6 September 2019
+Special
+<>Armoured Forces are well equipped to fight in varying conditions and are often the first to penetrate an enemy’s defences, but behind those plates of armour, including those that are modern and advanced, are teams of brave crew. As a national tradition and on each second Sunday in September, we celebrate the service of those brave tankers! And so, here’s to them!
+<>From the 6th of September (15:00 GMT) until the 9th of September (9:00 GMT)
+<>Participate in the Tankers’ Day celebration with special events and random battles, and become the owner of the decal and decorations!
+<> Random Battles Prize:
+<> Specials Event Prizes:
+Decal “Soviet Army roundel 1918-1943” (Decals, USSR)
+<>For 5 victories with a battle activity of 60% or more in random battles, while controlling Soviet ground vehicles of Rank III and above.
+"Headset" Decoration
+<>Win one by achieving 5 victories in tank special events.
+"Star" Decoration
+<>Win one by achieving 5 victories in tank special events.
+<>Special conditions of the events:
+<>Only vehicles with a BR of 8.0 - 9.3 can participate.
+<>There are 3 respawns available in AB and RB. Aircraft events and respawn scores are disabled.
+<>The sessions will match players as 8v8 with others of similar battle ratings.
+<>The events are taking place on the following locations: Abandoned Factory, Poland, Eastern Europe, Ash River, Karelia, Kuban, Normandy, Crossing over the Rhine, Stalingrad and Middle East.
+<>You can receive both 3d decorations by winning 5 times in both events.
+<>As an addition, the KV-2 ZiS is available for purchase with Golden Eagles until 09:00 GMT on the 9th of September.
+<>KV-2 (ZiS-6) (USSR)
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

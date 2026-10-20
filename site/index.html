@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0b0f14">
+<title>战雷活动总览 · War Thunder Events</title>
+<meta name="description" content="War Thunder 2013-2026 历年活动总览:促销折扣、送车马拉松、战斗通行证、节日活动,精确起止时间与奖励载具。">
+<link rel="icon" href="/wtapi/assets/favicon.ico">
+<link rel="stylesheet" href="style.css?v=9">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>战雷活动总览</h1>
+      <p class="sub"><span id="stat-line">加载中…</span></p>
+    </div>
+    <div class="tools">
+      <input id="q" type="search" placeholder="搜索活动 / 载具…" autocomplete="off">
+    </div>
+  </div>
+  <div class="wrap filters" id="filters">
+    <div class="chips" id="type-chips"></div>
+    <div class="years" id="year-nav"></div>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+  <section id="timeline"></section>
+  <div id="empty" class="empty" hidden>没有匹配的活动。</div>
+</main>
+
+<aside id="drawer" hidden>
+  <button class="close" id="drawer-close" aria-label="关闭">×</button>
+  <div id="drawer-body"></div>
+</aside>
+<div id="scrim" hidden></div>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>数据来源:官方新闻档 / 官方 Wiki 活动年表 / War Thunder Datamine(载具与活动 ID)。事实数据整理,版权归原作者所有;每条活动附原文链接。</p>
+    <p class="dim">anhappy.com · <a href="/">返回主页</a> · <a href="/wtapi/">载具数据库</a> · <a href="/wtrp/">研发点计算器</a> · <a href="/wtstats/">载具统计</a></p>
+  </div>
+</footer>
+
+<script src="app.js?v=9"></script>
+</body>
+</html>

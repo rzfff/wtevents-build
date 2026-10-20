@@ -1,0 +1,105 @@
+[Event] Tank Football 2026! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tank Football 2026!
+29 June 2026
+Event
+<>The World Cup is in full swing, teams are playing their best, fans are fired up, and emotions are running high! Unleash your inner footballer in War Thunder, as we’re bringing back Tank Football with a new set of rewards, a league system, and a new player profile showcase so seasoned players can show off their football achievements.
+<>To help you remember how to jump and dash, warm up and prepare for matches properly, training events are available for you from June 30th (11:00 GMT) until July 1st (10:45 GMT). In these training events, achievement progression is switched off.
+<> From July 1st (11:00 GMT) until July 20th (05:00 GMT) , daily football matches are available at the following times: from 11:00-14:00 GMT, 16:00-22:00 GMT and 00:00-05:00 GMT.
+<>Join other players in a 3v3 event (for solo players), or gather a team together and show off your skills and tactics in a 4v4 event (for squads).
+<> Football themed rewards!
+<>For each goal, assist or save, you’ll receive achievement progression points.
+<>“Eagle Goalkeeper”
+decal
+<>“Lion Playmaker”
+decal
+<>“Snail Striker”
+decal
+<>“Football fan”
+profile icon
+<> For 25 points One of the reward decals
+<> For 50 points One of the reward decals
+<> For 75 points One of the reward decals
+<> For 100 points "Football fan” profile icon
+<> For 200 points
+<> “Football Stadium” profile background
+<>
+<>
+<> For 300 points
+<>Coupon for the “Dragons Flag” or “Tiger Flag” Team decal
+<> For 400 points
+<>Coupon for a random football camouflage for the M551
+<> For 500 points
+<>Coupon for one of the golden decorations: Glove, Ball or Boot
+<> “Tank Footballer” Profile Showcase
+<>Introducing the new player profile showcase, featuring all your football achievements. It tracks every match you’ve played: from training sessions to tournaments. Show the world your impressive stats!
+<> League System
+<>In this tournament, we’re testing an important new feature: a league system. Players who join the event start in the Group Stage but can advance further, all the way to the semi-finals and finals. Here is how it works: results are tallied daily at 09:00 GMT. If a player ranks among the top performers based on points, they begin the next period in a higher league. On the other hand, the lowest-ranked players are demoted at the end of the period, while the rest remain in their current league.
+<>Participants will be automatically divided into groups based on their league: the Group Stage features up to 48 participants per group, the quarter-finals have 8, and the final sees two opponents face off, just like in a real tournament! Promotion or relegation depends on your group results; check the leaderboard to see if you’re at risk of dropping out of your current league or if you’re performing well and poised to move up! If there aren’t enough players in your group, you’ll remain in the same league for the next period.
+<>This is the first time this kind of system has appeared in the game, so let us know what you think! Since this is a trial run of the league system, you’ll earn the main rewards by collecting points, just as before, while advancing through the leagues will unlock commemorative rewards. Advancing past the Group Stage will earn you the “Football League 2026” title. The best of the best — those who win the final — will be awarded the “Football League 2026 Champion” title. Good luck!
+<> Event details
+<>You can see the exact conditions for each task and track your progress by clicking on your nickname and going to the Achievements → Tank Football menu.
+<>The coupons for the “Dragons Flag” and “Tiger Flag” decal, “M551 Football Camo” coupons and “Golden Football Decoration” coupons can be sold on the Gaijin Market.
+<>PlayStation and Xbox players can exchange each coupon for 100 Warbonds.
+<> Match rules
+<>Each match consists of two halves of 5 minutes each. As with mini-football, only pure playing time is taken into account.
+<>If the result is a draw, players receive an additional 2 halves of 1.5 minutes each. If at the end of two halves and extra time it’s still a draw on the scoreboard, victory is not awarded to any team.
+<>To win early in a 3 vs 3 match, you must get a 3 goal advantage.
+<>To win early in a 4 vs 4 match, you must get a 5 goal advantage.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

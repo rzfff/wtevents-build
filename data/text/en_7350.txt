@@ -1,0 +1,138 @@
+[Event] Export Order - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Export Order
+Attention! Outdated news format. Content may not display correctly.
+22 September 2021
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>A new equipment order is waiting for you! Your Workshop is poised to start production, the only thing that is required now, are materials. Get Crowns for your export model and exchange them for exclusive military equipment!
+<>From September 23rd (12:00 GMT) until October 4th (12:00 GMT) Build Export models from materials, sell them to get Crowns, and purchase exclusive combat vehicles!
+<>Rewards
+<> PT-16/T14 mod (rank VI) — event vehicle, coupon
+<>
+Purchase for 375,000 crowns.
+<>One of the Leopard 2 prototypes featuring an auto loading mechanism. The firing rate is twice as fast!
+<> F-5A (rank VII) —
+event vehicle, coupon
+<>
+Purchase for 375,000 crowns.
+<>The export version of the Freedom Fighter in service with the US Air Force. A huge load and impressive maneuverability supplemented with countermeasures - flares and radar warning system.
+<> Pansarbil m/40 (rank I) — Premium, coupon
+<>
+Purchase for 125,000 crowns.
+<>A light and nimble armoured car equipped with a 20mm autocannon. Perfect for rushing capture points early.
+<> HMS Mohawk (rank II) — Premium, coupon
+<>
+Purchase for 250,000 crowns.
+<>A mighty Tribal-class destroyer with multiple main calibre guns and premium bonuses.
+<>How to participate
+<>Fight in multiplayer battles! Required materials appear in the menu “Workshop → Export Order'' after each battle.
+<>In the “Export Order” crafting event you assemble Export models and deliver them to the customers to receive Crowns. Achieved Crowns can be used to purchase exclusive combat vehicles.
+<>Inventory
+Materials
+<>Required for building the Export models. Open the cart after a battle ends.
+<>Granted for every 10 minutes in battle (from rank III with an activity of 50% or above).
+<>Every cart contains 2-4 materials.
+Technical Document
+<>Required in the final stages of building of the Export models. They are merged into a Technical Manual.
+<>Granted for every 10 minutes in battle (from rank III with an activity of 50% or above).
+<>There is a small chance that a Technical Manual might drop.
+Cheque
+<>Can be merged into a small or large bundle of cheques to reduce the build time of the Export model.
+<>Granted for a 1st place in battle (both teams).
+<>Carts with materials, as well as Technical Documents can be achieved several times in a single battle. Any additional time gained at the end of a battle is not lost, and will be carried over into the next one.
+<>Crafting the details
+<>Press the “Assemble” tab in the “Workshop → Export Order” menu. Crafting occurs in the following order: “Materials” → “Details” → “Export Model”.
+<>You can simultaneously craft three details at once, one detail in each category. To start crafting details, earn materials from completing a battle and begin production.
+<>Materials can be purchased and sold on the Market . One material for Market use can be crafted from two standard ones.
+<>Build and sell the Export model
+<>You are able to build the model when every detail in all three categories is ready, and the Technical Documents have been merged into a Technical Manual.
+<>Each Export model built can be delivered to customers for 125,000 Crowns.
+<>The required building time of Export models can be significantly reduced by using either a small or large bundle of Cheques. You can collect a stack from single Cheques, or purchase them on the Market.
+<>How to receive rewards
+<>For your earned Crowns, you can purchase any of the exclusive event vehicles in any order you like!
+<>The F-5A and PT-16/T14 mod can be purchased from the start of the event until 12:00 GMT on the 18th of October.
+<>The Pansarbil m/40 and HMS Mohawk can be purchased from 12:00 GMT on the 11th of October until 12:00 GMT on the 18th of October. PlayStation and Xbox players can purchase these vehicles from 12:00 GMT on the 4th of October until 12:00 GMT on the 18th of October.
+<>All event vehicles will be issued in the form of coupons which can be activated on your account or traded on the Market .
+For PlayStation and Xbox players ▼
+<>The lack of a Marketplace won’t slow your progress. Obtain any special items you need for Golden Eagles by navigating to “Workshop → Export Order”:
+Materials - 42 items.
+<>A box with materials for Golden Eagles.
+Engineer Toolkit
+<>Allows you to receive additional “Technical Documents” in battles without restrictions - 6 items for every 10 minutes of the battle.
+<>Terms
+<>All event items can be obtained in the following game modes:
+<>Ground arcade, realistic and simulator battles.
+<>Aircraft arcade and realistic battles.
+<>Naval arcade and realistic battles.
+<>The number of items received in battle is limited.
+<>“Materials” carts — up to 40 per day and up to 400 for the whole event (until 12:00 GMT on the 4th of October).
+<>“Technical Document” — up to 40 per day and up to 320 for the whole event (until 12:00 GMT on the 4th of October).
+<>“Cheque” — up to 200 for the whole event (until 12:00 GMT on the 4th of October).
+<>The possibility of whether or not an item can be traded on the market is indicated in their description.
+<>Assembling an “Export model” will take some time. It can however be sped up by collecting a “Small bundle of cheques” (25 cheques) or a “Large bundle of cheques” (50 cheques).
+<>Event times:
+<>Materials, Technical Documents and Cheques can be earned in battle from 12:00 GMT on the 23rd of September until 12:00 GMT on the 4th of October.
+<>You can collect parts of the Export model from materials, as well as trade them on the market until 12:00 GMT on the 11th of October.
+<>At 12:00 GMT on the 11th of October all event items, excluding assembled Export vehicle models and those in the process of being assembled, Crowns and vehicle coupons, will be removed from the inventory and the market.
+<>At 12:00 GMT on the 18th of October Export models and Crowns will be removed from each player’s inventory and the market. Make sure you have enough time to ship your export models and spend crowns on the vehicles before the event ends!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

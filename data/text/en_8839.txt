@@ -1,0 +1,115 @@
+[Event] Mad Thunder: Rage and Loot! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Mad Thunder: Rage and Loot!
+1 April 2024
+Event
+<>In a world without hope, without law, without mercy, only one thing has a price: resources!
+<>Even after the world gradually turned into a lifeless hot desert, the war did not stop. The ruins of one of the last bastions of a united humanity have now become the battlefield of countless bands of raiders who roam these forgotten lands in search of valuable resources. A cult of rage drives these ruthless warriors of the desert. Their combat vehicles, assembled from parts of military equipment of the past, are decorated with special flags where raiders mark their victories. Rumors of the best warriors spreads quickly, and the hunters themselves often become the prey of those who dream of glory of the chosen one of the sacred rage.
+<>So start your engines and fill up your machine gun belts... oh what a beautiful day... what a beautiful day!
+<>Welcome to the Mad Thunder event!
+<>In this event, you’re able to explore the ruins of a forgotten land in two game modes — as a team and free-for-all. Your task in these raids is to collect resources and get to an extraction zone. The second and no less important task is to earn rage tokens! Rage can be obtained for destroying rival combat vehicles and can be spent on improving or building new combat vehicles.
+<>Make sure to be quick and get out in time, as a devastating sandstorm is coming from the desert, and when it covers the ruins of the Forgotten Land, no one will be saved!
+<> When: From April 1st (11:00 GMT) until April 22nd (11:00 GMT).
+<>Get resources in this special event and assemble modifications, new vehicles and other rewards of your interest! You can access this event through Events & Tournaments > Mad Thunder .
+<>Rewards
+<>In the progression tree are rewards that you can create with the resources that you have collected when leaving the Forgotten Lands. There’s 3 decals, 2 decorators, a ship flag, a loading screen, a profile icon and the “Loot carrier” title, which are all waiting for you.
+“Mad Girl: Looter” decal
+“Mad Girl: Mechanic” decal
+“Mad Girl: Gunner” decal
+“Iron Flame” decoration
+“Spikes” decoration
+“Mad Roger” ship flag
+“Interceptor driver” profile icon
+“Mad Thunder” loading screen
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>How to collect resources
+<>On the minimap of the Forgotten Land, you’ll see areas of interest where valuable resources may remain. It’s worth exploring them! In the raid, you can find ancient electronics, scrap metal, vehicle parts and armor parts, which are all needed to improve your combat vehicles and to craft new ones. Resources are stored in boxes, containers and barrels. You can either shoot them or crush them under the wheels of your vehicle, then drive over them to pick up the loot. The cargo compartment volume of each vehicle is different. A special cargo compartment fill indicator will tell you how many loot slots are available for transportation, as well as how much of each type of resource you’re currently carrying.
+<>The “Loot Imager” modification will help you more accurately determine where valuable resources can be found on the map. You’re able to see loot through binoculars or the optical sight of a gun with this loot imager.
+<>Assembling and improving vehicles
+<>In the event window, there’s a progression tree with new vehicles, their upgrades and other rewards, as well as the resources that you’ve collected.
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>All rewards are unlocked for the resources that you’ve obtained in the desert. Need armor? You got armor. Need rage? Well this is a world of fire and blood. There’s fire under the hood, and blood will have to be spilled!
+<>When you’ve obtained all of the necessary resources, you can click on the “Assemble” button on the vehicle or modification you’re interested in and use them in the next battle.
+<>Rage
+<>Rage can be obtained by destroying enemies and collecting rage flags from the carcasses of destroyed vehicles. Rage Tokens are guaranteed loot at the end of a raid. In addition to this, earned rage in battle will allow you to respawn in the same raid using more powerful vehicles, which you’ll unlock in the progression tree.
+<>At the beginning of each raid, all vehicles receive a black rage flag. Each destroyed enemy immediately adds a mark of rage to the flag, which is a white oblique stripe. Don’t forget to drive near the corpse of a defeated enemy to get extra rage from their flag. If the rage level of the destroyed raider was higher, then when picking up the flag, your rage level will become equal to the level of the destroyed enemy.
+<>It’s easy to turn from a hunter into a victim. When you reach the highest, fifth level of rage, the marks on your flag stop adding up and your combat vehicle becomes visible to all raiders on the minimap. Prepare for battle!
+<>The “Rage Scanner” modification will make it easier to find nearby rage flags. Activate this modification in battle and the scanner will briefly highlight destroyed vehicles with available rage flags on the map.
+<>Oh, and one last thing. After respawning in a new vehicle, the marks on the rage flag are reset. You can earn new ones!
+<>Sandstorms
+<>A sandstorm moves from the direction of the large desert. Keep an eye on the timer, as you’ll need to get to the raid extraction zones before the sand swallows the ruins of the Forgotten Land. Although before the big storm comes, a smaller one does first which doesn’t harm vehicles, but will make it more difficult to navigate in battle. Shortly before the big storm, you’ll receive notes on all possible extractions from the vicinity of the Forgotten Land — hurry to the nearest one! If you don’t have time to find a way out before the arrival of the big storm, your crew and stalled vehicle will be quickly swallowed up by multi-ton sand dunes and face a quick death.
+<>Extraction Zones
+<>In total, you can leave the Forgotten Land through four extractions, but the cult of rage will not allow you to cowardly escape through the nearest ones! You must travel through the entire land, giving battle to those who encroach on your prey. However, everyone is afraid of the storm, and when the choice is between oblivion in the sand and life in the desert, all raiders choose life!
+<>Event dates
+<>Resources can only be obtained in this event, from April 1st (11:00 GMT) until April 22nd (11:00 GMT).
+<>You can collect upgrades, new vehicles and other rewards from resources until April 22nd (11:00 GMT).
+<>On April 23rd at 11:00 GMT, all resources, as well as vehicles and improvements will be removed from your inventory.
+<>Get out there and have some fun!
+<>The War Thunder Team
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

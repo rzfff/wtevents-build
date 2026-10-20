@@ -1,0 +1,96 @@
+[Event] Mobile Infantry Event - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Mobile Infantry Event
+1 April 2023
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Soldiers! It’s time to participate in an open field testing of advanced modern infantry equipment in urban combat. Four exoskeleton variations for different combat specializations will be available for you: Assault, Sniper, ATGM Operator, and MANPADS Operator. You will also be able to use a preset of ground vehicles and helicopters.
+<>Try them out in battle and receive valuable prizes!
+<>From March 31st (12:00 GMT) until April 17th (11:00 GMT) earn points in special missions, unlock stages, and get rewards!
+“Mobile Warrior” player icon
+"MI MBCT1" emblem
+"ShMP 1st Assault" emblem
+“Rocket Launcher” decoration
+“Quadcopter” decoration
+“8-mm machine gun” decoration
+<>How to receive rewards
+<>Each stage containing a reward can be unlocked by earning 40 000 mission points during the specified two day period. New stages will be available at 11:00 GMT on April 2nd, 4th, 6th, 8th, 10th, 12th, and 14th.
+<>You can earn mission points only in the Mobile Infantry event.
+<>Rewards will be given for certain number of completed stages:
+<>For 1 stage: one of two emblems (MI MBCT1 / ShMP 1st Assault) + 1 Piñata Stick*
+<>For 2 stages: “8-mm machine gun” decoration
+<>For 3 stages: one of two emblems (MI MBCT1 / ShMP 1st Assault) + 1 Piñata Stick*
+<>For 4 stages: “Rocket Launcher” decoration
+<>For 5 stages: “Mobile Infantry” loading screen
+<>For 6 stages: “Quadcopter” decoration
+<>For 7 stages: “Mobile Warrior” player icon
+<>For 8 stages: “Mobile Warrior” title + 3 Piñata Sticks*
+<>* – Piñata Sticks will be removed from your inventory on April 17th, 12:00 GMT, and will not be given out if you purchase the stages after this time.
+<>You can track the progress of the event by clicking on your nickname and selecting the menu ”Achievements → Mobile Infantry”. If you didn’t finish the event in time, until April 19th you will be able to purchase stages completion for Golden Eagles in the achievement window and get corresponding prizes.
+<>You can get rewards from past April Fools events and many other prizes in the Lucky Piñata event .
+<>Detailed terms:
+Conditions of each stage are detailed in the “Nickname → Achievements→ Mobile Infantry” window.
+Tasks to complete each stage can only be undertaken in the “Mobile Infantry” event.
+The stage is considered complete if the achievement is colored in gold.
+After you complete the stage, you have to press the “Receive a prize” button in the Achievements window. You can receive your prizes up until April 19th, 11:00 GMT.
+The prizes are activated on your account and are NOT coupons.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,110 @@
+[Historical] Birthday of the USAF - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Birthday of the USAF
+Attention! Outdated news format. Content may not display correctly.
+17 September 2014
+Historical
+<>
+<>
+<>
+U.S. aircraft cockade, or roundel, of late World War I
+<>
+The USAF was formed as a separate branch of the military on 18th of September, 1947 under the National Security Act of 1947. One must surely then think - “Why does a force so important as this only receive recognition after the Second World War, where it proved it’s worth?”. The answer is fairly simple.
+<>
+<>
+U.S. aircraft roundel primarily of the interwar years to early World War II
+<>
+The United States Air Force was brought into life with the signing of the National Security act in 1947. Before that, air power was prevalent in the American military. The first air corps was created on the 1st of August 1907, with the creation of the Aeronautical Division in the Office of the Chief Signal Officer of the Army. In the First World War, American pilots took part in the conflict as part of the American Expeditionary Force. After the “Great War”, the US Army Air Corps was established and started to pioneer new advancements in the field of aviation, such as mid-air refueling or the adoption of full-metal monoplanes instead of biplanes seen in the arsenal of other Air Forces around the world.
+<>
+<>
+U.S. aircraft cockade 1941-1947
+<>
+In 1941, the Air Corps was transformed into the United States Army Air Force. After the attack on Pearl Harbor, the consequence of which was the United States of America actively joining the second world war, the USAAF began combat operations. The US pilots fought in Western Europe, Africa and Asia, along with other allied air forces. Even so, they were controlled by the Army and were not autonomous.
+<>
+<>
+President Truman signed the National Security Act of 1947 onboard this VC-54C Presidential transport, the first aircraft used for the role of Air Force One.
+<>
+Regardless of this, the war effort of the pilots and ground crews of the USAAF cannot be downplayed - it was the Air Force that suffered 12% of the overall Army casualties in the war. Also, 36 members of the USAAF received the highest American decoration - the Medal of Honor - for their bravery in face of combat.
+<>
+After the Second World War, the American Congress, with President Truman decided, that the Air Force should be separated into a standalone branch of the US Military. After some initial planning, President Truman ordered the creation of the Department of the Air Force in 1947, separate from the Army. Since that day, the United States Air Force has taken part in several conflicts around the globe, such as the Korean War, the Vietnam war and Operation Desert Storm. Currently, it’s strength lies with over 5000 aircraft, 450 ICBM’s and nearly 700 thousand personnel, ready to defend their homeland.
+We salute all who serve and who had served in the US Air Forces throughout the years.
+<>
+<>
+The War Thunder Team
+<>
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

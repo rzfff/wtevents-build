@@ -1,0 +1,127 @@
+[Event] [BattlePass] Meet Guided Fury, the 17th Season of the Battle Pass! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Meet Guided Fury, the 17th Season of the Battle Pass!
+21 October 2024
+Event
+BattlePass
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Fury from the skies! Meet the 17th season of the Battle pass. In this one, you can get the Soviet light cruiser Murmansk and the He 177 A-3 German bomber, armed with the new Hs 293 guided bomb!
+<>To receive Battle Pass rewards, you’ll need to regularly log into the game and complete tasks and challenges to progress. Each level of the Battle Pass will earn you a prize, be it a player icon, loading screen, title, decals, decorations, or premium vehicles!
+<> Please note: This time, we’ve created a trophy for ground vehicles that includes three Battle Pass rewards from previous seasons that were not available on the marketplace, as well as one event vehicle. Opening this trophy will guarantee you either the T55E1, Toldi IIA, Sd.Kfz.251/22, or Ka-Chi, if you don’t have them currently. If you have them all, you’ll receive Silver Lions and a “Collector Golden Battles Wager” instead.
+<>In the future, we’re planning to rotate different Battle Pass trophies that contain a different set of event vehicles that were not available for purchase.
+<>Collector Golden Battles Wager
+<>The maximum reward for this wager is 1,000 Golden Eagles. To receive it, you need to win 12 battles using rank III and higher vehicles while destroying at least one player vehicle in each match. If you lose your match or don’t destroy a player three times, the wager will be over and the reward corresponding to the progress made will be given to you.
+<>Meet Season 17 of the Battle Pass!
+<> When: October 23rd until January 22nd.
+<>This Season’s Rewards!
+<>We’ve got a new set of decals, decorations, a profile icon, a trophy containing previous ground vehicles from the Battle Pass, and two new vehicles lined up for you this season! See the full list in the Battle Pass tab in the hangar, or check them out on our Wiki. Here’s some key rewards for Season 17:
+<> Murmansk
+A Premium Light Cruiser for the USSR at Rank III
+<>An American light cruiser in service with the Soviet Navy, featuring ten 152 mm guns, a radar and excellent anti-aircraft armament.
+<> He 177 A-3
+A Premium Bomber for Germany at Rank IV
+<>A high-speed, long-range bomber with an impressive payload and the Henschel Hs 293 guided bomb, new to Germany.
+<> Trophy containing previous ground vehicles
+<>T55E1
+<>Toldi IIA
+<>Sd.Kfz.251/22
+<>Ka-Chi
+1 random ground vehicle (T55E1, Toldi IIA, Sd.Kfz.251/22 or Ka-Chi) from previous Battle Pass seasons or events
+<>Opening this trophy will give you 1 random ground vehicle from previous Battle Pass seasons, or one from a previous event. If you already own all of them, you’ll be given Silver Lions and a “Collector Golden Battles Wager”.
+<>
+<>
+<>
+<>
+Decals
+<>Emblem of the 570th bombardment squadron
+<>Emblem of the 1st squadron GB I/39
+<>Emblem of the 4th squadron GB II/23
+<>Emblem of bombardment squadron KG 6
+<>
+<>
+<>
+Decorations
+<>LAD (ground forces)
+<>Luftfaust-B (ground forces)
+<>Enzian (naval)
+Profile icon
+<>Bomber pilot
+<> ALL REWARDS AND CHALLENGES FOR SEASON 17
+<>About the Battle Pass
+<>If you’ve got two Coupon Upgrades from stages in the previous season, then you can claim the new Battle Pass for free! Exchange them in the purchase menu of the Guided Fury season.
+<>The Battle Pass is a seasonal event where players can earn many rewards, ranging from Silver Lions and boosters to exclusive season prizes: decorations, profile icons and premium vehicles. The rules are simple: you earn progress points and use them to unlock new stages, earning valuable prizes in the process.
+<>
+<>You can unlock new stages and receive awards at any time during the season.
+<>
+You can access the “Battle Pass” window through the promo block on the right side of the hangar screen.
+<>How to take part
+<>Play
+<>You get progress points every day for just logging into the game.
+<>From 1 to 5 points.
+<>Complete Battle Tasks
+<>You can check your Battle Tasks in the game. Complete them and receive progress points.
+<>From 2 to 5 points.
+<>Complete Season Challenges
+<>One Challenge is available at the start of the season. Every week you get a new one, while three more will become available by unlocking stages.
+<>30 points.
+<> Learn more about Battle Pass
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

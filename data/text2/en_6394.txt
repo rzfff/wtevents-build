@@ -1,0 +1,81 @@
+[Event] Naval Enduring Confrontation - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Naval Enduring Confrontation
+Attention! Outdated news format. Content may not display correctly.
+20 September 2019
+Event
+<>Achieve superiority by destroying enemy convoys, ports and vehicles.
+<>Aircraft fly outs require a fixed amount of available respawn points. Respawns on ships with BR 4.7 and higher require respawn points depending on the BR. The amount of respawns is not limited and you can respawn with same vehicle multiple times but every respawn will cost Silver Lions depending on the repair cost of the vehicle.
+<>Naval Enduring Confrontation
+<>We invite you to take part in naval enduring confrontation in which you will experience completely new scenarios.
+<>From 15:00 GMT on the 20th of September till 07:00 GMT on the 23rd of September
+<>[Enduring Confrontation] Saipan (AB)
+<>The event ending time may be changed. Costs for respawn and awards may be changed over the testing period.
+<>In the naval enduring confrontation, battles will be held around the ports which are the key objects of the mission. Teams will receive points for capturing and holding the ports and also for completing of other mission tasks. The team which reaches 15,000 points first wins.
+<>Required vehicles in setup: Fleet of BR 3.7 - 4.3
+<>Acceptable vehicles in setup: Fleet and aircraft of BR 1.0 - 5.7
+<>The amount of respawns is not limited and you can respawn with same vehicle multiple times but every respawn will cost Silver Lions depending on the repair cost of the vehicle. Aircraft fly outs require a fixed amount of available respawn points. Respawns on the ships with BR 4.7 and higher require respawn points depending on the BR.
+<>Scenarios
+<>New scenario for Enduring Confrontation: Naval convoys.
+<>On the map border, naval convoys will appear which will move towards the sea ports of their respective team. Whilst the convoy is active, the allied team has additional respawn points close to it. The enemy team will also have respawn points at a distance from the convoy. The number of ships in the convoy depends on the number of players in the game session and on the port size where the convoy is attempting to reach.
+<>New scenario for Enduring Confrontation: Port attack.
+<>Each team will have 3 ports at the start of the mission. Each port has several AI ships which will defend the base. Each port is immediately available for players to capture and there are no additional tasks for capturing the ports. If the convoy from the “naval convoy” scenario reaches its port it is very likely that the AI ships from this port will attack one of the enemy ports and the players will receive additional points for helping them to capture enemy port.
+<>Naval bombers
+<>In case there is an active naval convoy on the map the enemy team may have a bomber which will attack and destroy the convoy. The entire logic of the scenario is working in the same way as for ordinary bombers attacking ground bases, but now their targets are convoy ships.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

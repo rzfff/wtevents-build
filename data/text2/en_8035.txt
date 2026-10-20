@@ -1,0 +1,200 @@
+[Special] New Year with War Thunder! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+New Year with War Thunder!
+22 December 2022
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Christmas frost outside - it is time to decorate the Christmas tree and happily wait for the New Year. These winter days are the time of Christmas miracles, fun and gifts. Miracles we will leave to Santa but the fun and gifts will be provided by us!
+<>Everyone gets gifts!
+<>2023 is the year of the rabbit, so we’re giving out a traditional decal to all players. All you need to do is just to perform 3 battles! Don’t miss the decorations for ground vehicles and naval.
+<>Remember last year's Christmas deer? This year we've added a Christmas sleigh for it! By the way, you can get the deer from the Ice chest or buy it on the Marketplace!
+<> All three gifts can be received from 14:00 GMT on the 22nd of December until 11:00 GMT on the 2nd of January
+“Battle Rabbit”
+decal
+<>Perform 3 battles in a vehicle of rank III or higher with an in-game activity of 70% or higher.
+“Dwarf” decoration
+(for ground vehicles)
+<>Defeat 30 enemy players while controlling ground vehicles of rank III or higher.
+“Christmas sleigh” decoration
+(for naval)
+<>Inflict 50,000 damage while controlling a naval vessel of rank III or higher.
+<>Ice chest and New Year trophy
+Ice Chest
+Almighty Key
+New Year trophy
+<> From 14:00 GMT on the 20th of December until 11:00 GMT on the 9th of January you will also find two different chests with items! The New Year trophy can be purchased only for Golden Eagles but inside it you will find a huge variety of useful items: premium account, Silver Lions, universal backups and boosters, premium vehicles, as well as all the vehicles ever sold for Golden Eagles or for Warbonds, but are not currently tradable in the game or on the market.
+New Year trophy details (open spoiler) ▼
+<>New Year’s trophy purchase price : 999 Golden Eagles
+<> Guaranteed Prize: 1 day premium account + 100000 Silver Lions
+<> Additional Guaranteed Prize:
+<>
+<>1 day premium account — 15%
+<>3 days premium account — 10%
+<>7 days premium account — 5%
+<>100000 SL — 16%
+<>250000 SL — 8%
+<>500000 SL — 4%
+<>1000000 SL — 2%
+<>50-300% booster for 1-3 battles — 20%
+<>Universal backup - 3 pieces. — 20%
+<> Additional random prizes:
+<>1. Talisman for vehicles (15% chance but at least once for every 14 trophy openings); breakdown of chance by vehicle rank:
+<>
+<>Rank I — 16%
+<>Rank II — 20%
+<>Rank III — 25%
+<>Rank IV — 18%
+<>Rank V — 10%
+<>Rank VI — 7%
+<>Rank VII — 3%
+<>Rank VIII — 1%
+<> If all vehicles of the dropped rank already have a talisman the player will be refunded fully for the New Year trophy — 999 GE.
+Premium vehicles including unavailable for sale (15% chance but not less than once for every 14 trophy openings); breakdown of chances by vehicle ranks:
+<>
+<>Rank I — 20%
+<>Rank II — 25%
+<>Rank III — 23%
+<>Rank IV — 15%
+<>Rank V — 10%
+<>Rank VI — 7%
+<> If all vehicles of the dropped out rank are already there, the player will be refunded the cost of the New Year trophy fully — 999 GE.
+<>Unavailable for purchase vehicles presented in the New Year’s trophy along with the usual premium vehicles:
+M26E1
+UH-1C XM-30
+P-61A-11
+Bostwick's P-47M-1-RE Thunderbolt
+Lanovski's P-47M-1-RE Thunderbolt
+Wetmore's P-51D-10 Mustang
+USS Cowell
+Pz.Sfl.Ic
+Panzer IV/70(A)
+He 112 B-1/U2 (Germany)
+P-47D (Germany)
+La-5FN (Germany)
+Tempest Mk V (Germany)
+Sea Hawk Mk.100
+Z20 Karl Galster
+T31
+T-34 (1st Gv.T.Br.)
+МК-IX "Valentine" (USSR)
+KV-1E
+KV-2 (ZiS-6)
+IS-2 "Revenge"
+Mi-24D (USSR)
+Pokryshkin's P-39N-0 (USSR)
+Pe-2-205
+IL-2M "Avenger"
+Golovachev's Yak-9M
+Fw 190 D-9 (USSR)
+Spitfire Mk IXc (USSR)
+MiG-15bis ISH
+Stroyny
+Neustrashimy
+Achilles (65 Rg.)
+Boomerang Mk II
+D.520 (Great Britain)
+Typhoon Mk Ib
+Plagis' Spitfire LF Mk IXc
+Prendergast's Spitfire FR Mk XIVe
+Hunter FGA.9
+HMCS Haida
+J2M4 Kai
+IJN Kiyoshimo
+Т-62 №545
+T-69 II G
+P40 "G.C. Leoncello"
+RN Geniere
+F-84F IAF (France)
+<>Purchasing a New Year Trophy is a bargain! If you have opened enough trophies you will be guaranteed of receiving talismans and premium vehicles. And the average value of the trophy contents are almost one and a half times its price.
+<>You can purchase the Ice Chest for only 10,000 Silver Lions but to open it you will need the Almighty Key for 50,000 Silver Lions. You will find unique decals, decorations, vehicles and camouflages from all past winter events in War Thunder (also in the form of coupons) as well as Silver Lions, boosters, universal backups, wagers and orders.
+<>Almighty Keys can also be obtained in the Winter Quest!
+<>Winter quest
+<>To brighten up the long evenings we have prepared a lot of prizes that you can get for any of your usual actions in the game because to complete the tasks you just need to get points!
+<> From 11:00 GMT on the 20th of December until 11:00 GMT on the 9th of January you can get event high-ranked vehicles of all types as well as trophies with rewards, coupons for decals, camouflages for event vehicles, player icons and decorations.
+<> Late 298D
+<>France, rank I, premium
+<> More about vehicle
+<> T-80UM2
+<>USSR, rank VII, event vehicle
+<> More about vehicle
+<> Tornado IDS Marineflieger
+<>Germany, rank VIII, event vehicle
+<> More about vehicle
+<> USS Newport News
+<>USA, rank V, event vehicle
+<> More about vehicle
+<> Participate
+<>In-game discounts
+<>
+<>Treat yourself to a Christmas present and save a lot!
+<> From 14:00 GMT on the 22nd of December until 11:00 GMT on the 29th of December
+50% off all vehicles in the game
+50% off talismans, back-ups, and modifications
+50% off Premium account for 90 or 365 days in the game store, or 180 days in the Gaijin.Net online store
+<>Discounts work both for Silver Lion and Golden Eagle prices for all vehicles apart from those added in the updates “ Fire and Ice ", “ Apex Predators ” and squadron vehicles.
+<>Gaijin.Net store SALES
+<> More details
+<>Christmas Special Merch!
+<>
+Don’t miss our new T-shirt and sweatshirt: check them out in the merch store .
+<> Merry Christmas and Happy New Year!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

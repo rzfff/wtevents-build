@@ -1,0 +1,150 @@
+[Special] BMP-2 and BVP-2: views from Russia and the Czech Republic - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+BMP-2 and BVP-2: views from Russia and the Czech Republic
+Attention! Outdated news format. Content may not display correctly.
+1 December 2020
+Special
+<>If you have excellent knowledge of the combat vehicles present in War Thunder and would like to share your memories of serving in the military and your impressions of the game, please send us an e-mail to [email protected] .
+<>We continue to publish real stories the combat use of War Thunder vehicles. Today we’re talking about the Russian BMP-2 IFV, and the Czech BVP-2 version, with our two guests, one a BVP-2 driver and the other a BMP-2 gunner.
+<>Has experience driving a BVP-2 in the 72nd Mechanized Battalion, Přáslavice, Czech Republic.
+<> Please tell us something about yourself. Did you join the army through conscription or as a volunteer?
+<>I was born in 1992, so I missed compulsory military service. Since I wanted to serve in the army since I was a child, I decided to enlist anyway. I trained as a carpenter and immediately after I finished the apprenticeship I voluntarily enlisted into the Czech Army in 2011. I started as an engineer, which drew me to mechanized units. When I joined the 7th Mechanized Brigade, they asked me if I wanted to drive and I said yes and so I became a candidate for a BVP driving course.
+<>
+<> Did you participate in foreign operations (as far as I know, the 7th Brigade was involved in Afghanistan and Mali)?
+<>I did not take part in any foreign missions. I only took part in foreign military exercises.
+<> Does the Czechoslovak version of the BVP-2 have any differences compared to the Soviet original? Have you ever driven the original Soviet BMP-2? Which vehicle would you rather go to battle in?
+<>My little monster was made in 1990 in Czechoslovakia. I didn’t see the Russian version, but from what I heard, the differences were minimal, perhaps only in the electrical installation. To battle? Today, I would not want to go into real combat with it, although this machine can still be made into an effective combat tool.
+<> Have you ever come across similar vehicles from Western countries? If so, how would you rate the BVP-2 in comparison?
+<>During foreign exercises I encountered the German Puma, the Austrian ASCOD or the American Stryker and I actually drove a Swedish CV90. Well, the BVP has an unbeatable off-road advantage. It is a monster that is not afraid of tougher treatment in the worst terrain.
+<> Would you trade your BVP-2 for something else?
+<>If I had to go to combat with it, yes. Its time is due. It lacks thermal imaging, its protection is weak, it is very cramped inside, etc.
+<> Maybe you remember a funny or unusual incident related to your vehicles?
+<>Once during training, I tried to enter the position where we were supposed to spend the night. It was probably some old crater, overgrown with trees. You could get in there well, but I couldn’t settle the vehicle inside properly. As I kept driving on the spot, I started to climb a tree while reversing, and as the branches got under my fender, it tore off. I spent the whole night hammering it back into shape on top of my vehicle. The whole company was laughing at me as the sound of hammer banging on the armour echoed through the forest in the night. They gave me the nickname Leontine, according to a Czech fairy tale - Leontine was the daughter of a knight and hammered out his armour...
+<> Did you conduct ATGM missions during combat training, and if so, at what maximum range did you shoot? Are there any restrictions on the use of the ATGM?
+<>We were shooting mainly at targets about 3-4 km away. Occasionally, during the flight of the rocket, the guide wire tore off and the rocket lost control. Otherwise, it was accurate and fast as lightning, it just takes a little longer to reload.
+<> Are there any problems with active firing from a 30mm automatic cannon?
+<>The 2A42 cannon is good and accurate as long as the ammo doesn't get stuck. The issue lies in the ammunition guiding mechanism which takes ammo from ”kidneys” (ammunition magazines). Sometimes, the ammunition belt gets stuck so badly that the electric feeding motor cannot push it through.
+<> What types of ammunition have you seen and used, have you ever used BPS (3UBR8)? How do you generally evaluate the BMP-2 weapons platform, the accuracy and power of the cannon, the stabilizer and the ability to shoot while moving?
+<>We used armor-piercing tracer ammunition. As for the armament, the vehicle was good (the commander can take control of the main weapon in an emergency). The cannon is accurate both when standing and moving. When moving, the position of the cannon must be observed so that it does not hit an obstacle (such as a tree), because the shooter may be overwhelmed by other activities.
+<> What was the maximum time you had to be in the vehicle without getting out and how did it feel?
+<>I think it was a little over 17 hours during practice. What can I say? Very hot, noisy, stinky, peeing in an empty drinks bottle...
+<> Did you use other BMPs (BMP-3, BMP-2M)? What do you think about them?
+<>The only difference between 1 and 2 is that the 2 has one extra shock absorber, diesel spills on the engine and a different turret, which increases its weight by just over one ton. I only saw BMP-3 in a video, so I can’t rate it.
+<> What can you say about the cross-country ability and buoyancy of the BMP-2, have you ever overcome swimming obstacles?
+<>In order for the vehicle to float safely, it is necessary to put on new tracks (they degrade similarly to tires), swimming fenders (they are wider and filled with foam), seal the whole vehicle with sealant and finally replace the driver’s periscope for swimming (it is high enough to see over the breakwater). It swims well and reacts well on direction inputs.
+<> How and when did you encounter War Thunder, how often do you play and what? What modes do you prefer? What do you like about War Thunder? What would you like to change?
+<>At the beginning of 2019, I installed WoT on my phone. I played it for two days and that was enough for me to delete it and try War Thunder on PC. This game has fully captivated me. I play when I have time, but I would say that almost daily. I have to praise the graphic design of the models and the world. Especially that there is no hit points system. I often play Assault mode (planes and tanks) and I would suggest adding more maps, new tasks, changing or modifying the rules (example: so that there are no more helicopters than tanks). I also play a lot of air and tank RB, and also SB tanks.
+<> How did you feel when you first sat in a BMP-2 in the game?
+<> That was my goal. I wanted to have it as soon as possible, but ironically I fought for the longest time with BMP-1 due to its lower BR. When I had the opportunity to test for the first time, I started fooling around and looking at the details. It did not disappoint and it is a pleasure to drive.
+<> What do you think about how the BMP-2 moves, sounds and looks in the game - how does it resemble a real experience?
+<>The model is graphically perfect and I don’t know a game where it is interpreted better. Visuals correspond to the reality. The sound of the engine is different though, the real one has more crackling sounds, it is somewhat more aggressive and louder. In reality, at night you can see small sparks flying out of the exhaust at times, which I don’t think would be a bad thing to add to the game. It would also be a nice graphic effect for some other vehicles. The sound of the stabilizer is actually louder in reality. The sound of shooting does not correspond to reality. Flashes during shooting should fly to the sides if there is a muzzle brake.
+<> Can you give some advice to BMP-2 players?
+<>In RB, I would recommend scouting, marking enemies and ambushes. Use the mobility to overcome obstacles and get to a more advantageous position and wait for a suitable moment to attack, then relocate. Keep your instinct of self-preservation and act accordingly.
+<>Gun operator on a BMP-2 and participant in Operation Peace Enforcement, have served since 2008 right through to the present day. War Thunder player since 2014.
+<> Please tell us a little bit about yourself. How did you come to join the army? Is it something you had dreamt of since childhood?
+<>From a young age, I was always really interested in weaponry and military vehicles, as well as in the history of how it has been created and used. That’s mainly what led me to join the army. I can say that I wanted to come here. I wanted to learn something useful and to actually touch the vehicles that I had always been interested in. To this day, I don’t regret my choice.
+<> What were your combat objectives during Operation Peace Enforcement? What weapons and vehicles did your enemy use against you? What was the most difficult?
+<>I had already served at that time and had signed a contract. On August 8th, we in the 19th Brigade in Vladikavkaz were in an emergency formation, due to the Georgian attack on South Ossetia. Reports say that the 7th Air Assault Division was the first to be sent there. Our mission was to organize the advance into the CFZ (Convoy Formation Zone) as a matter of urgency and then to move into Tskhinvali and protect the units that were already there. We were to prevent any possible counteroffensive by our enemy.
+<>We were presented practically with our enemy’s reserves: Toyota Hilux trucks, T-72 tanks and APC armoured vehicles.
+<>The most difficult thing was to maintain your composure since when you’re sitting in a vehicle and everyone is constantly talking on the radio, you don’t really know what to do. It was also a challenge to shoot practically blind when you get the order to open fire on a building without knowing who or where you’re firing at.
+<> Did I understand correctly that for 12 years you’ve been using the very same vehicle? Has it preserved well? How do you maintain its condition?
+<>Yes, we mainly use older vehicles, but ones that have undergone extensive renovation at the factory. They’ve preserved pretty well, and we have to maintain their battle-ready condition at all times. In some situations, we do lack spare parts, perhaps, but then they turn up and the vehicle quickly becomes operational again.
+<> Could you perhaps recount for us an amusing or unusual incident related to your vehicle?
+<>Yes, there have been lots of them. For example, a couple of years ago, in the summer, my mechanic didn’t put a small cover under the engine compartment after some repairs to the water pump. When we were heading out on BTDs (Battalion Tactical Drills) to the Dzartsemi training ground, we ascended into the mountain at the back of the convoy. A stone fell into the opening and smashed the water coolant pipe for the engine, and water started gushing out. We stopped the vehicle, cut the engine and reported it. We were told that the vehicle had to get to the training ground within an hour in any case. We fixed the problem ourselves fairly quickly. A rubber tube that went to the pump itself had just ripped off and that was all. Afterwards, the mechanic and I carried almost 45 litres of water from a water reservoir using flasks. It’s good that it was fairly close; otherwise, our engine would have “conked out” as we say, and we wouldn’t have gone anywhere, except back to base on the armoured recovery vehicle to repair it.
+<> The anti-tank missile system on the BMP-2 isn’t powered from the onboard network, so you can come across information that the maximum firing range of the ATGM may be less than its stated 4,000 m and can be limited by the battery charge of the control station. Is that so?
+<>Yes, that’s right, but it’s a problem in lots of vehicles, not just this one. The vehicles are old. In one of them, the generator from the engine doesn’t work, in another one, the lead-acid battery is simply missing, so there’s no voltage in the network. Without that, even the gun stabilizer itself doesn’t work.
+<> Has the ATGM launched during battle preparations, and if so, what is the maximum range over which you had to fire? Are there any usage limitations to the ATGM?
+<>I personally had to fire only twice during training ground drills.
+<>We were firing at 1.5–2 km there. And the only limitations were the number of rounds and the permitted firing trajectory along the front.
+<> During Operation Peace Enforcement, did you have battle-ready anti-tank missile systems in your vehicle?
+<>Yes, we did. I don’t know if everyone had them, but I was given three 9M111 ATGMs. They were in their regular position the whole time, and I didn’t have to use them, thank god.
+<> Are there issues with expelling propellant gases during active firing from a 30 mm gun?
+<>Yes, and there was another problem, such that, with all the heat, the BU-25 control box would stop working due to overheating. So the fuse box overheated in it and the ventilation stopped working. This problem still exists today. We’re therefore allowed to keep all the turret’s hatches open while firing, and sometimes, when there are a lot of rounds being fired at vehicles, we open the hatches of the troop compartment too. Otherwise, the gunner can simply be poisoned by fumes in the vehicle, which happens frequently.
+<> Have you used night vision and what do you think of it?
+<>Yes, we use night vision extensively whenever we fire at night. You can’t do without it. The main thing is that it’s done for safety, and it’s pretty good for a vehicle that has been in service with us literally since the war in Afghanistan.
+<> What types of ammunition have you seen and used? Have you had occasion to use APCR shells (3UBR8)? How would you rate the BMP-2’s range of armaments, its accuracy and firepower, its stabilizer and ability to fire while on the move?
+<>I saw and used such ammunition as the AP-T-30, HEF-I and HE-T. I even had to fire them literally two days ago during a training attack phase. Unfortunately, we don’t have 3UBR8s.
+<>The range of armaments itself is pretty good. It has stood the test of time, and is as straightforward as a Kalashnikov automatic rifle if you ask me. You can easily fix the gun in field conditions. Its accuracy depends on how it has been calibrated with the sights. Myself, before and after every field deployment, I sort out my vehicle right down to the smallest screw and adjust the sights using a bore-sighting gauge. The accuracy is such that, during every firing exercise, my crewmates and I literally mow down our targets with our rounds, just as a bet.
+<>The stabilizers are good, but they’re old, and they don’t have anything like target tracking. When on the move, you can even shoot without it if you’re good enough, but when using it you can hit any target without real difficulty, even for novices.
+<> The policy for using IFVs and mechanized troops includes the possibility for having to spend a pretty long time being constantly inside your vehicle (for example, in cases where there is excessive chemical or radiation exposure) or during active military operations. What’s the longest period you’ve been cooped up inside your vehicle, and what does it feel like?
+<>The longest time I spent inside the vehicle was about ten hours. At the time, we were moving into a city, and I just didn’t want to get out, in case I ended up catching a stray bullet. In terms of how it feels, I can only say that it’s difficult. First of all, it’s really hot in there. Secondly, even if the operations are taking place in the daytime when all the hatches are closed, it’s pretty dark in there, so when you subsequently get out into the fresh air, your eyes hurt really badly.
+<>Also, during any large-scale manoeuvres, we have regulations for having all members of the crew inside the vehicle in NBC (nuclear, biological and chemical) suits. That’s not very pleasant, especially getting undressed afterwards and wringing the sweat out of all your clothes.
+<> Have you ever used other IFVs (BMP-3 or BMP-2M)? What do you think of them?
+<>I’ve never seen the BMP-2M, but I’d really like to get one. I saw the BMP-3 on a mission in Yelan in the training centre. Afterwards, I came to think that the BMP-3 is too big and conspicuous in any location, and it is really difficult to hide or camouflage it. With the BMP-2, things are a lot better in this regard. To be fair, I must say that loading ammunition in the BMP-3 is much simpler. In the BMP-2 it is difficult to load it quickly and do so in such a way that the ammo belt doesn’t get stuck or jam while firing.
+<> What can you say about the all-terrain capabilities and buoyancy of the BMP-2? Have you ever had to overcome any obstacles by moving over water?
+<>Its all-terrain capabilities are good, but all the rest just depends on the driver and their relationship with the vehicle. A skilled and experienced driver can get from South Ossetia to Moscow, only stopping to refuel, while an inexperienced driver will either send it into a ditch, which has actually happened, or switch the tracks off on level terrain, and even that has happened before.
+<>I can’t really say a great deal about its buoyancy. I’ve never had to float in it, but I’ve seen others do so, and from the outside, it looks good. For the purposes for which it was designed, buoyancy is a decent bonus.
+<> When and under what circumstances was your first experience with War Thunder? How often do you play and which units do you use in combat most often? Which modes do you prefer?
+<>I’ve been playing War Thunder since 2014, if not earlier. I mostly use USSR vehicles and I play Arcade and Simulator battles. I play Arcade mode in order to just be able to enjoy the graphics, sound and gameplay, and I play Simulator battles to feel a sense of realism like I’m back at work.
+<> How did it feel when you first sat in the BMP-2 in the game?
+<>In truth, I had mixed feelings and positive ones, like “here’s what my IFV can do.” And a sense of satisfaction and even peace, since here, the war is just going on a computer screen and players can see these vehicles in action without being part of war themselves.
+<> What do you think about how the BMP-2 handles, sounds and looks in the game? How close is it to your own experience?
+<>With the update that added new sounds to the game, they’ve become really close to how it actually sounds, but everything inside the vehicles, the engine and shots from the gun, sound a lot louder. In terms of the handling, in the game, it handles almost like in real life, except in reality it accelerates a lot slower and you can only really turn effectively in first or second gear. This makes it easier for the vehicle to turn on the spot or reduces its turning radius.
+<> What do you think about shooting from the BMP-2 in the game? How close is it to your own experience?
+<>Shooting in the game has been implemented exactly like it is in real life, with different firing rates: single shots, as well as slow and high firing rates.
+<>In real life, I first fire three single shots, in order to find my range to the target, and then I set about damaging it.
+<> Do you have any advice that you could give to players about the BMP-2?
+<>This vehicle is in no way suited to frontal assaults. It is a vehicle for flanking and getting round the back of an enemy, for ambushes and smart positioning. To put it bluntly, it’s for shooting out of the bushes. The 30 mm gun and ATGM represent serious firepower against an enemy, and it’s important to use them wisely. And never forget about changing your firing position.
+<>If you have excellent knowledge of the combat vehicles present in War Thunder and would like to share your memories of serving in the military and your impressions of the game, please send us an e-mail to [email protected] .
+<>Previous interviews:
+<> M1A1 Abrams USMC veteran
+<> Su-7B military pilot
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

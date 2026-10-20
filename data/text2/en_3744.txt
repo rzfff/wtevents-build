@@ -1,0 +1,97 @@
+[Special] Tank Duels: Tiger II vs IS-2 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tank Duels: Tiger II vs IS-2
+Attention! Outdated news format. Content may not display correctly.
+27 May 2016
+Special
+1280x1024 | 1920x1080 | 2560x1440
+From 15.00 GMT on the 27th of May until 07.00 GMT on the 30th of May
+Take part in Tank Duels whilst driving the Tiger II and IS-2
+on the location “Berlin” (available in the event)!
+Tankers profile Icons!
+<>
+<>Awards:
+On completion of each stage you will get a "Supply Box" that contains one of the following items :
+<>
+<>
+<>5x back-ups for German and USSR ground vehicles of ranks II - IV
+<>A Random 10-75% or Booster
+<>A Random 10-75% discount for one of the German or USSR premium ground vehicles (except vehicles which were added in 1.57);
+<>A Unique tanker profile icon!
+<> You are guaranteed to receive the main prize (a unique tanker profile icon) once you complete all three stages for a nation of your choice (or both of them).
+Terms:
+Tasks can be completed only in special events which are available in the Events and Tournaments Tab.
+<>Location: AB/RB/SB “On the streets of Berlin”
+You can follow your progress in your profile -> Achievements -> Tank duels.
+You can complete the tasks only whilst driving Tiger II (H), Tiger II (H) Sla.16, Tiger II (P); and IS-2, IS-2 “Revenge”, IS-2 1944.
+Tasks (can be completed only in the special event) :
+Whilst driving IS-2, IS-2 “Revenge”, IS-2 1944, destroy 30, 60, 100 enemy German ground vehicles (3 stages) on the location “Berlin”;
+Whilst driving Tiger II (H), Tiger II (H) Sla.16, Tiger II (P), destroy 30, 60, 100 enemy Soviet ground vehicles (3 stages) on the location “Berlin”;
+In Realistic and Simulator modes, a player needs to destroy half as many enemy vehicles.
+Click here to read the full article!
+War Thunder: IS-2 vs Tiger II
+1280x1024 | 1920x1080 | 2560x1440
+The Panzerkampfwagen VI “Tiger I” was, undoubtedly, the most advanced tank of those created in the first half of World War II. After Germany commenced it's advance through the Soviet Union, the Germans realized that despite the advantages of the Pz.Kpfw. III and Pz.Kpfw. IV vehicles such as visibility, ergonomics and quality of manufacturing, they had nothing that could compete with the heavily armoured KV tanks. The Germans needed a heavy tank that could reliably destroy any Soviet competitors and was capable of pushing its way through any defensive formations. Two leading manufacturers presented their projects for tender: “Henschel & Sohn AG” and “Porsche AG”. Ferdinand Porsche was so sure that his prototype would be chosen after the tests, that he ordered production to start on the chassisbefore the tests had even started. But German generals and Hitler himself gave preference to the “Henschel” design, noticing how positively its Schachtellaufwerk suspension influenced the accuracy in motion and the vehicle’s cross-country performance. However, the Porsche turret was used for the new tank, and the unused chassis were adopted to create the heavy “Ferdinand” tank destroyer.
+<>
+By the middle of the 1942 it became obvious that even the “Tiger’s” abilities were not enough for the prolonged war on the Eastern front. The very same design bureaus presented their heavy tank projects codenamed VK 4502(P) and VK 4502(H) for a new tender, Erwin Anders’ creation came out victorious again. The Panzerkampfwagen VI Ausf. B “Tiger II” or “King Tiger” was produced in two main modifications: with a streamlined “Porsche” turret and with Anders’s turret, notable for its 180mm thick armour plate. Its main weapon was the 8,8 cm Pak 43 (StuK 43) gun. Until the end of the war the Allies never managed to create a mass produced fighting vehicle capable of withstanding its AP shell hit.
+<>
+The USSR engineers were going neck and neck with the Germans, but did not try to create expensive state of the art war machines, focusing on simple and easy to reproduce designs instead. In the early 1943 the high command set a task to create a new vehicle based on the existing KV-1 and KV-13. The work was in full swing when the Soviet military experts managed to examine some of the “Tigers” captured during the Kursk battle and reported that none of the existing tank guns could reliably penetrate its frontal armour. It turned out that the new tank needed a more powerful gun, so the designers had to rework the turret, change the vehicle’s internal composition, add an additional wheel. The IS-1 received a new 85mm D-5T gun and the IS-2 that reached mass production one year later was equipped with a massive 122mm D-25T gun. Both tanks played a major role in the battles of the last two year of the war, particularly shining in the city assault operations.
+After the end of the WW2 the IS series continued its evolution. Two models reached production: the IS-3 and the IS-4 . The first one was notable for its unusual yet rational armouring; three 110mm armour plates joined in a star formation with optimal angles and a flattened turret made it almost impossible to penetrate the tank from the front. The IS-4 had a more conventional design; it used more thick armour, but this change reduced its power-to-weight ratio and harmed the tank’s reliability.
+The War Thunder team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

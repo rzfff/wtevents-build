@@ -1,0 +1,102 @@
+[Event] Pages of History (January) - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (January)
+26 December 2022
+Event
+<>For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon
+<>A detailed description of the current task as well as your overall progress can be found by clicking on your nickname → Achievements → Pages of History
+<>Dmitry Osatyuk was the commander of a tank company on the Leningrad Front. On January 12th, 1943 his light tank was cut off from his company by three heavy German tanks that it could do nothing against. Using himself as bait, Osatyuk led the enemy tanks under artillery fire, and then defeated the enemy infantry in close combat, using machine guns, cannon and the tracks of his tank. On January 18th his company was the first to meet the troops of the Volkhov Front, thus opening a land corridor to Leningrad and breaching its blockade. On January 21st Osatyuk's tank was destroyed, but he pulled his wounded driver out of the tank, got him to safety, and kept fighting in another tank.
+Dmitry Osatyuk
+<>You can immediately purchase the profile icon for Golden Eagles until February 3rd, 11:30 GMT without completing tasks. Click Nickname → Achievements → Pages of History (January).
+<>Trophy with a reward for each task
+<>Completion of each individual task will bring you a trophy with one of the following rewards:
+20-50% RP booster for 3-10 battles;
+20-50% SL booster for 3-10 battles;
+3-5 universal backup vehicles;
+1 day of premium account;
+A random camouflage for ground vehicles (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+Tasks can be completed in random battles, except for “Assault” mode.
+<>January 1st — January 4th
+Operation Bolo
+<>In 1966 North Vietnam received modern MiG-21 fighters from the USSR, and that led to increased number of American bombers getting shot down. To counter the threat, the US Air Force performed an operation on January 2nd, 1966: the F-4 fighters imitated the behavior of weaker strike aircraft F-105, leading Vietnamese MiGs into air combat, where they were quickly defeated. For the USA it was one of the most successful air battles in the Vietnam war.
+<>January 4th — January 7th
+Operation Nasr
+<>The largest tank battle of the Iran-Iraq war happened in its earliest months, on January 5-9 of 1981. Iran went into counteroffensive, hoping to push the Iraqi invaders from its southeastern provinces, but Iraq learned of the enemy plans beforehand and prepared a trap. Iranian tank brigades were trapped in a three-sided box ambush with no supplies, and in four days, having suffered huge losses, were forced to retreat.
+<>January 8th — January 11th
+Battle of Luzon
+<>The battle of Luzon, the largest island of the Philippines, began on January 9th, 1945. During the initial weeklong landing, over 175 000 Allied troops landed on the island under constant attacks from enemy kamikaze pilots. In a month Manila, the capital of the Philippines, was captured by the Allies who suffered far less casualties than Japan.
+<>January 12th — January 15th
+Vistula–Oder offensive
+<>At the request of the Allies who were holding off the German counteroffensive in Ardennes, the Soviet army began pushing the Wehrmacht from the east earlier than it initially planned. On January 12th, 1945 it began an offensive that led to a devastating victory over the German forces. In less than a month the Red Army pushed the enemy from Warsaw all the way to Berlin.
+<>January 16th — January 19th
+Breaking the blockade of Leningrad
+<>The USSR made many attempts to lift the siege of Leningrad, but it was Operation Iskra (“Spark”) that finally resulted in success. A well-planned offensive on the southern coast of Lake Ladoga managed to push the Wehrmacht from its fortifications. On January 18th, 1943 the blockade was finally breached, allowing the city to receive much needed supplies on a regular basis.
+<>January 20th — January 23rd
+Battle of Anzio
+<>On January 17th, 1944 a large-scale operation to breach the Gustav Line in central Italy began. On January 20th the Allies landed a small force in Anzio behind enemy lines. But instead of attacking the enemy flank, they began fortifying, turning Anzio in a beachhead for future operations.
+<>January 24th — January 27th
+Voronezh–Kastornoye offensive operation
+<>On January 24th, 1943 a Soviet operation to encircle and destroy the German 2nd Army began. It was a success: almost 100 000 soldiers of the Wehrmacht were killed or captured, and the Voronezh and Kursk regions were liberated.
+<>January 28th— January 31st
+Battle of Khafji
+<>The first major battle of the Gulf War. On January 29th, 1991 Iraqi forces led an attack on Saudi Arabia from occupied Kuwait, capturing a small coastal town of Ras al-Khafji. But just the next day the town was retaken by the forces of the international coalition thanks to strong air support, with the Iraqi suffering severe losses.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+<

@@ -1,0 +1,143 @@
+[Special] “Space Race” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Space Race”
+Attention! Outdated news format. Content may not display correctly.
+1 April 2020
+Special
+<>The air, the land and the oceans have already been subdued by you so now it is time to look to space! A forgotten vehicle from the time of the first space arms race - the Soviet heavy “lunar rover” Object 279 has been found on the Moon! Some nations are willing to generously reward explorers even for separate parts of this vehicle.
+<>From 13:00 GMT on the 1st of April till 12:00 GMT on the 13th of April
+<>Assemble space rockets from the materials obtained in battles and deliver on them parts of the Object 279 heavy tank from the Moon. Exchange them for premium vehicles or assemble your own “lunar rover”.
+<>Rewards for space conquerors
+Object 279 (USSR) — event vehicle, rank VI
+<>Will be assembled from 3 parts
+<>
+<>Prototype of the Soviet heavy tank with an original design. Thick armour at very large angles, four tracks and 130 mm cannon with gun stabiliser!
+AU-1 Corsair (USA) — premium, rank IV
+<>In exchange for a complete Object 279
+<>An assault version of the “Corsair” designed for the US Marine Corps. High speed and automatic guns are complemented by a great selection of missile and bomb armaments.
+Sd.Kfz.234/1 (Germany) — premium, rank I
+<>For the turret of the Object 279
+<>
+<>First version of the German heavy armoured “Puma” with a 20 mm automatic cannon. Fast, with a great rate of fire - a great variant for battles of the beginning ranks!
+SGB (S309) (Britain) — premium, rank II
+<>For the turret of the Object 279
+<>
+<>British S309 “Gray Goose” gun boat. Designed to fight against German “Schnell Boats”. Good fire rate and excellent armament - 40 mm “Pom-Pom”. cannons. 76 mm cannon and even torpedoes.
+<>How to participate
+<>The whole assembly process and the receiving of rewards will take place in the hangar menu “Workshop → Space Race”.
+<>In “Space Race” you are assembling rockets to transport the parts of the Object 279. Assembling and launching of the rocket will be done in 3 stages in the menu “Assembly Scheme”: from basic raw materials up to rocket components and its launch.
+<>Participate in battles in the main game modes and get all you require for the assembly of rocket components!
+Container with raw materials
+<>Raw materials for assembly
+<>For each 10 minutes spent in battle (in a vehicle of rank II and above and with an in-game activity of 50% or higher).
+<>Contains from 7 to 9 units of raw materials and 10% chance for random material.
+Oxidizer and Fuel
+<>For refueling and launching
+<>For each 10 minutes spent in battle (in a vehicle of rank II and above and with in-game activity of 50% or higher).
+<>You will get 1 fuel and 1 oxidizer.
+Scientific data
+<>To speed up the flight
+<>For first place at the end of a battle.
+<>Will be given only 1 article with scientific data. They will be gathered in the collections of scientific data that can increase the flight speed of the rocket.
+<>Containers as well as oxidizer and fuel can be obtained in battle several times and the remaining time will be transferred to the next battle.
+<>Production
+<>Be sure to use the market to exchange unnecessary materials and get any missing ones!
+<>Production is carried out in the following order: “Raw materials” → “Material” → “Part” → “Ready rocket”
+<>The whole process during the construction of the rocket takes time. You can not speed it up.
+<>You are able to assemble several parts at the same time.
+<>Receiving awards
+<>An assembled rocket can be sent for one of the three parts required for the Object 279. Once you have collected all tank parts you can assemble it and receive the Object 279 coupon which can be traded on the market or you can activate it yourself.
+<>You can also choose another event vehicle as a prize:
+<>AU-1 Corsair can be exchanged for an assembled Object 279
+<>Sd.Kfz.234/1 or SGB (S309) can be exchanged for one turret of the Object 279.
+<>Turret exchange for other prizes will be available after the 13th of April! Exchange of the Object 279 and AU-1 Corsair is possible immediately.
+<>If you managed first place in battle (winning or losing team), then you will receive scientific data articles. Merge them into collections, to shorten the flight time significantly:
+<>Small collection of scientific data — 10 articles (flight will take 9 hours)
+<>Medium collection of scientific data — 30 articles (flight will take 3 hours)
+<>Large collection of scientific data — 50 articles (flight will take 1 hour)
+<>Collections disappear from the inventory after use.
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Terms of the special event
+<>All items can be obtained in multiplayer gaming modes during the 1st of April “Space Race” event (except “Scientific data”):
+<>Ground Arcade, Realistic, and Simulator battles;
+<>Aviation Arcade and Realistic battles;
+<>Naval Arcade and Realistic battles.
+<>The number of items obtainable in battles is limited:
+<>Container — up to 40 per day, and up to 400 for the complete Space Race period.
+<>Fuel and Oxidizer — up to 40 per day, and up to 320 each for the complete Space Race period.
+<>Scientific data articles — up to 200 for the complete Space Race period (can not be obtained in the “Space Thunder” event).
+<>The “Rocket fuel” item can be obtained in rare cases in random battles.
+<>Coupons for the unique black camouflages for event prize vehicles can be obtained in rare cases in “Space Thunder” battles. These coupons can be traded on the market.
+<>Items sale-ability on the Marketplace mentioned in their description.
+<>Building a rocket and flight to the Moon takes a lot of time. You may shorten the flight time by collecting and using a collection of scientific data.
+<>Special event period:
+<>Containers and Scientific data are available in battles from April, 1st (13:00 GMT) to April. 13th (12:00 GMT).
+<>Turret of the Object 279 might be exchanged for other prizes through April 20th (12:00 GMT).
+<>All special events items, except vehicle coupons, will be removed from your inventory on April, 20th (12:00 GMT). Make sure you’ve exchanged your vouchers before this time!
+<>For PlayStation 4® and Xbox One
+<>The lack of the Marketplace won’t slow your progress. Obtain special items for Golden Eagles right in your workshop:
+<>“Permission to refuel” — allows you to get extra Fuel and Oxidizer in battles, 4 items for every 10 minutes spent in battles, no restrictions.
+<>“Materials” — 22 material items ready to use.
+<>The War Thunder Team
+<>
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

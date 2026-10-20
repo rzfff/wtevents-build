@@ -1,0 +1,86 @@
+[Special] Tank Duels: Jagdtiger vs ISU-152 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tank Duels: Jagdtiger vs ISU-152
+Attention! Outdated news format. Content may not display correctly.
+17 June 2016
+Special
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+From June 17th, 15:00 GMT until June 20th, 07:00 GMT
+Take part in the duels between the German Jagdtiger and Soviet ISU-152 on Berlin!
+Destroy enemy vehicles to receive Supply Boxes and unique Tanker Icons!
+<>
+<>
+Awards:​
+On completion of each stage you will get a "Supply Box" that contains one of the following items :
+<>5x Back-Ups for German or USSR ground vehicles of ranks II - IV
+<>A 10-75% or Booster;
+<>A discount for one of the German or USSR premium ground vehicles (except vehicles from 1.59);
+<> Main Prize: A unique tanker profile icon!
+You are guaranteed to receive the main prize once you complete all three stages for a nation of your choice (or both of them). ​
+Terms:
+<>Tasks can be completed only in special events which are available in the Events and Tournaments Tab.
+<>Location in AB/RB/SB: “Streets of Berlin”
+<>You can follow your progress in your Profile -> Achievements -> Tank duels.
+<>You can complete the tasks only whilst driving the Jagdtiger or ISU-152.
+Tasks (can be completed only in the special event):
+Whilst driving the ISU-152, destroy 30, 60, 100 enemy German ground vehicles (3 stages) on the location “Berlin”;
+Whilst driving the Jagdtiger, destroy 30, 60, 100 enemy German ground vehicles (3 stages) on the location “Berlin”;
+For Realistic and Simulator Battles an x2 multiplier on destroyed enemies is applied.
+Download Wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

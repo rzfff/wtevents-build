@@ -1,0 +1,108 @@
+[Shop] How can you get an SMK tank? Warbonds! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+How can you get an SMK tank? Warbonds!
+Attention! Outdated news format. Content may not display correctly.
+9 February 2016
+Shop
+Premium vehicles for active War Thunder players!
+Pilots and tankers, we now have new offers for you in the renewed “Warbonds” shop. Now, there is the two-turreted “Soviet Giant” - a premium SMK tank and various premium aircraft from different nations.
+In order to receive them, just complete daily Battle tasks in War Thunder battles and earn a special currency - the “Warbonds”, which can be used to purchase vehicles previously only obtainable with Golden Eagles!
+We would like to remind you that Battle tasks are available for all the players that have reached rank 3 in any nation. Battle tasks provide additional missions that upon completion will give a player an additional reward in Silver Lions and “Warbonds” - the latter of which can be spent in the “Warbonds” shop.
+Battle tasks are displayed on the right hand promo block, via which you can also access the “warbonds” shop.
+The SMK is a heavy two-turreted tank of rank 2 in the USSR tree. This is a premium vehicle, thus meaning it brings more profit in RP and Silver Lions. The key feature of this tank is the opportunity it gives to fire 2 cannons at once which will give a huge firepower hit.
+Pilots and tankers!
+With the beginning of a new month the Battle Tasks will give you the new “Warbonds” that will be effective during February. Besides this, our item shop has been expanded and offers new items!
+You will have the following items available to purchase using the new “Warbonds”:
+<>
+<> Available items:
+150% RP booster (for 2 battles);
+Battle trophy (boosters of all types from 30% to 900%);
+Emblem “Ghost Army”;
+Battle trophies providing a test drive (from 1 hour to 24 hours for the following premium vehicles) including 4 back-ups:
+B-17E;
+Spitfire F Mk.XIVc;
+Yak-3 (VK-107);
+Bfw. Jagdpanther;
+Super Hellcat;
+Bf.109E-3 (Japan);
+Avenger Mk.1;
+Wellington Mk.Ic;
+A6M2 (USA);
+SMK.
+Enjoy the new items available and see you on the battlefield!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

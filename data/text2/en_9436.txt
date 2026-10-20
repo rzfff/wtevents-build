@@ -1,0 +1,104 @@
+[Event] Pages of History (April): Through the Fiery Blizzards - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (April): Through the Fiery Blizzards
+28 March 2025
+Event
+<>In this month’s Pages of History, you will find yourself in the midst of key historical events across different theaters of war. Iraq and Cambodia, Norway and Austria — take part in battles using vehicles corresponding to these historic conflicts and earn rewards!
+<>
+<>From April 1st until April 30th, you’ll have access to 8 tasks consecutively. Completing each task will grant you a trophy with a reward, completing all of the tasks will earn you a unique player icon!
+<>Pavel Golovachev
+<>was a Soviet pilot ace who fought throughout the Second World War and scored at least 30 aerial victories. He was awarded Hero of the Soviet Union twice. During the East Prussian Operation in December 1944, Golovachev ran out of ammunition after pursuing a German reconnaissance aircraft and opted to ram it. He destroyed the enemy’s tail with the propeller of his La-7 and was then able to pull out of spin and return to the airfield. For this, he received the Order of the Red Banner and later a second title of Hero of the Soviet Union. He scored ten more victories near Königsberg using this La-7, later switching it for the Yak-9. He ended the war in the skies over Berlin.
+<>You can immediately purchase this profile icon for Golden Eagles until May 3rd (11:30 GMT) without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random ground vehicle camouflage (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>Calendar
+<>April 1st — April 4th
+<> Battle of the Karbala Gap
+<>By early April 2003, American forces invading Iraq had approached the Karbala Gap from the south, where the road to Baghdad ran. General Hamdani, who was guarding the gap, asked the General Staff for reinforcements. However, the commander of the Republican Guard, Qusay Hussein, succumbed to American disinformation. Convinced that the real attack would come from the north through Turkey, he withdrew a significant part of the forces under Hamdani’s command. The Iraqi counterattack in the gap completely failed, and Baghdad fell on April 9th.
+<>April 5th — April 8th
+<> Battle of Königsberg
+<>The key moment of the East Prussian operation was the assault on Königsberg, which began on April 6th 1945. The USSR had a precise plan of the fortress, allowing them to accurately calculate all the details of the attack. On April 9th, General Otto Lasch, contrary to Hitler’s orders, announced his capitulation.
+<>April 9th — April 12th
+<> Operation Weserübung
+<>On April 9th 1940, Germany invaded Denmark and Norway as part of Operation Weserübung. The Germans moved in and occupied Denmark and was captured within hours, but Norway put up a fight. The fighting on its territory lasted for two months until the royal family and government were evacuated to England in June.
+<>April 13th — April 16th
+<> Grazko-Amshtettinskaya Offensive Operation
+<>On April 15th 1945, the USSR began a large-scale offensive operation on Austrian territory, with the goal to defeat the German Army Group South and meet American troops in the west of the country. The operation ended with the capitulation of Germany, although individual Wehrmacht units in Austria continued to resist even after peace was declared.
+<>April 17th — April 20th
+<> Capture of Hamburg
+<>In the final month of World War II, defeated Wehrmacht forces fled from the west and east to the Jutland Peninsula. Hamburg, the last major city on the approach to the peninsula, was attacked by British troops, who initiated the capture of the city on April 18th 1945. After the death of Adolf Hitler on April 30th, negotiations began regarding the surrender of the city. On May 3rd, the Allies occupied Hamburg.
+<>April 20th — April 23rd
+<> Operation Vulcan
+<>By the end of April 1943, Axis forces were surrounded in Tunisia, with their fate sealed. Despite this, they did not surrender. Advancing British infantry were surprised by well-hidden German paratroopers, and their unprotected advancing tanks were attacked by incendiary bombs and disabled by mines. Operation Vulcan, the penultimate operation in the North African theatre, had failed.
+<>April 24th — April 27th
+<> Operation Toward Beit-ol-Moqaddas
+<>On April 24th 1982, Iran launched an operation to liberate the city of Khorramshahr, which Iraq had captured at the start of the war. With equal forces, the Iranians achieved a decisive victory, encircling and then defeating Iraqi forces in the city. The success of the operation allowed Iran to reach the border between the countries and subsequently transfer military operations to Iraqi territory.
+<>April 27th — April 30th
+<> Cambodian Invasion
+<>On April 29th 1970, an operation by American and South Vietnamese forces began in Cambodia. Its goal was to support the Lon Nol government in the civil war against the Khmer Rouge and destroy North Vietnamese camps in the country. President Richard Nixon called the operation “the most successful military operation of the entire war”, but within five years both South Vietnam and the Lon Nol government in Cambodia had fallen.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

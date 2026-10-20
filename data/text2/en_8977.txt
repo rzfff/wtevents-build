@@ -1,0 +1,72 @@
+[Special] [Shop] [Video] Moments of Valor: Argentina - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Moments of Valor: Argentina
+9 July 2024
+Shop
+Special
+Video
+<>In honor of Argentina’s Independence Day, we are publishing a new cinematic video from the “Moments of Valor” series, dedicated to veterans of the Falklands War.
+<>Also for this occasion, we have prepared a set of themed camouflages for aircraft used in the conflict or in service with the warring parties at that time.
+<>The F-86F-35 Sabre is temporarily returning to sale for Golden Eagles. Players who purchase this aircraft from July 9th to July 16th (15:00 GMT) will receive a unique camouflage of the Cruz del Sur aerobatic team of the Argentine Air Force after the end of the promotion.*
+<>Players who purchase the Sea Harrier FRS.1 Squadron vehicle between July 9th and July 16th (15:00 GMT) will receive the unique 801 Naval Squadron camouflage from the aircraft carrier HMS Invincible after the promotion ends.*
+<>Available for Golden Eagles on a permanent basis are Argentine Air Force camouflages created by users of the War Thunder Live portal for the following vehicles: Super Etendard, Mirage 5F, A-4B and A.109EOA-2 .
+<>From July 9th to July 16th (15:00 GMT) there will be a 50% discount on the Argentine TAM 2IP light tank in the German research tree.
+<> * Camouflages will also be issued to players who already own the F-86F-35 Sabre and Sea Harrier FRS.1 and play 3 battles flying each respective aircraft from July 9th to July 16th (15:00 GMT).
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

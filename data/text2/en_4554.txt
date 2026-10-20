@@ -1,0 +1,86 @@
+[Event] Spitfire Day - In honor of the first flight - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Spitfire Day - In honor of the first flight
+Attention! Outdated news format. Content may not display correctly.
+3 March 2017
+Event
+The Supermarine Spitfire was able compete on equal terms with the best contemporary aerial combatants of other countries, was produced in many different modifications and has become one of the most recognizable aircraft in history. Pilots! In the honor of the first flight of the British Supermarine Spitfire on the 5th March 1936, we are pleased to present the following event:
+From 15:00 GMT on the 3rd March till 11:00 GMT on the 6th March​
+<>
+<>
+Spitfire LF Mk IXc (USSR) is available for purchase with 30% discount
+<>
+“Spitfire Races event” is available with Silver Lions and a unique pilot icon prize for victory in the race
+<>
+30% more RP and SL are available in the event “V-1 interception”
+<>Open 30% discount for Spitfire LF Mk IXc (USSR)
+Shoot down the following number of enemy aircraft in random battles: 30/15/15 (AB/RB/SB) whilst flying a Spitfire or Seafire of rank 3 or higher and get 30% discount for Spitfire LF Mk IXc (USSR), the commander of the 26th GvIAP - lieutenant colonel Vasily Matsievich. The aircraft is also available on the regular premium tree without discount.
+List of aircraft able to participate in the achievements ▼
+<>Spitfire Mk Vb/trop, Spitfire Mk Vc, Spitfire F. Mk XVI, Seafire FR 47, Seafire Mk XVII, Spitfire F Mk 22, Spitfire LF Mk.IX, Spitfire F Mk IX, Plagis’s Spitfire LF. Mk.IXc, Spitfire LF. Mk IXc (USA), Spitfire F Mk XIVc, Spitfire F Mk XIVe, Spitfire F Mk XVIIIe
+Event “V-1 interception” for Realistic Battles and Simulator Battles
+Wunderwaffe (wonder weapon) - German rocket V-1. Residents of Great Britain met this killer for the first time on the 13th of June 1944. In this event you will take on the role yourself as an RAF pilot with just one simple task - Do not allow the V-1 rockets to hit the targets. Destroy the rockets with your offensive weaponry or even ram them. Reward: +30% SL and RP​!
+List of aircraft able to participate in the event ▼
+<>Spitfire F Mk XIVc, Spitfire F Mk XIVe, Prendergast’s Spitfire FR Mk XIVe, Spitfire F Mk XVIIIe, Spitfire F Mk.22
+Spitfire Races in Arcade Battles and Realistic Battles
+<>
+First place in the race - 10.000
+5th victory on the first place - Pilot icon of “ Eric Lock ”​
+Before the creation of the "Spitfire", designer Reginald Mitchell was engaged in the creation of racing airplanes and used many of his developments to design a new combat vehicle. Take to the skies in a Spitfire and relive its racing pedigree in the event “Spitfire Race”.
+The main goal is to fly through the key points of the route, to ultimately arrive as the first person across the finish line. Each key point will be opened only after passing through the previous one. They are often located in narrow bends or near the rocks. They appear like rings, however there is no need to fly through them exactly in the center. The game will count the passage, even if the aircraft simply touches a ring a little bit to the side. Make note of that in order to optimize your trajectory and win a few precious seconds.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

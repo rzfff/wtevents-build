@@ -1,0 +1,306 @@
+[Event] Summer Quest - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Summer Quest
+Attention! Outdated news format. Content may not display correctly.
+3 August 2022
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>Welcome to the War Thunder Summer Quest! This time, the event will take place in a new format: all you need to get prizes is just to earn mission points! Basically any activity in battle will get you closer to the rewards.
+<>The number of tasks you need to complete to get the top vehicles immediately to your account is now smaller, but if you want to trade coupons on the market, you will need an additional upgrade that requires a little more effort to obtain.
+<>For each completed task you will get a specific prize: a trophy with useful items, coupons for decals, camouflages for the event vehicles, player icons or decorations. Low ranked vehicles this time will be represented only by a tank but in future marathons we plan to alternate vehicle types for this prize.
+<>See you on the battlefield!
+<>From 11:00 GMT on the 9th of August until 11:00 GMT on the 29th of August
+<>Participate and get prizes
+<> Zrinyi I
+<>Italy, rank III, premium
+<> More about vehicle
+<> F4D-1
+<>USA, rank VI, event vehicle
+<> More about vehicle
+<> Leopard 2AV
+<>Germany, rank VI, event vehicle
+<> More about vehicle
+<> IJN Haruna
+<>Japan, rank V, event vehicle
+<> More about vehicle
+<>
+<>
+<>
+<>
+<>
+<>“Quest” decals
+<>
+<>
+<>
+<>“Hornet’s nest” decoration
+<>“Sailing catamaran” decoration
+<>“Girl scout”
+player icon
+<>Vehicle camouflages
+<>Event vehicles of rank IV-VII and decals will be granted in the form of coupons, while rank III premium vehicles, decorations and camouflages will be immediately activated on the account.
+<>All event rewards will be issued for a certain number of “Marks of distinction” earned on the specified vehicle type in the appropriate game mode.
+<>Complete the collection!
+Activate all 5 coupons for decals on your account to receive the 6th decal “Happy Camper”.
+<>
+<>
+<>More about collections on the WT Wiki !
+“Happy Camper” decal
+<>What’s inside the trophies
+50,000 — 100,000 Silver Lions
+Silver and EXP boosters
+Random wagers and orders
+Universal backups (1-3 pcs.)
+Random camouflage for a purchased vehicle of any type
+1 day of Premium account
+<>Summer cocktail
+<>A unique opportunity to receive items from the past summer events! From August 9th until August 29th you can find a “Summer Cocktail” crate and its “Cocktail Umbrella” key in the item shop. “Summer Cocktails” contain unique decals, decorations, vehicles and camouflages from all past summer events. Some items from past events appear as coupons for the first time, and you can trade them on the Marketplace! You can also find Silver Lions, boosters, universal backups, wagers and orders.
+<>“Summer Cocktail” costs 10,000 Silver Lions, and “Cocktail Umbrella” costs 50,000 Silver Lions. You can also earn “Cocktail Umbrellas” for 3 and 10 Marks of distinction in the “Summer Quest” event. On 12:00 GMT, August 29th, all “Summer Cocktails” and “Cocktail Umbrellas” will disappear from your inventories, so be sure to use them until that time!
+Summer cocktail
+Cocktail Umbrella
+A “Summer Cocktail” crate can contain the following rewards (open spoiler) ▼
+<> Vehicles (both immediately activated on the account and available as coupons):
+Buccaneer S.1
+VL Myrsky II (immediately activated on the account only)
+BMD-4
+Ka-Chi (immediately activated on the account only)
+RN Aviere (immediately activated on the account only)
+Bussard
+F11F-1
+Ar 196 A-3 (immediately activated on the account only)
+C2A1
+Ikv 73 (immediately activated on the account only)
+Maxim Gorky
+Freccia P-493 (immediately activated on the account only)
+BT-7A (F-32)
+HMS Spey
+Bf 110 C-6
+AUBL/74 HVG
+IJN Yuudachi
+P-59A
+FJ-4B VMF-232
+Martlet Mk IV (USA)
+Sd.Kfz.234/3
+IS-7 *
+M8 LAC
+Т-34E
+P-43A-1
+Ki-94-II
+Sd.Kfz.234/4
+Phòng không T-34 (USSR) (immediately activated on the account only)
+F7F-3
+Fw 189 A-1
+KV-220
+Grant I
+<>* — chances of receiving IS-7 are far lower than the other vehicles and are around 0,001%
+<> Camouflages (coupons only):
+Buccaneer S.1: "736 NAS" camouflage (first time as a coupon)
+VL Myrsky II: "MY-44" camouflage (first time as a coupon)
+BMD-4: Deforming tricolor desert camouflage (first time as a coupon)
+Ka-Chi: Marine camouflage (first time as a coupon)
+RN Aviere: Deforming camouflage (first time as a coupon)
+Bussard: Deforming camouflage (first time as a coupon)
+F11F-1: "Blue Angels" camouflage (first time as a coupon)
+Ar 196 A-3: Bulgarian camouflage (first time as a coupon)
+C2A1: Royal Canadian Regiment camouflage (first time as a coupon)
+Ikv 73: "Arsenalen" camouflage (first time as a coupon)
+Maxim Gorky: Deforming camouflage (first time as a coupon)
+Freccia P-493: Deforming camouflage (first time as a coupon)
+BT-7A (F-32): Bicolor summer camouflage (first time as a coupon)
+HMS Spey: Deforming camouflage (first time as a coupon)
+Bf 110 C-6: Bicolor camouflage (first time as a coupon)
+AUBL/74 HVG: Tricolor summer camouflage (first time as a coupon)
+IJN Yuudachi: Deforming bicolor camouflage (first time as a coupon)
+P-59A: Standard olive-green camouflage (first time as a coupon)
+FJ-4B VMF-232: VU-7 camouflage
+Martlet Mk IV (USA): Nonstandard bicolor camouflage
+Sd.Kfz.234/3: Tricolor summer camouflage (spots)
+IS-7: Tricolor summer camouflage
+T-34E: Bicolor summer camouflage
+P-43A-1: Unpainted camouflage (first time as a coupon)
+Ki-94-II: Spotted camouflage (first time as a coupon)
+Sd.Kfz.234/4: Tricolor camouflage (first time as a coupon)
+Phòng không T-34 (USSR): Green yellow black camouflage (first time as a coupon)
+F7F-3: Testing Ground 113 (first time as a coupon)
+Fw 189 A-1: Testing Ground 113 (first time as a coupon)
+KV-220: Testing Ground 113 (first time as a coupon)
+Grant I: Testing Ground 113 (first time as a coupon)
+<> Decorations (both immediately activated on the account and available as coupons):
+BSA Bicycle (first time as a coupon)
+Container "Waffenhalter" (first time as a coupon)
+M4 Sherman (first time as a coupon)
+Willys MB (first time as a coupon)
+Assault rifle shortened (USSR) (first time as a coupon)
+M1A1 Carbine (first time as a coupon)
+Light machine gun (USA)
+Light machine gun (USSR)
+Light machine gun (Germany)
+Light machine gun (China)
+Assault body armor (Russia)
+Force recon vest (USA)
+Ammunition of the Soviet Army, 1941
+Wehrmacht ammunition (Germany)
+SVT-40
+M1 Carbine
+Lee-Enfield No.4 Mk1
+Gewehr 41 (Walther)
+Arisaka Type 44
+PPS (first time as a coupon)
+MP-40 (first time as a coupon)
+STEN (first time as a coupon)
+M1928A1 "Thompson" (first time as a coupon)
+<> Decals (both immediately activated on the account and available as coupons):
+Emblem of the Air Force Airborne Corps, PLA
+Emblem of the 11th Parachute Brigade, France
+Emblem of the Rapid Forces Division, Germany
+Emblem of the "Folgore" Parachute Brigade, Italy
+Emblem of the 1st Airborne Brigade, Japan
+Emblem of the 323rd Parachute Ranger Squadron, Sweden
+Emblem of the Royal Marines
+Emblem of the Russian Marine Corps
+Basilisk
+Cerberus
+Chimera
+Echidna
+Harpy
+Hippocampus
+Lernaean Hydra
+Minotaur
+Sphinx
+Wyvern
+Flames
+Fiery explosion
+Frosty flames
+Fiery ball
+Flaming exhaust
+Fiery pattern
+Flaming sparks
+Colored flame
+Emblem of the air forces, Germany
+Emblem of the air forces, Japan
+Emblem of the air forces, Britain
+Emblem of the air forces, USA
+Emblem of the air forces, USSR
+Emblem of the armored forces, France
+Emblem of the armored forces, Germany
+Emblem of the armored forces, Italy
+Emblem of the armored forces, Japan
+Emblem of the Royal tank regiments
+The emblem of the armored forces, U.S.
+Emblem of the armored forces, Russia
+The Symbol of Japan
+The Symbol of USA
+The Symbol of USSR
+The Symbol of Britain
+The Symbol of Germany
+The Symbol of Italy
+Pin-up Japan
+Pin-up Britain
+Pin-up USA
+Pin-up USSR
+Pin-up Germany
+<> Silver Lions
+10,000 — 1,000,000
+<> Expendable items
+Battle trophy (Research points booster)
+Battle trophy (Silver lions booster)
+Universal backup
+Universal backup x2
+Universal backup x3
+Random wager
+Random order
+<>
+<>Tasks
+<>To get one Mark of distinction for a tanker/pilot/sailor, earn 40,000 mission points in random battles from rank III and higher (from rank I for event vehicles) on the corresponding vehicle type in the corresponding game mode. Points multiplier that varies based on vehicle rank and difficulty level is stated in the task description. The tasks are all the same and are renewed every two days at 11:00 GMT.
+<>Missed Marks of distinction can be purchased for Golden Eagles until September 1st without completing the tasks. You can do that in the menu “Nickname → Achievements → Summer Quest → Tasks for tankers/pilots/sailors.
+<>Detailed terms
+The exact terms of each task can be found in the “Nickname → Achievements → Summer Quest” window.
+To get a Mark of distinction, you need to complete a task on the corresponding vehicle type in the corresponding game mode. For example, a Mark of distinction for a pilot can be received only by playing Air battles (AB/RB/SB).
+You can complete the tasks in multiplayer battles in all game modes except for “Assault”.
+You can complete the tasks not only on vehicles Rank III and above, but also on lower rank event vehicles. You could receive those in large events such as winter and summer marathons, WWII chronicles, BP seasons and craft marathons. In the vehicle cards of such vehicles you can find the names of events in which said vehicles first became available in the game.
+You have received the Mark of distinction if the achievement’s color is golden.
+Missed Marks of distinction can be purchased for Golden Eagles in the Achievements window until September 1st, 2022. Make sure you pick the right achievement category: for tankers, pilots and sailors.
+Prizes received in the form of coupons will be available for trading on the market from September 2nd, 2022. The time from which the coupon can be traded can be viewed in the game in the coupon description. The option of trading each coupon separately depends on the time of its receipt and doesn’t depend on the vehicle type.
+For 8 Marks of distinction you receive an untradable coupon for a vehicle. Upon activating it, you will instantly receive a corresponding vehicle. If you do not wish to use the vehicle and want to sell the coupon on the Marketplace instead, you need the “Upgrade for coupon” item.
+For 10 Marks of distinction you receive an untradable “Upgrade for coupon” item. You can use it to make the vehicle coupon you received tradable and then sell it on the Marketplace. The date from which your tradable coupon can be sold can be found in its description in the game.
+The “Upgrade for coupon” item has an expiration date. You can either use it or exchange it for Warbonds before it expires.
+PlayStation and Xbox players will be able to exchange decal coupons for similar ones. The exchange is available in the “Workshop → Exchange items “Summer Quest” window.
+<>
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,79 @@
+[Event] Asymmetrical Battles Await You In the “Advance” Event! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Asymmetrical Battles Await You In the “Advance” Event!
+3 July 2026
+Event
+<>We’d like to invite you to participate in the “Advance” event! This is an asymmetrical battle where one team must capture all the points on the map, while the other defends them. Capturing key points decides the outcome of the battle, and familiar locations are revisited in a new tactical perspective.
+<> From July 3rd (11:00 GMT) until July 6th (11:00 GMT) , look for “Advance” in the “Events and Tournaments” tab.
+<>How the event works
+<>The event takes place in Arcade and Realistic Battles on the Port Novorossiysk, Maginot Line and Volokolamsk” maps.
+<>Each point belongs to the defending team at the time of activation.
+<>The points are activated sequentially, one at a time. After the attackers capture the current point, the next one is activated.
+<>The capture points alternate in their functionality: A, C, and E (key points) are small in size but take a long time to capture; B and D (intermediate points) completely cover the defenders' previous spawn zone, making them much larger in size than the key points, but they are captured significantly faster. After capturing an intermediate point, a new spawn point becomes available for the attackers to attack the next key point, while the previous spawn point is disabled.
+<>Capturing the last key point (E) or eliminating all defenders results in victory for the attackers.
+<>Holding the points for the duration of the mission or eliminating all attacking players results in victory for the defending team.
+<>The number of spawns per player is limited and differs between the defending and attacking teams.
+<>The maximum number of players per team is not the same.
+<>Spawning in ground vehicles in Realistic Battles does not require Spawn Points, however spawning in aircraft does.
+<>Repeated spawns are available, without requiring a backup vehicle.
+<>Event Features
+<>To queue for the event, you need ground vehicles with a Battle Rating of 4.7–5.7.
+<>Vehicles with a Battle Rating of 3.7–5.7 are allowed in the battle itself — meaning you can add lower-BR vehicles to your lineup.
+<>And finally, Attack the D point!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

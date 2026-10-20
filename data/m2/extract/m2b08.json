@@ -1,0 +1,857 @@
+{
+ "results": [
+  {
+   "aid": 4314,
+   "lang": "en",
+   "is_event": true,
+   "type": "sale",
+   "title": "Pre-order the soundtrack for War Thunder Naval forces",
+   "name_en": "Pre-order the soundtrack for War Thunder Naval forces",
+   "start": "2016-11-04",
+   "end": "2016-12-01",
+   "end_precision": "day",
+   "end_raw": "The soundtrack for War Thunder Naval forces will be released on the 1st of December",
+   "discounts": [
+    {
+     "target": "礼包",
+     "item": "War Thunder Naval forces 原声带(19曲,iTunes/Amazon/GooglePlay 预购)",
+     "percent": 50,
+     "note": "仅 iTunes 预购期五折;start 取文章发布日(预购开启)"
+    }
+   ],
+   "tasks": null,
+   "notes": "音乐专辑预购公告(游戏外商品),非游戏内活动;12月1日正式发售",
+   "confidence": 0.7,
+   "name_zh": null,
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4315,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "War in Mid Air",
+   "name_en": "War in Mid Air",
+   "start": "2016-11-04T15:00:00Z",
+   "end": "2016-11-07T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on November 4th until 07:00 GMT on November 7th",
+   "tasks": "街机特别活动「War in Mid Air」:攻击方机队摧毁城内坦克与玩家防空车,防守方防空载具守住城市直至攻击方耗尽 tickets。",
+   "notes": "多地图(Eastern Europe/Normandy/Tunisia/Poland/Guadalcanal),攻防双方参与载具清单见原文",
+   "confidence": 0.95,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4329,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Battle of Iwo Jima",
+   "name_en": "Battle of Iwo Jima",
+   "start": "2016-11-11T15:00:00Z",
+   "end": "2016-11-14T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From November the 11th 15:00 GMT to November the 14th 07:00 GMT",
+   "tasks": "参加硫磺岛活动(AB=Air Domination,RB/SB=Operation),选美军或日军飞机对战,得 +30% 银狮与 +30% 研发加成。",
+   "confidence": 0.95,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4337,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Celebrate “Panfilov’s 28” movie premiere!",
+   "name_en": "Celebrate “Panfilov’s 28” movie premiere!",
+   "start": "2016-11-16T16:00:00Z",
+   "end": "2016-11-24T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From November 16th 16:00 GMT to November 24th 07:00 GMT",
+   "rewards_text": [
+    "decal \"28\"",
+    "player’s icon \"Panfilov’s 28\""
+   ],
+   "tasks": "街机战斗参加「Battle at the Dubosekovo crossing」或随机战斗:2-5级载具击毁25敌得「28」贴花(仅苏系车可用);拿4次「Supporting Fire」奖章得「Panfilov’s 28」头像。",
+   "notes": "庆祝电影《Panfilov’s 28》11月24日俄罗斯首映;进度在 profile→Achievements→Special 查看",
+   "confidence": 0.95,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4354,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Battle of Moscow",
+   "name_en": "Battle of Moscow",
+   "start": "2016-11-24T15:00:00Z",
+   "end": "2016-11-28T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on 24th of November to 07:00 GMT on 28th of November",
+   "tasks": "参加莫斯科战役系列活动([Ground Attack] The approaches to Moscow AB、Moscow Factory RB/SB、The Soviet Offensive AB/RB/SB),得 +30% 银狮与 +30% 研发加成。",
+   "confidence": 0.95,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4355,
+   "lang": "en",
+   "is_event": true,
+   "type": "sale",
+   "title": "Black Friday & Thanksgiving [Discounts have ended]",
+   "name_en": "Black Friday & Thanksgiving [Discounts have ended]",
+   "start": "2016-11-24T15:00:00Z",
+   "end": "2016-11-28T09:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From November 24th 15:00 GMT till November 28th 09:00 GMT",
+   "discounts": [
+    {
+     "target": "捆绑包",
+     "item": "«Black Friday» bundle(M18 Black Cat + A43 Black Prince 高级包)62.98→31.49",
+     "percent": 50,
+     "note": null
+    },
+    {
+     "target": "捆绑包",
+     "item": "海军大礼包(可折抵已购海军包,含新德国 S-204 Lang 鱼雷艇包)",
+     "percent": 30,
+     "note": "已购整包按原价折抵"
+    },
+    {
+     "target": "载具",
+     "item": "Northrop P-61A-1 \"Black Widow\" 折后 1250 金鹰",
+     "percent": 50,
+     "note": "11月25日10:00 GMT起"
+    },
+    {
+     "target": "礼包",
+     "item": "PS4 独立海军包(PS Plus 会员)",
+     "percent": 30,
+     "note": "11月23日至12月1日"
+    }
+   ],
+   "sub_events": [
+    {
+     "name": "P-61A-1 Black Widow 五折",
+     "start": "2016-11-25T10:00:00Z",
+     "end": "2016-11-28T09:00:00Z"
+    },
+    {
+     "name": "PS4 独立海军包 30% off(PS Plus)",
+     "start": "2016-11-23",
+     "end": "2016-12-01"
+    }
+   ],
+   "notes": "标题自带 [Discounts have ended](已结束);Thanksgiving 部分为节日科普;捆绑包最终价视已拥有分包而定;仅 PC/Mac/Linux",
+   "confidence": 0.9,
+   "name_zh": null,
+   "deadlines": [],
+   "rewards_text": [],
+   "tasks": null
+  },
+  {
+   "aid": 4364,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "How can you get premium vehicles? Warbonds!",
+   "name_en": "How can you get premium vehicles? Warbonds!",
+   "start": "2016-12-01",
+   "end": null,
+   "end_precision": null,
+   "deadlines": [
+    {
+     "what": "当前战争债券停用,此后不能再用于战争债券商店购物",
+     "when": "2016-12-07"
+    }
+   ],
+   "rewards_text": [
+    "Pz.Kpfw. Churchill (Germany)",
+    "F4U-1a (Japan)",
+    "Hurricane Mk.IIB (USSR)",
+    "A6M2 (USA)",
+    "Boomerang Mk.II (Britain)"
+   ],
+   "tasks": "完成每日战斗任务(任意国家3级+)赚战争债券,12月在战争债券商店换购5辆高级载具、「Cajun Queen」贴花、补给箱与载具租用箱等。",
+   "notes": "12月战争债券商店月更公告,无明确活动结束日;start 为按「new month」推得的月初;租用箱含 Spitfire F Mk.XIVc 等5辆",
+   "confidence": 0.85,
+   "name_zh": null,
+   "discounts": [],
+   "sub_events": [],
+   "end_raw": null
+  },
+  {
+   "aid": 4367,
+   "lang": "en",
+   "is_event": false,
+   "type": null,
+   "title": "Music composition for Naval Forces in War Thunder",
+   "name_en": "Music composition for Naval Forces in War Thunder",
+   "start": null,
+   "end": null,
+   "end_precision": null,
+   "notes": "原声专辑(19曲)正式上架 iTunes/Amazon/GooglePlay 的商店公告,无折扣无活动窗口;预购五折已随 4314 的预购期结束",
+   "confidence": 0.8,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "tasks": null,
+   "end_raw": null
+  },
+  {
+   "aid": 4370,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Battle for Moscow",
+   "name_en": "Battle for Moscow",
+   "start": "2016-12-02T13:00:00Z",
+   "end": "2016-12-05T09:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From the 2nd of December 13:00 GMT to the 5th of December 09:00 GMT",
+   "discounts": [
+    {
+     "target": "捆绑包",
+     "item": "\"Battle of Moscow\" bundle(Guards / LaGG-3 34 / Shielded KV-1E / IL-2 Avenger 四个 Starter Pack)",
+     "percent": 30,
+     "note": "PC/Mac/Linux;最终价视已拥有分包"
+    }
+   ],
+   "tasks": "莫斯科周末特别活动([Survival] Moscow AB、[Operation] Battle of Moscow RB/SB、The Soviet Offensive AB/RB/SB)得 +30% 加成;同期莫斯科捆绑包 30% off。",
+   "confidence": 0.9,
+   "name_zh": null,
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4382,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Still Waters",
+   "name_en": "Still Waters",
+   "start": "2016-12-08T15:00:00Z",
+   "end": "2016-12-12T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on 8th of December to 07:00 GMT on 12th of December",
+   "rewards_text": [
+    "LaGG-3-66"
+   ],
+   "tasks": "PvE 活动「Still Waters」:4人小队沿河床低空渗透敌机场,摧毁运载设备的运输机即胜;RB 夜间雨天/SB 夜间晴,限2-5级,无重生。",
+   "notes": "玩家 CDK 自制任务(_Gilard_/Gyts/Ontt);贴示:不要高于40米以免被防空锁定",
+   "confidence": 0.95,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4389,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Battles in Ardennes",
+   "name_en": "Battles in Ardennes",
+   "start": "2016-12-09T15:00:00Z",
+   "end": "2016-12-12T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From December 9th 15:00 GMT to December 12th 07:00 GMT",
+   "tasks": "参加阿登空战与地面战斗(Ardennes. Battle of Bastogne.、Ardennes. Counteroffensive.,AB/RB/SB)得 30% 奖励加成。",
+   "notes": "原文「with a 30% and reward bonus!」语句残缺,按同类活动惯例应为银狮与研发各 +30%",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4404,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Team Deathmatch and Enduring Confrontation",
+   "name_en": "Team Deathmatch and Enduring Confrontation",
+   "start": "2016-12-16T15:00:00Z",
+   "end": "2016-12-19T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15.00 GMT on December 16th to 07.00 GMT on December 19th",
+   "tasks": "两个同窗活动:'100' 团队死斗(街机,Poland/Khalkhin Gol,先杀满100胜)与 RB 全境冲突「Ruhr」;胜场计入日本陆军 CBT 测试员任务(每日上限照旧)。",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4417,
+   "lang": "en",
+   "is_event": true,
+   "type": "sale",
+   "title": "Seasonal discounts",
+   "name_en": "Seasonal discounts",
+   "start": "2016-12-24",
+   "end": "2017-01-06",
+   "end_precision": "day",
+   "end_raw": "From December the 24th until January the 6th",
+   "discounts": [
+    {
+     "target": "多种商品",
+     "item": "全载具改装件(含备用载具与护身符)",
+     "percent": 50,
+     "note": "12月24-25日"
+    },
+    {
+     "target": "载具",
+     "item": "英国与日本载具",
+     "percent": 50,
+     "note": "12月26-27日"
+    },
+    {
+     "target": "载具",
+     "item": "德国载具",
+     "percent": 50,
+     "note": "12月28-29日"
+    },
+    {
+     "target": "载具",
+     "item": "美国载具",
+     "percent": 50,
+     "note": "1月2-3日"
+    },
+    {
+     "target": "载具",
+     "item": "苏联载具",
+     "percent": 50,
+     "note": "1月4-5日"
+    }
+   ],
+   "notes": "每2天轮换一批新50%折扣,每日09:00 GMT生效;折扣不含捆绑包、海军舰艇与日本地面载具;12月30-31日与1月1日的窗口文中未列出",
+   "confidence": 0.9,
+   "name_zh": null,
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "tasks": null
+  },
+  {
+   "aid": 4418,
+   "lang": "en",
+   "is_event": true,
+   "type": "festive",
+   "title": "Collect a premium Type-95 Ha-Go Commander for Christmas!",
+   "name_en": "Collect a premium Type-95 Ha-Go Commander for Christmas!",
+   "start": "2016-12-23T15:00:00Z",
+   "end": "2016-12-26T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on the 23rd of December to 07:00 GMT on the 26th of December",
+   "rewards_text": [
+    "Type-95 Ha-Go Commander"
+   ],
+   "tasks": "圣诞礼物:12月23-26日在随机战斗赢1场且战斗活跃度≥80%,即得日本高级坦克 Type-95 Ha-Go Commander;已拥有者改发等值金鹰。",
+   "confidence": 0.95,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4419,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Seasonal Sizzlers in War Thunder",
+   "name_en": "Seasonal Sizzlers in War Thunder",
+   "start": "2016-12-24",
+   "end": "2017-01-06",
+   "end_precision": "day",
+   "end_raw": "From the 24th of December until the 6th of January, 2017, there are special discounts on everything you need in the game",
+   "discounts": [
+    {
+     "target": "多种商品",
+     "item": "圣诞折扣日历:载具、模块、备用载具、护身符,每日新折扣",
+     "percent": 50,
+     "note": "12月24日-1月6日"
+    },
+    {
+     "target": "礼包",
+     "item": "热门载具礼包圣诞促销",
+     "percent": 70,
+     "note": "至高70%,仅到1月2日"
+    },
+    {
+     "target": "高级账户",
+     "item": "高级账户(1.65 正式发布庆祝,另含礼物与头衔)",
+     "percent": 50,
+     "note": null
+    }
+   ],
+   "sub_events": [
+    {
+     "name": "New Years Marathon with unique vehicles",
+     "start": null,
+     "end": null,
+     "notes": "每日自选任务,奖品 Ki-21 hei / LVT ZiS-2 / Me 262 \"Sturmvogel\" / Type 62"
+    },
+    {
+     "name": "War Thunder Chronicles",
+     "start": null,
+     "end": null,
+     "notes": "每日历史战役重现活动"
+    },
+    {
+     "name": "New Year War Bonds",
+     "start": null,
+     "end": null,
+     "notes": "1月新货架:A1E1 Independent / Nb.Fz. / P-51D-10 \"Daddy's Girl\";旧债券可用至1月7日"
+    }
+   ],
+   "rewards_text": [
+    "Type-95 Ha-Go Commander",
+    "Ki-21 hei",
+    "LVT ZiS-2",
+    "Me 262 \"Sturmvogel\"",
+    "Type 62",
+    "A1E1 Independent",
+    "Neubaufahrzeug",
+    "P-51D-10 \"Daddy's Girl\""
+   ],
+   "tasks": "圣诞-新年 specials 汇总:胜场免费拿 Type-95 Ha-Go、每日任务马拉松、折扣日历、礼包至高七折(至1月2日)、高级账户五折、战争债券新奖励、编年史历史活动。",
+   "notes": "汇总/导流文(各项 Learn more here),子项细节以其专属公告为准;主窗口取圣诞折扣日历窗口",
+   "confidence": 0.8,
+   "name_zh": null,
+   "deadlines": []
+  },
+  {
+   "aid": 4422,
+   "lang": "en",
+   "is_event": true,
+   "type": "sale",
+   "title": "Mega bundles at 70% off",
+   "name_en": "Mega bundles at 70% off",
+   "start": "2016-12-23",
+   "end": "2017-01-02T13:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From Dec 23rd until Jan 2nd (13:00 GMT) only, you can acquire an awesome collection of premium vehicles at a huge 70% off!",
+   "discounts": [
+    {
+     "target": "捆绑包",
+     "item": "Ground Forces Mega Bundle(16个高级/Starter包)392→118",
+     "percent": 70,
+     "note": null
+    },
+    {
+     "target": "捆绑包",
+     "item": "Air Forces Mega Bundle(9个高级包)273→82",
+     "percent": 70,
+     "note": null
+    }
+   ],
+   "notes": "Gaijin.net 商店;已拥有分包按同折扣折抵;仅 PC/Mac/Linux,PS4 另有 PlayStation Store 季节特惠;start 仅日期无时刻",
+   "confidence": 0.95,
+   "name_zh": null,
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "tasks": null
+  },
+  {
+   "aid": 4435,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "How can you get premium vehicles? Warbonds!",
+   "name_en": "How can you get premium vehicles? Warbonds!",
+   "start": "2017-01-01",
+   "end": null,
+   "end_precision": null,
+   "deadlines": [
+    {
+     "what": "当前战争债券停用,此后不能再用于战争债券商店购物",
+     "when": "2017-01-07"
+    }
+   ],
+   "rewards_text": [
+    "A1E1 Independent",
+    "P-51D-10",
+    "Nb.Fz.",
+    "Golovachev's Yak-9M",
+    "Ki-96"
+   ],
+   "tasks": "完成每日战斗任务赚战争债券,1月在战争债券商店换购5辆高级载具、「Fly Navy」贴花、补给箱与载具租用箱等。",
+   "notes": "1月战争债券商店月更,首次上架 A1E1 Independent、Nb.Fz. 等;start 为按「January」推得的月初",
+   "confidence": 0.85,
+   "name_zh": null,
+   "discounts": [],
+   "sub_events": [],
+   "end_raw": null
+  },
+  {
+   "aid": 4464,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "\"Airfield Assault\" and \"Defense\" Stalingrad, Enduring Confrontation \"English Channel\"",
+   "name_en": "\"Airfield Assault\" and \"Defense\" Stalingrad, Enduring Confrontation \"English Channel\"",
+   "start": "2017-01-20T15:00:00Z",
+   "end": "2017-01-23T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 20th January 15:00 GMT to 23rd January 07:00 GMT",
+   "tasks": "周末三活动:[Airfield Assault](AB/RB)三机场争夺、[Defense] Stalingrad(AB/RB)地面攻防点、RB 历史全境冲突「English Channel」(可中途加入,无限重生)。",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4475,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Winter Games: Biathlon, Curling and Races",
+   "name_en": "Winter Games: Biathlon, Curling and Races",
+   "start": "2017-01-27T15:00:00Z",
+   "end": "2017-01-30T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From January 27th (15:00 GMT) to January 30th (07:00 GMT).",
+   "tasks": "冬季运动会:Biathlon(AB,2-4级)边跑边射、Curling(RB,2-4级)护送装甲纵队穿过敌炮兵线到占领区、Races(AB)驾驶特制 M18 Hellcat 竞速夺冠。",
+   "confidence": 0.95,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4479,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "How can you get premium vehicles? Warbonds!",
+   "name_en": "How can you get premium vehicles? Warbonds!",
+   "start": "2017-02-01",
+   "end": null,
+   "end_precision": null,
+   "rewards_text": [
+    "M4A5 (USA)",
+    "T-34-747(r) (Germany)",
+    "P-39K-1 (USSR)",
+    "Bf 109E-7 (Japan)",
+    "Hellcat Mk.II (Britain)"
+   ],
+   "tasks": "完成每日战斗任务(3级+)赚战争债券,2月在战争债券商店换购5辆高级载具、Emblem「3 Stormo Caccia」、补给箱与载具租用箱等。",
+   "notes": "2月战争债券商店月更;start 为按「February」推得的月初;租用箱含 J2M4 Kai 等5辆",
+   "confidence": 0.85,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": [],
+   "end_raw": null
+  },
+  {
+   "aid": 4494,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "How can you get premium vehicles? Warbonds! (reminder)",
+   "name_en": "How can you get premium vehicles? Warbonds! (reminder)",
+   "start": "2017-02-01",
+   "end": null,
+   "end_precision": null,
+   "rewards_text": [
+    "M4A5 (USA)",
+    "T-34-747(r) (Germany)",
+    "P-39K-1 (USSR)",
+    "Bf 109E-7 (Japan)",
+    "Hellcat Mk.II (Britain)"
+   ],
+   "tasks": "提醒文:2月战争债券商店货架同1月31日公告,继续做每日战斗任务攒战争债券换购稀有高级载具。",
+   "notes": "2月战争债券商店提醒(reminder),内容与 4479 相同",
+   "confidence": 0.85,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": [],
+   "end_raw": null
+  },
+  {
+   "aid": 4508,
+   "lang": "en",
+   "is_event": true,
+   "type": "festive",
+   "title": "Valentine's Day",
+   "name_en": "Valentine's Day",
+   "start": "2017-02-14T11:00:00Z",
+   "end": "2017-02-15T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From February 14th 11:00 GMT to February 15th 07:00 GMT",
+   "rewards_text": [
+    "\"MAKE LOVE NOT WAR\" achievement",
+    "\"TO THE DEPTHS OF LOVE\" decal",
+    "unique booster +30% RP"
+   ],
+   "tasks": "情人节:地面战斗占点得「MAKE LOVE NOT WAR」成就奖励;连胜3场得「TO THE DEPTHS OF LOVE」贴花;3-5级载具胜场第一名得全队 +30% RP 增益。",
+   "notes": "另有神秘铭文可触发额外奖励,线索在官方 Facebook",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4521,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Rescue operation",
+   "name_en": "Rescue operation",
+   "start": "2017-02-17T15:00:00Z",
+   "end": "2017-02-20T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on the 17th of February to 07:00 GMT on the 20th of February",
+   "tasks": "「Rescue operation」:英军飞机 vs 苏军坦克(含 Object 906);地面任务赴航母救乘员,空中任务击毁 Object 906;参战载具全员发放,需苏/英任一2级载具。",
+   "notes": "坦克手小心高速鱼雷;密集编队易被一枚鱼雷大面积杀伤",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4527,
+   "lang": "en",
+   "is_event": true,
+   "type": "sale",
+   "title": "Special Discounts!",
+   "name_en": "Special Discounts!",
+   "start": "2017-02-22T16:00:00Z",
+   "end": "2017-02-27T09:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 22nd February (16:00 GMT) to 27th February (09:00 GMT)",
+   "discounts": [
+    {
+     "target": "捆绑包",
+     "item": "Defender Tank Bundle(KV-2 ZIS 6 / T-34-85E / Shielded KV-1E)72.97→51.08",
+     "percent": 30,
+     "note": null
+    },
+    {
+     "target": "捆绑包",
+     "item": "Defender Mega Bundle(6个高级包)131.94→79.16",
+     "percent": 40,
+     "note": null
+    },
+    {
+     "target": "捆绑包",
+     "item": "Defender Air Bundle(La-7 / Peshka / Yak-9M)58.97→41.28",
+     "percent": 30,
+     "note": null
+    },
+    {
+     "target": "礼包",
+     "item": "PS4 苏系载具包",
+     "percent": 30,
+     "note": "PS4 专属,2月23日至27日"
+    }
+   ],
+   "sub_events": [
+    {
+     "name": "PS4 苏系载具包 30% off",
+     "start": "2017-02-23",
+     "end": "2017-02-27"
+    }
+   ],
+   "notes": "最终价视已拥有分包而定;仅 PC/Mac/Linux;同期有 Battle of Stalingrad 活动(见 4529)",
+   "confidence": 0.95,
+   "name_zh": null,
+   "deadlines": [],
+   "rewards_text": [],
+   "tasks": null
+  },
+  {
+   "aid": 4529,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Battle of Stalingrad",
+   "name_en": "Battle of Stalingrad",
+   "start": "2017-02-23T13:00:00Z",
+   "end": "2017-02-27T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "from 23rd February (13:00 GMT) to 27th February (07:00 GMT)",
+   "rewards_text": [
+    "Shield 3D decoration",
+    "Shield decal"
+   ],
+   "tasks": "斯大林格勒战役活动([Operation] Uranus AB/RB/SB、Stalingrad AB/RB/SB):地面3-5级15胜(活跃度≥70%)得盾牌3D装饰;空中3-5级10胜(活跃度≥60%)得盾牌贴花;活动内 +23% 银狮/研发。",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4541,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "How can you get premium vehicles? Warbonds!",
+   "name_en": "How can you get premium vehicles? Warbonds!",
+   "start": "2017-03-01",
+   "end": null,
+   "end_precision": null,
+   "rewards_text": [
+    "SMK",
+    "Bf 109F-4 (USA)",
+    "Pz.III N",
+    "Ki-100-II",
+    "Hudson Mk.V"
+   ],
+   "tasks": "完成每日战斗任务赚战争债券,3月在战争债券商店换购5辆高级载具、「Glamouras」pin-up 贴花、补给箱与载具租用箱等。",
+   "notes": "3月战争债券商店月更;start 为按「March」推得的月初;租用箱含 Super Hellcat 等5辆",
+   "confidence": 0.85,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": [],
+   "end_raw": null
+  },
+  {
+   "aid": 4554,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Spitfire Day - In honor of the first flight",
+   "name_en": "Spitfire Day - In honor of the first flight",
+   "start": "2017-03-03T15:00:00Z",
+   "end": "2017-03-06T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on the 3rd March till 11:00 GMT on the 6th March",
+   "discounts": [
+    {
+     "target": "载具",
+     "item": "Spitfire LF Mk IXc (USSR)",
+     "percent": 30,
+     "note": "须用3级+喷火/海火在随机战斗击落 30/15/15(AB/RB/SB)解锁;该机亦在常规高级树无折扣在售"
+    }
+   ],
+   "sub_events": [
+    {
+     "name": "Spitfire Races (AB/RB)",
+     "start": "2017-03-03T15:00:00Z",
+     "end": "2017-03-06T11:00:00Z"
+    },
+    {
+     "name": "V-1 interception (RB/SB)",
+     "start": "2017-03-03T15:00:00Z",
+     "end": "2017-03-06T11:00:00Z"
+    }
+   ],
+   "rewards_text": [
+    "Spitfire LF Mk IXc (USSR) 30% discount",
+    "Pilot icon \"Eric Lock\"",
+    "10.000 Silver Lions (race first place)"
+   ],
+   "tasks": "喷火首飞纪念日(1936-03-05):Spitfire Races 竞速第一名得1万银狮、累计5次第一得 Eric Lock 头像;RB/SB「V-1 interception」拦截V-1火箭得 +30% 银狮研发。",
+   "confidence": 0.9,
+   "name_zh": null,
+   "deadlines": [],
+   "notes": null
+  },
+  {
+   "aid": 4561,
+   "lang": "en",
+   "is_event": true,
+   "type": "festive",
+   "title": "Day of the kindest, cute, beautiful, responsive, smiling...",
+   "name_en": "Day of the kindest, cute, beautiful, responsive, smiling...",
+   "start": "2017-03-07T15:00:00Z",
+   "end": "2017-03-13T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on the 7th of March until 07:00 GMT on the 13th of March",
+   "rewards_text": [
+    "unique lady pilot icons (3 total)"
+   ],
+   "tasks": "三八妇女节:随机战斗用3-5级载具每打8场且名次达标(AB前8/RB前7/SB前5,不含全境冲突)得1个女飞行员头像,共3个;进度在 Menu>Achievements>International women's day。",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": [],
+   "notes": null
+  },
+  {
+   "aid": 4571,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Large Calibres and Rocket Science!",
+   "name_en": "Large Calibres and Rocket Science!",
+   "start": "2017-03-10T15:00:00Z",
+   "end": "2017-03-13T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on March 10th to 07:00 GMT on March 13th",
+   "tasks": "周末双活动,各 +20% 奖励:Large Calibres(AB)37mm+大口径飞机对决;Rocket Science 导弹/火箭坦克对抗(突尼斯,先100杀的队伍胜)。",
+   "notes": "参与载具清单见原文(含 Tempest Mk.V (Vickers P)、IT-1、RBT-5 等)",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "sub_events": []
+  },
+  {
+   "aid": 4588,
+   "lang": "en",
+   "is_event": true,
+   "type": "festive",
+   "title": "St. Patrick's Day",
+   "name_en": "St. Patrick's Day",
+   "start": "2017-03-17T15:00:00Z",
+   "end": "2017-03-20T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on March 17th to 07:00 GMT on March 20th",
+   "rewards_text": [
+    "\"Four-leaf Clover\" decal",
+    "\"Personal motif of Brendan Finucane\" decal"
+   ],
+   "tasks": "圣帕特里克节:Event 标签参加 Gladiator Mk.II 8x8 街机特别锦标赛,5胜得「Four-leaf Clover」贴花,10胜得「Brendan Finucane 个人纹样」贴花。",
+   "confidence": 0.9,
+   "name_zh": null,
+   "discounts": [],
+   "deadlines": [],
+   "sub_events": [],
+   "notes": null
+  }
+ ]
+}

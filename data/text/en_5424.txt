@@ -1,0 +1,108 @@
+[Event] Flying Serpent, Crouching Tiger - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Flying Serpent, Crouching Tiger
+Attention! Outdated news format. Content may not display correctly.
+31 March 2018
+Event
+<>
+<>
+<>What could be easier than building a tank or an aircraft? It is especially easy today – just collect some parts, put them together, and you’ll definitely get one of the vehicles with special animalistic camouflages that other players will see! Well, either that, or maybe just a cooler.
+<>From 12:00 GMT on the March 31st until 12:00 GMT on the April 3rd
+<>Assemble vehicles from parts which you get in random battles. The chance of getting a trophy with parts depends on how successful and active you are in battle.
+<>Tiger with animal themed camouflage
+<>Participate in the ground battles with a high level of activity in vehicles of rank III or higher
+<>P-63 Kingcobra with animal themed camouflage
+<>Participate in the air battles with a high level of activity in vehicles of rank III or higher
+<>Get Battle Trophies with tank or aircraft parts depending on the type of battle
+<>Combine identical parts to get new ones. Once you’ve collected all the parts you need, use them to create a vehicle
+<>Sell extra or unwanted parts or buy the ones you need from other players in the Market for Gaijin Coins.
+<>
+<>
+<>How to assemble a vehicle?
+<>Vehicles are assembled in the “Workshop” section of your inventory
+<>Your goal is to collect four rare parts that can be traded in for an event vehicle. Battle Trophies always only contain basic parts, but if you combine two identical basic parts, you’ll get one of the rare ones.
+<>You have no way of knowing which part you’ll get from the two basic parts until you combine them for the first time.
+<>Experiment and find the full set of the parts you need.
+<>Event features
+<>In this event, battle trophies do not require a key to open them
+<>You can use the Market to buy and sell Battle Trophies, any parts from the event, and even the event’s main rewards: vehicle coupons.
+<>Once the event is over you will no longer find parts in battle, but the parts you already have will remain in your inventory for seven days. During this time they can be bought and sold at the Market, any extra parts can also be traded for War Bonds in the future.
+<>Once time runs out all parts, including those for sale at the Market, will disappear. You will be able to keep the vehicles permanently.
+<>You can open the Market from the hangar by clicking Shop → Market
+<>To be able to purchase and sell items on the Market you need to activate 2-step-authorization on your account.
+<>You can purchase Gaijin Coins or earn them by selling extra parts or trophies.
+<>PS4 and DMM linked players are able to take part in the event, earn parts and construct the machines, however purchasing and selling items on the WT Market will not be available to PS4 players, and players with accounts linked to the DMM service. Exchanging items is possible only in the PC client.
+<>With slugs and snails and puppy dog tails – that’s what little boys are “crafted” from!
+<> The War Thunder Team
+<>Players’ FAQ
+<> Where I can get trophies?
+<>Within battles, he higher your activity the higher the chance to get a trophy.
+<> I received the trophy, but where can I find it?
+<>Within your inventory: “Shop” → “Inventory” → “Workshop”.
+<> What do I do with the parts?
+<>Collect two identical parts, combine them to get one rare part.
+<> How to combine the parts?
+<>Mark an “Unknown item” and check the description for which parts you need to craft it. If you already have the parts, click the “Assemble” button if you have that option available (requires all the listed parts).
+<> I have a lot of parts but how do I know what I need?​​​​​​​
+<>You need to try everything and every combination. Any parts are useful for combining and creating the vehicle. But for the final step, you have to learn by experimenting and trying different combinations. Combined parts will be saved in the information of the event workshop.
+<> What if I don't have enough time or I have spare parts that are not exactly necessary for me?​​​​​​​
+<>“Shop” → Market. You can sell your unneeded parts or purchase your missing parts. The market is available only after activating of the 2-step-authorization.
+<> Will trophies disappear from my inventory after some time?​​​​​​​
+<>No, you can store them. Exception - trophies that have limited time displayed in trophy description.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

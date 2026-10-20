@@ -1,0 +1,90 @@
+[Special] Su-7B military pilot interview - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Su-7B military pilot interview
+Attention! Outdated news format. Content may not display correctly.
+16 June 2020
+Special
+<>As we work on unit models for War Thunder, we regularly consult with professionals who have extensive knowledge of real-life combat vehicles. We would like to give the floor to one such expert right now. In this interview, Askar Alpysbaev, a Soviet Air Force pilot instructor, will be answering our questions about the Su-7B.
+<> Q. Please tell us a little bit about yourself. How did you come to the decision to join the Air Force? Was that something you had dreamt of since childhood?
+<>I was born in the North Ural, in a city called Berezniki in Perm Krai. Ever since I was a child, I dreamt of joining the army but not necessarily as a pilot – although there hadn’t been anyone in my family who had served in the military. After an EVVAUL student who actually hailed from our region gave a presentation at our school, I felt a calling, as they say, and decided to apply to that same high school. That’s how I eventually ended up joining the Air Force.
+<> Q. Where did you serve and what aircraft did you pilot? Have you ever piloted an Su-7B and for how long?
+<>I began my service at EVVAUL, then went on to become a pilot instructor in Zernograd in Rostov Oblast. Afterwards, I was stationed in Nikolaevka, a town right next to Almaty in the Republic of Kazakhstan. For the last few years of my military career, I served in Taldykorgan, also in Kazakhstan. While I was an air cadet, I piloted an Su-7U, Su-7B, and after I was transferred to serve at military bases – an Su-24M. My total flight time is just over a thousand hours.
+<> Q. Was there anything memorable about piloting the Su-7B? Any exciting stories or anecdotes you would like to share with us?
+<>The first time I piloted an Su-7B really stuck in my memory. I would never forget its astonishing power for the rest of my life! When I flicked WEP on and released the brakes, it felt like I was riding a rocket. Trust me, it’s an unforgettable feeling. As for anecdotes, here’s the thing – only the people who served with me and know the onions in this kind of stuff will understand them. They are situationally comical yet inherently tragic at the same time.
+<> Q. When and under what circumstances was your first experience with War Thunder? How often do you play and which units do you use in combat most often? Which modes do you prefer?
+<>My first experience with the project was back when the first closed beta test was launched. I’ve been hooked ever since. I play practically every night, if I have the time. Lately, I’ve been mostly playing mixed battles (Realistic Battles) and before that – aerial battles. Occasionally, I also join Simulator Battles, assuming I’ve got free time and can play in a quiet setting.
+<> Q. What did you feel when you found yourself at the Su-7B control stick in the game for the first time?
+<>It was nostalgia, really. I really wished I could experience the same emotions I felt back when I piloted the same aircraft in real life as a cadet. And I can say I did just that when I played the game.
+<> Q. How did you test the Su-7B in War Thunder? What did you focus your attention on first? And what did the game developers ask you to check?
+<>The developers asked me to check everything imaginable. First and foremost, I was interested in how the aircraft would behave during takeoff and landing. Naturally, I tested the general characteristics too.
+<> Q. Could you tell us briefly what corrections were made in the game following your feedback? How much more realistic did the aircraft’s behaviour become as a result of that?
+<>To be honest, the developers had managed to create an extremely realistic flight model of this aircraft right from the get-go. I tested it really intensively. There was a minor issue with looping, but that was addressed very quickly. The main bugs were related to how the cockpit instruments worked, but most of those had been fixed too. I’m guessing the large amount of the compiled technical documentation helped immensely.
+<> Q. Many players have pointed out that the Su-7B has very smooth controls, thanks to its excellent rate of climb, great acceleration characteristics and surprisingly decent manoeuvrability. How much does that actually resemble its real-life counterpart? Many popular sources, for instance, claim that the Su-7B was extremely tricky to cope with.
+<>It’s true that it’s tricky to learn to pilot this aircraft. But I think I should go into a bit more detail here. The difficulties with operating the Su-7B mainly arise from the mammoth physical workload the pilots have to endure. The arduously “heavy” controls require a lot of effort in all flight modes. Eventually, as you grow up and get used to this peculiarity, the aircraft stops feeling difficult to operate. When I was a cadet, the Su-7B was considered one of the most difficult aircraft to pilot. However, in the game, there’s the Instructor that eliminates the main problem related to flying this aircraft in real life. As for what you said regarding the acceleration characteristics, rate of climb, speed and manoeuvring – everything is extremely in line with those of the real-life vehicle.
+<> Q. What can you tell us about the combat effectiveness of the Su-7B in real life? Judging by players’ feedback, it turns out it does a fairly good job in both assault and aerial battles in the game. Some people even think it’s the best jet-powered attack aircraft in War Thunder! Although in popular literature, you’ll often find mentions of how difficult bombing in the Su-7B was, that even a small mistake would result in the high-speed aircraft straying off the target course.
+<>The popular literature is somewhat removed from the truth. The only complications that came up were when you tried to neutralize smaller targets. That applies to every attack aircraft though. In every other scenario, there were no issues. As for aerial battles, well, it’s a fighter aircraft, so aerial battles are what it’s designed for.
+<> Q. Many players piloting the Su-7B manage to put up a pretty good fight against opposing fighters too. How would you rate the chances of the Su-7B winning a real dogfight against other fighters of that era, like the F-104, Mirage IIIC, J-6 (MiG-19) or F-4, for instance? It is a well-known fact that the Su-7 shot down some Mirages, as well as the highly manoeuvrable F-86 Sabres.
+<>It’s no surprise. In real life, it’s tactics, the pilot’s level of skill and a little bit of good luck that determine the victor in such aerial battles. There are a lot of factors at play here – like who spotted the enemy first, whether the ground detection and targeting specialists did a good job or not, etc. If everything works out well, then the pilot’s chances of victory are extremely high.
+<> Q. How would you rate the visual aspects of the Su-7B? How much does the game model resemble its real-life counterpart? Do you like it? Does the cockpit model resemble the cabin of the real Su-7B? How accurately are the instruments and interior recreated?
+<>The model looks excellent, and so does the cockpit. I see no problems there. I like it. It might be nice if you added some camos though.
+<> Q. Last question. Are there any tips you would like to share with the players who pilot the Su-7B?
+<>Well, I guess there’s nothing special. The most important thing is not to get too absorbed in air combat manoeuvring.
+<>If you have excellent knowledge of the combat vehicles present in War Thunder and would like to share your memories of serving in the military and your impressions of the game, please send us an e-mail to [email protected] .
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

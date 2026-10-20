@@ -1,0 +1,142 @@
+[Event] Future Technology - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Future Technology
+Attention! Outdated news format. Content may not display correctly.
+1 April 2021
+Event
+<>How do you envision the technology of the future? Interplanetary travel, robotics, or maybe even a perpetual motion machine?
+<>What we are sure of is the existence of a time machine used by our great great great grand-children that sent us instructions and materials to create the "Minotaur" - a tank from our future.
+<>Assemble these futuristic vehicles and turn them over to your commanders in exchange for vehicles for pilots, tankers and sailors! In the meantime scientists will study the vehicles you have assembled and prepare them for a mass production in 2077.
+<>From 13:00 GMT on the 1st of April until 12:00 GMT on the 12th of April
+<>Get materials in battles, assemble “Minotaur” tanks from them and exchange the finished tanks for prize vehicles!
+<>Awards
+<> SU-76D
+— Rank II Premium Vehicle (USSR)
+Will be granted for 1 vehicle receiving order.
+<>
+<>A Wartime experimental Soviet SPG. Features a punchy 76mm cannon, which is more than enough for entry level battles!
+<> JDS Yūgure (DD-184)
+— Rank II Premium Vessel (Japan)
+Will be exchanged for the SU-76D coupon.
+<>
+<>Ex-American destroyer Fletcher-class now in service with the Japanese Self Defence Forces. Good rate of fire on the main calibre, deadly AA battery and Premium bonuses.
+<> XM8
+— Rank VI Event Vehicle (USA)
+Will be granted for 3 vehicle receiving orders.
+<>“Close Combat Vehicle Light” is a light tank project designed for the US army. Gorgeous gun and two hull setups: light recon or armored damage dealer.
+<> F-4F Early
+— Rank VI Event Aircraft (Germany)
+Will be exchanged for the XM8 coupon.
+<>
+<>Export German version of the legendary Phantom II jet-fighter. Perfect flight characteristics and a variety of available armament.
+<>How to participate
+<>Fight in random battles! After each battle, required materials will go to the following menu “Workshop → Future Technology”.
+<>In “Future Technology” you assemble tanks from materials obtained in battles and exchange them for vehicle receiving orders. For these orders you can get exclusive samples of prize vehicles.
+<>Key items
+Material
+<>Required to assemble the tank parts. Open a container with them inside after a battle.
+<>
+Will be issued for every 10 minutes spent in a battle (from rank III and 50% in-game activity).
+Contains from 1 to 4 materials.
+Rounds
+<>Required at the tank assembling stage. Will be assembled into ammo rack.
+<>
+Will be issued for every 30 minutes spent in the battle (from rank III and 50% in-game activity).
+Parts of "Minotaur" tank scheme
+<>Will be assembled into a simple or detailed tank scheme and reduce the time which is needed to assemble the tank.
+<>
+Will be issued for 1st place in a battle.
+<>Containers with materials, as well as rounds can be obtained several times in one battle, any remaining accumulated time will be transferred into the next battle.
+<>How to make parts
+<>Hit the “Assemble” button in the “Workshop → Future Technology” window. Assembly will take place in the following order: “Materials” → “Parts” → “Tank”.
+<>You can assemble up to 3 tank parts simultaneously — one from each category.
+<>Materials for making parts can be traded at the Market.
+<>Tank assembly
+<>Becomes available after making all tank parts in 3 categories and assembling ammo from the rounds.
+<>Assemble the “Minotaur” tank and get your first vehicle receiving order. Vehicle receiving orders can be exchanged for prize vehicles in the same window.
+<>Tank assembly can be accelerated significantly by using a simple or detailed scheme of the “Minotaur” tank. Schemes can be assembled or purchased on the market.
+<>To get more valuable prize vehicles you need to assemble several tanks along the same path.
+<>How to receive awards
+<>The exchange of Vehicle receiving Order takes place in the “Workshop → Future Technologies” window and becomes available at a specified time. You get vehicle coupons that can be activated for your account or to sell on the Exchange.
+XM8 (USA) and F-4F Early (Germany) can be obtained from the event start and until 12:00 GMT on the 26th of April.
+SU-76D (USSR) and JDS Yūgure (DD-184) (Japan) can be obtained from 12:00 GMT on the 19th of April till 12:00 GMT on the 26th of April. PlayStation and Xbox players can receive this vehicle from 12:00 GMT of the 12th of April till 12:00 GMT on the 26 of April.
+<>PlayStation and Xbox players’ options
+<>A lack of Marketplace won’t slow your progress. Obtain special items for Golden Eagles right in “Workshop → “Future Technology”:
+Materials - 30 pieces
+<>A box with materials for Golden Eagles.
+Order "Ammunition replenishment"
+<>Allows you to receive additional "rounds" in battles without restrictions - 2 items for every 10 minutes of the battle.
+<>Terms
+All event items can be obtained in the following game modes:
+Ground arcade, realistic and simulator battles.
+Aircraft arcade and realistic battles.
+Naval arcade and realistic battles.
+The number of items received in battles is limited.
+“Materials” containers — up to 40 per day and up to 400 for the whole event.
+“Rounds” — up to 13 per day and up to 104 for the whole event.
+Parts of "Minotaur" tank scheme — up to 200 for the whole event.
+The possibility of trading items on the market is indicated in their description.
+Assembling a tank takes time. It can be sped up by collecting a Simple tank scheme (25 parts) or a Detailed tank scheme (50 parts).
+Event times:
+Materials, Rounds and Parts of a "Minotaur" tank scheme will be given from 13:00 GMT on the 1st of April till 12:00 GMT on the 12th of April.
+You can collect tank parts from materials, as well as trade them on the market until 12:00 GMT on the 19th of April inclusive.
+At 12:00 GMT on the 19th of April all event items, except Vehicle receiving Orders and vehicle coupons will be removed from the inventory and the market.
+At 12:00 GMT on the 26th of April Vehicle receiving Orders will be removed from the inventory and the market. Be sure to exchange them for the vehicles before that time!
+<>As well as normal random battles, containers with materials for the “Future Technologies” crafting event might also be obtained in the special events “TailSpin” and “Warfare 2077”.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

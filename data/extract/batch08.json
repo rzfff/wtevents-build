@@ -1,0 +1,234 @@
+{
+  "results": [
+    {
+      "key": "2022_summer_quest",
+      "start_override": "2022-08-09T11:00:00Z",
+      "end": "2022-08-29T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 9th of August until 11:00 GMT on the 29th of August",
+      "type": "marathon",
+      "name_zh": "夏日大冒险",
+      "zh_id": 704,
+      "deadlines": [
+        {"what": "夏日鸡尾酒礼盒与鸡尾酒纸伞钥匙从账号移除", "when": "2022-08-29T12:00:00Z"},
+        {"what": "错过之功勋标记可金鹰补购截止", "when": "2022-09-01"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗每积40,000任务得分得1枚功勋标记(陆海空分列,III级以上,活动载具I级可;排除突击),任务每2天11:00 GMT刷新;8枚得载具兑换券,10枚得『兑换券升级』道具使其可上市交易。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "奖励兑换券9月2日起可上市交易;同期开『夏日鸡尾酒』开箱(1万银狮/把,含历届夏日活动奖励,IS-7概率约0.001%),8月29日12:00 GMT过期;集齐5张任务贴花券换第6张『Happy Camper』;主机版可互换贴花券。"
+    },
+    {
+      "key": "2022_the_battle_for_arachis",
+      "start_override": "2022-04-07T12:00:00Z",
+      "end": "2022-04-18T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 12:00 GMT on the 7th of April until 12:00 GMT on the 18th of April",
+      "type": "craft",
+      "name_zh": "“厄拉科斯之战”",
+      "zh_id": 598,
+      "deadlines": [
+        {"what": "补给箱/超级武器点/升级点战斗获取截止(补给箱每日40箱/共400箱)", "when": "2022-04-18T12:00:00Z"},
+        {"what": "活动道具(除载具券)市场交易截止(11:30 GMT)", "when": "2022-04-25T11:30:00Z"},
+        {"what": "地图作战截止;12:00 GMT活动道具(除胜利点与载具券)自账号与市场移除", "when": "2022-04-25T12:00:00Z"},
+        {"what": "胜利点移除,须此前兑换载具", "when": "2022-05-02T12:00:00Z"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗每10分钟(III级+活跃50%+)得信用点补给箱(150-300点),在工坊建基地部队,清5路地图摧毁总装厂得胜利点:Kfir C.2与T-72M2各3点,USS Davis 2点,Alecto Mk.I 1点。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "Kfir C.2与T-72M2兑换券自活动开始即可兑换至5月2日12:00 GMT;USS Davis与Alecto自4月25日12:00 GMT开售(主机版4月18日起);主机版可用金鹰购补给箱与『宫殿』建筑。"
+    },
+    {
+      "key": "2021_operation_w_i_n_t_e_r",
+      "start_override": "2021-12-17T11:00:00Z",
+      "end": "2022-01-10T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 17th of December, 2021 until 11:00 GMT on the 10th of January, 2022",
+      "type": "marathon",
+      "name_zh": "冬日总动员（行动代号： W.I.N.T.E.R.）",
+      "zh_id": 490,
+      "deadlines": [
+        {"what": "Facebook组钥匙激活领取『女性战士』贴花截止", "when": "2021-12-16T20:59:00Z"},
+        {"what": "错过的星星可金鹰补购截止", "when": "2022-01-13T11:00:00Z"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗(排除持久对抗/突击)中陆海空每类完成5选3任务得1星(III级以上,部分任务可用低级活动载具),任务每2天11:00 GMT刷新;星数达标领奖:IV-VII级活动载具与贴花以券发放,II级高级载具、装饰与涂装直接到账。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "奖励券2022年1月14日起可上市交易;集齐8张『女性战士』贴花券得第9张;主机版可互换贴花券。"
+    },
+    {
+      "key": "2021_export_order",
+      "start_override": "2021-09-23T12:00:00Z",
+      "end": "2021-10-04T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 23rd (12:00 GMT) until October 4th (12:00 GMT)",
+      "type": "craft",
+      "name_zh": "秋季拼装活动“军工大亨”",
+      "zh_id": 405,
+      "deadlines": [
+        {"what": "材料/技术文件/支票战斗获取截止", "when": "2021-10-04T12:00:00Z"},
+        {"what": "组装与市场交易截止;12:00 GMT活动道具(除已组装出口型号、王冠与载具券)移除", "when": "2021-10-11T12:00:00Z"},
+        {"what": "出口型号与王冠移除,须此前交付并购车", "when": "2021-10-18T12:00:00Z"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗每10分钟(III级+活跃50%+)得材料箱2-4个(每日40/共400),按材料→零件→出口型号组装交付,每台得125,000王冠:F-5A与PT-16各375k,莫霍克人号250k,m/40装甲车125k;第一名得支票加速建造。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "F-5A/PT-16自活动开始可购至10月18日12:00 GMT,m/40与莫霍克人号10月11日起开售(主机版10月4日起);材料可在市场交易;主机版可金鹰购材料箱与『工程师工具包』。"
+    },
+    {
+      "key": "2021_summer_landing",
+      "start_override": "2021-08-06T11:00:00Z",
+      "end": "2021-08-30T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 6th of August, 2021 until 11:00 GMT on the 30th of August, 2021",
+      "type": "marathon",
+      "name_zh": "夏日登陆活动",
+      "zh_id": 360,
+      "deadlines": [
+        {"what": "Facebook组钥匙激活领取『323伞降游骑兵中队』贴花截止", "when": "2021-08-05T20:59:00Z"},
+        {"what": "错过的星星可金鹰补购截止", "when": "2021-09-02"}
+      ],
+      "discounts": [],
+      "tasks": "陆海空每类随机战斗5选3任务得1星(空/陆军III级+,海军II级+),每2天11:00 GMT刷新;VL Myrsky II、Ka-Chi、RN Aviere直接发放,Buccaneer S.1、BMD-4、Bussard以券发放。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "奖励券9月3日起可上市交易;集齐8张贴花券得第9张『XVIII空降军徽章』;主机版可互换贴花券。"
+    },
+    {
+      "key": "2021_future_technology",
+      "start_override": "2021-04-01T13:00:00Z",
+      "end": "2021-04-12T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 13:00 GMT on the 1st of April until 12:00 GMT on the 12th of April",
+      "type": "craft",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "材料/炮弹/图纸战斗获取截止(材料每日40箱/共400箱,炮弹共104)", "when": "2021-04-12T12:00:00Z"},
+        {"what": "组装与市场交易截止;12:00 GMT活动道具(除接收单与载具券)移除", "when": "2021-04-19T12:00:00Z"},
+        {"what": "载具接收单移除,须此前兑换载具", "when": "2021-04-26T12:00:00Z"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗每10分钟(III级+活跃50%+)得材料箱1-4个,每30分钟得炮弹,按材料→零件→『米诺陶』坦克组装,每台换1张接收单:1单换SU-76D,3单换XM8,XM8券可换F-4F Early,第一名得科研数据。",
+      "sub_events": [],
+      "confidence": 0.88,
+      "notes": "中文官网同期『赛博雷霆2077』(zh文号277,4月1日19:00至4月5日19:00北京时间)为愚人节对战模式活动,与本拼装活动非同一活动,故name_zh留空;材料亦可在特别活动TailSpin与Warfare 2077中获取;SU-76D/夕暮4月19日起可兑换(主机版4月12日起)。"
+    },
+    {
+      "key": "2020_operation_w_i_n_t_e_r",
+      "start_override": "2020-12-18T11:00:00Z",
+      "end": "2021-01-11T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 18th of December 2020 until 11:00 GMT on the 11th of January 2021",
+      "type": "marathon",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "Facebook页面钥匙领取贴花截止", "when": "2020-12-17T23:00:00Z"},
+        {"what": "错过的星星可金鹰补购截止", "when": "2021-01-14"}
+      ],
+      "discounts": [],
+      "tasks": "陆海空随机战斗5选3任务得1星(空/陆军III级+,海军II级+,每2天刷新);活动载具MiG-21PFM、Class 3(P)、USS Baltimore与贴花以券发放,高级载具Ro.57、E.B.R.、Type K-8直接到账。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "奖励券2021年1月15日起可上市交易;集齐9张『Pin-Up』贴花券与4张『武器』装饰券各得隐藏奖励;主机版12月23日起可互换券。"
+    },
+    {
+      "key": "2020_wargame_strategist",
+      "start_override": "2020-09-24T11:00:00Z",
+      "end": "2020-10-05T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 24th of September until 12:00 GMT on the 5th of October",
+      "type": "craft",
+      "name_zh": "战争游戏“战略大师”",
+      "zh_id": 150,
+      "deadlines": [
+        {"what": "模型材料/情报/突击组战斗获取截止(每日40箱/共400箱)", "when": "2020-10-05T12:00:00Z"},
+        {"what": "组装/进攻/市场交易截止;12:00 GMT活动道具(除机密文件与载具券)移除", "when": "2020-10-12T12:00:00Z"},
+        {"what": "机密文件移除,须此前兑换载具", "when": "2020-10-19T12:00:00Z"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗每10分钟(II级+活跃50%+)得模型材料箱8-10个,组装棋子打通5路进攻,破3建筑并总攻得机密文件:Merkava Mk.3D 3份、吕贝克号2份、Sd.Kfz.251/10 1份,BI以Merkava券换;第一名得情报。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "BI以Merkava Mk.3D券兑换;Sd.Kfz.251/10与吕贝克号10月12日起可兑换至10月19日;市场购得的增援棋子可交易,部署后不可;主机版可金鹰购侦察组与师团套装。"
+    },
+    {
+      "key": "2020_operation_s_u_m_m_e_r_2020",
+      "start_override": "2020-08-07T11:00:00Z",
+      "end": "2020-08-31T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 7th of August until 11:00 GMT on the 31st of August",
+      "type": "marathon",
+      "name_zh": "2020 夏日总动员",
+      "zh_id": 111,
+      "deadlines": [
+        {"what": "错过的星星可金鹰补购截止", "when": "2020-09-03"}
+      ],
+      "discounts": [],
+      "tasks": "陆海空随机战斗5选3任务得1星(空/陆军III级+,海军II级+,每2天刷新);飞行员5/10星得Ar 196 A-3/F11F-1,坦克手5/10星得Ikv 73/C2A1,水手5/10星得Freccia P-493/高尔基号。",
+      "sub_events": [],
+      "confidence": 0.92,
+      "notes": "兑换券9月4日前不可上市交易;I-II级高级载具与涂装直接到账,IV/VI级活动载具、装饰与贴花以券发放;集齐10张贴花券得『狼人』贴花;主机版8月10日起可互换券。"
+    },
+    {
+      "key": "2020_winner_vehicles_for_the_victory_anniversary",
+      "start_override": "2020-05-08T11:00:00Z",
+      "end": "2020-05-11T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 8th of May until 11:00 GMT on the 11th of May",
+      "type": "festive",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "成就可金鹰购买(立即得车)截止", "when": "2020-05-13"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗(排除突击/持久对抗)中每类载具完成5选3任务即得对应载具:陆军如歼75敌/胜20场等(III-VII级),空军(III-VII级),海军(II-V级);奖励直接发放;另胜3场(II级+活跃50%+)得『和平鸽』贴花。",
+      "sub_events": [],
+      "confidence": 0.85,
+      "notes": "纪念二战胜利75周年;正文提及游戏内商店与官网商店均有大量折扣但未给出明细与百分比,故discounts留空;对应成就分类为『75 years of Victory』。"
+    },
+    {
+      "key": "2020_space_race",
+      "start_override": "2020-04-01T13:00:00Z",
+      "end": "2020-04-13T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 13:00 GMT on the 1st of April till 12:00 GMT on the 13th of April",
+      "type": "april",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "原材料箱/燃料/氧化剂/科研数据战斗获取截止(每日40箱/共400箱)", "when": "2020-04-13T12:00:00Z"},
+        {"what": "279炮塔兑换其他奖品截止;12:00 GMT除载具券外活动道具移除", "when": "2020-04-20T12:00:00Z"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗每10分钟(II级+活跃50%+)得原材料箱7-9个及燃料氧化剂,按原材料→材料→零件→火箭组装发射月球运回279部件,3件组装Object 279,或整台换AU-1、炮塔换Sd.Kfz.234/1或SGB;第一名得科研数据。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "4月1日愚人节活动;同期『Space Thunder』模式战斗中稀有掉落活动载具黑色涂装券(可交易);火箭建造过程不可加速,科研数据合集可缩短飞行时间(10篇9小时/30篇3小时/50篇1小时);炮塔换其他奖品4月13日后开放。"
+    },
+    {
+      "key": "2019_operation_f_r_o_s_t",
+      "start_override": "2019-12-20T11:00:00Z",
+      "end": "2020-01-13T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 20th of December until 11:00 GMT on the 13th of January",
+      "type": "marathon",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "错过的星星可金鹰补购截止", "when": "2020-01-16"}
+      ],
+      "discounts": [],
+      "tasks": "陆海空随机战斗5选3任务得1星(III级+,海军II级+,每2天刷新),按星数领取:飞行员5/10星得TIS MA/J6K1,坦克手QF 3.7 Ram/Merkava Mk.2B,水手PT-811/Type 1924 Jaguar。",
+      "sub_events": [],
+      "confidence": 0.9,
+      "notes": "所有活动载具以兑换券发放,装饰与涂装直接到账;兑换券2020年1月17日起可上市交易;奖池另含新年『Pin-up』贴花与『武器』装饰。"
+    }
+  ]
+}

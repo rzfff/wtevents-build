@@ -1,0 +1,107 @@
+[January 12th] War Thunder - Winter Magic! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+War Thunder - Winter Magic!
+Attention! Outdated news format. Content may not display correctly.
+12 January 2014
+January 12th
+<>
+Today is the last day of our Christmas special events. Dreams come true in War Thunder! Participate in our special missions and choose what aircraft you want to receive special boosts!
+January 12th!
+<>
+We are already giving out rewards for the most active players ! Those who completed all the missions from January 1st to January 10th receive 7 days of premium account for free. Congratulations!
+<>
+Please remember that exclusive aircraft will only be given out AFTER all the missions are over.
+I. Premium aircraft missions
+Each day we will issue two special missions. Perform each mission in a series to obtain one of two unique premium aircraft, all complete them all to get both planes!
+Update: from now on it only takes 10 missions out of 17 to obtain each aircraft! TB-3 and XF5F are closer then ever!
+Update 2: your exclusive aircraft will be given out after January 12th.
+Missions for today:
+<>
+TB-3 - destroy 15 enemy aircraft, while flying any USSR planes
+XF5F - destroy 15 enemy aircraft, while flying any USA planes
+II. Discounts for today:
+x4 RP gain for the first victory of the day for all nations
+Bonus of your choice:
+-50% discount on purchase and repair of Fw.190D-9 and Ta.152H-1
+Bonus for yesterday's most popular aircraft:
++50% RP gain for Ta.152H-1
+<>
+War Thunder developers team wishes you and your loved ones a merry Christmas and happy New Year!
+See you in the skies!
+<>
+Discuss on our forums
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

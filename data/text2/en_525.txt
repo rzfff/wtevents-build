@@ -1,0 +1,96 @@
+Arcade Event - Fall Weserübung - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Arcade Event - Fall Weserübung
+Attention! Outdated news format. Content may not display correctly.
+9 April 2014
+From 15:00 GMT April 9th to 15:00 GMT April 10th
+Participate in the Arcade "Fjords" special event in War Thunder - available via the "Events" tab.
+This is the first time nation limited aircraft has been used in arcade mode
+At 23.45 on the 8th of April 1940 , the Norwegian patrol vessel "Pol III" was on routine patrol in the Oslo fjord, when it spotted unidentified ships on the horizon. A few minutes later it was rammed and shot at by a German “E” boat. The invasion of Norway had begun.
+<>
+In february of 1940, General Nikolaus von Falkenhorst was given the crucial task of planning the invasion of Norway. He was to create a plan to assault both Denmark and Norway as quickly as possible. Within five hours he had a rough idea of the invasion, he presented it to Hitler, and was given the order to proceed developing his strategy. Falkenhorst reported back to the Fuhrer in March, that all the units in the heer, the luftwaffe and the kriegsmarine was ready for attack.
+<>
+The Kriegsmarine was tasked to attack six major cities in Norway (Bergen, Oslo, Trondheim, Kristiansand, Narvik and Egersund). The Luftwaffe would, by the end of the invasion, have participated in the Campaign with 1082 aircraft. By the end of the 9th of April, there would be approximately 16 000 German soldiers on Norwegian soil.
+Operation Weserubung was to be the first major combined operation where the army, navy and air force acted together. The whole operation was directly under Hitler's special high command - Oberkommando der Wehrmacht. This was a new way of planning campaigns, as the earlier campaigns were led by the army's high command.
+The operation depended on the element of surprise and planned to force the enemy to quickly surrender. Any reaction from the Allies would ruin the whole invasion and this probably led to the almost total destruction of the kriegsmarine.
+The attack caused a lot of confusion among the Norwegian defenders, their resistance was halted by the Norwegian government who did not fully understand the situation. In Narvik harbour, the 40 year old Norwegian ships "Norge" and "Eidsvold" were sunk quickly and 276 Norwegians died. Narvik surrendered shortly after.
+In Trondheimsfjorden, Agdenes fort was ready for the attack, as they had already received messages from both Bergen and Oslo where the invasion already had started. The fort was unable to stop the enemy because of the swiftness of the attack, 3 hours later Trondheim surrendered. In Bergen, the defences were able to damage 3 German ships, but this wasn't sufficient to stop the surrender that came soon after.
+The "Blucher" - Sinking.
+In the Oslofjord, the men in the Oscarsborg fortress were able, with their out of date weapons, to sink the German cruiser “Blucher”. The rest of the fleet were waiting for the invasion as they believed that the fjord was full of mines, they were forced to land troops further around the coast from the capitol than planned, the King, Storting and his government were able to escape the enemy. It would be two months before Norway finally surrendered. Operation Weserubung was finally over.
+The War Thunder Team
+Discuss on the Forums.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

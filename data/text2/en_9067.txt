@@ -1,0 +1,96 @@
+[Shop] [Development] Pre-order: AV-8B Night Attack - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-order: AV-8B Night Attack
+5 September 2024
+Shop
+Development
+Pre-order - AV-8B Night Attack Pack
+The Kit Includes:
+AV-8B Night Attack (Rank VII, USA);
+2500 Golden Eagles;
+Premium account for 20 days;
+Pre-order bonus: unique "True Action Hero" title;
+Pre-order bonus: "VMA-223 insignia" decal
+69.99
+Store
+<>Please note: The AV-8B Night Attack will be available with the release of the Dance of Dragons major update.
+<>This offer is not endorsed by the U.S. Department of Defense or any military branch
+<>Today, pre-orders for this special variant of the AV-8B Harrier VTOL strike aircraft with thermal imaging have started!
+<> AV-8B Night Attack: A Premium Naval Strike Aircraft for the USA at Rank VII
+<>At a glance:
+<>A huge variety of weaponry, including JDAMs!
+<>Thermal imaging!
+<>VTOL capability but relatively slow speed.
+<>Fantastic versatility in both air and ground battles.
+Vehicle History
+▼
+<>In 1989 to support the U.S. Marine Corps during both day and night, a special version of the VTOL AV-8B Harrier was developed, NA standing for Night Attack. This version differed from earlier modifications with the addition of the NAVFLIR (Navigation Forward-Looking Infrared) system, the cockpit was configured for night vision goggles, and an upgraded Rolls-Royce Pegasus engine was installed. This modification also involved upgrading existing AV-8B models to the AV-8B Night Attack standard. Still in service with the U.S. Marine Corps today, this variant participated in most military operations involving marine aviation from the late 20th to the early 21st century.
+<> Introducing the AV-8B Night Attack!
+<>Say hello to this special variant of the much loved Harrier, one of the most effective strike platforms for ground battles — the Night Attack (NA) variant, designed to support U.S. Marine Corps around the clock, night and day! This unique variant will be coming to the game when the Dance of Dragons major update is released, but today pre-orders for a special bundle containing the aircraft, unique pre-order bonuses and Golden Eagles and Premium time have started. Let’s take a look!
+<>Representing one of the most advanced variants of the carrier based Harrier, the AV-8B (NA) will be quite familiar to those already accustomed with top-tier American or British aircraft. The real key feature of this variant is its thermal imaging mode, available even without a targeting pod — although it will only point forward. The Night Attack variant comes equipped with the F402 engine (the U.S. designation for the Rolls-Royce Pegasus) with familiar thrust vectoring capabilities. This aircraft is excellent for ground striking thanks to its great bomb load and wide array of ordnance. Make sure to take care though when approaching the battlefield as its speed is still relatively low, you’ll have to utilize its high maneuverability and large supply of countermeasures — 180 of them to be precise!
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>With the right pilot behind the controls, the AV-8B (NA) is a truly formidable force in ground battles, where its VTOL capabilities really come into play, sort of becoming a cross between a typical strike aircraft and an attack helicopter. It can hover behind terrain and surprise enemies, and swiftly rearm close to the battlefield from helipads.
+<>At the core of any AV-8B loadout is the classic 25 mm GAU-12/U cannon. Much like the AV-8B Plus, the AV-8B (NA) has no in-built gun, only being able to carry one under the fuselage. As this variant is at a lower rank and battle rating, it lacks radar guided missiles and the top tier AIM-9M. However, it can still carry four of the highly maneuverable AIM-9L missiles, which are more than sufficient for any dogfight at its rank, as well as easily combating enemy helicopters.
+<>Thanks to its onboard electronics, the AV-8B (NA) excels with unguided weapons, being able to carry a wealth of free fall, drag and napalm bombs, along with Zuni and Mighty Mouse unguided rockets. Although, the real highlight is of course the guided weaponry! You can choose from precision guided bombs like the GBU-12 (up to ten) or the GBU-16 (up to four) which require the LITENING II targeting pod. The major update will also be introducing GPS-guided bombs, with this Harrier being able to equip up to 10 GBU-38 JDAMs. And finally, it can also equip some excellent air-to-ground missiles! Up to 4 AGM-65G or the new AGM-65E2 missiles can be carried, making this Harrier exceptionally versatile.
+<>The pre-order for the AV-8B Night Attack pack is only available for a few more days, give it a look and pick it up for some exclusive cosmetic content, along with Premium time and a lot of Golden Eagles. Don’t miss out!
+<> Please note that vehicle characteristics may be adjusted or changed before they are added to the game.
+Read more:
+HMS Lion: One Last Roar
+14 September 2026
+MiG-35: The Last MiG
+11 September 2026
+H145M: Angry Dragonfly
+11 September 2026
+F-102A Delta Dagger: The “Bear” Hunter
+10 September 2026
+Share the news with your friends!
+<

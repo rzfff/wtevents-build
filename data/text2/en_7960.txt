@@ -1,0 +1,88 @@
+[Event] Imminent Breakthrough - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Imminent Breakthrough
+8 November 2022
+Event
+<>The War Thunder holiday party is at full blast, and we hope you already have your hands on some of the prizes. Breaking through the 10th anniversary milestone is a very important occasion for us, and we’d like to introduce another surprise for all of those who are celebrating with us and are close to getting the legendary Sturmtiger SPG . Get ready for “Imminent Breakthrough” to get a very special camo for your Sturmtiger!
+<>From November 10th (11:00 GMT) until November 16th (11:00 GMT), achieve 3 victories in the Imminent Breakthrough special mission to get the Late tricolor spotted MHN scheme “Hinterhalt-Tarnung” camo for the 38cm Sturmmörser.
+<>Imminent Breakthrough is a co-op PvE-mission, where you are tasked to fight off the enemy breakthrough using various weapons, including some unique ones! The Sturmtiger self-propelled assault gun, the Goliath tracked mine, PaK 40 anti-tank cannon, Flak 36 stationary AA-gun, as well as legendary piston-engined fighters Fw 190 and Bf 109 — everything is an asset to victory!
+<>Sturmtiger
+<>The Sturmtiger self-propelled assault gun was designed to destroy buildings and fortifications, but its deadly 380mm rockets with 135 kg TNT warheads add nothing to the chances of any vehicle on the battlefield.
+<>Victory loves preparation: due to an extremely long reload time the Sturmtiger must take care of every shot. But in the Imminent Breakthrough mission you won’t have to wait for each round, as at any time you may switch to another vehicle, either stationary or not. How do you like one of the first combat drones ever created?
+<>Goliath tracked mine
+<>Meet the Goliath - a tracked, remotely controlled anti-tank charge! Its armor won’t stop any tank shots, but its small size allows the Goliath to deliver deadly explosives unnoticed.
+<>Switch to the controls of the tracked mine by pressing a dedicated button - it is displayed on your action bar. You may remotely control your Goliath mine, switch back to the Sturmtiger controls, or detonate the mine - pretty much the same as unmanned aerial vehicles, recently added to War Thunder.
+<>Although the mine drone’s speed is not high so you'll probably want to deliver a hit faster? Then meet the artillery!
+<>7.5cm PaK 40 anti-tank cannon
+<>The most common German anti-tank cannon of WWII. Its shells were capable of hitting almost all Allied tanks. However powerful shots forced it to dig into the ground.
+<>Switching to the cannon is available at any time if there is at least one battle ready and unoccupied cannon uncontrolled by other players. Controls are no different from the ground vehicles you used in the past with only one exception that the cannon can not be moved - it is a stationary firing point. Since it can not be rotated it can only control the area that is in its field of view. Because of that it is especially important to choose the right moment to switch to the PaK 40.
+<>If the cannon is destroyed - no problem, you will return to the “Sturmtiger” control and after some time the cannon will recover and will be available again and with full ammunition..
+<>FlaK 36 3.7cm anti-aircraft autocannon
+<>Allied aircraft dominate the air and you must defend your ground vehicles with all your might! The familiar Sd.Kfz. 6/2 FlaK 36 autocannon will help you with that - this time in a stationary version.
+<>Switching to the anti-aircraft cannon and using it is completely identical to controlling an anti-tank cannon.
+<>Fw 190 and Bf 109
+<>Two legendary aircraft of the Luftwaffe - the familiar Gustav and Foks are available to fight air and ground targets. The usual mechanics of aircraft events from ground AB battles await you, only the requirements for the flight out are slightly different. You get the right to fly the Fw 190 F-8 with a bomb load for every 8 destroyed enemies and for the Fw 190 A / Bf 109 G without bomb load you need to destroy 3 enemies.
+<>Terms
+You can find the event in the “Events and Tournaments” tab and it is available from 11:00 GMT on the 10th of November until 11:00 GMT on the 16th of November.
+To participate in the event you must have a 38 cm Sturmmörser in the hangar.
+To win in the mission you need to destroy all enemy ground forces in the allotted time.
+Win in 3 missions in the event to receive the “Late tricolor spotted MHN scheme “Hinterhalt-Tarnung”” for the 38cm Sturmmörser.
+Camouflage will be credited to the account immediately upon receipt (not as a coupon).
+You can track your progress of the reward by clicking on your nickname and selecting the menu “Achievements → Imminent Breakthrough”.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

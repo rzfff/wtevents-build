@@ -1,0 +1,886 @@
+{
+  "results": [
+    {
+      "aid": 7568,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Defender Tournament and Gaijin Store sale!",
+      "name_en": "Defender Tournament and Gaijin Store sale!",
+      "name_zh": null,
+      "start": "2022-02-22T13:00:00Z",
+      "end": "2022-02-28T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From February 22nd (13:00 GMT) until February 25th (13:00 GMT); until February 28th (13:00 GMT)",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "苏联系礼包10款(IS-6/Object 120/T-55AM-1/Black Shark/MiG-17AS/T-72AV TURMS-T/Yak-38/Su-7BMK/Tu-1/USSR Starter)",
+          "percent": 30,
+          "note": "Gaijin store, 2/22-2/28"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Shielded KV-1E 与 IL-2M Nelson Stepanan's \"Avenger\" 金鹰临时返场下架",
+          "when": "2022-02-28T11:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "\"Pavise shield\" decoration",
+        "\"23\" decal",
+        "\"Protector of Sparta\" decal",
+        "\"Shields\" trophy decorations: Shields, Round Shield, Round Shield (Lion), Gallic Shield"
+      ],
+      "tasks": "玩3场苏联III级+(70%活跃度)得\"23\"贴花,赢5场得\"Pavise shield\"装饰;锦标赛参赛者得\"Protector of Sparta\"贴花;Shields宝箱金鹰商店有售。",
+      "sub_events": [
+        {
+          "name": "\"Defender\" 锦标赛系列(13场,总奖金池200,000 GE+任选Starter Pack)",
+          "start": "2022-02-25",
+          "end": "2022-02-27",
+          "note": "含坦克/空军/海军1x1-7x7多种赛制"
+        }
+      ],
+      "notes": "任务窗口2/22-2/25,商店折扣窗口2/22-2/28,锦标赛2/25-2/27。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7575,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Spitfire Mk.IX first flight",
+      "name_en": "Spitfire Mk.IX first flight",
+      "name_zh": null,
+      "start": "2022-02-25T11:00:00Z",
+      "end": "2022-02-28T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 25th of February until 11:30 GMT on the 28th of February",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Spitfire LF Mk.IXc (USA) 金鹰购-30%;Plagis' Spitfire LF Mk.IXc 金鹰限时上架",
+          "percent": 30,
+          "note": "至2/28 11:30 GMT"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account"
+      ],
+      "tasks": "用名单内 Spitfire Mk.IX 系机型(9款)在随机战斗累计20000分,得战斗战利品(加成卡/备用载具/1天高账)。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 7581,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Happy International Women’s Day!",
+      "name_en": "Happy International Women’s Day!",
+      "name_zh": null,
+      "start": "2022-03-07T11:00:00Z",
+      "end": "2022-03-09T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 7th of March until 11:00 GMT on the 9th of March",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["\"March 8\" decal"],
+      "tasks": "玩3场III级+载具(70%活跃度)得\"March 8th\" pinup贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 7582,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "The “TailSpin” is back!",
+      "name_en": "The “TailSpin” is back!",
+      "name_zh": null,
+      "start": "2022-03-10T11:00:00Z",
+      "end": "2022-03-30T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11.00 GMT on the 10th of March until 11:30 GMT on the 30th of March",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Nimble (event aircraft)",
+        "Windscreech (15 kills+assists)",
+        "Bumblebee (40)",
+        "Hornet (75)",
+        "Red Goose (120)",
+        "Tornado (170)",
+        "Panther (235)",
+        "Sly Duck (300)",
+        "Humanized avatar coupons (4/7/9/10 tasks, market tradable)",
+        "Decal for 2 completed tasks",
+        "Loading Screens for 5 and 8 completed tasks"
+      ],
+      "tasks": "10阶段每阶段2天,每阶段击毁/助攻50次完成1任务;按累计击毁+助攻数(15/40/75/120/170/235/300)逐步解锁8架海盗飞机;每日首胜得战利品。",
+      "sub_events": [],
+      "notes": "已有同类人化头像/贴花者改发银狮;每日战利品次日17:00 GMT刷新。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7584,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "“A fiery ball” is back!",
+      "name_en": "“A fiery ball” is back!",
+      "name_zh": null,
+      "start": "2022-03-11T16:00:00Z",
+      "end": "2022-03-31T05:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 16:00 GMT on the 11th of March until 05:00 GMT on the 31st of March",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Silver decorations (10/50/100 goals+assists)",
+        "Gold decorations coupons (300/600/1000)",
+        "\"Dragons\" Team banner decal coupon (200/400)",
+        "\"Tigers\" Team banner decal coupon (200/400)",
+        "M551 football camouflage \"Tiger\" (500/800)",
+        "M551 football camouflage \"Dragon\" (500/800)"
+      ],
+      "tasks": "足球模式3x3/4x4,进球与助攻计积分;每日参与时段16:00-21:00与00:00-05:00 GMT;按10/50/100/200/300/400/500/600/800/1000积分档解锁奖励;每日首胜战利品。",
+      "sub_events": [],
+      "notes": "PS/Xbox 玩家每张券可兑100 Warbonds。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7602,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Yakovlev Aircraft",
+      "name_en": "Yakovlev Aircraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯视频公告(Yakovlev 载具家族视频,页面类型 Video),无游戏内活动。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7627,
+      "lang": "en",
+      "is_event": true,
+      "type": "market",
+      "title": "Trophies with user-created “Wind of Change” camouflages",
+      "name_en": "Trophies with user-created “Wind of Change” camouflages",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Coupons for rare vehicles (Sd.Kfz.234/4, PV-2D, USS Phelps)",
+        "21 camouflage coupons for ground vehicles",
+        "17 camouflage coupons for aircraft",
+        "1 camouflage coupon for naval vessels",
+        "1 camouflage coupon for helicopters",
+        "Coupon for the \"Wind of Change\" decal"
+      ],
+      "tasks": "随机战斗(II级+载具、50%活跃度,非[Assault])概率掉落\"Wind of Change\"战利品;需市场购钥匙(GJN)开启;券可自用或挂市场卖GJN。",
+      "sub_events": [],
+      "notes": "无时间窗;全部旧版\"Wind of Change\"系列宝箱新增1/3新载具(Sd.Kfz.234/4、PV-2D、USS Phelps);PS/Xbox 可游戏内商店金鹰购箱。",
+      "confidence": 0.75
+    },
+    {
+      "aid": 7629,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (April)",
+      "name_en": "Pages of History (April)",
+      "name_zh": null,
+      "start": "2022-04-01",
+      "end": "2022-04-28",
+      "end_precision": "day",
+      "end_raw": "April 25th — April 28th (Elbe day, final task); tasks available 11:00 GMT until 11:30 GMT on final day",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "金鹰直购 Pages of History (April) 头像(John Lavarack)",
+          "when": "2022-05-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Profile icon: John Lavarack",
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account",
+        "Random camouflage for ground vehicles"
+      ],
+      "tasks": "全月8个历史任务逐个开放(每任务3-4天,11:00起至最终日11:30 GMT);随机战斗完成(非[Assault]);每个任务得战利品,全部完成得 John Lavarack 头像。",
+      "sub_events": [],
+      "notes": "任务窗口 April 1st — April 28th(8个任务段)。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7643,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Happy cosmonautics day!",
+      "name_en": "Happy cosmonautics day!",
+      "name_zh": null,
+      "start": "2022-04-12T14:00:00Z",
+      "end": "2022-04-15T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From April 12th (14:00 GMT) until April 15th (07:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "\"Open space\" decal",
+        "“Cosmonaut’s helmet” 3D decoration for ground vehicles",
+        "The \"Vostok\" capsule 3D decoration for naval vessels"
+      ],
+      "tasks": "任意载具III级+打3场随机战斗(70%活跃度)得\"Open space\"贴花;头盔与\"Vostok\"舱装饰从 Cosmonautics day 宝箱开出(每次购买得其一)。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 7656,
+      "lang": "en",
+      "is_event": true,
+      "type": "battlepass",
+      "title": "“Armored Elephant”: Warbonds",
+      "name_en": "“Armored Elephant”: Warbonds",
+      "name_zh": null,
+      "start": "2022-04-27",
+      "end": "2022-08-03",
+      "end_precision": "day",
+      "end_raw": "available from 27th of April until 3rd of August",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "★ Ki-43-II (USA)",
+        "★ MGB-75",
+        "★ M3A3 (1st PTG)",
+        "★ IJN Yubari",
+        "★ P-47D-22-RE (France)",
+        "★ T-34-57 (1943)",
+        "\"Sleepy Time Gal\" Decal"
+      ],
+      "tasks": "战令 Armored Elephant 赛季战争债券商店,赛季+1周内开放(4/27-8/3);需拥有III级载具;用战令等级解锁的 Warbond 货币购买。",
+      "sub_events": [],
+      "notes": "M3A3 (1st PTG)、IJN Yubari、P-47D-22-RE (France) 为首次入战争债券商店。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7664,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (May)",
+      "name_en": "Pages of History (May)",
+      "name_zh": null,
+      "start": "2022-05-01",
+      "end": "2022-05-30",
+      "end_precision": "day",
+      "end_raw": "May 27th — May 30th (Bf 109 first flight, final task); tasks available 11:00 GMT until 11:30 GMT on final day",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "金鹰直购 Pages of History (May) 头像(Mikhail Yegorov)",
+          "when": "2022-06-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Profile icon: Mikhail Yegorov",
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account",
+        "Random camouflage for ground vehicles"
+      ],
+      "tasks": "全月8个历史任务逐个开放(每任务3-4天,11:00起至最终日11:30 GMT);随机战斗完成(非[Assault]);每个任务得战利品,全部完成得 Mikhail Yegorov 头像。",
+      "sub_events": [],
+      "notes": "任务窗口 May 1st — May 30th(8个任务段)。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7665,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Huge sale in War Thunder!",
+      "name_en": "Huge sale in War Thunder!",
+      "name_zh": null,
+      "start": "2022-04-29T11:00:00Z",
+      "end": "2022-05-16T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "April 29th — May 9th (in-game, 11:00 GMT); From 11:00 GMT on the 5th of May until 11:00 GMT on the 16th of May (Gaijin.Net store)",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "金鹰载具-30%,分三批:4/29-5/2 德日意;5/2-5/5 中法瑞;5/5-5/9 苏美英",
+          "percent": 30,
+          "note": "中队载具、战令、活动车及 Winged Lions/Wind of Change 车除外"
+        },
+        {
+          "target": "多种商品",
+          "item": "修改件、饰物(talisman)、备用载具 -30%(4/29-5/9)",
+          "percent": 30,
+          "note": null
+        },
+        {
+          "target": "高级账户",
+          "item": "90/365天(游戏内金鹰购)-50%;180天(Gaijin store)-50%(5/5-5/9)",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [
+        {
+          "name": "Gaijin.Net store 折扣",
+          "start": "2022-05-05T11:00:00Z",
+          "end": "2022-05-16T11:00:00Z",
+          "note": null
+        },
+        {
+          "name": "高级账户折扣(50%)",
+          "start": "2022-05-05T11:00:00Z",
+          "end": "2022-05-09T11:00:00Z",
+          "note": null
+        }
+      ],
+      "notes": "载具折扣每日11:00 GMT切换批次。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7667,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Polish Constitution Day",
+      "name_en": "Polish Constitution Day",
+      "name_zh": null,
+      "start": "2022-05-02T12:00:00Z",
+      "end": "2022-05-04T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 2nd May (12:00 GMT) until 4th May (07:00 GMT)",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Lanovski's P-47M-1-RE Thunderbolt 金鹰限时上架下架",
+          "when": "2022-05-04T07:00:00Z"
+        }
+      ],
+      "rewards_text": ["\"Polish hussar\" decal"],
+      "tasks": "英系载具III级+打3场随机战斗(70%活跃度,非EC/[Assault])得\"Polish hussar\"贴花。",
+      "sub_events": [],
+      "notes": "正文明确要求 British vehicles(波兰贴花配英系载具,原文如此);美系金鹰车 Lanovski's P-47M-1-RE 限时返场。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7668,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Japanese Constitution Day",
+      "name_en": "Japanese Constitution Day",
+      "name_zh": null,
+      "start": "2022-05-03T12:00:00Z",
+      "end": "2022-05-05T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 3rd May (12:00 GMT) until 5th May (07:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“Sakura blossom” decal"],
+      "tasks": "日系载具III级+打3场随机战斗(70%活跃度,非EC/[Assault])得\"Sakura blossom\"贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 7670,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Israel Independence Day",
+      "name_en": "Israel Independence Day",
+      "name_zh": null,
+      "start": "2022-05-04T12:00:00Z",
+      "end": "2022-05-06T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 4th May (12:00 GMT) until 6th May (07:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“Israel Independence Day” decal"],
+      "tasks": "以系载具III级+打3场随机战斗(70%活跃度,非EC/[Assault])得\"Israel Independence Day\"贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 7671,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Italian Army Day",
+      "name_en": "Italian Army Day",
+      "name_zh": null,
+      "start": "2022-05-04T10:00:00Z",
+      "end": "2022-05-06T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 4th May (10:00 GMT) until 6th May (07:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["Coat of arms of the Italian Defence Staff"],
+      "tasks": "意系载具III级+打3场随机战斗(70%活跃度,非EC/[Assault])得意大利国防参谋部徽章。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 7674,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "May Sale!",
+      "name_en": "May Sale!",
+      "name_zh": null,
+      "start": "2022-05-05T11:00:00Z",
+      "end": "2022-05-16T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 5th of May at 11:00 GMT until the 9th of May at 11:00 GMT; From the 9th of May at 11:00 GMT until the 16th of May at 11:00 GMT",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "12款稀有礼包购物车组合:每加1包+5%,最高-60%(Plagis' Spitfire/Dolgushin's La-7/Black Cat 等)",
+          "percent": 60,
+          "note": "5/5-5/9;须购物车一次性结账,单买无折扣"
+        },
+        {
+          "target": "多种商品",
+          "item": "Type 69-IIG/VL Pyorremyrsky/MiG-17AS/SAV 20.12.48/OF-40 Mk.2/Starter packs 各-50%",
+          "percent": 50,
+          "note": "5/9-5/16;结束后下架(Starter packs 除外)"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Type 69-IIG/VL Pyorremyrsky/MiG-17AS/SAV 20.12.48/OF-40 Mk.2 礼包促销结束后从商店移除",
+          "when": "2022-05-16T11:00:00Z"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [
+        {
+          "name": "Discounted packs -50%",
+          "start": "2022-05-09T11:00:00Z",
+          "end": "2022-05-16T11:00:00Z",
+          "note": null
+        }
+      ],
+      "notes": "PS/Xbox: 特殊礼包5/3 13:00 GMT上架至5月底;金鹰与高级账户不参加组合折扣。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7677,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Victory Day in War Thunder",
+      "name_en": "Victory Day in War Thunder",
+      "name_zh": null,
+      "start": "2022-05-06",
+      "end": "2022-05-10T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 6th to 10th (11:00 GMT)",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "升级件与盟军载具 -30%(游戏内,至5/9 11:00 GMT)",
+          "percent": 30,
+          "note": null
+        },
+        {
+          "target": "高级账户",
+          "item": "高级账户 -50%(游戏内,至5/9 11:00 GMT)",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“Victory Fanfare” decal",
+        "“SG-43” decoration for ground vehicles",
+        "“Matilda II” decoration for blue water fleet",
+        "Decals: \"Rear-front\", “Warrior Liberator\", \"Motherland\" (trophies)",
+        "Decorations: «Bren Mk II», «ROKS-3», «M1 Garand» (trophies)",
+        "\"Allies\" decal (tournaments)",
+        "IS-2 №321 (Legend of Victory event vehicle)"
+      ],
+      "tasks": "3场战斗(70%活跃度)得 Victory Fanfare 贴花;地面III级+累计20000任务点得 SG-43;海军III级+累计10000任务点得 Matilda II;物品商店有纪念战利品箱。",
+      "sub_events": [
+        {
+          "name": "Legend of Victory: IS-2 №321(活动载具+贴花装饰)",
+          "start": "2022-05-11",
+          "end": "2022-05-23",
+          "note": null
+        },
+        {
+          "name": "\"Victory\" 锦标赛系列(总奖金195,000 GE)",
+          "start": "2022-05-06",
+          "end": "2022-05-11",
+          "note": "成绩优良得 \"Allies\" 贴花"
+        },
+        {
+          "name": "Gaijin store 组合礼包销售(动态折扣最高60%)",
+          "start": "2022-05-05",
+          "end": "2022-05-09",
+          "note": null
+        },
+        {
+          "name": "Gaijin store 多款高级载具礼包 -50%",
+          "start": "2022-05-09",
+          "end": "2022-05-16",
+          "note": null
+        }
+      ],
+      "notes": "多窗口合集:主任务5/6-5/10,叠加商店折扣、锦标赛与 IS-2 №321 子活动。",
+      "confidence": 0.8
+    },
+    {
+      "aid": 7689,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Pages of History (June)",
+      "name_en": "Pages of History (June)",
+      "name_zh": null,
+      "start": "2022-06-02",
+      "end": "2022-06-30",
+      "end_precision": "day",
+      "end_raw": "June 27th — June 30th (F4U-1 first flight, final task); tasks available 11:00 GMT until 11:30 GMT on final day",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "金鹰直购 Pages of History (June) 头像(Richard Winters)",
+          "when": "2022-07-03T11:30:00Z"
+        }
+      ],
+      "rewards_text": [
+        "Profile icon: Richard Winters",
+        "20-50% RP booster for 3-10 battles",
+        "20-50% SL booster for 3-10 battles",
+        "3-5 universal backup vehicles",
+        "1 day premium account",
+        "Random camouflage for ground vehicles"
+      ],
+      "tasks": "全月8个历史任务逐个开放(每任务3-4天,11:00起至最终日11:30 GMT);随机战斗完成(非[Assault]);每个任务得战利品,全部完成得 Richard Winters 头像。",
+      "sub_events": [],
+      "notes": "任务窗口 June 2nd — June 30th(8个任务段)。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7702,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The “Advance” Event",
+      "name_en": "The “Advance” Event",
+      "name_zh": null,
+      "start": "2022-05-26T10:00:00Z",
+      "end": "2022-05-30T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 26th (10:00 GMT) until May 30th (7:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "不对称攻防任务:攻方依次抢占A-E五个点位,守方防守;AB/RB 模式;地图 Port Novorossiysk;重生次数按阵营受限。",
+      "sub_events": [],
+      "notes": "BR 表述原文两处不一:\"BR of 4.7 — 5.7 are required\" 与 \"Vehicles with BR 3.7 — 5.7 can be used\";未提及奖励。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7706,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Home Guard: Swedish National Security Forces Day",
+      "name_en": "Home Guard: Swedish National Security Forces Day",
+      "name_zh": null,
+      "start": "2022-05-27T12:00:00Z",
+      "end": "2022-05-30T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 12:00 GMT on the 27th of May until 07:00 GMT on the 30th of May",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["\"Emblem of the Home Guard\" decal"],
+      "tasks": "瑞系载具III级+打3场随机战斗(70%活跃度,非EC/[Assault])得国家安全部队徽章贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 7709,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Top Ace Challenge!",
+      "name_en": "Top Ace Challenge!",
+      "name_zh": null,
+      "start": "2022-05-27",
+      "end": "2022-05-30T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "Until May 30th (7:00 GMT)",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Jet Strike 4x4 RB 锦标赛报名截止",
+          "when": "2022-06-01T17:00:00Z"
+        }
+      ],
+      "rewards_text": [
+        "1 day of Premium Account",
+        "RP and Silver Lions boosters 20-50%",
+        "3-5 Universal Backups"
+      ],
+      "tasks": "至5/30 7:00 GMT,用VII级飞机在AB击毁20架或RB/SB击毁10架玩家飞机,得三项奖励之一(随机)。",
+      "sub_events": [
+        {
+          "name": "Jet Strike 4x4 RB 锦标赛(双败BO3,奖金15,000 GE+加成卡)",
+          "start": null,
+          "end": "2022-06-01T17:00:00Z",
+          "note": "报名截止6/1 17:00 GMT"
+        }
+      ],
+      "notes": "挑战赛开始时间未写明,按发稿日2022-05-27推定。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7710,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Maiden flight of the Bf 109",
+      "name_en": "Maiden flight of the Bf 109",
+      "name_zh": null,
+      "start": "2022-05-27T11:00:00Z",
+      "end": "2022-05-30T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 27th (11:00 GMT) till May 30th (11:00 GMT)",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Premium Bf 109 金鹰购-50%:Flegel's Bf 109 A/Bf 109 E-7 (JP)/F-4 (US)/G-2 (IT)/G-6 (SE)",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Bf 109Z 限时返场下架",
+          "when": "2022-05-30T11:00:00Z"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "双机身实验机 Bf 109Z 同期临时返场。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7721,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "80th Anniversary of the Battle of Midway",
+      "name_en": "80th Anniversary of the Battle of Midway",
+      "name_zh": null,
+      "start": "2022-06-03T11:00:00Z",
+      "end": "2022-06-06T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 3rd (11:00 GMT) till June 6th (07:00 GMT)",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "\"Pacific\" 2022 bundle(日/美太平洋战役2册,含YP-38)29.98→14.99",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "“Battle of Midway” decal",
+        "“Emblem of USS Yorktown”"
+      ],
+      "tasks": "美/日载具III级+打3场随机战斗(70%活跃度)得中途岛贴花;海军III级+累计10000分得约克城号徽章(倍率见任务描述)。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.9
+    },
+    {
+      "aid": 7725,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "\"D-Day\" 2022 bundle -50%",
+      "name_en": "\"D-Day\" 2022 bundle -50%",
+      "name_zh": null,
+      "start": "2022-06-03T13:00:00Z",
+      "end": "2022-06-07T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 13:00 GMT on the 3rd of June until 13:00 GMT on the 7th of June",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "\"D-Day\" 2022 bundle(Typhoon/Mustang/Sherman Firefly Ic/M4A3E2 Jumbo Cobra King)92.36→46.18",
+          "percent": 50,
+          "note": "已拥有其中礼包时最终价更低"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    },
+    {
+      "aid": 7730,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Climbing the Ranks: Israeli Aircraft",
+      "name_en": "Climbing the Ranks: Israeli Aircraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "纯视频公告(页面类型 Video),无游戏内活动。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 7733,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Italian Navy Day",
+      "name_en": "Italian Navy Day",
+      "name_zh": null,
+      "start": "2022-06-10T14:00:00Z",
+      "end": "2022-06-13T14:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 14:00 GMT on 10th of June until 14:00 GMT on the 13th of June",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "无任务;RN Geniere(III级意大利驱逐舰)金鹰限时返场(2020年底下架),窗口6/10-6/13。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 7744,
+      "lang": "en",
+      "is_event": true,
+      "type": "market",
+      "title": "Trophies with user-created “Danger Zone” camouflages",
+      "name_en": "Trophies with user-created “Danger Zone” camouflages",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Coupons for rare vehicles",
+        "21 camouflage coupons for ground vehicles",
+        "16 camouflage coupons for aircraft",
+        "1 camouflage coupon for naval vessels",
+        "2 camouflage coupons for helicopters",
+        "Coupon for the \"Danger Zone\" decal"
+      ],
+      "tasks": "随机战斗(II级+载具、50%活跃度,非[Assault])概率掉落\"Danger Zone\"战利品;需市场购钥匙(GJN)开启;券可自用或挂市场卖GJN。",
+      "sub_events": [],
+      "notes": "无时间窗;Danger Zone 更新起取消迷彩稀有度分级,全部为绿色 uncommon;PS/Xbox 可游戏内商店金鹰购箱。",
+      "confidence": 0.75
+    },
+    {
+      "aid": 7748,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Summer Sale!",
+      "name_en": "Summer Sale!",
+      "name_zh": null,
+      "start": "2022-06-22T11:00:00Z",
+      "end": "2022-07-04T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 22nd of June at 11:00 GMT until the 4th of July at 11:00 GMT",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "Summer Sale 礼包购物车组合:单包-25%,2包及以上一次性购买-50%",
+          "percent": 50,
+          "note": "仅PC;一次性结账才有折扣"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Yak-38 pack 与 JASDF Saber pack 促销结束后从商店下架",
+          "when": "2022-07-04T11:00:00Z"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "不参加: Danger Zone/Wind of Change/Winged Lions 更新包、Starter packs、太平洋战役、金鹰、高级账户。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 7751,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Bundeswehr Day!",
+      "name_en": "Bundeswehr Day!",
+      "name_zh": null,
+      "start": "2022-06-24T10:00:00Z",
+      "end": "2022-06-27T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 24th (10:00 GMT) until June 27th (7:00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“Bundeswehr Day” decal"],
+      "tasks": "德系载具III级+打3场随机战斗(70%活跃度,非EC/[Assault])得\"Bundeswehr Day\"贴花。",
+      "sub_events": [],
+      "notes": null,
+      "confidence": 0.95
+    }
+  ]
+}

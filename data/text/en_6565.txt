@@ -1,0 +1,168 @@
+[Event] World War: season ”Attack from the Sea" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+World War: season ”Attack from the Sea"
+Attention! Outdated news format. Content may not display correctly.
+24 January 2020
+Event
+<>We are pleased to announce the beginning of a new season of “World War” mode, with which naval forces will enter the battlefield with all their might!
+<>New armies and game mechanics, changes in the award system including awards for squadron commanders, and many other quality improvements are waiting for you in this season.
+<>From the 28th of January till the 11th of February - participate in the “Attack from the Sea” season of World War mode over a period of 8 days
+<> Schedule of the operations
+<>Scenarios
+<> Battle of Luzon  (Japan - USA)
+<>This new scenario involves naval forces. Occurring on the 22nd of December 1941, US troops in the Philippines pose a serious threat to the advancement of Japanese troops to the South, and that’s why the seizure of the Luzon island is important to the Japanese forces’ plans to gain dominance in South-East Asia.
+<> Kerch–Eltigen operation   (USSR - Germany)
+<>This new scenario involves naval forces. Occurring on the 31st of October 1943, Soviet forces prepared the largest landing operation on the Eastern Front to liberate the city, the port of Kerch, and the port of Kamysh Burun, and create a springboard for the further liberation of the Crimean peninsula from German invaders.
+<> Battle for Caen  (Britain — Germany)
+<>Occurring on the 26th of June 1944. One of the main targets for the allies in operation Overlord was the capture of the city of Caen as well as the nearby Carpiquet airfield.
+<> Nordwind  (USA — Germany)
+<>Occurring on the 1st of January 1945. Despite significant losses in the Ardennes, German command expected to break through the allies’ defensive line via an unexpected counterattack in the Vosges and on the Alsace plain.
+<>Awards for all players
+<>All players are able to unlock the following awards by earning “World War” Stars ⭐.
+<>BA-11 (USSR, premium, rank I)
+<>
+BA-11 Development Blog
+<>One of the most successful Soviet armoured vehicles, partially superior in armouring even for some tanks of similar year. The 45mm K-20 cannon can confidently cope with any potential opponents and the maximum speed of 64 km/h on the road will allow it to be the first to arrive at key positions.
+<>USS Phelps DD-360 (USA, premium, rank III)
+<>
+USS Phelps Development Blog
+<>A balanced destroyer equipped with five 127 mm main calibre guns and an extensive arsenal to fight any possible targets: torpedoes, depth bombs and bomb mortar. The ship is distinguished by its enhanced anti-aircraft weaponry of 45 and 20 mm auto cannons as well as large-calibre machine guns.
+<>All awards
+<>⭐ x2 — one of the operation decals;
+<>⭐ x3 — BA-11 (USSR);
+<>⭐ x4 — camouflage for the BA-11 (USSR);
+<>⭐ x5 — one of the operation decals;
+<>⭐ x6 — USS Phelps DD-360 (USA);
+<>⭐ x7 — camouflage for the USS Phelps DD-360 (USA);
+<>⭐ x8 — “The Mighty P” decal (USS Phelps DD-360 emblem) + unique in-game title “🌍 Veteran of the season: Attack from the sea”.
+<>For the first battle of the day (in World War) - World War trophy.
+<>Contains one of the following items:
+<>
+<>10-30% SL/RP booster
+<>10% SL/RP booster for all allies
+<>Random wager
+<>Random order
+<>Modification for one of the vehicles used in the battle
+<>Talisman for one of the vehicles used in the battle
+Decal of the “Kerch–Eltigen operation”
+Decal of the operation “Battle of Luzon”
+The Mighty P decal (emblem of the USS Phelps DD-360)
+<>Tasks for receiving World War Stars
+<>To earn a World War Star ⭐ you need to complete 3 of 5 tasks in World War battles during one game day of the season.
+<>In operations involving the naval forces:
+<>“Battle of Luzon”; “Kerch–Eltigen operation”
+<>Win 10 battles with an in-game activity of 70% or higher (or 5 as a participating member of a squadron).
+<>Destroy 30 enemy player-controlled vehicles (or 15 as a participating member of a squadron).
+<>Deal 15,000 damage while operating a ship (or 7,500 as a participating member of a squadron).
+<>Play 6 battles and place between 1 and 3 on your team’s scoreboard (or 3 battles as a participating member of a squadron).
+<>Destroy 10 enemy player-controlled vehicles in one battle (or 5 as a participating member of a squadron).
+<>In operations involving ground forces:
+<>“Nordwind”; “Battle for Caen”
+<>Win 10 battles with an in-game activity of 70% or higher (or 5 as a participating member of a squadron).
+<>Destroy 30 enemy player-controlled vehicles (or 15 as a participating member of a squadron).
+<>Help your allies by destroying enemy player-controlled vehicles 18 times (or 9 as a participating member of a squadron).
+<>Play 6 battles and place between 1 and 3 on your team’s scoreboard (or 3 battles as a participating member of a squadron).
+<>Destroy 10 enemy player-controlled vehicles in one battle (or 5 as a participating member of a squadron).
+<>Missing World War Stars ⭐ can be purchased for Golden Eagles until the 13th of February, even if tasks haven’t been completed, through the menu “Nickname → Achievements → World War → World War Stars”.
+<>Awards for squadron players
+<>Only squadron members and their commanders will be able to receive these awards.
+<>Soldiers and commanders
+<>The following will be granted based on the squadron’s results on the squadron leaderboard at the end of the season.
+<>Places 1-3 — Coupon for the USS Phelps DD-360 (USA).
+<>Places 4-5 — Coupon for the BA-11 (USSR).
+<>10 best squadrons — World War season decals (players may use these decals until the beginning of the next World War season).
+<>50 best squadrons — Squadron medal: “Attack from the Sea”.
+<>Only commanders
+<>The following will be granted based on the results of the squadron commanders leaderboard at the end of the season.
+<>Top 10 — Coupon for the USS Phelps DD-360 (USA).
+<>Place 11-50 — Coupon for the BA-11 (USSR).
+Season decal “Falcon of War”
+Season decal “Tiger of War”
+Season decal “Shark of War”
+<>Squadron medals
+1st place
+2nd place
+3rd place
+Top-10 and Top-50
+<>Awards will be given only to the players who have played at least 16 battles in the operation for their squadron. The number of battles played can be viewed in the “World War” tab of your squadron.
+<>Each commander’s action in the operation will achieve 1 activity point for them (but not more than once per minute). At the end of the operation, the squadron will receive a rating score (200 for victory, 40 for defeat, 5 for each winning battle and 1 for each lost one) which will be distributed among the commanders proportionate to their activity.
+<> World War for commanders on our Wiki
+<>World War mode for novices
+<>World War mode is open to all players, but its most interesting features and valuable awards are only available for squadron players. You can join a squadron at any time, or even create your own to get access to the additional season awards, and you may even be able to complete the tasks faster!
+<>In World War mode, large squadrons can fight against each other in various operations, with each battle potentially bringing them closer to victory. For players who aren't squadron members, World War mode opens many new mission types with special rules and rewards. All players who have achieved rank III are able to participate in World War battles.
+Click to unfold ▼
+<>Participating
+<> Expand the game mode selection under the button “To Battle” and select “World War”.
+<>In the World War tab, the “All battles” button will open the list of all battles in which you can participate. Also found in the menu are the leaderboard lists, which are useful for squadron players and their commanders, as well as the operation filter if you want to fight for one particular squadron or to participate in a single scenario.
+<>“All battles” are sorted by mission type . Red icon - this battle is already in progress. Yellow icon - this battle will start shortly. Gray icon - this battle has already reached the maximum number of players.
+<>Preparation for the battle
+<>Select the battle to proceed to the preparation phase. At this stage, you need to put the vehicles needed for the battle into your vehicle slots.
+<>The composition of each army is represented by vehicle groups and their numbers. Place one vehicle from each vehicle group into the vehicle slots. If you have already purchased vehicles represented in the vehicle groups, you will be able to choose those vehicles instead, if preferred. If you haven’t purchased represented vehicles, you will still be able to use one vehicle from each of the vehicle groups, but without possibility to choose.
+<>To simplify the arrangement of the vehicles, use the button “Generate vehicle preset”. The algorithm will select the vehicle with highest BR for each vehicle group and will place them in the most optimal vehicle slots (based on crew skills).
+<>After completing the preparation phase and placing vehicles into the vehicle slots, you can then proceed to clicking the “To Battle” button and wait for the battle to begin.
+<>In the battle
+<>At the beginning of the battle, each player will receive one or more vehicle units randomly selected from the army. If you lose your vehicle, it will be immediately replaced by another randomly selected vehicle.
+<>This information is especially important for squadron members! Each vehicle lost in the battle will be deducted from its group and the army as a whole.
+<>By fighting in World War mode, you earn respawn points which will not be lost between the battles and will give you the ability to use desired vehicles of the army - the best vehicles for the best fighters! More about World War on our Wiki
+<>Read also:
+<> New season announcement
+<> BA-11 (WWM prize)
+<> USS Phelps (WWM prize)
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

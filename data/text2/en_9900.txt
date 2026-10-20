@@ -1,0 +1,130 @@
+[Special] [Shop] Celebrate the Lunar New Year with a Decal, a Decoration, and Discounts! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Celebrate the Lunar New Year with a Decal, a Decoration, and Discounts!
+17 February 2026
+Special
+Shop
+<>Lunar New Year is an ancient holiday and one of the most important in Eastern countries. Fireworks, gifts, and a festive atmosphere await you in War Thunder. We’re celebrating the Year of the Fire Horse!
+<>Get the “Red Fire Horse” decal!
+<> When: From February 17th (11:00 GMT) until February 24th (11:00 GMT).
+<> Task: Earn 3,000 mission points in battles where you used Chinese vehicles at rank III or higher to receive the “Red Fire Horse” decal.
+<>
+<> Please note: After finishing the task, you need to collect the reward manually.
+<>“Red Fire Horse” decal
+<> Additional details:
+<>You can complete the task in random battles, except for [Assault] mode.
+<>Track your progress in the hangar by clicking Nickname → Achievements → Holidays → Lunar New Year.
+<>You can find the decal in the Holidays tab in the Customization menu.
+<>Get the “Horse Figurine” decoration!
+<> When: From February 18th (11:00 GMT) until February 25th (11:00 GMT). Please note: the decoration task starts and ends one day later.
+<> Task: Earn 20,000 mission points in battles where you used Chinese vehicles at rank III or higher to receive the “Horse Figurine” decoration.
+<>
+<> Please note: After finishing the task, you need to collect the reward manually.
+<>“Horse Figurine” decoration
+<> Additional details:
+<>You can complete the task in random battles, except for [Assault] mode.
+<>Track your progress in the hangar by clicking Nickname → Achievements → Holidays → Lunar New Year.
+<>You can find the decoration in the Other tab in the Customization menu.
+<>The ZTZ96A (P), Type 69-IIa and Т-62 №545 are temporarily available at a 50% discount for Golden Eagles!
+<> When: From February 17th (09:00 GMT) until February 24th (09:00 GMT).
+<> Where: China > Army > Premium vehicles.
+<>The Type 69-IIa (Rank V) is available for 4190 Golden Eagles *
+<>The T-62 No.545 (Rank VI) is available for 4365 Golden Eagles *
+<>The ZTZ96A (P) (Rank VII) is available for 4635 Golden Eagles
+<> * P lease note: The Type 69-IIa and T-62 No. 545 are only available during this promotion.
+<>
+<>
+<>
+<>
+<>The Type 69-IIa is an improved export version of the Type 69, equipped with a 100 mm rifled gun from the Type 59, a laser rangefinder, and a two-plane stabilizer. With a wide range of ammunition, an improved fire control system, night vision devices, and smoke grenades. This tank excels in long-range duels, but is still nicely versatile across the board.
+<>
+<>
+<>
+<>
+<>The Т-62 №545 is a captured Soviet vehicle tested by the People’s Liberation Army (PLA). Fairly agile, with good turret traverse, speed and robust frontal armor, this MBT excels in the second line of battle. Its stabilized 115 mm gun can fire both APFSDS and HEAT rounds, and its compact size allows it to be effectively concealed behind cover.
+<>
+<>
+<>
+<>
+<>The ZTZ96A (P) is a prototype of the ZTZ96A, equipped with the JD-3 EKP, a variant of the Soviet Shtora anti-tank missile system, capable of defending against enemy ATGMs. This is a capable MBT with good protection, a thermal imager for the gunner, and a 125 mm gun with an APFSDS round that can penetrate up to 400mm of armor!
+<>Gaijin.net Store discounts for the Lunar New Year!
+<>
+<> When: From February 17th (09:00 GMT) until February 24th (09:00 GMT).
+<>Lunar New Year bundles and the Chinese Starter Pack are temporarily available at a 50% discount !
+<> Store
+“The Dark Stallion ” Bundle -50%
+This pack includes:
+A-5C Pack
+Type 96A Prototype Pack
+Unique title: “The Dark Stallion”
+Unique decal: “The Dark Stallion”
+125 62.49
+Store
+“Golden Spears and Iron Horses” Bundle -50%
+This pack includes:
+Al-Khalid Pack
+Z-19E Pack
+Unique title: “Golden Spears and Iron Horses”
+Unique decal: “Longma”
+120 60
+Store
+<> Note! This offer is valid for PC, Mac and Linux users only.
+<>Players on all platforms who already own the A-5C and ZTZ96A (P) can earn the “The Dark Stallion” title and the “The Dark Stallion” decal by playing 3 battles with each vehicle (6 battles total) from February 17th (09:00 GMT) until February 24th (09:00 GMT).
+<>Players on all platforms who already own the Al-Khalid and Z-19E can earn the “Golden Spears and Iron Horses” title and the “Longma” decal by playing 3 battles with each vehicle (6 battles total) from February 17th (09:00 GMT) until February 24th (09:00 GMT).
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

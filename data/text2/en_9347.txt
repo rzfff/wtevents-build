@@ -1,0 +1,256 @@
+[Special] The Snake Box - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The Snake Box
+29 January 2025
+Special
+<>The New Lunar Year is coming! The wise snake has created a magic box containing ancient artifacts. What commanders fought for in the past, you can obtain with a handful of silver — may luck smile upon you!
+<>The “ Snake Box ” can be purchased from the in-game Item Shop for Silver Lions from January 29th (11:00 GMT) until February 28th (11:00 GMT).
+<>This box is available to players who have at least one researchable vehicle at rank II or higher on their account.
+<>What’s in the box?
+<>The Snake Box contains vehicles and camouflages, decals and decorations, player icons and loading screens from past game events such as Chronicles of World War II and Pages of History, World War and May events, as well as War Thunder birthdays. Plus useful consumables including boosters, universal backups, wagers and orders. Some items from past events have been included for the first time as coupons, meaning you’ll be able to sell them on the Market!
+<>The Snake Box costs 60,000 Silver Lions. On February 28th at 11:00 GMT, all Snake Boxes will disappear from your inventory, so be sure to open them before then!
+<>“British Propaganda Poster” decal
+<>“Boar Jaws” decal
+<>“Tiger head” decal
+<>“Travel gramophone” decoration
+<>“Creighton Abrams” player icon
+<>“Three-barreled experimental assault rifle” decoration
+<>All items are immediately credited to your account, but there’s a chance of receiving some of them in coupon form, unless otherwise stated.
+<>Full list of items in the Snake Box
+Vehicles (open spoiler): ▼
+<> Vehicles (will be immediately activated on the account or in the form of coupons):
+<> Eremin's Yak-3(e)
+<> KV-7 (U-13) (immediately activated on the account only)
+<> BM-31-12 (immediately activated on the account only)
+<> TOG II (immediately activated on the account only)
+<> LVT(A)(4) (immediately activated on the account only)
+<> Swordfish Mk II (immediately activated on the account only)
+<> TKA-412 (immediately activated on the account only)
+<> He 51 B-2/H
+<> TB-3M-17-32 (immediately activated on the account only)
+<> LaGG-3-23 (immediately activated on the account only)
+<> DB-7 (Great Britain)
+<> XF5F
+<> I-29
+<> M8 LAC
+<> Ya-5M (immediately activated on the account only)
+<> D.371 H.S.9 (immediately activated on the account only)
+<> A13 Mk II 1939
+<> 38 cm Sturmmörser (immediately activated on the account only)
+<> IS-2 No.321 (immediately activated on the account only)
+<> BA-11
+<> USS Phelps
+<> IL-2 M-82
+<> M60 AMBT
+<> AMX-50 Surblindé
+<> Spitfire F Mk IXc
+<> Hawk H-75A-2 (Germany)
+<> T18E2
+<> Lorraine 155 Mle.50 (immediately activated on the account only)
+<> Tandem MAI (immediately activated on the account only)
+<> Whirlwind P.9
+<> PV-2D
+<> Yak-3T (immediately activated on the account only)
+<> MK-II "Matilda" (USSR)
+<> Excelsior
+<> KV-2 (1940)
+<> Comet I "Iron Duke IV"
+<> Bong's P-38J-15
+<> MBR-2-M-34
+<> Spitfire Mk IXc (USSR) (immediately activated on the account only)
+<> SU-76M (5th Gv.Kav.Corps)
+<>
+Camouflages (open spoiler): ▼
+<> Camouflages (only in the form of coupons):
+<>BA-11: Bicolor summer camouflage
+<>USS Phelps: Deforming camouflage Measure 32
+<>IL-2 M-82: Bicolor camouflage
+<>M60 AMBT: Tricolor summer camouflage
+<>T18E2: European camouflage
+<>Whirlwind P.9: Standard unpainted camouflage
+<>PV-2D: "Olathe" camouflage
+<>MK-II "Matilda" (USSR): Summer camouflage
+<>
+Decorations (open spoiler): ▼
+<> Decorations (will be immediately activated on the account or in the form of coupons):
+<>Travel Gramophone (first time as a coupon)
+<>Three-barreled experimental assault rifle (first time as a coupon)
+<>Patchett Machine Carbine
+<>M1918A2
+<>Colt–Browning M1895
+<>“Death valley” sign
+<>Anniversary cake (immediately activated on the account only)
+<>Golden X (immediately activated on the account only)
+<>PIAT
+<>M1919A6
+<>Semi-automatic sniper rifle (Germany)
+<>Assault rifle (Israel)
+<>Reising M50
+<>Owen Machine Carbine
+<>PPD 34/38
+<>Mauser M98K
+<>Type 99 sniper rifle
+<>Beretta Model 38
+<>PPSh-41
+<>Lanchester Mk.1
+<>М3 “Grease gun”
+<>PPSh-42
+<>StG 44
+<>Type 100
+<>
+Decals (open spoiler): ▼
+<> Decals (will be immediately activated on the account or in the form of coupons):
+<>To the pilot of the Stalingrad Front (immediately activated on the account only)
+<>Eremin’s aerial victories (immediately activated on the account only)
+<>Zmey Gorynych (immediately activated on the account only)
+<>The front needs it - we’ll do it! (immediately activated on the account only)
+<>"T-54-412" board number
+<>"For excellent artillery training" decal
+<>"Glory to the Stalin Guard!" text
+<>"T.O.G. №2" text
+<>Emblem of the Royal Tank Corps
+<>British Propaganda Poster
+<>10 Year Better Together decal (immediately activated on the account only)
+<>10 years ahead! pin-up (immediately activated on the account only)
+<>The Snail is 9 years old! decal (immediately activated on the account only)
+<>8 years of Victories! (immediately activated on the account only)
+<>7 years of War Thunder! (immediately activated on the account only)
+<>6 years of War Thunder! (immediately activated on the account only)
+<>5 years of War Thunder! (immediately activated on the account only)
+<>Brave text
+<>Strong text
+<>321 tank number
+<>The Kerch–Eltigen Operation
+<>The Philippines Campaign (1941-1942)
+<>USS Phelps emblem (immediately activated on the account only)
+<>Battle of the Chinese Farm
+<>Battle for the Fulda Gap
+<>Emblem of the 600th Armored Brigade (immediately activated on the account only)
+<>Operation Nordwind
+<>Second Battle of El Alamein
+<>Battle for Caen
+<>Battle of Vitebsk
+<>Bear head
+<>Boar head
+<>Crocodile head
+<>Snake head
+<>Tiger head
+<>Wolf head
+<>Monster Jaws
+<>Tiger Jaws
+<>Shark Jaws
+<>Boar Jaws
+<>Crocodile Jaws
+<>
+Profile icons (open spoiler): ▼
+<> Profile icons (will be immediately activated on an account):
+<>John Lavarack
+<>Mikhail Yegorov
+<>Richard Winters
+<>Charles Upham
+<>Aleksandra Samusenko
+<>Marcario Garcia
+<>Avigdor Ben-Gal
+<>Marcel Albert
+<>Gregory Boyington
+<>Dmitry Osatyuk
+<>Norman Schwarzkopf
+<>Reginald Mitchell
+<>Gerard Roope
+<>Meliton Kantaria
+<>Nikolai Gastello
+<>Desmond Doss
+<>David Currie
+<>Roza Shanina
+<>John Basilone
+<>John Campbell
+<>Ekaterina Mikhailova
+<>William Arthur Shomo
+<>Eugene Esmonde
+<>Jan Zumbach
+<>Aleksandr Kosmodemyansky
+<>Semyon Sorokin
+<>Percy Hobart
+<>James Maurice Gavin
+<>Raymond Dronne
+<>Lev Mikhailovich Roshchin
+<>Richard Bong
+<>Marmaduke Pattle
+<>Creighton Abrams
+<>Vasily Matsievich
+<>
+Other rewards (open spoiler): ▼
+<> Loading screens (will be immediately activated on the account):
+<>9th Anniversary of War Thunder
+<>38 cm Sturmmörser
+<> Trophies (only in the form of coupons):
+<>World War trophy (decoration)
+<>World War trophy (vehicle)
+<> Silver Lions
+<>10,000 - 1,000,000
+<> Expendable item
+<>Battle trophy (RP booster)
+<>Battle trophy (SL booster)
+<>Universal back-up
+<>Universal back-up x2
+<>Universal back-up x3
+<>Random wager
+<>Random order
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

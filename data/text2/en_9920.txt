@@ -1,0 +1,104 @@
+[Event] Pages of History (March): The Legless Ace - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (March): The Legless Ace
+24 February 2026
+Event
+<>In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From Rzhev and Vienna, Rhine and Euphrates: participate in battles while using vehicles linked to these historic battles and get some prizes!
+<>
+<>From March 1st until March 31st, you will be able to participate in 8 tasks consecutively. Completing each task will grant you a trophy with a reward, completing all of the tasks will earn you a unique profile icon!
+<> Douglas Bader was a Royal Air Force ace. In 1931, he lost both legs in an accident and was discharged, but with the outbreak of the Second World War, he returned to service. Bader participated in the Battle of Britain, flying over occupied Europe. On August 9th 1941, he was shot down over France, and while bailing out lost one of his prosthetic legs. The Germans received Bader well and even allowed British aircraft to airdrop a prosthetic leg for him. In total, Bader was credited with at least 20 air victories.
+Douglas Bader
+<>You can purchase this profile icon for Golden Eagles until April 3rd (11:30 GMT) without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random ground vehicle camouflage (out of those that can currently be unlocked or purchased with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>Calendar
+<>March 1st — March 4th
+<> Rzhev-Vyazma Operation
+<>On March 1st 1943, the Wehrmacht’s Army Group Center began an organized retreat from Rzhev. They employed scorched-earth tactics, so that when the Red Army occupied the abandoned German positions, they were met with only mines and ruins.
+<>March 5th — March 8th
+<> First Flight of the Supermarine Spitfire
+<>On March 5th 1936, the Supermarine Spitfire made its maiden flight at Eastleigh Airfield near Southampton. Test pilot Joseph Summers is said to have said “Don’t change a thing” upon landing, as he loved the aircraft so much.
+<>March 9th — March 12th
+<> Pskov Operation
+<>In March 1944, the Soviet Army unsuccessfully attempted to encircle and capture Pskov. German forces were well-fortified along the Panther Line, taking advantage of natural barriers such as swamps, rivers, and lakes. The Red Army’s advance was hampered by muddy roads and a shortage of engineering resources. A second offensive took place in July, and Pskov was liberated.
+<>March 13th — March 16th
+<> Saar-Palatinate Offensive
+<>On March 15th 1945, the Allies launched an operation in southwestern Germany to clear enemy forces from the Saar-Palatinate and establish bridgeheads near the Rhine. The Wehrmacht’s defenses were successfully crushed, the operation achieved its objectives, and the Allies occupied all major cities in the region.
+<>March 16th — March 19th
+<> Vienna Operation
+<>On March 16th 1945, Soviet troops broke through the defenses at Lake Balaton, reached the Danube, and outflanked Vienna from the south and east. On April 5th, the assault on the Austrian capital began, ending after a week of fierce urban fighting.
+<>March 20th — March 23rd
+<> Second Battle of Sirte
+<>The Second Battle of Sirte took place on March 22nd 1942 between the British escort of a convoy bound for Malta and the Italian fleet, led by the battleship Littorio. The British held out well in the face of superior enemy forces, but the delay allowed Axis aircraft to overtake the convoy and inflict massive damage. Over 80% of its supplies were lost.
+<>March 23rd — March 26th
+<> Battle of Najaf (2003)
+<>From March 23rd to 26th 2003, during the Iraq War, the Battle of Najaf, south of Baghdad, raged. Following this, the Americans, suffering minor losses, captured the city and the Euphrates River crossings in preparation for their offensive on the Iraqi capital.
+<>March 27th – March 31st
+<> Battle of Cape Matapan
+<>In late March 1941, the Italian and Allied fleets clashed in a naval battle south of the Greek Peloponnese Peninsula. Thanks to the interception of Italian communications, British and Australian forces had the advantage and inflicted a crushing defeat on the Italian fleet, sinking three heavy cruisers and two destroyers.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

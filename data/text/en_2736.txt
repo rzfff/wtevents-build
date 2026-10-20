@@ -1,0 +1,195 @@
+Holiday War Thunder Marathon! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Holiday War Thunder Marathon!
+Attention! Outdated news format. Content may not display correctly.
+10 January 2015
+We begin the Winter Holiday War Thunder Specials! First we have some interesting tasks for Prize Vehicles: The Soviet fighter - I-301 and the US M8A1.
+Every day a short task will be added which can be completed until the end of the specials. For now, there are two ways to earn the vehicle:
+You should complete all the tasks - after that you will receive your vehicle immediately.
+After completing any listed task you will have a small chance to get one of these vehicles instantly.
+There will be other ways to earn these vehicles too. Stay Tuned!
+<>
+<> There will be 19 tasks! You have time to complete them till 11th of January 2015, so there is no need to complete them the day they were announced!
+<>
+<>
+<> Tasks
+<> I-301
+<> M8A1
+<>
+<> 1
+<> (24 December)
+<>30 kills while flying Spitfire
+<>
+<>40 kills while driving Т-34
+<>
+<>
+<> 2
+<> (25 December)
+<>30 kills while flying P-400 or Airacobra
+<>40 kills while driving T-28, SMK or T-35
+<>
+<> 3
+<> (26 December)
+30 kills while flying Bf 109
+40 kills while driving PzKpfw IV
+<>
+<> 4
+<> (27 December)
+30 ground units destroyed while flying Ju 87
+40 kills while driving any US tank from Era I + M5A1 and M4A1
+<>
+<> 5
+<> (28 December)
+30 kills while flying Zeroes
+40 kills while driving Soviet Tank Destroyers
+<>
+<> 6
+<> (29 December)
+30 air kills in US Naval Fighters
+40 kills while driving German Medium Tanks
+<>
+<> 7
+<> (30 December)
+30 air kills while flying Yaks
+40 kills while driving KV Tanks
+<>
+<> 8
+<> (31 December)
+Win five air battles, 50% activity
+Win five tank battles, 50% activity
+<>
+<> 9
+<> (01 January)
+5 kills while flying any reserve aircraft
+5 kills while driving any reserve tank
+<>
+<> 10
+<> (02 January)
+30 air kills while flying Hawker Fighters
+40 kills while driving Pz III
+<>
+<> 11
+<> (03 January)
+30 air kills while flying Ki Fighters
+40 kills while driving Light Tanks
+<>
+<> 12
+<> (04 January)
+30 ground kills with SB bomber series
+40 kills while using 45mm cannon
+<>
+<> 13
+<> (05 January)
+30 air kills while flying US Army Fighters
+40 kills while driving vehicles based on 38(t)
+<>
+<> 14
+<> (06 January)
+30 air kills while flying Fw 190
+Destroy 20 US tanks by driving German tanks
+<>
+<> 15
+<> (07 January)
+30 ground kills with any Flying Boat
+40 kills while driving Soviet Light Tanks
+<>
+<> 16
+<> (08 January)
+30 air kills while flying LaGGs
+40 kills while driving era. II Soviet Tanks
+<>
+<> 17
+<> (09 January)
+30 air kills while flying P-36 & P-40
+40 kills while driving German Tank Destroyers
+<>
+<> 18
+<> (10 January)
+30 ground kills with any Japanese bomber
+Destroy 20 US tanks by driving Soviet tanks
+<>
+<> 19
+<> (11 January)
+30 air kills while flying Italian Fighters
+20 kills while using 50mm cannon
+<> I-301
+The aircraft was designed from 1939-1940. It was designed to compete with a threat of the Bf.109 which Soviets encountered in Spain, it became the I-301, developed by SA Lavochkin, VP Gorbunov and MI Gudkov. It then became LaGG-3 in serial production which later resulted in further development of the highly successful La series of fighters. In game I-301 is on BR 2.3
+<> М8А1
+To meet the needs of US troops on the battlefield, armoured self-propelled guns, capable of providing close support, in 1941-42. experiments were conducted to install Howitzers on the chassis of light tanks and armoured personnel carriers. During production, 1778 units were made of the M8. To increase the combat capabilities of the M8, it was upgraded to the M8A1 modified version with more powerful weapons and modified turret. However, this modification was not moved into mass production, but subsequently, SAU M8 M4 tanks replaced with a 105-mm howitzer. In game M8A1 is on BR 2.0
+There are more Winter Holiday Specials to come, please keep your eyes open for more news about a special Christmas Title, Achievement bonuses and discounts. Have a fantastic Holiday Season.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

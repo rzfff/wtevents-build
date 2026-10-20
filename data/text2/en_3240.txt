@@ -1,0 +1,103 @@
+[Event] Black Thursday Events - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Black Thursday Events
+Attention! Outdated news format. Content may not display correctly.
+31 July 2015
+Event
+Download Wallpaper 1280x1024 | 1920x1080
+From 15:00 GMT 31st July to 07:00 GMT 3rd August
+Participate in events related to Korean War:
+"Black Thursday" - A historical event on Korean Map
+V Rank - 5 Jets and Ground Forces Tournaments
+Pilots, the time has come to prove your skill in controlling the highest class of aircraft available in War Thunder! Join in with this weekend’s “Black Thursday” event to engage in jet warfare over Korea!
+Black Thursday is the nickname given by USAF pilots to a a Korean War event which took place in the famous ‘MiG Valley’, in which Soviet MiG-15 jets attacked B-29 Superfortress aircraft during a bombing mission over Korea.
+<>
+<>
+MiG-15s curving in to attack USAF B-29s
+MiG Alley, as the region is referred to by United Nations pilots, is a portion of North Korea which was the site of numerous dogfights between UN and North Korean forces. Nations allied with North Korea also took part in the air battles of this region, including airmen from the People’s Republic of China and the Soviet Union. The term “MiG” in this region’s nickname is a reference to the Soviet built Mikoyan-Gurevich MiG-15 aircraft which were predominantly used during most of the conflict. This site is known to have been host to the world’s first large scale jet-vs-jet air battles, as MiG-15’s clashed with jets such as the North American F-86 Sabre.
+On the 12th of April, 1951, three MiG-15 squadrons, with a total of 30 aircraft, attacked a group of B-29 Superfortress bombers of the USAF, and following the events which took place during this attack, pilots from the USAF began referring to this date as “Black Thursday”. The B-29 aircraft were under the protection of about 100 F-80 Shooting Star’s and F-84 Thunderjet’s. Despite being clearly outnumbered, the pilots of the MiG-15’s were able to fly past their non-swept wing foes, and engage the B-29s. In total, three were shot down, and 7 were damaged, and the Soviet side had been able to accomplish this without any casualties. Following this event, US sorties in the region were halted for a period of about 3 months. Night missions, using small groups of bomber aircraft, continued after this, as daylight attacks on Korea were discontinued.
+<>
+<>F-86A-5-NA 48-257 of the 334th FIS / 4th FIW flown by Capt. James Jabara. Camouflage created by Enzofer | Download here !
+With one of the upcoming Updates, we will include
+the 12th FBS 'Foxy Few' and the 8th Kings Royal Irish Hussarsin in War Thunder:
+<>
+<>
+12th FBS 'Foxy Few'
+8th Kings Royal Irish Hussars
+Decals by Jej "CharlieFoxtrot" Ortiz and Branislav "InkaL" Mirkov
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

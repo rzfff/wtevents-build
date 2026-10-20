@@ -1,0 +1,76 @@
+[Event] Meet Nuclear Escalation: Vietnam! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Meet Nuclear Escalation: Vietnam!
+19 August 2026
+Event
+<>Nuclear Escalation is back, and this time we’ve significantly reworked the ground combat element of the mode. Enemy logistics are now truly vulnerable, as destroyed factories and warehouses now take longer to restore, convoys can now capture ruins and reroute on the move, and a mirrored version of the mission adds more variety. We’re also introducing Vietnam era aircraft with Battle Ratings between 8.7 to 11.0. Find yourself at the epicenter of ruthless Vietnam-era air battles, from fighting in MiG-21s vs F-105s to using Shrikes vs S-75s. Let’s go over the details!
+<>The mode is available from August 19th (13:00 GMT) until August 24th (13:00 GMT) in the Events and Tournaments tab.
+<>About the Nuclear Escalation mode
+<>The Nuclear Escalation mode depicts a large-scale conflict involving nuclear weapons, where you take command of frontline aircraft armed with nuclear bombs. The battlefield is constantly changing. Break through enemy defenses, destroy depots and enemy convoys to cut off the front’s supply lines and dramatically impact the course of the operation. Disable airfields and destroy artillery and tactical ballistic missile systems that remotely attack your troop positions and can strike in the most unexpected and unfavorable locations. Suppress anti-aircraft positions, including medium and long-range systems, and destroy the carrier fleet and its escort. And of course gain air superiority, all with unlimited spawns!
+<>New Era: Vietnam
+<>With supersonic F-105 Thunderchiefs and MiG-21s in the skies over the jungle, AIM-7 Sparrow missiles and cannon fire sounding, the Vietnam era offers a fresh perspective on the mode. Sessions are presented in two Battle Rating ranges: 8.7–9.7 and 10.0–11.0, with different compositions of ground cover vehicles. Airfields, in addition to cannon-mounted anti-aircraft guns, feature Osa SAMs (with four missiles in their ammunition complement) on one side and a stationary Rapier on the other. In higher Battle Rating ranges, these SAMs are also added to the S-75 and HAWK positions. MLRS systems from this era have been removed.
+<>A mirror version of the mission has been added for the same location: the sides swap positions, and the bases, convoy routes, and map zones are symmetrically rotated.
+<>Logistics and Siege
+<>Breaking through enemy defenses is now more realistic. Destroyed factories and warehouses now take 15 minutes to restore, up from the previous 10, giving you time to return and finish off the facility before it becomes operational again. Anti-aircraft guns protecting buildings no longer respawn automatically, but only when the corresponding building is restored. Furthermore, after a convoy captures a building, its anti-aircraft guns are immediately repaired and operational, making it easier for your team to defend that line.
+<>An adjustment has also been made to the logic of resource areas. Armored vehicle depots no longer attempt to produce vehicles beyond the total limit, thereby preventing wasting fuel and ammunition.
+<>Convoy Behavior
+<>Convoys have become smarter. If a target is destroyed, captured, or already full, the supply column convoy is immediately redirected to the next objective en route. Cargo no longer disappears into ruins and falls into enemy hands. Supply convoys now travel to the least full of the three closest depots, rather than making trips across the entire map. Tank convoys no longer slow down when they detect an enemy nearby. Previously, this sometimes prevented them from capturing buildings before enemy forces arrived or a new column convoy respawned. They also no longer “disappear” into buildings. Tanks in a column convoy are now only used to replenish the garrison at strong points.
+<>SPG convoys have been separately improved: they now correctly select a random nearby enemy building, take a position within firing range, and fire at the target.
+<>Take a seat in the cockpit and see whose tactics prevail. For more details, see the changelog. Good luck, pilots!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

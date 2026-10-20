@@ -1,0 +1,170 @@
+[Shop] May Sale in the Gaijin Store! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+May Sale in the Gaijin Store!
+6 May 2024
+Shop
+<> When: From May 6th (11:00 GMT) until May 13th (11:00).
+<>Bundles and standalone packs with a discount!
+<>To celebrate Victory in Europe Day, we’re temporarily returning rare bundles with themed vehicles to the store! You can also find huge discounts for individual packs.
+"Wings of Victory" bundle -30%
+THIS PACK INCLUDES:
+<>Dolgushin's La-7 Pack;
+<>Golovachev's Yak-9M Pack;
+<>Prendergast`s Spitfire FR Mk.XIVe Pack;
+<>Plagis' Spitfire Mk. IXc Pack;
+<>Bostwick's P-47M-1-RE Thunderbolt Pack;
+<>Wetmore`s P-51D-10 Pack.
+149 105
+STORE
+"Tracks of Victory" bundle -30%
+THIS PACK INCLUDES
+<>A43 Black Prince Pack;
+<>M10 Achilles Pack;
+<>IS-2 Revenge for the Hero brother Pack;
+<>T-34-85E, 1945 Pack;
+<>M18 Black Cat Pack;
+<>М5А1 5th Canadian Armoured Division Pack.
+160 112
+STORE
+"Weapons of Victory" bundle -50%
+THIS PACK INCLUDES
+<>Dolgushin's La-7 Pack,
+<>Golovachev's Yak-9M Pack;
+<>Prendergast`s Spitfire FR Mk.XIVe Pack;
+<>Plagis' Spitfire Mk. IXc Pack;
+<>Bostwick's P-47M-1-RE Thunderbolt Pack;
+<>Wetmore`s P-51D-10 Pack;
+<>A43 Black Prince Pack;
+<>M10 Achilles Pack;
+<>IS-2 Revenge for the Hero brother Pack;
+<>T-34-85E, 1945 Pack;
+<>M18 Black Cat Pack;
+<>М5А1 5th Canadian Armored Division Pack.
+309 155
+STORE
+<>The final price of the bundle will depend on whether you already have some of the packs or not. Be sure to login to the store to see your individual price!
+<>These special packs can also be purchased separately in the store.
+<> STORE
+<>PlayStation and Xbox players will be able to purchase these packs and discounted bundles from their respective stores until the end of May.
+<> 50% discounts for selected vehicle packs!
+<> GAIJIN.NET STORE
+<>K9 VIDAR Pack
+<>King Tiger Pack
+<>IJN Yamashiro Pack
+<>T29 Pack
+<>Turm III Pack
+<>IS-6 Pack
+<>Mustang Pack
+<>Somua SM Pack
+<>Wyvern Pack
+<>Arkansas Pack
+<>Dora Pack
+<>Object 120 Pack
+<>M-51 Pack
+<>Japanese Starter Pack
+<>Chinese Starter Pack
+<>Tu-1 Pack
+<>Ezer Weizman's Spitfire Pack
+<>US Starter Pack
+<>German Beginner's Pack
+<>Prinz Eugen Pack
+<>HMS Iron Duke Pack
+<>Marat Pack
+<>British Starter Pack
+<>USSR Starter Pack
+<>Swedish Starter Pack
+<>French Starter Pack
+<>Italian Starter Pack
+<>VRCC Centauro Pack
+<>AV-8A Harrier Pack
+<>Rooikat 105 Pack
+<>Merkava Mk.2D Pack
+<>Reminder that these packs are also available at a discount in the PlayStation™ Store until the 8th of May!
+<>The IS-2 “Revenge” is temporarily available for Golden Eagles!
+<>This special IS-2 is available for 7,480 Golden Eagles.
+<> When: From May 6th (11:00 GMT) until May 13th (11:00).
+<> Where: USSR > Army > Premium vehicles.
+<> About this tank
+<>This is the IS-2 model 1944 . It’s a slow tank that takes a long time to reload, but hits from its cannon deals devastating damage, even from longer distances thanks to its excellent armor penetration and post-pen damage. This particular IS-2 was driven by Mikhail Krasikov, whose younger brother Nikolai died in November 1944 and was posthumously awarded the Hero of the Soviet Union title. In memory of his brother, Mikhail painted the inscription “Revenge for the Hero brother” on the turret of the tank
+<>Note! The following packs will be retired after the promotion ends:
+<>VRCC Centauro Pack
+<>Prinz Eugen Pack
+<>HMS Iron Duke Pack
+<>AV-8A Harrier Pack
+<>Rooikat 105 Pack
+<>Merkava Mk.2D Pack
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

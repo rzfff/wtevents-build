@@ -1,0 +1,44 @@
+{
+ "results": [
+  {
+   "aid": 10254,
+   "lang": "en",
+   "is_event": true,
+   "type": "special",
+   "title": "Nuclear Escalation: Testing the Upgraded Southeastern City!",
+   "name_en": "Nuclear Escalation: Testing the Upgraded Southeastern City!",
+   "name_zh": null,
+   "start": "2026-10-07T11:00:00Z",
+   "end": "2026-10-09T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "Testing is available from October 7th (11:00 GMT) until October 9th (11:00 GMT)",
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "tasks": "Events and Tournaments 标签内开放测试;BR 8.7-14.7,匹配机制与 AI 地面单位配置同常规核战冲突模式。",
+   "sub_events": [],
+   "notes": "[Development]+[Event] 开发帖:核战冲突(Nuclear Escalation)模式新地图测试——重制版东南渔湾(Southeastern City):高度图技术/沙滩岩石海岸/北部新增森林村庄/植被与水面翻新;无奖励无折扣;测试结果决定后续是否常驻与顶级权重上限。",
+   "confidence": 0.9
+  },
+  {
+   "aid": 2814,
+   "lang": "zh",
+   "is_event": true,
+   "type": "special",
+   "title": "核战冲突模式:新版东南渔湾地图开启测试",
+   "name_en": null,
+   "name_zh": "核战冲突模式:新版东南渔湾地图开启测试",
+   "start": "2026-10-07T11:00:00Z",
+   "end": "2026-10-09T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "北京时间 10 月 7 日 19:00 至 10 月 9 日 19:00",
+   "discounts": [],
+   "deadlines": [],
+   "rewards_text": [],
+   "tasks": "「军事行动与竞技场」侧边栏选择对应模式参与测试;权重区间 8.7-14.7,匹配与 AI 地面单位配置与常规核战冲突模式相同。",
+   "sub_events": [],
+   "notes": "中文版;东南渔湾=Southeastern City 官方中文图名;核战冲突=Nuclear Escalation 模式中文名。",
+   "confidence": 0.85
+  }
+ ]
+}

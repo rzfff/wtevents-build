@@ -1,0 +1,139 @@
+[Event] “Repair Factory” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Repair Factory”
+5 April 2023
+Event
+<>In the “Mobile Infantry” event you got a good look at exo-suits in intense urban battles. The battles will continue and the battlefield is littered with spent exo-suits - battered, damaged, inoperable. It’s a good time to get behind the scenes and help them get back to action. Prepare some combat-ready exo-suits and get exclusive vehicles in return!
+<>From 12:00 GMT on the 6th of April until 12:00 GMT on the 17th of April
+<>Restore combat exo-suits and get unique prizes!
+<>Rewards
+<>
+AMD 35 SA35 (rank I) — premium, coupon
+<> Cost: 1 Acceptance Certificate
+<> A fast French armoured vehicle with a new turret to house a 47mm cannon.
+<>
+Shcherbakov (rank V) — event vehicle, coupon
+<> Cost: 3 Acceptance Certificates
+<> The light cruiser “Shcherbakov” offers commanders an excellent balance of rapid-fire main calibre, good mobility, and a reinforced air defence battery.
+<>
+QN-506 (rank VI) — event vehicle, coupon
+<> Cost: 3 Acceptance Certificates
+<> A modern Chinese tank support vehicle with an automatic cannon, launch containers for four ATGMs, and 20 small guided missiles to defeat lightly armoured vehicles.
+<>
+A-7K (rank VII) — event vehicle, coupon
+<> Cost: 3 Acceptance Certificates
+<> A two-seat variant of one of the best strike aircraft in the game. The A-7K Corsair II is a big flying arsenal of guided and unguided weaponry!
+<>How to participate
+<>Fight in random battles! After each battle, required materials will be available in the following menu “Workshop → Repair Factory”.
+<>First you need to disassemble the malfunctioning exo-suits into individual parts. Some of the parts will be damaged - here you will need to repair them with materials, some of them will be broken - in this case you will need to disassemble them into materials and assemble a repaired part instead. Once the exo-suit is completely disassembled and all its parts are in good working order you should assemble them into a combat-ready exo-suit and load it into the shipping container. When all five exo-suits issued to you are in good working order and loaded into containers, ship them off and receive an Acceptance Certificate which can be exchanged for prize vehicles directly in the Workshop.
+<>Key items
+<> Materials
+<>Required for repairing and reassembling parts. Open the box of materials after the battle.
+Will be issued for every 2500* mission scores.
+Each box contains from 3 to 6 materials.
+<> Crate Modules
+<>Will be combined into shipping crates which will be used for shipping of the finished exo-suits.
+Will be issued for every 7500* mission scores.
+With a small chance the whole crate can be found.
+<> Factory Upgrade Toolkit
+<>By accumulating the necessary amount of them, you can improve your factory which will accelerate all the processes that require time.
+Will be issued for 1st place in a battle.
+<>* — the base mission score, without taking into account the game mode multiplier and vehicle rank.
+<>Several boxes with materials and crate modules can be obtained during a single battle. Remaining accumulated Mission Score will be transferred into the next battle.
+<>How to make parts
+<>Click the “To the Factory” button in the “Workshop → Repair Factory'' window. Assembly takes place in the following order: Disassemble exo-suits → repair and re assembling parts → assembling of the exo-suits → loading of the exo-suits into crates → shipping of the crates
+<>Trading the materials
+<>Trading materials can be sold and purchased on the market. To create a trading material you need to combine the base material with the blank smart contract in the workshop window. Blank smart contracts will be dropped from the box with materials. Trading material will be exchanged for a base material used for repair and assemble parts at a 1:1 ratio in the Workshop.
+(Click to open spoiler and read more details) ▼
+<>In this event the mechanics of trading (exchanging) materials on the Market will be different from previous assembly events. Initially the non-linearity of the passage, that is, the event is somehow different during sequential passage and between different players. This applies primarily to the dropping of the materials for assembling of the event items. Even in cases where the final number and nomenclature of dropped out items fully cover the needs of the assembly - they will be dropped randomly. And then to speed up the assembly process players must resort to using the Market for the exchanging of materials among themselves.
+<>Over time the number of players trading materials grew noticeably faster than the number of purchasers which prompted us to make separate tradable materials, which were initially assembled from two, and then from three units of ordinary material. In the end, this decision still did not balance supply and demand, but it had some notable undesirable effects. Firstly, there was no "fair" exchange of materials, since to purchase one material you had to sell three less necessary ones. Secondly, players who collected traded materials by mistake, though they could return them to normal materials for further assembly, lost two materials.
+<>The traded materials are now visually different from those used for assembly and will be also assembled in a new way. When you open the box with materials you will get not only the materials but also a brand new item - Blank smart contract. The blank smart contract goes into the Workshop window and can be used to convert any material into its traded counterpart at a 1:1 ratio. Thus if you have mistakenly made the material tradable - you will lose only the blank smart contract. And you won't have to spend as much as three units of other material to purchase the missing material on the Market.
+<>The blank smart contract will tentatively drop 10-20% of the base materials, but this number can be adjusted as you go along or between events. We hope to balance supply and demand so that in the middle or even near the end of the event, the order book is not overflowing with sell orders and players can still exchange materials, albeit with a delay.
+<>How to receive awards
+<>Acceptance Certificates can be exchanged for exclusive event vehicles!
+QN-506, A-7K and Shcherbakov can be obtained from the start of the event and until 12:00 GMT on the 1st of May.
+AMD 35 SA35 can be obtained from 12:00 GMT on the 24th of April and until 12:00 GMT on the 1st of May. PlayStation and Xbox players can get these vehicles from 12:00 GMT on the 17th of April and until 12:00 GMT on the 1st of May.
+<>All event vehicles will be issued in the form of coupons that can be activated on your account or traded on the Market.
+<>For PlayStation and Xbox players
+<>The lack of a Market won’t slow your progress. Obtain special items for Golden Eagles right in “Workshop → “Repair Factory”.
+<> Materials — 50 items.
+<>Boxes with materials for Golden Eagles.
+<> Contract for the supply of Crate Modules
+<>Allows you to get additional crate modules in battles without restriction — 4 units for every 7500* mission scores.
+<>* — the base mission score, without taking into account the game mode multiplier and vehicle rank.
+<>Terms
+All event items can be obtained in the following game modes:
+Ground arcade, realistic and simulator battles.
+Aircraft arcade and realistic battles.
+Naval arcade and realistic battles.
+“Mobile Infantry” event.
+The number of items received in battles is limited.
+Box with materials — up to 30 per day and up to 300 for the whole event (until 12:00 GMT on the 17th of April).
+Crate Modules — up to 10 per day and up to 80 for the whole event (until 12:00 GMT on the 17th of April).
+Factory Upgrade Toolkit — up to 300 for the whole event (until 12:00 GMT on the 17th of April)
+You can track the progress of obtaining event items as well as the daily and total limits by clicking on your nickname and selecting in the menu Achievements → Repair Factory.
+Multipliers for earning mission points depend on the game mode and the maximum rank of the vehicle used in the battle and are specified in the description of each task.
+Boxes with materials and crate modules can be earned not only on the vehicles of rank III or higher but also on all event vehicles that were obtained in major game events. The vehicle cards of such vehicles contain the names of the events in which they first became available in the game.
+Event times:
+Boxes with materials, crate modules and factory upgrade toolkits will be dropped out in the battles from 12:00 GMT on the 6th of April until 12:00 GMT on the 17th of April.
+You can disassemble and repair exo-suits until 12:00 GMT on the 24th of April.
+All event items except vehicle coupons can be traded on the market until 11:30 GMT on the 24th of April.
+At 12:00 GMT on the 24th of April all event items with the exception of acceptance certificates and vehicle coupons will be deleted from the inventory and the market.
+At 12:00 GMT on the 1st of May acceptance certificates will be removed from the inventory. Have time to exchange them to the event vehicles before this moment!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

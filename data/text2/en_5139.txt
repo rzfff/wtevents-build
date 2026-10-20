@@ -1,0 +1,88 @@
+[Special] 75th anniversary of the “Normandie-Niemen” - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+75th anniversary of the “Normandie-Niemen”
+Attention! Outdated news format. Content may not display correctly.
+24 November 2017
+Special
+<>René Challe’s premium Yak-9T fighter (France) available for purchase only until November 27th 09:00 GMT!
+<>From November 24th 14:00 GMT to November 27th 09:00 GMTSpecial to celebrate the 75th anniversary of the “Normandie-Niemen” fighter squadron
+<>Marcel Albert’s "Normandie-Niemen" camo for Yak-3 at a 50% discount.
+<>René Challe’s premium Yak-9T fighter (France) available for purchase with Golden Eagles
+<>Normandie-Niemen emblem
+<>
+<> Task to receive the emblem:
+<>Whilst flying Yak-3, Yak-9 aircraft destroy 60/40/20 (AB/RB/SB) enemy aircraft.You can follow your progress in your profile-> achievements-achievements->Special
+<>List of the Yak aircraft variants you may use to complete the task:
+<>Yak-3
+<>Yak3 (VK-107)
+<>Yak-3P
+<>Yak-3Т
+<>Yak-9
+<>Yak-9B
+<>Yak-9К
+<>Golovachev’s Yak-9M
+<>Yak-9P
+<>Yak-9Т
+<>Yak-9Т (France)
+<>Yak-9U
+<>Yak-9UT
+<>On November 25th, 1942 a Soviet-French treaty to create a French fighter squadron in the territory of the USSR was signed. Pilots asked that the squadron would be named “Normandie”. It took part in the battle of Kursk in 1943 and in the offensive in Belorussia in 1944, as well as battles in East Prussia. For its special services during the assault of Niemen the squadron received its respective second name.
+<>During their service 96 French pilots made 5240 operational flights, had 273 confirmed and 36 unconfirmed victories. Four pilots became heroes of the Soviet Union while others also received numerous rewards.
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

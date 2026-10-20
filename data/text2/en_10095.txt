@@ -1,0 +1,71 @@
+[Special] The “Floats” Event is Back, Now with the Spitfire Mk Vb (Float)! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+The “Floats” Event is Back, Now with the Spitfire Mk Vb (Float)!
+12 June 2026
+Special
+<>Summer skies, cool sea breeze and the roar of engines over the surface of the water. The Floats event is back!
+<> When: From June 12th (09:00 GMT) until June 16th (09:00 GMT), capture points on the surface of the water while controlling seaplanes and flying boats!
+<>This time around, you’ll be able to use the new Spitfire Mk Vb (Float) plane when it becomes available with Task 6 in the Wings Over Water event on June 13th. The Floats event will run for one day more after the Wings Over Water ends, so you’ll be able to take your newly obtained float plane and have some fun in it!
+<> To play in this event, find it in the “Events & Tournaments” tab from the in-game hangar.
+<>This unique legendary British Spitfire has floats instead of wheels, allowing it to take off and land on water. It can be obtained in the Wings Over Water event that ends on June 15th and makes its first appearance in the Floats event once it becomes available!
+Spitfire Mk Vb (Float)
+<>Vehicles that can be used in the event (new vehicles in bold):
+<>OS2U-1, OS2U-3, PBY-5, PBY-5A, PBM-1, PBM-3, PBM-5A “Mariner”, He 51B-2/H, He 115 C-1, A6M2-N , Arado 196A-3, BV 138C-1, Po-2M, MBR-2, PBY-5A (USSR), Catalina Mk IIIa (Britain), Spitfire Mk Vb (Float) , Sunderland Mk IIIa, Sunderland Mk V, F1M2, H6K4, H8K2, H8K3, Ro.44, PBY-5A Late (France), Late 298D, S17BS, T 2, Arado 196A-5 (Sweden).
+<>See you on the waves folks!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

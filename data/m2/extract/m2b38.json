@@ -1,0 +1,841 @@
+{
+  "results": [
+    {
+      "aid": 10236,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "USS Arkansas Returns with a Discount for its Commissioning Anniversary!",
+      "name_en": "USS Arkansas Returns with a Discount for its Commissioning Anniversary!",
+      "name_zh": null,
+      "start": "2026-09-17T11:00:00Z",
+      "end": "2026-09-21T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 17th (11:00 GMT) until September 21st (11:00 GMT)",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "USS Arkansas 金鹰价 8020→5614",
+          "percent": 30,
+          "note": "回归上架,促销后恢复原价 8,020 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": ["USS Arkansas"],
+      "tasks": "促销期间以七折 5,614 金鹰购买高级战列舰 USS Arkansas(美国>蓝水舰队>高级载具);结束后恢复原价。",
+      "sub_events": [],
+      "notes": "纪念其 1912-09-17 服役周年。位置: USA > Bluewater fleet > Premium vehicles。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 10238,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Discounts on Rare Variants of the Mi-24 for the Anniversary of its First Flight!",
+      "name_en": "Discounts on Rare Variants of the Mi-24 for the Anniversary of its First Flight!",
+      "name_zh": null,
+      "start": "2026-09-18T13:00:00Z",
+      "end": "2026-09-21T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 18th (13:00 GMT) until September 21st (13:00 GMT)",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "Mi-24D (USSR, Rank V) 5,992 金鹰",
+          "percent": 30,
+          "note": "仅本次促销期间开放购买"
+        },
+        {
+          "target": "载具",
+          "item": "Mi-24P HFS 80 (Germany, Rank VI) 6,111 金鹰",
+          "percent": 30,
+          "note": "促销后恢复原价 8,730 金鹰"
+        },
+        {
+          "target": "载具",
+          "item": "Mi-24P (Italy, Rank VI) 6,111 金鹰",
+          "percent": 30,
+          "note": "促销后恢复原价 8,730 金鹰"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": ["Mi-24D", "Mi-24P HFS 80", "Mi-24P"],
+      "tasks": "促销期间以七折金鹰购买三款 Mi-24 稀有型号(苏/德/意高级直升机);Mi-24D 仅本次活动可买。",
+      "sub_events": [],
+      "notes": "纪念 Mi-24 首飞(1969-09-19)。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 10239,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "A Decal, a Discount, & a Rare Vehicle for the US Air Force’s Birthday!",
+      "name_en": "A Decal, a Discount, & a Rare Vehicle for the US Air Force’s Birthday!",
+      "name_zh": null,
+      "start": "2026-09-18T12:00:00Z",
+      "end": "2026-09-21T12:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 18th (12:00 GMT) until September 21st (12:00 GMT)",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "\"Essential Classics\" Bundle 135→67.48 (Sabre Skblazers/P-51D-10/P-47M-1-RE/P-38K packs)",
+          "percent": 50,
+          "note": "Gaijin.Net Store"
+        },
+        {
+          "target": "捆绑包",
+          "item": "\"Modern Warfare\" Bundle 210→105 (F/A-18C Early/F-4S Phantom II/A-10A early packs)",
+          "percent": 50,
+          "note": "Gaijin.Net Store"
+        },
+        {
+          "target": "礼包",
+          "item": "9款礼包七折: F/A-18C Early (USA)、F-4S Phantom II、A-10A Thunderbolt (early)、F-5C、Mustang、Sabre Skblazers、Ray Wetmore`s P-51D-10、George Bostwick's P-47M-1-RE Thunderbolt、P-38K",
+          "percent": 30,
+          "note": "聚合句"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Raymond Wetmore’s P-51D-10 与 George Bostwick’s P-47M-1-RE 停止金鹰销售(仅活动期可购)",
+          "when": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "rewards_text": ["Raymond Wetmore’s P-51D-10", "George Bostwick’s P-47M-1-RE", "“Emblem of the Air Combat Command” decal"],
+      "tasks": "限时购买两架稀有金鹰载具(P-51D-10 4,880 / P-47M-1-RE 6,090 金鹰);商城捆绑包五折、9款礼包七折;见子活动贴花任务。",
+      "sub_events": [
+        {
+          "name": "“Emblem of the Air Combat Command” decal task",
+          "start": "2026-09-18T12:00:00Z",
+          "end": "2026-09-21T12:00:00Z",
+          "note": "用美系 III 级+飞机赚取 3,000 mission points 得贴花;随机战斗(除[Assault]);完成后需手动领取"
+        }
+      ],
+      "notes": "纪念美国空军成立(1947-09-18)。两架稀有载具为原价限时上架非折扣。",
+      "confidence": 0.92
+    },
+    {
+      "aid": 10241,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Moments of Valor: Saudi Arabia",
+      "name_en": "Moments of Valor: Saudi Arabia",
+      "name_zh": null,
+      "start": "2026-09-23",
+      "end": "2026-09-28T17:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "The packs are available until September 28th 17:30 (GMT). Available for PC players only.",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "M728 CEV Pack 49.99→25 (M728 CEV + 沙特皇家工程兵涂装 + 15天高级 + 2000金鹰)",
+          "percent": 50,
+          "note": "仅 PC"
+        },
+        {
+          "target": "礼包",
+          "item": "Lightning F.53 Pack 59.99→30 (Lightning F.53 + 15天高级 + 2000金鹰)",
+          "percent": 50,
+          "note": "仅 PC"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": ["M728 CEV", "Lightning F.53"],
+      "tasks": "PC 平台限时购买两款五折礼包(M728 CEV Pack、Lightning F.53 Pack),各含 15 天高级账户与 2000 金鹰。",
+      "sub_events": [],
+      "notes": "主体为 Moments of Valor 系列视频公告(沙特国庆),附带礼包促销故计为活动。另有 8 款沙特主题涂装长期金鹰在售(Typhoon AESA、F-15A、Hunter F.6、M728 CEV、AMX-10P、M1A2、MH-60L DAP、Vampire FB 52A)。",
+      "confidence": 0.75
+    },
+    {
+      "aid": 315,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": ": Naval Aircraft Design",
+      "name_en": null,
+      "name_zh": "雅克-28B：炸弹快递",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-05-26),Yak-28B 体内介绍。批次清单标题与正文完全不符:zh 旧新闻 ID 重定向到其他文章,以正文为准。提到的苏-7BMK/雅克-38 仅为加速研发载具。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 324,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "Golden battle events are running right now",
+      "name_en": null,
+      "name_zh": "全新协助灭火机制",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-06-01),“赤色长空”更新机制介绍(协助灭火)。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 328,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "95th Anniversary of the Russian Military Reconnaissance Service",
+      "name_en": null,
+      "name_zh": "健康行动8.0",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "版本修复汇总/健康行动(页面日期 2021-06-09),属 changelog 类。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 334,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "Premium time extended",
+      "name_en": null,
+      "name_zh": "Gaijin商城夏日特卖！",
+      "start": "2021-06-23T11:00:00Z",
+      "end": "2021-06-30T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 6 月 23 日 19:00 至 6 月 30 日 19:00",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "游戏商城全部载具礼包七折(“赤色长空”版本新礼包除外)",
+          "percent": 30,
+          "note": "聚合句"
+        },
+        {
+          "target": "捆绑包",
+          "item": "15款捆绑包全部五折(69.98-119.98→34.99-60),如 P-38K与T29、拉-11与IS-6、多拉与虎王、雅克-38与T-55AM-1、黑鲨与T-72AV(TURMS-T)、G.91 R/4与豹120 等",
+          "percent": 50,
+          "note": "聚合;最终价视已拥有内容而定"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": ["P-38K", "拉-11"],
+      "tasks": "活动期间商城全部载具礼包七折、捆绑包五折;稀有载具 P-38K 与 拉-11 礼包再度上架。仅 PC/Mac/Linux。",
+      "sub_events": [],
+      "notes": "页面日期 2021-06-23,批次 date 字段(2013-11-08)与正文不符,年份取正文。北京时间已换算为 UTC(-8h)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 336,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "Operation Judgement – The Attack on Taranto",
+      "name_en": null,
+      "name_zh": "加拿大国庆节",
+      "start": "2021-07-01T12:00:00Z",
+      "end": "2021-07-03T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间7月1日20:00至北京时间7月3日15:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“加拿大国庆节”贴画"],
+      "tasks": "驾驶美国或英国 II 级以上载具参与 3 场战斗且活跃度≥60%,获得“加拿大国庆节”贴画;无间断作战与守卫模式除外。",
+      "sub_events": [],
+      "notes": "页面日期 2021-07-01,批次标题与正文不符。北京时间已换算为 UTC(-8h)。进度: 昵称→成就→加拿大国庆节。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 381,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "Tank Packs giveaway and new screenshots!",
+      "name_en": null,
+      "name_zh": "匹兹堡号重巡洋舰：分头行动",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-08-31),匹兹堡号重巡洋舰介绍。文末列海伦娜号礼包(59.99,含2000金鹰/30天高级)仅为加速研发推荐,无折扣。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 383,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "War Thunder - Winter Magic!",
+      "name_en": null,
+      "name_zh": "BV 138C-1：天空之船",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-09-01),BV 138 C-1 飞行艇介绍。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 399,
+      "lang": "zh",
+      "is_event": true,
+      "type": "craft",
+      "title": "Leroy Grumman anniversary",
+      "name_en": null,
+      "name_zh": "“军工大亨”：莫霍克人号驱逐舰",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["莫霍克人号驱逐舰"],
+      "tasks": "即将到来的“军工大亨”拼装活动奖励载具之一,通过参与拼装活动获取;正文未给出活动时间。",
+      "sub_events": [],
+      "notes": "拼装活动“军工大亨”预告文(页面日期 2021-09-16),无日期窗口。批次标题与正文不符。",
+      "confidence": 0.55
+    },
+    {
+      "aid": 400,
+      "lang": "zh",
+      "is_event": true,
+      "type": "craft",
+      "title": "War Thunder - Winter Magic!",
+      "name_en": null,
+      "name_zh": "“军工大亨”：豹 2 原型车（PT-14）",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["豹 2 原型车（PT-14）"],
+      "tasks": "“军工大亨”拼装活动最高奖励,参与拼装活动获取;正文未给出活动时间。",
+      "sub_events": [],
+      "notes": "拼装活动“军工大亨”预告文(页面日期 2021-09-17),无日期窗口。批次标题与正文不符。",
+      "confidence": 0.55
+    },
+    {
+      "aid": 409,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "400% Research Points for the first victory!",
+      "name_en": null,
+      "name_zh": "庆祝中华人民共和国国庆节！",
+      "start": "2021-10-01T09:00:00Z",
+      "end": "2021-10-04T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间10月1日17:00至10月4日15:00",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“华表”贴花", "M4A4 (第一暂编坦克团)"],
+      "tasks": "驾驶中国 II 级以上载具,在 3 场战斗中活跃度≥70%,获得“华表”贴花;进度: 昵称→成就→中国国庆节。",
+      "sub_events": [],
+      "notes": "页面日期 2021-10-01,批次标题与正文不符。北京时间已换算为 UTC(-8h)。同文:M4A4(第一暂编坦克团)重新开放金鹰购买,无折扣、无明确时限。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 418,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "\"Floats!\" special event - Prolonged!",
+      "name_en": null,
+      "name_zh": "马尔博罗号战列舰：钢铁侯爵",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-10-14),马尔博罗号战列舰介绍。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 423,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "Friday Night Golden Eagle Giveaway Stream",
+      "name_en": null,
+      "name_zh": "新地图：维堡湾，波旁岛以及咸海",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-10-19),“破土动工”新地图介绍。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 424,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "70th Anniversary of the lifting of the Siege of Leningrad",
+      "name_en": null,
+      "name_zh": "全新游戏科技树以色列及抢先体验礼包！",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["“喷火”LF Mk Ixe（埃泽尔·魏茨曼座机）", "A-4E“天鹰” 后期型"],
+      "tasks": "购买两款以色列抢先体验礼包(“喷火”LF Mk Ixe 魏茨曼座机、A-4E“天鹰”后期型);早鸟包玩家自动获得以色列空军科技树封测资格。",
+      "sub_events": [],
+      "notes": "页面日期 2021-10-19,批次标题与正文不符。宣布以色列科技树与早鸟礼包上架,无折扣百分数、无时间窗,故 start/end 为空且置信度低。",
+      "confidence": 0.5
+    },
+    {
+      "aid": 439,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "War Thunder Winter Games",
+      "name_en": null,
+      "name_zh": "万圣节活动！",
+      "start": "2021-10-29T12:00:00Z",
+      "end": "2021-11-01T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间 10 月 29 日 20:00 至 11 月 1 日17：00",
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "Twitch 掉宝奖励须在活动结束前于 Twitch 掉宝物品栏点击“领取”,过时不候",
+          "when": "2021-11-01T09:00:00Z"
+        }
+      ],
+      "rewards_text": ["“亡灵宝箱”贴画(瘟疫医生/帽匠/幽灵/南瓜杀手)", "M18“女巫”", "波-2“夜魔女”", "波-2 双翼飞机(绝版)", "“女巫蜗牛”贴画", "“蜗牛杀手”贴画", "“稻草人”饰品(海军载具)", "“女巫药锅”宝箱(食人族斧头/链锯/杀人魔砍刀)"],
+      "tasks": "陆战“暗黑小径拉力赛”与空战“猎杀女巫”排位分各达 300 得一枚“亡灵宝箱”贴画;总榜前 1000 名永久获绝版波-2(结束后48h发放);Twitch 观看开启掉宝的直播得万圣节饰品。",
+      "sub_events": [
+        {
+          "name": "“暗黑小径拉力赛”(陆地竞速,魔改 M18“女巫”)",
+          "start": "2021-10-29T12:00:00Z",
+          "end": "2021-11-01T09:00:00Z",
+          "note": "排位分≥300 得亡灵宝箱贴画一枚"
+        },
+        {
+          "name": "“猎杀女巫”(空中竞速,波-2“夜魔女”)",
+          "start": "2021-10-29T12:00:00Z",
+          "end": "2021-11-01T09:00:00Z",
+          "note": "排位分≥300 得亡灵宝箱贴画一枚;前1000名得绝版波-2"
+        },
+        {
+          "name": "万圣节 Twitch 掉宝",
+          "start": "2021-10-29T15:00:00Z",
+          "end": "2021-11-01T09:00:00Z",
+          "note": "北京时间10月29日23点至11月1日17点;奖励含女巫蜗牛/蜗牛杀手贴画、稻草人饰品、女巫药锅宝箱"
+        }
+      ],
+      "notes": "页面日期 2021-10-29,批次标题与正文不符。北京时间已换算为 UTC(-8h)。“亡灵宝箱”“女巫药锅”同期在游戏内商店开放购买(非折扣)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 444,
+      "lang": "zh",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "War Thunder Winter Games begin!",
+      "name_en": null,
+      "name_zh": "祝War Thunder生日快乐！",
+      "start": "2021-11-01T11:00:00Z",
+      "end": "2021-11-08T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间11月1日19:00 至 11月8日19:00",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "全部载具改装件、备用载具、护身符五折",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "高级账户",
+          "item": "游戏内90天/365天及 Gaijin.Net 商城180天高级账户五折",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "载具",
+          "item": "全国家金鹰/银狮载具五折,三批轮换:中法意(11/1-11/3)、英日瑞(11/3-11/5)、美苏德(11/5-11/8);“直接命中”“破土动工”新版载具与联队载具除外",
+          "percent": 50,
+          "note": "分批轮换,每日北京时间19:00更新"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "下架金币载具最后购买机会: M26E1、J2M4雷电三二型、四号/70(A)坦克歼击车、“暴风”Mk V(德国)、“回旋镖”Mk.II、IS-2 1944型(“复仇”号)、Fw 190 D-9(苏联)",
+          "when": "2021-11-08T11:00:00Z"
+        }
+      ],
+      "rewards_text": ["“蜗牛9岁啦！”纪念贴花", "“War Thunder 9周年纪念”载入画面", "鼠式坦克", "“豪华9号”贴花"],
+      "tasks": "III级+任意模式完成1场战斗得纪念贴花,取得1胜得9周年载入画面;折扣期间可低价入手即将下架的金币载具;鼠式坦克限时开放研发。",
+      "sub_events": [
+        {
+          "name": "纪念贴花与载入画面任务",
+          "start": "2021-11-01",
+          "end": "2021-11-08",
+          "note": "仅日期精度;III级+1场战斗/1场胜利"
+        },
+        {
+          "name": "鼠式坦克限时回归(开放研发购买)",
+          "start": "2021-11-01T11:00:00Z",
+          "end": "2021-11-08T11:00:00Z",
+          "note": "需解锁德国陆战V级;研发进度活动后保留,可随时继续"
+        },
+        {
+          "name": "Gaijin.Net 线上商店大特卖",
+          "start": "2021-11-08",
+          "end": "2021-11-15",
+          "note": "仅日期精度;商城商品最大五折"
+        },
+        {
+          "name": "“WT 9周年庆典”系列联赛",
+          "start": "2021-11-09",
+          "end": "2021-11-15",
+          "note": "仅日期精度;tss.warthunder.com,7场比赛(2x2/4x4/5x5),奖金池超20万金鹰;限定“豪华9号”贴花"
+        }
+      ],
+      "notes": "页面日期 2021-11-01,批次标题与正文不符。北京时间已换算为 UTC(-8h)。周边商城新品(头巾/收藏家海报限量100件/贴纸合集)限时约10天;贴画与联赛相关内容以游戏内公告为准。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 448,
+      "lang": "zh",
+      "is_event": true,
+      "type": "sale",
+      "title": "War Thunder在线商店生日特卖！",
+      "name_en": null,
+      "name_zh": "War Thunder在线商店生日特卖！",
+      "start": "2021-11-08T11:00:00Z",
+      "end": "2021-11-15T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "自北京时间 11 月 8 日 19:00 至 11 月 15 日 19:00",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "9款“2021生日绑定礼包”五折: 美国119.98→59.99、苏联119.98→59.99、英/德/日/意/法/中/瑞典109.98→54.99",
+          "percent": 50,
+          "note": "含“喷气蜗牛”贴画与特殊头衔;瑞典包贴画文字有误写为法国"
+        },
+        {
+          "target": "礼包",
+          "item": "商店全部4级与5级载具礼包五折(近两个版本新礼包除外)",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "商店全部6级载具礼包七折(近两个版本新礼包除外)",
+          "percent": 30,
+          "note": null
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "活动结束后全平台下架: IJN三隈号、沈阳歼-5、USS海伦娜、萨博J-29D、猎人FGA.9、“天空播种者”佩刀、德国菲亚特G.91 R/4 礼包",
+          "when": "2021-11-15T11:00:00Z"
+        }
+      ],
+      "rewards_text": ["“喷气蜗牛”系列贴画", "“蜗牛领主”头衔"],
+      "tasks": "购买生日绑定礼包收集 9 国“喷气蜗牛”贴画,集齐获“蜗牛领主”头衔;已拥有全部内容的玩家活动期登录并取得 1 胜即可领取对应头衔贴画。",
+      "sub_events": [],
+      "notes": "贴画与头衔(含蜗牛领主)于 11 月 16 日后发放;折扣仅 PC/macOS/Linux,主机玩家满足条件也可获得贴花头衔。北京时间已换算为 UTC(-8h)。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 450,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "“Biathlon” special event",
+      "name_en": null,
+      "name_zh": "庆祝中国人民解放军空军成立纪念日！",
+      "start": null,
+      "end": "2021-11-15T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "截至北京时间11月15日15:00",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "歼-5 礼包 49.99→25 (歼-5 + 2000金鹰 + 15天高级账户)",
+          "percent": 50,
+          "note": "周年庆期间"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": ["“中国空军威龙大队徽标”贴花"],
+      "tasks": "驾驶中国 II 级以上空中载具,在 3 场战斗中活跃度≥70%,获得徽标;守卫与无间断作战除外;开始时间未写明(文章发布于11-11)。",
+      "sub_events": [],
+      "notes": "页面日期 2021-11-11,批次标题与正文不符。北京时间已换算为 UTC(-8h);正文只给出截止时刻,故 start 为空。",
+      "confidence": 0.85
+    },
+    {
+      "aid": 454,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "Operation Hailstone – The Truk Offensive",
+      "name_en": null,
+      "name_zh": "斯大林格勒保卫战：苏军反攻",
+      "start": "2021-11-19T11:00:00Z",
+      "end": "2021-11-22T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "活动时间：北京时间 11 月 19 日 19:00 至 11 月 22 日 19:30",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["战斗奖励箱", "20-50%研发点加成卡", "20-50%银狮加成卡", "通用备用载具", "I-III级德国/苏联陆战载具涂装", "1天高级账户"],
+      "tasks": "用指定苏/德载具(Т-34、KV-1S、伊尔-2、Bf 109 F-4、Ju 87 等)在随机战斗中摧毁 40/20/20(街机/历史/全真)个敌方载具,完成“天王星行动”任务得战斗奖励箱。",
+      "sub_events": [],
+      "notes": "页面日期 2021-11-19,批次标题与正文不符。北京时间已换算为 UTC(-8h)。进度: 成就→纪念日。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 461,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "War Thunder Winter Games: \"Curling\"",
+      "name_en": null,
+      "name_zh": "健康行动 32",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "版本修复汇总(页面日期 2021-12-01),changelog 类;Xbox 金会员月度加成卡为常驻福利非活动。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 462,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "Winter Games End",
+      "name_en": null,
+      "name_zh": "一号防空炮艇：机炮狂人",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-12-01),一号防空炮艇(大克里尚号)介绍。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 465,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "Kurt Tank Anniversary",
+      "name_en": null,
+      "name_zh": "半主动制导/手动制导导弹物理模型更新",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-12-02),导弹物理模型机制说明。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 472,
+      "lang": "zh",
+      "is_event": false,
+      "type": null,
+      "title": "The War Thunder Winter Games winners!",
+      "name_en": null,
+      "name_zh": "风吹向何方？",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "开发日志(页面日期 2021-12-06),风场视觉特效介绍。批次标题与正文不符。",
+      "confidence": 0.95
+    },
+    {
+      "aid": 501,
+      "lang": "zh",
+      "is_event": true,
+      "type": "festive",
+      "title": "Operation \"Plunder\"",
+      "name_en": null,
+      "name_zh": "圣诞节快乐！",
+      "start": "2021-12-17",
+      "end": "2022-01-10",
+      "end_precision": "day",
+      "end_raw": "冬日总动员：活动时间：北京时间 12月17日 至 1月10日",
+      "discounts": [
+        {
+          "target": "载具",
+          "item": "全部银狮/金鹰可购载具五折(“展翼雄狮”“破土动工”新版载具及联队载具除外)",
+          "percent": 50,
+          "note": "冬季特卖"
+        },
+        {
+          "target": "多种商品",
+          "item": "改装件、备用载具、护身符五折",
+          "percent": 50,
+          "note": "冬季特卖"
+        },
+        {
+          "target": "高级账户",
+          "item": "游戏内90天/365天及 Gaijin.Net 商城180天高级账户五折",
+          "percent": 50,
+          "note": "冬季特卖"
+        },
+        {
+          "target": "多种商品",
+          "item": "Gaijin.Net 商城商品最高五折",
+          "percent": 50,
+          "note": "12月27日19:00-1月3日19:00(北京时间)"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": ["“战斗虎”贴花", "“圣诞袜”饰品", "“圣诞鹿”饰品", "高级载具(冬日总动员)", "“巾帼战士”系列贴花", "“冬季装备”饰品"],
+      "tasks": "礼物任务:III级+3场70%活跃度得“战斗虎”;陆战III+摧毁30载具得“圣诞袜”;海战III+造成50000伤害得“圣诞鹿”。冬日总动员(12/17-1/10)可得高级载具等。",
+      "sub_events": [
+        {
+          "name": "圣诞树下的新年礼物(三项节日任务)",
+          "start": "2021-12-24T12:00:00Z",
+          "end": "2022-01-03T11:00:00Z",
+          "note": "北京时间12月24日20:00至1月3日19:00"
+        },
+        {
+          "name": "冬日总动员(冬季挑战)",
+          "start": "2021-12-17",
+          "end": "2022-01-10",
+          "note": "仅日期精度;奖励含多个高级载具、“巾帼战士”贴花、“冬季装备”饰品"
+        },
+        {
+          "name": "冬季特卖",
+          "start": "2021-12-22T11:00:00Z",
+          "end": "2021-12-27T11:00:00Z",
+          "note": "载具/改装件/高级账户五折"
+        },
+        {
+          "name": "Gaijin.Net 商城特惠",
+          "start": "2021-12-27T11:00:00Z",
+          "end": "2022-01-03T11:00:00Z",
+          "note": "商城商品最高五折;Steam/PS 平台另有优惠"
+        }
+      ],
+      "notes": "页面日期 2021-12-22,批次标题与正文不符。北京时间已换算为 UTC(-8h)。跨年窗口按正文年份+1。另有 12月24日 Instagram Zotac 礼品赠送。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 515,
+      "lang": "zh",
+      "is_event": true,
+      "type": "battlepass",
+      "title": "Royal Air Force Anniversary",
+      "name_en": null,
+      "name_zh": "战斗通行证奖励载具：41.M 图兰 II",
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["41.M 图兰 II"],
+      "tasks": "下一赛季战斗通行证奖励载具预告;完成下赛季通行证任务获取,具体日期未公布。",
+      "sub_events": [],
+      "notes": "页面日期 2022-01-20,批次标题与正文不符。战斗通行证新赛季奖励预告文,无时间窗,置信度低。",
+      "confidence": 0.55
+    },
+    {
+      "aid": 516,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "Birthday of Alexander Yakovlev",
+      "name_en": null,
+      "name_zh": "安齐奥战役",
+      "start": "2022-01-21T11:00:00Z",
+      "end": "2022-01-24T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间 1 月 21 日 19:00 至 1 月 24 日 19:30",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["作战物资", "20-50%研发点加成卡", "20-50%银狮加成卡", "备用载具", "美/英/意/德 I-IV 级地面载具迷彩", "1天高级账户"],
+      "tasks": "驾驶指定美/英/德/意载具(谢尔曼、克伦威尔、喷火、豹式、虎式等)在随机战斗摧毁 40/20/20(街机/历史/全真)个敌方载具,完成“安齐奥战役”任务得作战物资。",
+      "sub_events": [],
+      "notes": "页面日期 2022-01-21,批次标题与正文不符。北京时间已换算为 UTC(-8h)。进度: 成就→纪念日。",
+      "confidence": 0.9
+    },
+    {
+      "aid": 525,
+      "lang": "zh",
+      "is_event": true,
+      "type": "special",
+      "title": "Arcade Event - Fall Weserübung",
+      "name_en": null,
+      "name_zh": "斯大林格勒战役结束",
+      "start": "2022-02-02T11:00:00Z",
+      "end": "2022-02-07T11:30:00Z",
+      "end_precision": "hour",
+      "end_raw": "北京时间 2 月 2 日 19:00 至 2 月 7 日 19:30",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": ["作战物资", "20-50%研发点加成卡", "20-50%银狮加成卡", "备用载具", "德国/苏联 I-III 级地面载具迷彩", "1天高级账户"],
+      "tasks": "驾驶指定苏/德载具(Т-34、KV-1S、伊尔-2、Bf 109、Ju 87 等)在随机战斗摧毁 40/20/20(街机/历史/全真)个敌方载具,完成“斯大林格勒战役结束”任务得作战物资。",
+      "sub_events": [],
+      "notes": "页面日期 2022-02-02,批次标题与正文不符。北京时间已换算为 UTC(-8h)。进度: 成就→纪念日。",
+      "confidence": 0.9
+    }
+  ]
+}

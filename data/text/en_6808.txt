@@ -1,0 +1,162 @@
+[Special] Operation S.U.M.M.E.R. 2020 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Operation S.U.M.M.E.R. 2020
+Attention! Outdated news format. Content may not display correctly.
+31 July 2020
+Special
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>From 11:00 GMT on the 7th of August until 11:00 GMT on the 31st of August
+<>Earn Stars⭐ completing marathon tasks. The more Stars you have, the more prizes you will get: premium and event vehicles, special decals from the “Mythical Creatures” series and decorations from the “Weapons” series!
+Ar 196 A-3,
+rank I, Germany, premium
+<> More details on Devblog!
+Infanterikanonvagn 73
+rank II, Sweden, premium
+<> More details on Devblog!
+Freccia P-493
+rank II, Italy, premium
+<> More details on Devblog!
+F-11F-1 Tiger
+rank VI, USA, event vehicle
+<> More details on Devblog!
+Leopard C2A1 MEXAS
+rank VI, Germany, event vehicle
+<> More details on Devblog!
+“Maxim Gorky”, 1941
+rank IV, USSR, event vehicle
+<> More details on Devblog!
+“Mythical Creatures” decal
+3d decoration
+<>
+<>
+<>
+<>
+<>
+<>
+Vehicles camouflage
+<>Event vehicles of rank IV and VI, decorations and decals will be given out as coupons. Premium vehicles of rank I and II and camouflages will be immediately activated on the account.
+<>All rewards in the operation will be given out for a specific number of Stars ⭐which will be received on the respective vehicle type.
+<>Stars for pilots ⭐
+<>⭐x2 — coupon for one of the “Mythical Creatures” decals
+<>⭐x4 — coupon for one of the “Mythical Creatures” decals
+<>⭐x5 — Ar 196 A-3
+<>⭐x6 — camouflage for Ar 196 A-3
+<>⭐x6 — coupon for one of the “Mythical Creatures” decals
+<>⭐x8 — coupon for one of the “Mythical Creatures” decals
+<>⭐x10 — coupon for F11F-1
+<>⭐x11 — camouflage for F11F-1
+<>⭐x12 — coupon for one of the “Mythical Creatures” decals
+<>Stars for tankers ⭐
+<>⭐x3 — coupon for one of the “Weapons” decorations
+<>⭐x5 — Ikv 73
+<>⭐x6 — camouflage for Ikv 73
+<>⭐x6 — coupon for one of the “Weapons” decorations
+<>⭐x9 — coupon for one of the “Weapons” decorations
+<>⭐x10 — coupon for C2A1
+<>⭐x11 — camouflage for C2A1
+<>⭐x12 — coupon for one of the “Weapons” decorations
+<>Stars for sailors ⭐
+<>⭐x3 — coupon for one of the “Mythical Creatures” decals
+<>⭐x5 — Freccia P-493
+<>⭐x6 — camouflage for Freccia P-493
+<>⭐x6 — coupon for one of the “Mythical Creatures” decals
+<>⭐x9 — coupon for one of the “Mythical Creatures” decals
+<>⭐x10 — coupon for “Maxim Gorky”
+<>⭐x11 — camouflage for “Maxim Gorky”
+<>⭐x12 — coupon for one of the “Mythical Creatures” decals
+<>For ⭐Stars you are able to get 9 coupons for the “Mythical Creatures” decals with a 10th coupon already waiting for you on our social media !
+<>Collect and activate all 10 decal coupons on your account to get a unique “The werewolf” decal .
+<>Collect all 4 decoration coupons and activate them on your account to get the unique “Kg m/40 (Sweden)” decoration .
+<>Tasks
+<>To get one Star ⭐ you need to perform any 3 tasks from 5 in random battles (in vehicles of rank III or higher and from rank II and higher for fleet). Tasks will not change and will be reset every 2 days at 11:00 GMT.
+<>Pilot Star⭐ — for controlling aircraft
+<>
+<>Destroy 40 enemies in AB (20 in RB, 14 in SB).
+<>Win 10 battles (with an activity of 60% or higher).
+<>Drop 10 tons of Bomb TNT on enemy bases in total.
+<>Destroy 11 enemies in one battle (4 in RB, 2 in SB).
+<>Help allies 10 times to destroy enemy vehicles.
+<>Tanker Star ⭐ — for controlling ground vehicles
+<>Destroy 50 enemies.
+<>Win 14 battles (with an activity of 70% or higher).
+<>Capture 15 points in ground battles whilst controlling a ground vehicle or helicopter.
+<>Destroy 12 enemies in one battle (6 in RB, 6 in SB).
+<>Help allies 30 times to destroy enemy vehicles.
+<>Sailor Star ⭐ — for controlling fleet
+<>
+<>Cause 25,000 damage whilst controlling a naval vessel.
+<>Win 8 battles (with an activity of 50% or higher).
+<>Capture 7 points in naval battles whilst controlling a vessel or aircraft.
+<>Destroy 3 enemies with torpedoes whilst controlling a vessel or aircraft.
+<>Finish the battle in first place in naval battles.
+<>You can purchase the Stars ⭐ for Golden Eagles without even completing the task in the menu: Nickname → Achievements → Operation S.U.M.M.E.R. → Tasks for tankers/pilots/sailors
+<>Detailed terms
+<>To receive a Star ⭐ you need to complete any 3 tasks from 5 for the respective type of vehicles.
+<>You can complete the tasks in random battles (excluding “Enduring Confrontation” and “Assault”) in vehicles of rank III or higher (for fleet - rank II or higher). The exact terms of the achievement can be found in the game client.
+<>Performing tasks must be completed with the destruction, and assistance in the destruction of, player controlled vehicles, NOT AI controlled vehicles.
+<>By completing the task “Win 14 times” in combined ground battles, the task will be counted as completed with the type of vehicle in which you finished the battle (ground vehicle or aircraft of the specified rank). By completing the same task in naval battles, the task will always be counted for ships.
+<>You can follow your progress by clicking on your nickname → Achievements → Operation S.U.M.M.E.R..
+<>The Star ⭐ will be counted as received if the achievements ★ are coloured gold ⭐.
+<>Missed Stars ⭐ can be purchased in the Achievement window until the 3rd of September. Don't make a mistake in choosing between the group of achievements - pilots, tankers and sailors.
+<>Coupons will not be available for trading on the market before the 4th of September. You can see in the game the time from which the coupon can be traded in the coupon description. The possibility of selling each coupon separately depends on the time of its receipt and does not depend on the vehicle on the coupon.
+<>From the 10th of August, PlayStation 4® and Xbox One players will be able to exchange decoration and decal coupons for similar ones (you can exchange coupons of the same type). The exchange is available in the “Workshop” - Exchange items “Operation S.U.M.M.E.R. 2020” .
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

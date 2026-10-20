@@ -1,0 +1,122 @@
+[Event] Testing of new PvE missions continues - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Testing of new PvE missions continues
+Attention! Outdated news format. Content may not display correctly.
+18 May 2021
+Event
+<>We are "work in progress" on the new gaming mode for ground vehicles. This time we are introducing “Convoy” mode in addition to the fixed and improved missions from the last test session.
+<>Testing is available in the Events and Tournaments tab in two stages:
+<>from May 18th (13:00 GMT) till May 20th (13:00 GMT) in Realistic Battles,
+<>from May 20th (13:00 GMT) till May 22nd (13:00 GMT) in Arcade Battles
+<> Leave feedback on our official forum
+<>The following missions are available:
+<> [Convoy]
+Volokolamsk (1942).
+<>Players control German Pz. III J tanks. To participate, you need at least one unit of rank II+.
+<> [Convoy]
+Second Battle of El Alamein (1942).
+<>
+Players control US M4A1 tanks.To participate, you need at least one unit of rank III+.
+<> [Assault]
+Poland (1941).
+<>Players control German Pz. III F tanks. To participate, you need at least one unit of rank II+.
+<> [Assault]
+Fire Arc (1943).
+<>Players control the Soviet T-34-57.To participate, you need at least one unit of rank IV+.
+<>Scenario for “Convoy” missions
+<>Each mission consists of three stages: escort, cleanup and cover.
+<>The first stage consists of escorting a convoy of captured armoured vehicles and protecting it from enemy attacks.
+<>In the next stage, you have to attack enemy positions blocking the road, securing the area for the advance of the convoy.
+<>The final stage will be to cover the retreating column from an attack from superior enemy forces. When all surviving units of the escorted vehicles have reached the exit point, you win.
+<>Losing all the AI vehicles at any stage leads to instant defeat.
+<>Mechanics of the mode
+<>Players receive a vehicle with preinstalled modifications and crew level.
+<>The number of respawns in a mission is limited to one within the current testing session. In the future, the mode will have its own new respawn mechanics.
+<>Economy and achievements are disabled. There are no additional or any special awards in the testing stage.
+<>Testing can be closed before the specified dates for technical issues.
+<>After the first testing session we carefully read your feedback and implemented a number of fixes and improvements:
+<>a bug has been fixed where AI vehicles were aiming and firing at players through other AI vehicles;
+<>a bug has been fixed where shells from enemy AI vehicles did not interact with allied AI vehicles;
+<>a bug has been fixed where in some cases an AT gun crew remained present after gun destruction;
+<>The AT gun damage model has been improved, overpressure damage mechanics have been added;
+<>repair assist has been added for all allied vehicles, including AI;
+<>marker display has been improved for AI vehicles, markers no longer disappear from the line of sight view;
+<>a bug has been fixed where the victory was not counted when all enemy vehicles were destroyed in the 3rd stage of the Assault missions in this mode.
+<>This is not a complete list of changes, we continue to work on improvements and will carefully analyze your feedback to make the mode even more interesting and exciting.
+<> Feedback thread on forum
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

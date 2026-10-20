@@ -1,0 +1,127 @@
+[Marathon] Good Old S.U.M.M.E.R - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Good Old S.U.M.M.E.R
+Attention! Outdated news format. Content may not display correctly.
+15 August 2018
+Marathon
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>During the last Operation S.U.M.M.E.R. event, we decided to experiment with new mission requirements which appealed to some, however there were players that wanted to see the summer marathon in the usual format. We will take all your feedback into account when preparing similar specials in the future, but we also want to ensure that this Summer leaves only good memories for all our players so we decided to launch another special with the good old terms! So here goes “Good Old S.U.M.M.E.R.”! Everything familiar and simple: complete the tasks or purchase the “Marks of distinction” without additional conditions and get prizes!
+<>This time the grand reward of the event will be the American FJ-4B VMF 232 jet fighter with a new type of weaponry for War Thunder - guided air to ground missiles. As well as this, you can expect many other prizes: The British Martlet Mk IV, unique camouflages and decals!
+<>Tankers will not be forgotten either, but another 20 days of marathon might be way too much, that’s why you will need to complete just 2 days of tasks from 22 to get a small, but unique prize - the Sd.Kfz. 234/3 armoured vehicle.
+<>9 prizes for pilots, including the main prize - FJ-4B VMF 232 (rank V, USA) with guided air to ground missiles (AGM-12).
+<>Unique Sd.Kfz. 234/3 (rank I, Germany) for just 2 “Marks of distinction for tankers” of 10.
+<>You can purchase “Marks of distinction for pilots” and “Marks of distinction for tankers” for Golden Eagles and get prizes by not completing the tasks.
+<>Simple event without assembly, preliminary stages and complex tasks.
+<>From 17th of August 11:00 GMT till 07:30 GMT on the 6th of September - complete the tasks and immediately get the rewards!
+<>Rewards for pilots:
+<>2 marks of distinction — a random roundel decal from a range of Air Forces.
+<>4 marks of distinction — a random roundel decal from a range of Air Forces.
+<>5 marks of distinction — a Coupon for the Martlet Mk IV (rank II, Britain, premium).
+<>6 marks of distinction — Coupon for a special camouflage for the Martlet Mk IV plus a random roundel decal from a range of Air Forces.
+<>8 marks of distinction — a random roundel decal from a range of Air Forces.
+<>9 marks of distinction — Coupon for FJ-4B VMF 232 (rank V, USA, non premium gift aircraft) fighter with guided air to ground missiles.
+<>10 marks of distinction — Coupon for a special camouflage for the FJ-4B VMF 232 and coupon for a random roundel decal from a range of Air Forces.
+<>Rewards for tankers:
+<>2 marks of distinction — Coupon for a random decal (Emblem of the armoured troops)
+<>2 marks of distinction — Sd.Kfz. 234/3 coupon
+<>3 marks of distinction — Coupon for special camouflage for the Sd.Kfz. 234/3
+More about the vehicles ▼
+<> Martlet MK IV - Sea Swallow
+<>In the summer of 1942, all production facilities of the American Grumman factory were preparing for the release of the latest F6F-3 deck fighters, but the Navy still needed the F4F-4 Wildcats for their ability to take off from a shorter deck. Production of the already tested in action F4F-4 was moved to another factory where the engineers made minor changes to the aircraft design and assigned a new designation - FM-1. Part of the aircraft in this series went via lend lease to Great Britain where the aircraft received its own name; the “Martlet” (a type of “swallow”). The Martlet Mk IV will be the first prize for participants of the summer marathon in War Thunder for pilots.
+<> FJ-4B VMF 232 with guided AGM-12 Bullpup missiles
+<>Our pilots are well aware and love perhaps the best in game deck attack aircraft, the FJ-4B. For the most persistent and purposeful participants of the War Thunder summer marathon for pilots we have prepared a special version equipped with guided AGM-12 missiles. These air-to-surface missiles have the ability to adjust the course of their flight which gives pilots the possibility of truly sniping shots at ground targets, tanks and ships. The FJ-4B VMF 232 carries five such missiles under the wings, as well as guidance equipment.
+<> Sd.Kfz. 234/3 - with the short 75 mm cannon
+<>A new version of the super-popular German heavy armoured vehicle - the Sd.Kfz. 234 - only available to Summer marathon participants! In the third modification of this vehicle with short 75 mm cannon that is installed in an open turret. It is the same cannon as mounted on the StuG and some versions of the German Pz IV. The fast armoured vehicle with an excellent for its BR weapon - a great choice for arcade and combined ground vehicle battles at lower ranks!
+<>Standard sea pattern (Engine Gray / Orange Yellow) with insignia of VU-7, Nord island, USA, 1959
+<>Nonstandard bicolor camouflage pattern (Azure Blue / Emerald Green / Sky Blue). Grumman Martlet Mk.I, b/n NXG2 ,1940
+<>Late tricolor spotted summer camouflage
+<>Event tasks
+<>To get the reward you need to complete any 3 from 5 tasks
+<>The tasks themselves will not be changed during the whole event and will be updated every two days at 11:00 GMT. You will be able to purchase missed tasks in the menu; “Achievements” → “S.U.M.M.E.R.”.
+<>Air tasks to receive “Marks of distinction for pilots”whilst flying an aircraft of rank III - V
+<>Destroy 35 enemies (x2 RB, x3 SB);
+<>Win 10 times with a battle activity of 60% or higher
+<>Bombing enemy bases - 10 tons (TNT)
+<>Destroy 11/4/2 enemies in one battle (AB, RB, SB)
+<>Get 20 “Assists in destroying enemies” achievements whilst flying aircraft
+<>Ground tasks to receive “Marks of distinction for tankers”whilst controlling a ground vehicle of rank III - VI
+<>Destroy 40 enemies (x2 RB, x3 SB)
+<>Win 10 times with a battle activity of 70% or higher
+<>Capture 10 zones
+<>Destroy 11/6/4 enemies in one battle (AB, RB, SB)
+<>Get 20 “Assists in destroying enemies” achievements whilst controlling ground vehicles.
+<>Terms and conditions
+<>You can follow your progress by clicking on “Your Nickname” → “Achievements” → Operation S.U.M.M.E.R..
+<>To complete the task you need to finish the battle in the required vehicle (required rank and type of the vehicle), otherwise the task will not count as complete.
+<>Only the destruction of player-controlled vehicles will progress the completion of the task, not AI controlled vehicles.
+<>After receiving three marks of distinction for tankers the tasks for tankers become inaccessible for purchase.
+<>Coupon for a decal “Tanker’s marks of distinction” may be traded for another decal’s coupon (Emblem of the armoured troops) in the workshop before the special is over
+<>Coupons can be traded on the Market only after the event is over. Coupons will be available after the event.
+<>Item exchange in the Workshop
+Item exchange in the Workshop ▼
+<>Especially for players that are collecting roundel decals from a range of Air Forces and also for players who are selling the coupons of the “Good Old S.U.M.M.E.R.” on the Market we have added the possibility to choose from the final prize of the event.
+<>For 10 “Marks of distinction for pilots” you will receive the "Voucher for receiving the roundel decal from a range of Air Forces”, which you can exchange for the contents of one of the two chests:
+<>Coupon for the random roundel decal from a range of Air Forces. Can be sold on the Market.
+<>Trophy with the random roundel decal from a range of Air Forces. Can not be sold on the Market.
+<>We remind you can purchase the missed “Marks of distinction” in the achievement menu only till 11:00 GMT on the 6th of September. At the same time the possibility to exchange “Emblem of the armoured troops” in the Workshop will be turned off.
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

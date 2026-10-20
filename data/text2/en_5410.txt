@@ -1,0 +1,169 @@
+[Event] “Large Calibres” and "Enduring Confrontation" - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+“Large Calibres” and "Enduring Confrontation"
+Attention! Outdated news format. Content may not display correctly.
+23 March 2018
+Event
+<>From 15:00 GMT on March the 23rd until 07:00 GMT on March the 26th.
+<>This weekend in the sky and on the ground the melee will be ruled by large calibres!
+<>Everyone who has already researched any vehicle of rank III or higher can participate to the event “Large Calibre”. Victory will go to the team which is first to achieve 100 frags. The number of respawns is not limited. And there are no other rules!
+<>Large Calibres (aircraft AB)
+<>In this event in the sky over Khalkhin-Gol, go head to head in unforgiving aerial battles with only the hard-hitting aircraft, 37mm cannons or higher. Destroy the enemy and lead your team to victory!
+Participating vehicles: ▼
+<>A-26B-10
+<>Pokryshkin’s P-39N-0
+<>P-39K-1 (USSR)
+<>P-39N-0
+<>P-39Q-5
+<>P-63A-10
+<>P-63A-10 (USSR)
+<>P-63A-5
+<>P-63A-5 (USSR)
+<>P-63C-5
+<>P-63C-5 (USSR)
+<>P-39Q-15 (USSR)
+<>Me 410A-1/U4
+<>Me 410B-2/U4
+<>Ju 87G-1
+<>Ju 87G-2
+<>Hs 129B-3
+<>XA-38 Grizzly
+<>Yak-9T
+<>Yak-9K
+<>Yak-9P
+<>Su-6 (M-71F)
+<>Su-6 (AM-42)
+<>Tempest Mk.V (Vickers P)
+<>Hurricane Mk.IV
+<>Mosquito FB Mk.XVIII
+<>Ki-102 otsu
+<>Ki-96
+<>Ki-44-II otsu
+<>Ki-45 otsu
+<>Ki-45 tei
+<>Ki-45 hei
+<>Ki-108
+<>Ki-109
+<>Yak-9UT
+<>P.108A series 2
+<>Yak-3T
+<>LaGG-3-34
+<>Il-2-37
+<>PBJ-1H
+<>P-63C-5 (France)
+<>Yak-9T (France).
+<>Hs 129B-2
+<>Hs 129B-2 Romania
+<>Large Calibres (ground vehicles, AB)
+<>The event takes place in the “Tunisia” location with the format of team deathmatch for tanks with 100mm calibre cannons or higher.
+Participating vehicles : ▼
+<>M4A3 (105)
+<>Dicker Max
+<>Brummbär
+<>KV-II 754r (Germany)
+<>StuH 42 G
+<>KV-2 1939
+<>KV-2 1940
+<>SU-152
+<>SU-122
+<>SU-100Y
+<>Ho-Ro
+<>Chi-Ha Short Gun
+<>[Enduring Confrontation] Zhengzhou (RB)
+<>This is a classic confrontation in RB with historical vehicle line-ups from the Soviet and Japanese vehicles.
+<>A reward for the battle will be given after the end of the mission. It is now possible to perform achievements in the event - for example to unlock camouflages.
+Participating vehicles : ▼
+<>USSR
+<>Yak-7B
+<>Yak-9
+<>Yak-9T
+<>Yak-9U
+<>Yak-9UT
+<>LaGG-3-35
+<>La-7
+<>La-7B-20
+<>P-63A-5
+<>Il-10
+<>Il-2M type 3
+<>Pe-2-205
+<>Pe-2-359
+<>Tu-2S
+<>Il-4
+<>Japan
+<>Ki-43-I
+<>Ki-43-II
+<>Ki-43-III otsu
+<>Ki-84 hei
+<>Ki-84 ko
+<>Ki-84 otsu
+<>J2M2
+<>J2M3
+<>J2M4 Kai
+<>J2M5
+<>J2M5
+<>Ki-45 hei
+<>Ki-45 ko
+<>Ki-45 otsu
+<>Ki-45 tei
+<>Ki-49-IIb
+<>Ki-49-IIb/L
+<>G4M1
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

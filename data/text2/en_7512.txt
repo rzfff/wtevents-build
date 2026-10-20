@@ -1,0 +1,78 @@
+[Special] Vistula–Oder offensive - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Vistula–Oder offensive
+Attention! Outdated news format. Content may not display correctly.
+10 January 2022
+Special
+<>In January 1945, the Vistula-Oder offensive by the Soviet army began to liberate the western part of Poland and provide a further advance by troops into German territory. The operation became perhaps the most intensive strategic offensive operation in the history of modern Europe. Possessing total air superiority and a significant advantage in manpower and armored vehicles, the troops of the Red Army, as well as the Polish formations that came under the command of the USSR, threw back the Wehrmacht forces with powerful blows beyond the border of Germany. An Allied victory became just a matter of time.
+<>Complete the task from 11:00 GMT on the 10th of January until 11:30 GMT on the 13th of January and get the reward!
+<>Rewards
+<>Completing the “Vistula-Oder offensive” task will bring you a battle trophy with one of the following rewards:
+<> 20-50% RP booster for 3-10 battles
+<> 20-50% SL booster for 3-10 battles
+<> 3-5 universal backup vehicles
+<> Random camouflage for ground vehicles of rank I-IV for USSR or Germany from amongst those available to obtain in-game through achievements or purchase with GE.
+<> 1 day premium account
+<>Task
+<>Destroy 40/20/20 (AB/RB/SB) player vehicles whilst controlling specified vehicles in random battles
+<>The task can be completed only in vehicles from the following list:
+<>USSR: T-34-85, T-34-85 (D-5T), IS-1, IS-2, IS-2 (1944), ISU-122, ISU-122S, SU-100, ZiS-12 (94-KM), SU-76M, T-80, SU-85M, SU-85, La-7, Yak-3, Yak-9U, IL-2-37, IL-2M (1943), Tu-2S.
+<>Germany: Sd.Kfz.234/1, Sd.Kfz.234/2, Sd.Kfz.234/2 TD, Sd.Kfz.234/3, Sd.Kfz.234/4, Sd.Kfz.251/21, Wirbelwind, Ostwind, 15 cm Pz.W.42, StuG III G, Jagdpanzer 38(t), Jagdpanzer IV, Panzer IV/70(V), Pz.IV G, Pz.IV H, Pz.IV J, Pz.Bef.Wg.IV J, Tiger II (P), Tiger II (H), Panther D, Panther A, Panther G, Jagdpanther, Bfw. Jagdpanther, Fw 190 A-5, Fw 190 A-5/U12, Fw 190 A-5/U2, Fw 190 A-8, Fw 190 D-9, Bf 109 G-6, Bf 109 G-14, Bf 109 G-10, Fw 190 F-8.
+<>Follow progress by clicking on your nickname → Achievements → Memorial Date.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

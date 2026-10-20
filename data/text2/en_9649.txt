@@ -1,0 +1,103 @@
+[Event] Pages of History (September): Bazooka Charlie - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pages of History (September): Bazooka Charlie
+26 August 2025
+Event
+<>This month’s Pages of History will take you to the heart of events that took place in different theaters of war. From Iran and India, Lorraine and Kuban: take part in battles with vehicles that represent these historical battles and win prizes!
+<>
+<>From September 1st until September 30th, you will be able to participate in 8 tasks consecutively. Completing each task will grant you a trophy with a reward, completing all of the tasks will earn you a unique player icon!
+<> Charles Carpenter was an American pilot who fought in France during the Second World War. Carpenter was given an L-4 Grasshopper for reconnaissance, but decided to go beyond that role and installed bazookas on each wing, earning him the nickname “Bazooka Charlie”. His plane was called Rosie the Rocketer. During the Battle of Arracourt, he destroyed a German armored personnel carrier and four tanks. In an interview, he later described his approach to combat as “attack, attack, and then attack again”.
+<>You can immediately purchase this profile icon for Golden Eagles until October 3rd (11:30 GMT) without completing tasks. To find it, go to your Nickname → Achievements → Pages of History.
+<>Trophy reward for each task
+<>Completing each individual task will give you a trophy with one of the following rewards:
+<>20-50% RP booster for 3-10 battles;
+<>20-50% SL booster for 3-10 battles;
+<>3-5 universal backups;
+<>Premium account for 1 day;
+<>A random ground vehicle camouflage (out of the selection of camouflages currently obtainable in game for completing tasks, or purchasing with Golden Eagles).
+<>Other terms
+<>Tasks are available from 11:00 GMT until 11:30 GMT on the final day of each task.
+<>Tasks can be completed in random battles except for “Assault” mode.
+<>You can read a detailed description of which task is for which day and your overall progress by going to your Nickname → Achievements → Pages of History.
+<>Calendar
+<>September 1st — September 4th
+<> Bryansk Operation
+<>Immediately after the victory in the Battle of Kursk, Soviet command sought to build on the success, and dismember the Wehrmacht group in the central direction and liberate Bryansk. At first the offensive stalled, but in September it achieved significant success. The Red Army inflicted significant losses on the Wehrmacht and reached the strategic lines of the Desna and Dnieper rivers.
+<>September 5th — September 8th
+<> Berlin Victory Parade of 1945
+<>On September 7th, 1945, a Victory Parade took place in Berlin. Marshal Zhukov represented the USSR, General George Patton represented the USA, General Brian Robertson represented Great Britain, and General Marie-Pierre Koenig represented France. The Allies celebrated the defeat of the Nazi regime together. Shortly after the parade in Tiergarten, a memorial to fallen Soviet soldiers was unveiled.
+<>September 9th — September 12th
+<> Battle of Asal Uttar
+<>On September 8th to 10th, 1965, one of the largest tank battles since the Second World War took place near the village of Asal Uttar in India. The Pakistani army planned to break through deep into Indian territory, but it was met with minefields, territories flooded by India, and a well-organized counterattack. Despite the numerical superiority of Pakistani tank forces, they suffered three times as many losses and were forced to retreat.
+<>September 12th — September 15th
+<> Baltic Operation
+<>On September 14th, 1944, an operation began to defeat the remnants of Army Group North and drive them out of the Baltics. By the end of November, this task was accomplished, with the exception of the German group in the Courland pocket, which was surrounded but held out until Germany’s surrender in May 1945.
+<>September 16th — September 19th
+<> Battle of Arracourt
+<>One of the largest tank battles of the Western Front took place from September 18th to 29th, 1944, near the town of Arracourt in France. After the Allied forces penetrated into German territory, Hitler gave the order to launch a counterattack. The order was carried out in such a hurry that not all Wehrmacht tank units managed to assemble before the attack began, causing them to suffer heavy losses. The battle was lost, and for 50 Allied tanks destroyed, more than 200 German tanks were lost.
+<>September 19th — September 22nd
+<> Battle of Hürtgen Forest
+<>The longest battle of the Second World War on German soil began on September 19th, 1944. The Germans used ambush tactics and mined narrow forest roads and ditches, while the Americans suffered from the inability to call for air support, poor visibility, and the cold. Both sides suffered significant losses in the months-long stalemate.
+<>September 23rd — September 26th
+<> Tuapse Defensive Operation
+<>On September 25th, 1942, the decisive defensive operation in the North Caucasus began. Soviet troops managed to stop the advance of German and Romanian troops along the Kuban, preventing them from reaching Tuapse and the Black Sea. By pinning down enemy forces in this region, the USSR prevented Germany from advancing to the Baku oil fields.
+<>September 27th – September 30th
+<> Operation Samen-ol-A'emeh
+<>One of Iran’s first major counteroffensives in the war with Iraq took place from September 27th to 29th, 1981. Despite the numerical superiority of Iraqi troops, Iran’s air superiority and smart tactical decisions allowed Iranian forces to liberate the city of Abadan, which was under siege.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

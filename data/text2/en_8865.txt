@@ -1,0 +1,83 @@
+[Warbonds] Warbonds for the "Northern King" Battle Pass! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Warbonds for the "Northern King" Battle Pass!
+24 April 2024
+Warbonds
+<>The Warbond shop for “ The Northern King Battle Pass ” season will be open from April 24th until July 24th.
+<>We’re presenting an interesting range of items that are available for Warbonds and earned in the Battle Pass! There’s decals, decorations, camouflages, a brand-new pinup, and some premium vehicles.
+<>Take note of the American T14 heavy tank that combines impressive survivability with good mobility and decent firepower!
+<>The War Bond Shop is available from Rank III and is part of the Battle Pass . You buy goods with a special currency - War Bonds, which can be obtained by unlocking Battle Pass levels.
+<> More about Warbonds
+<> M3A3 (1st RTG) (China)
+<>A "Stuart" with a unique camouflage of the Chinese-American 1st Reserve Tank Group. It is extremely mobile and ideal for capturing points and attacking as a group.
+<> Project 123K (A-11)
+<>The experimental Project 123K (A-11) torpedo boat is fast and, thanks to its fins, rides the waves stably, which means it can shoot more accurately than fin-less boats. But it is best suited for quickly capturing remote points.
+<> Wellington Mk.Ic (Germany)
+<>A British twin-engined bomber that was taken by the Germans as a trophy. It cannot compete with other aircraft, but its good survivability and impressive bomb load will allow it to complete its combat mission with honor!
+<> Thunderbolt Mk.1 (Britain)
+<>The US P-47 in service with the Royal Air Force. An excellent high-speed fighter, capable of playing the role of an attack aircraft thanks to its combination of flight characteristics and an impressive arsenal of weapons.
+<> RN Tigre (Italy) - first time in the store
+<>With one main-caliber salvo, the Tiger can inflict significant damage on the enemy. The main thing is to find cover for reloading and skillfully alternate between high-explosive and armor-piercing high-explosive shells.
+<> T14 (USA)
+<>A heavy tank prototype jointly developed by the United States and Great Britain. Excellent armor with screens and corners, a large-caliber machine gun, a reliable penetrating weapon with a stabilizer and an armor-piercing projectile to combat other heavy weapons.
+Pinup “Gemini Zodiac"
+<>Decals include a trophy with tiger themed decals, as well as a new Gemini Zodiac pinup, continuing the series of themed decals. In the "Camouflage" trophy you will find decorations that will help hide your tank from the eyes of enemies. The player icons in the corresponding trophy this time depict tank crews from the USSR. Trophies with random camouflages, as before, become available as new store levels are unlocked.
+<>A large number of usable items are also available in the store: boosters, universal backups, wagers and orders, rental of premium vehicles, and also at higher levels of the store - talismans.
+<>You can see the full catalog of the Warbonds store for the current season, as well as the conditions for receiving them in the game by opening the Battle Pass window or “Store” → “Warbonds Store”.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

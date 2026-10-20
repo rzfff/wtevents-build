@@ -1,0 +1,99 @@
+[Event] Still Waters - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Still Waters
+Attention! Outdated news format. Content may not display correctly.
+7 December 2016
+Event
+Download wallpaper: 1280x1024 | 1920x1080 | 2560x1440
+Pilots, we have a new assignment. The enemy has stolen our encoding device and are already preparing to send it back home. If they succeed, it will be a costly disaster. It does not matter by what means or with how many sacrifices it takes, but we have to rectify this mistake. Before our airstrip was captured, I have flown through these mountains and there is a sure way to reach our target. By flying right along the watercourse.
+<>The enemy is also aware of this route, but doesn’t consider it important. It is also almost impossible to gain any foothold there, so with a bit of luck, we will encounter only their unsuspecting and complacent anti-aircraft crews. It is important to stay away from patrol boats and to destroy the enemy mobile radio station somewhere in that area. The task at hand is a suicidal mission. Take light and fast aircraft. There will be no second shots at this.
+<>Volunteers, step forward.
+From 15:00 GMT on 8th of December to 07:00 GMT on 12th of December
+Participate in the multiplayer PvE Event “Still Waters”
+<>
+Mission task
+Infiltrate on the well-guarded enemy airfield by adhering to the riverbed and destroy the transport aircraft with the equipment. For this task, you will be sent in with a squad alongside 3 other players. Victory will be awarded for destroying of the transport aircraft.
+<>
+<>Realistic Battles
+<>Time of day: night
+<>Weather: rain
+<>Simulator Battles
+<>Time of day: night
+<>Weather: good/haze
+<>You may take part in the event if you have at least one vehicle of ranks 2-5.
+<>Players receive LaGG-3-66
+<>No respawns
+<>
+Map of the operation
+<>Pilots, listen to useful advice.
+<>
+<>
+<>Take care about altitude !
+<>
+Difficult terrain does not allow the enemy to organize a tight defense, but light anti-aircraft guns guard this area. Don’t climb over 40 meters and anti-aircraft guns will not be able to target you.
+Avoid guards.
+<>
+Light reconnaissance ships are patrolling our route, but in the darkness we have the opportunity to slip past. The main consideration is not to approach or get close to them.
+Provide for secrecy.
+<>
+In this area is a mobile enemy radio station. If you are able to destroy it, the enemy will not be able to report our location in case of detection.
+This mission has been created by our players who used War Thunder CDK . Join the community of the authors, create your missions and share them on War Thunder Live !
+Thanks Alexey aka _Gilard_ , Vyacheslav aka Gyts and Kirill aka Ontt for creating this mission!
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

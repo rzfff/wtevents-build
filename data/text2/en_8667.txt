@@ -1,0 +1,216 @@
+[Event] Celebrate Christmas and the New Year in War Thunder! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Celebrate Christmas and the New Year in War Thunder!
+20 December 2023
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>We’re nearing the end of December now, which means it’s time for gifts, bright decorations, fireworks and generally a jolly festive mood. All of which await you this Christmas and New Year’s period!
+<>You’re invited to plunge into the festive atmosphere in War Thunder this holiday season to enjoy yourself and receive excellent rewards. Take a look below at everything we’ve prepared for you!
+<> Gifts for everyone!
+<>Play and meet the criteria to receive each gift.
+<> When: December 20th (11:00 GMT) until January 2nd (11:00 GMT).
+“Dragon Warrior”
+decal
+“New Year’s Sign”
+decoration for ground forces
+“New Year’s Flag”
+ship flag
+<>Play 3 battles using vehicles of Rank III or higher with an activity level of 70% or more.
+<>Destroy 30 enemies while using ground vehicles of Rank III or higher.
+<>Deal 50,000 damage while using naval vessels of Rank III or higher.
+<> Open the Christmas Chest and Snowman!
+<>We’ve got two special chests lined up for you this festive season: the Christmas Chest that can be purchased for Golden Eagles, and the Snowman for Silver Lions.
+<> When: From December 20th (12:00 GMT) until January 15th (12:00 GMT).
+<>Once opened, there’s a chance to get either a Premium Account, Silver Lions, Universal backups, Boosters, Premium vehicles as well as vehicles that have never been sold for Golden Eagles or War Bonds, and are not currently sold in the game or on the Market.
+Snowman
+Christmas Chest
+Christmas Chest terms: open spoiler ▼
+<>Christmas Chest purchase price: 999 Golden Eagles
+<>Guaranteed Prize: 1 day premium account + 120000 Silver Lions (total purchase price of 490 Golden Eagles)
+<>Additional Guaranteed Prize:
+<>1 day premium account - 15% chances
+<>3 days premium account - 10% chances
+<>7 days premium account - 5% chances
+<>100000 SL - 16% chances
+<>250000 SL - 8% chances
+<>500000 SL - 4% chances
+<>1000000 SL - 2% chances
+<>100% booster for 3 battles - 20% chances
+<>Universal backup — 5 pieces. - 20% chances
+<>Additional random prizes:
+<>1) Talisman for vehicles (15% chance but at least once for every 14 chest openings); breakdown of chance by vehicle rank:
+<>Rank I - 16% chances
+<>Rank II - 20% chances
+<>Rank III - 25% chances
+<>Rank IV - 18% chances
+<>Rank V - 10% chances
+<>Rank VI - 7% chances
+<>Rank VII - 3% chances
+<>Rank VIII - 1% chances
+<>If all vehicles of the dropped rank already have a talisman the player will be refunded fully for the Christmas Chest — 999 GE.
+<>2) Premium vehicles including unavailable for sale (15% chance but not less than once for every 14 chest openings); breakdown of chances by vehicle ranks:
+<>Rank I - 20%
+<>Rank II - 20%
+<>Rank III - 20%
+<>Rank IV - 20%
+<>Rank V - 10%
+<>Rank VI - 7%
+<>Rank VII - 3%
+<>If all vehicles of the dropped out rank are already there, the player will be refunded the cost of the Christmas Chest fully — 999 GE.
+<>Unavailable for purchase vehicles presented in the Christmas Chest along with the usual premium vehicles:
+<>Lightning F.53
+<>F-86F-35
+<>J29D
+<>J35A
+<>YP-38
+<>T-2 Early
+<>MiG-17AS
+<>MiG-21 SPS-K (Germany)
+<>Milan
+<>S.O.4050 Vautour IIN
+<>A-4E (Israel)
+<>SAV 20.12.48
+<>Type 74 (G)
+<>Type 69-IIa
+<>M26E1
+<>UH-1C XM-30
+<>P-61A-11
+<>Bostwick's P-47M-1-RE Thunderbolt
+<>Lanovski's P-47M-1-RE Thunderbolt
+<>Wetmore's P-51D-10 Mustang
+<>USS Cowell
+<>Pz.Sfl.Ic
+<>Panzer IV/70(A)
+<>He 112 B-1/U2 (Germany)
+<>P-47D (Germany)
+<>La-5FN (Germany)
+<>Tempest Mk V (Germany)
+<>Sea Hawk Mk.100
+<>Z20 Karl Galster
+<>T31
+<>T-34 (1st Gv.T.Br.)
+<>МК-IX "Valentine" (USSR)
+<>KV-1E
+<>KV-2 (ZiS-6)
+<>IS-2 "Revenge"
+<>Mi-24D (USSR)
+<>Pokryshkin's P-39N-0 (USSR)
+<>Pe-2-205
+<>IL-2M "Avenger"
+<>Golovachev's Yak-9M
+<>Fw 190 D-9 (USSR)
+<>Spitfire Mk IXc (USSR)
+<>MiG-15bis ISH
+<>Stroyny
+<>Neustrashimy
+<>Achilles (65 Rg.)
+<>Boomerang Mk II
+<>D.520 (Great Britain)
+<>Typhoon Mk Ib
+<>Plagis' Spitfire LF Mk IXc
+<>Prendergast's Spitfire FR Mk XIVe
+<>Hunter FGA.9
+<>HMCS Haida
+<>J2M4 Kai
+<>IJN Kiyoshimo
+<>Т-62 №545
+<>T-69 II G
+<>P40 "G.C. Leoncello"
+<>RN Geniere
+<>F-84F IAF (France)
+<> The Snowman
+<>You’re able to purchase the “Snowman” and its “Carrot” to open it. Once opened, there’s a chance to get either unique Decals, Decorations, vehicles and camouflages from past winter events in War Thunder (including in the form of coupons), as well as Silver Lions, Boosters, Universal Backups, a Profile Icon, Aerobatic Smoke and Orders.
+<> The “Carrot” is also obtainable in the Winter Extreme event !
+<> Winter Extreme: Earn Yourself Rewards this Festive Season!
+<>Take part in battles, earn mission score points and receive a variety of cool rewards.
+<> When: From December 20th (11:00 GMT) until January 9th (11:00 GMT).
+<>Participate in the Winter Extreme event and earn rewards: ranging from Trophies, Decals, “Carrots”, 4 unique vehicles and their respective camouflages, a Player Icon and Decorations. Check it out!
+<> J9 Early
+<>A Rank II Premium for Sweden.
+<> Click here to learn more.
+<> Mirage 2000C-S4
+<>A Rank VIII Event Vehicle for France.
+<> Click here to learn more.
+<> USS Mississippi
+<>A Rank VI Event Vehicle for the USA.
+<> Click here to learn more.
+<> Vilkas
+<>A Rank VII Event Vehicle for Germany.
+<> Click here to learn more.
+<> Click here to learn more
+<> In-game Discounts!
+<>Wanted a vehicle for a while now? Treat yourself to a nice bargain!
+<> When: From December 20th (11:00 GMT) until December 26th (11:00 GMT).
+50% off all vehicles in the game *
+50% off talismans, back-ups, and modifications.*
+50% off a Premium account for 90 or 365 days in the game store, and 180 days in the Gaijin.Net online store.
+<> * Discounts apply to vehicles for Silver Lions and Golden Eagles, except those added in the “ Air Superiority ” and “ Kings of Battle ” major updates, as well as Squadron Vehicles.
+<> Take the THUNDER Quiz!
+<>How well do you know War Thunder? Take our special quiz using the link to find out for sure.
+<> When: From December 20th (11:00 GMT) until December 26th (11:00 GMT).
+<>True experts will be in for a little surprise!
+<>
+THUNDER Quiz
+<> Sale in the Gaijin.Net Store!
+<>We’ll tell you about discounts in the Gaijin.Net store in a separate news article on December 26th.
+<> Merry Christmas and a Happy New Year!
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

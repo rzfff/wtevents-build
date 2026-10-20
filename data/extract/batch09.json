@@ -1,0 +1,230 @@
+{
+ "results": [
+  {
+   "key": "2019_operation_shipyard",
+   "start_override": "2019-10-03T11:00:00Z",
+   "end": "2019-10-14T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 11:00 GMT on the 3rd of October until 11:00 GMT on the 14th of October",
+   "type": "craft",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "集装箱与图纸战斗掉落截止(至11:30 GMT)", "when": "2019-10-14T11:30:00Z"},
+    {"what": "组装与兑换(含市场补购)截止;11:30 GMT起除载具券外活动道具从库存与市场删除", "when": "2019-10-21T11:30:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "II级+、活跃≥50%每10分钟得集装箱与舰船图纸(限240);4套船蓝图+材料组装MBK-161,首艘券可换Whirlwind P.9,2券+4套坦克图纸换VT1-2,其券换H-34;约15小时/艘",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "主机版可购工程师工具箱(3倍加速+额外图纸)并以金鹰购材料;图纸另可因队伍第一名加发;MBK-161为苏联II级金币炮艇"
+  },
+  {
+   "key": "2019_operation_h_e_a_t",
+   "start_override": "2019-08-02T11:00:00Z",
+   "end": "2019-08-26T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 11:00 GMT on the 2nd of August until 07:00 GMT on the 26th of August",
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "错过的卓越徽章金鹰补购截止", "when": "2019-08-29"},
+    {"what": "主机玩家贴花/装饰品兑换截止", "when": "2019-09-30"}
+   ],
+   "discounts": [],
+   "tasks": "空/陆/海各5选3任务(III级+,船II-IV)得卓越徽章,每2天刷新;5枚得Bf 110 C-6、BT-7(F-32)、River class,10枚得P-59A、AUBL/74 HVG、Yuudachi;可金鹰补购",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "载具券8月30日起方可上市场交易;徽章档位至12枚,含迷彩与Flame/Ammunition贴花装饰"
+  },
+  {
+   "key": "2019_battlefield_engineer",
+   "start_override": "2019-04-11T11:00:00Z",
+   "end": "2019-04-22T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From April 11th 11:00 GMT until April 22nd 11:00 GMT",
+   "type": "craft",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "市场补购组装与多余道具换战备券截止;4月29日除载具券与迷彩外道具从库存删除", "when": "2019-04-29"}
+   ],
+   "discounts": [],
+   "tasks": "II级+、活跃≥50%每10分钟得1-3工具箱,队首加发;诊断+修复组装I-180S,首架得可交易券,其后1券换VFW/Pr.122bis,2券换Ju 388 J/Merkava Mk.1/HMS Tiger;需13-15小时",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "4月22日起战斗停止掉落,4月22-29日仅可市场补购;主机可购I-180S恢复手册;队首额外奖箱可出活动载具专属迷彩券"
+  },
+  {
+   "key": "2019_sea_voyage",
+   "start_override": "2019-02-21T15:00:00Z",
+   "end": "2019-03-11T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on the 21st of February until 07:00 GMT on the 11th of March",
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "错过的卓越徽章金鹰补购截止", "when": "2019-03-14"}
+   ],
+   "discounts": [],
+   "tasks": "海军战斗(街机/历史,载具II-IV级)5选3任务得1枚卓越徽章,每2天11:00 GMT刷新、单任务限48小时;4枚得PBM-3 Mariner,8枚得Leningrad券;徽章可金鹰补购",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "Leningrad券3月15日起方可上市场;2/3枚徽章档为资料头像与机鼻艺术贴花"
+  },
+  {
+   "key": "2018_festive_quest",
+   "start_override": "2018-12-21T15:00:00Z",
+   "end": "2019-01-14T07:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on December the 21st until 07:00 GMT on January the 14th",
+   "type": "festive",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "圣诞玩具与树灯任务金鹰补购截止", "when": "2019-01-17"},
+    {"what": "主机玩家3D装饰与贴花券交易截止", "when": "2019-02-14T07:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "空/陆各5选3任务(III-VI级)得圣诞玩具,每2天刷新;5枚得M.B.152C1或SU-85A,10枚得Fw 190 C或T30;全服点灯9任务得P-43A-1/Comet Iron Duke IV券",
+   "sub_events": [
+    {"title": "点亮圣诞树(全服计数)", "start": "2018-12-21T15:00:00Z", "end": "2019-01-14T07:00:00Z", "note": "任务分3阶段:12/21 15:00-12/28 11:00、12/28-1/4 11:00、1/4 11:00-1/14 07:00 GMT;奖励RP加成、贴花、P-43A-1与A34 Comet I Iron Duke IV迷彩/券"}
+   ],
+   "confidence": 0.9,
+   "notes": "奖励券1月18日起方可上市场;玩具与树灯共用补购截止1月17日;活动跨年(end年份+1)"
+  },
+  {
+   "key": "2018_good_old_s_u_m_m_e_r",
+   "start_override": "2018-08-17T11:00:00Z",
+   "end": "2018-09-06T07:30:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 17th of August 11:00 GMT till 07:30 GMT on the 6th of September",
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "错过的卓越徽章金鹰补购截止(同时关闭车间Emblem of the armoured troops兑换)", "when": "2018-09-06T11:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "空/陆各5选3任务(空III-V/陆III-VI级)得徽章,每2天刷新;陆2枚得Sd.Kfz.234/3,空5枚得Martlet Mk IV,9枚得FJ-4B VMF-232;可金鹰补购",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "10枚空军徽章得圆形机徽贴花凭证(可交易券/不可售宝箱二选一);陆军线获3徽章后停止补购;券在活动结束后方可上市"
+  },
+  {
+   "key": "2018_operation_s_u_m_m_e_r",
+   "start_override": null,
+   "end": "2018-08-13T11:30:00Z",
+   "end_precision": "hour",
+   "end_raw": "The second stage of Operation S.U.M.M.E.R. ends at 11:30 GMT on the 13th of August!",
+   "type": "craft",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "战斗获取材料与部件截止(第二阶段结束)", "when": "2018-08-13T11:30:00Z"},
+    {"what": "兑换/组装/券上市截止;11:30 GMT起库存与市场活动道具删除(券与装饰保留,材料换战备券)", "when": "2018-08-20T11:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "阶段1(7/21-8/5)每日任务:8个得T-34E图纸,16个得IS-7车体图纸;阶段2(8/3-13)战斗收部件组装,T-34E券可换Sd.Kfz.234/4、M8、AEC Mk.II,另得IS-7炮塔图纸",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "本文为延期更新版(活动延至8/13);任务要求下调:T-34E图纸14→8任务、IS-7车体28→16任务;骨架start=7/21与阶段1一致,正文未给时刻"
+  },
+  {
+   "key": "2018_chronicles_of_world_war_ii",
+   "start_override": null,
+   "end": "2018-05-10T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From the 14th of April until 11:00 GMT on the 10th of May",
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "活动/随机战斗(III-VI级)做目标得零件;任务5选3得奖章(每3天刷新),陆6/11枚换T18E2、Lorraine 155,空6/11枚换Tandem-MAI、Whirlwind P.9;全服计数得Matilda/PV-2组装图纸",
+   "sub_events": [],
+   "confidence": 0.9,
+   "notes": "混合制:奖章换车(马拉松)+全服计数零件组装Matilda/PV-2(拼装);40万任务阶段部分玩家误得券而非图纸(bug,5/8公告致歉处理);错过奖章可在成就页补购(未给截止)"
+  },
+  {
+   "key": "2018_flying_serpent_crouching_tiger",
+   "start_override": "2018-03-31T12:00:00Z",
+   "end": "2018-04-03T12:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 12:00 GMT on the March 31st until 12:00 GMT on the April 3rd",
+   "type": "craft",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "活动结束后部件保留7天(可市场交易),到期连同市场上架部件一并消失", "when": "2018-04-10"}
+   ],
+   "discounts": [],
+   "tasks": "陆战(III级+)得坦克部件战利品、空战(III级+)得飞机部件;2个相同基础件合成1个稀有件,集齐4个稀有件在工坊换Tiger或P-63 Kingcobra(动物迷彩涂装);部件与载具券可上市场交易",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "战利品免钥匙开启;PS4/DMM账号无法使用市场;7天保留期为按结束时间推算(正文称部件保留7天)"
+  },
+  {
+   "key": "2017_festivities_in_war_thunder",
+   "start_override": "2017-12-22T15:00:00Z",
+   "end": "2018-01-10T09:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From the 28th of December at 12:00 GMT until the 10th of January at 09:00 GMT",
+   "type": "festive",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [
+    {"target": "多种商品", "item": "护身符、备份、改件与90/365天高级账户", "percent": 50, "note": "12月22-28日,每日11:00 GMT轮换更新"},
+    {"target": "载具", "item": "德国与苏联载具(SL/GE可购)", "percent": 50, "note": "12月22-24日"},
+    {"target": "载具", "item": "美国与英国载具", "percent": 50, "note": "12月24-26日"},
+    {"target": "载具", "item": "意大利与日本载具", "percent": 50, "note": "12月26-28日"},
+    {"target": "礼包", "item": "含独家贴花与头衔的特别礼包", "percent": 50, "note": "最高50%;官方商店12/28 12:00-1/10 09:00 GMT"}
+   ],
+   "tasks": "III级+、活跃≥60%赢战斗:陆胜得H.39 Cambronne、空胜得Pallier D.510(12/22-25);圣诞任务攒玩具7/13枚得AEC Mk.II、P-40C、Ersatz M10、NC.900",
+   "sub_events": [
+    {"title": "胜利礼物(H.39 与 D.510)", "start": "2017-12-22T15:00:00Z", "end": "2017-12-25T07:00:00Z", "note": "以III-V级对应类型载具结束战斗方计数;已拥有者折合金鹰"},
+    {"title": "圣诞任务 Festive Quest", "start": null, "end": null, "note": "正文未给日期,详见Festive Quest单独公告;奖励AEC Mk.II/P-40C/Ersatz M10/NC.900"},
+    {"title": "官方商店礼包5折", "start": "2017-12-28T12:00:00Z", "end": "2018-01-10T09:00:00Z", "note": "含独家贴花与头衔的礼包,过后绝版"}
+   ],
+   "confidence": 0.75,
+   "notes": "年末汇总文:新年贺词+胜利礼物+圣诞任务预告+全系5折周;end取文内最晚截止(商店礼包折扣);折扣不含1.75版新车与T114;曾误领H.39/D.510者不补金鹰"
+  },
+  {
+   "key": "2017_operation_s_u_m_m_e_r",
+   "start_override": null,
+   "end": "2017-08-28",
+   "end_precision": "day",
+   "end_raw": "available for participation from the 28th of July to the 28th of August",
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [
+    {"what": "错过的卓越徽章金鹰补购截止", "when": "2017-09-04T11:00:00Z"}
+   ],
+   "discounts": [],
+   "tasks": "陆/空各5选3任务(III-V级随机战)得卓越徽章,每2天刷新,上限15枚;7枚得Sd.Kfz.234/4或P-43A-1,13枚得Type 65 AA或Ki-94-II;可金鹰补购",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "社区计数阶段(12.5万-350万任务):230万分得P-43A-1/234-4迷彩(7徽章),350万分得Ki-94-II/Type 65迷彩(13徽章);每购1徽章计5任务入计数"
+  },
+  {
+   "key": "2017_war_thunder_chronicles",
+   "start_override": "2017-04-14T15:00:00Z",
+   "end": "2017-05-10T13:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From 15:00 GMT on the 14th of April till 13:00 GMT on the 10th of May",
+   "type": "marathon",
+   "name_zh": null,
+   "zh_id": null,
+   "deadlines": [],
+   "discounts": [],
+   "tasks": "二战编年史专属战斗中陆/空各5选3任务得奖章(每阶段2天,第3天刷新);陆6/11枚得Matilda Mk-2 F-96/A33 Excelsior,空6/11枚得PV-2D Harpoon/Yak-3T;奖章可补购",
+   "sub_events": [],
+   "confidence": 0.95,
+   "notes": "任务须在“事件与锦标赛→WW II Chronicles”专属战斗中完成;奖章补购未给截止日期;每2枚徽章得补给箱、每3枚(陆/空)另得补给箱"
+  }
+ ]
+}

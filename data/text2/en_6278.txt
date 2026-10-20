@@ -1,0 +1,97 @@
+[Event] Tournament - King of the Hill - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tournament - King of the Hill
+Attention! Outdated news format. Content may not display correctly.
+12 July 2019
+Event
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<>From 15:00 GMT on the 12th of July until 07:00 GMT on the 15th of July
+<>Battle Royale in War Thunder!
+<>Goal
+<>Become the last player alive among dozens of opponents in a shrinking battle area! Pick the loot up on the map to defeat all enemies - blow them up with powerful artillery or repair all modules and restore the crew in your tank in the battle. Choose tactics and find your optimal tank that will bring victory in the tournament with prizes!
+<>Prizes
+<>Get a 100% RP or SL booster (for 1 battle) for every 10 destroyed enemies (maximum of 3).
+<>Get prizes for victories in tournament battles.
+“Gladiator helmet”
+decoration
+<> For one victory
+"Gladiator helmet” (silver)
+decoration
+<> For 3 victories
+Coupon for the “Gladiator helmet” (gold) decoration
+<> For the best 100 players in the leaderboard
+<>You can track your progress and the number of destroyed enemies by choosing the tournament game mode and clicking “leaderboard”.
+<>Terms:
+<>Battles will be made for the players with the closest rating which will be formed on the basis of a players position.
+<>Tournaments will be available in AB and RB game modes.
+<>You may participate in vehicles of 6.0 to 7.0 BR
+<>You can only play solo (not as a squad)
+<>Battle locations: Advance to the Rhine, Port Novorossiysk, Abandoned factory, Stalingrad, Finland, El Alamein and Vietnam.
+<>There’s a bonus that can be picked up during battle that includes:
+<>Artillery - an extremely powerful strike that destroys anything within a specific radius but it takes a while before the barrage begins. Available for all vehicle types. Not available at the end of a battle
+<>Repair kit - repairs all modules and restores all ammo.
+<>Med kit - restores the crew.
+<>Fire extinguisher
+<>You can get the gladiator helmet (Gold) coupon in any tournament game mode.
+<>The coupon for the 100 best players in each game mode will be credited after an additional check of the winners within 3 days from the end of the tournament.
+<>The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

@@ -1,0 +1,107 @@
+[Event] Sea Voyage - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Sea Voyage
+Attention! Outdated news format. Content may not display correctly.
+18 February 2019
+Event
+Download Wallpaper:
+1280x1024
+1920x1080
+2560x1440
+<>Pilots and Tankers have already shown their skills in War Thunder’s festive adventures . Now our brave sailors will go on a “Sea Voyage” in which pilots and ship commanders will be able to win premium vehicles and other prizes by completing the tasks in the combined naval battles. We wish you luck!
+<>From 15:00 GMT on the 21st of February until 07:00 GMT on the 11th of March
+<>Collect “Marks of Distinction” and receive premium vehicles and other valuable prizes.
+<>Prizes for “Marks of Distinction”
+PBM-3 "Mariner" (Premium, Rank II, USA)
+for 4 “Marks of Distinction”
+Destroyer “Leningrad” (Premium, Rank III, USSR)
+for 8 “Marks of Distinction”
+<>A premium flying boat defensively armed with 5 12.7mm M2 Brownings and a bomb load of up to 8x 1,000 pound bombs which can do a great job in destroying enemy ships and also is able to capture zones by landing in the water.
+<>The destroyer is armed with 5 130mm B-13 cannons and launchers for 533mm torpedoes. It is also protected by powerful AAA. Thanks to the premium status it will help you research the Soviet Naval Forces tree faster.
+Profile Icon
+<>
+<>
+<>
+<>
+Decals in the “Nose arts” category”
+<>
+<>For 2 “Marks of Distinction” — Profile icon (sailor)
+<>For 3 “Marks of Distinction” — One decal of the “Nose arts” category.
+<>For 4 “Marks of Distinction” — Flying boat PBM-3 "Mariner" (Premium, Rank II, USA)
+<>For 5 “Marks of Distinction” — One decal of the “Nose arts” category.
+<>For 7 “Marks of Distinction” — One decal of the “Nose arts” category.
+<>For 8 “Marks of Distinction” — Coupon for the destroyer “Leningrad” (Premium, Rank III, USSR)
+<>For 9 “Marks of Distinction” — One decal of the “Nose arts” category.
+<>How to collect the “Marks of Distinction”
+<>In order to receive “Marks of Distinction” you need to complete any 3 tasks of 5 available. They remain the same for a specific time period but you only have 48 hours to complete a single task (tasks will be updated every 2nd day at 11:00 GMT).
+<>Tasks to receive “Marks of Distinction”
+<>Cause 25,000 cumulative damage on the enemy whilst controlling naval vessels in multiple battles.
+<>Win 10 times in Naval Battles with an activity of 50% or higher whilst controlling aircraft or ship.
+<>Capture 15 zones in Naval Battles whilst controlling aircraft or naval vessels in multiple battles (naval).
+<>Destroy 5 enemies using torpedoes whilst controlling aircraft or naval vessels in multiple battles (naval).
+<>Sink 5 ships, either cruiser or destroyers in any combination, whilst controlling aircraft or naval vessels in multiple battles (naval).
+<>You can purchase “Marks of Distinction” for GE without completing the tasks. You can do it by clicking on your nickname → Achievements → Sea Voyage → Marks of Distinction.
+<>Terms and conditions
+<>Tasks can be completed in Arcade and Realistic game modes in Naval Battles in aircraft or naval vessels of rank 2-4 unless otherwise specified. You can find out the exact conditions of achievements in the game client.
+<>The tasks will be updated at 11:00 GMT every two days.
+<>A Mark of Distinction has been received if its achievement has turned golden.
+<>You can purchase missed Marks of Distinction in the Achievement tab until 14th of March.
+<>All the prizes will be given instantly after a player completes the required tasks. The “Leningrad” destroyer unlike other prizes will be given as a coupon.
+<>The coupon for the destroyer “Leningrad” will become available for trading on the Market after March 15th. You can check the exact time in the coupon’s description.
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

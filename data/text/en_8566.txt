@@ -1,0 +1,87 @@
+[Development] Dreams Come True — TOG II: The Old Gang’s Land Battleship - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Dreams Come True — TOG II: The Old Gang’s Land Battleship
+8 November 2023
+Development
+<>The TOG II is a British experimental superheavy tank developed at the start of WWII in anticipation of a repeat of battlefield conditions as witnessed during WWI, however never saw production or service. This iconic British ironclad will undergo its trial by fire as it arrives to War Thunder as part of the game’s 11th Anniversary in the “Dreams Come True” event!
+<> TOG II: A Premium Heavy Tank for Great Britain at Rank III
+<>Features:
+<>
+94 mm gun!
+Premium bonuses!
+Poor mobility.
+Large silhouette.
+Vehicle History ▼
+<>At the beginning of WWII, the most well-known British tank designers of WWI were assembled into a special task force called the “Special Vehicle Development Committee”. Their objective was to develop a modern successor to the landship designs of WWI as British leaders feared a repeat of the difficult battle conditions faced during the previous war in the coming one. They gave themself the nickname of “The Old Gang”, and the first vehicle the engineering task force developed became known as the TOG I and represented a continuation of the landship design. Despite its impressive armor and firepower however, its design was deemed too dated and mechanical issues further emphasized the need to revise the design.
+<>The successor design, the TOG II, featured contemporary lowered tracks and more reliable electric generators. Ordered in 1940, the TOG II prototype had already been built by early 1941. The TOG II was tested with a number of different weapon layouts and also received a torsion bar suspension system during testing as the lack of one previously caused breakdowns. The TOG II’s final design had a 94 mm gun in a modified A.30 Challenger turret.
+<>At this stage, it was becoming clear that the TOG II wasn’t going to enter production due to its not only dated and overly complex design, but also as the Churchill tank had already been in mass production for several years and had possessed a proven combat record. After the project was canceled, the only built TOG II was placed in storage and was later put on display at The Tank Museum in Bovington where it continues to fascinate tank enthusiasts to this day!
+<> Meet the TOG II!
+<>The anticipated TOG II will soon be joining rank III of the British ground forces tree as a new premium vehicle as part of the game’s “Dreams Come True” 11th anniversary event. A real old school heavy tank — let’s take a look and dive into the details of this awesome tank!
+<> Developer’s note: “ In War Thunder, the TOG II will have two variations to choose from in the form of a modification module: one will be its built prototype form that you may be familiar with that includes its 94 mm gun, and the other will be one of its intended final forms. Its intended final form includes added machine gun sponsons to the side, as well as hatches and a small cannon at the front that can fire smoke shells. We wanted to include its intended final form in some way in order to provide further exciting gameplay opportunities with this tank, as they ultimately enhance its abilities in battle. ”
+<>The first thing that will undoubtedly strike you when seeing the TOG II for the first time is its gargantuan proportions. It's long and probably big enough to hold a party in, but this was a deliberate design choice to use over trenches, which never came about. When it comes to the TOG’s primary armament, it’ll be a strong force to be reckoned with as it’s the powerful 94 mm gun! This gun possesses good rounds and ballistic properties, which means the TOG II will be able to effectively engage most opponents it will meet in battle.
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Interesting: The name “TOG” is actually an acronym of “The Old Gang” which represents the tank designers who developed not only the TOG but also the first tanks of WWI.
+<>The TOG II’s armor is decent for its rank, however is not the best overall, due to its mostly flat armor layout which is a weakness. The performance of the TOG’s diesel generator which supplies power to two electric motors can hardly be called impressive or even decent. Having said this, the TOG II will be more of a fun tank to play around in with your friends due to its meme-like nature. Practically speaking though, the TOG II certainly won’t be a suitable vehicle to lead charges with. Instead, it’ll be better suited to fortify and defend strategic locations from advancing enemies.
+<> In your matches: Pro-tips when using the TOG II by Tom (Oxy), WT Community Manager (TL): “ Keep yourself by cover and avoid sitting out in the open — It's a huge target, especially for aircraft (for real, it has more internal space than my apartment). All-in-all though, it’s not a vehicle to take too seriously, it has huge advantages along with huge disadvantages, and you’ll have the most fun with it if you approach it with that mindset! ”
+<>The legendary TOG II, which we’ve seen your excitement for after last week’s announcement, has finally arrived to War Thunder as part of the game’s on-going “Dreams Come True” 11th anniversary event. Participate and complete 6 stages in this event, and the TOG II will be forever yours!
+<> Click here to find out the details surrounding this event
+Read more:
+HMS Lion: One Last Roar
+14 September 2026
+MiG-35: The Last MiG
+11 September 2026
+H145M: Angry Dragonfly
+11 September 2026
+F-102A Delta Dagger: The “Bear” Hunter
+10 September 2026
+Share the news with your friends!
+<

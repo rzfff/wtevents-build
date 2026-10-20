@@ -1,0 +1,234 @@
+{
+  "generated_at": "2026-09-28",
+  "target": "m1_base.json events with empty name_zh (official timeline skeleton events, 2013-2026)",
+  "proposals": [
+    {
+      "id": "2025_dreams_come_true_xf5u",
+      "name_zh": "梦想成真：XF5U",
+      "basis": "translate",
+      "note": "2025 11月梦想成真任务活动；无官方中文新闻，沿用本表既有同系列条目「梦想成真：KV-7」的定名式样"
+    },
+    {
+      "id": "2023_battle_of_the_atlantic",
+      "name_zh": "大西洋之战",
+      "basis": "official",
+      "note": "游戏内奖励「大西洋之战」加载画面即官方中文叫法（见活动记录 notes），德军潜艇vs护航队不对称海战"
+    },
+    {
+      "id": "2023_dreams_come_true_tog_ii",
+      "name_zh": "梦想成真：TOG II",
+      "basis": "translate",
+      "note": "游戏11周年 Dreams Come True 活动奖励 TOG II；无中文候选文，沿用「梦想成真：KV-7」式样，型号保留原文"
+    },
+    {
+      "id": "2023_tokushu_heiki",
+      "name_zh": "特殊兵器",
+      "basis": "translate",
+      "note": "原名为日文罗马音 Tokushu Heiki，直接还原汉字「特殊兵器」；2023 日系主题拼装活动（F-100F/鞍马/LOSAT）"
+    },
+    {
+      "id": "2022_winter_quest",
+      "name_zh": "冬日任务",
+      "basis": "translate",
+      "note": "2022-23 冬季节日打分任务（T-80UM2/Newport News 等）；中文站无对应文，与既有「节日任务」(Festive Quest) 同族对应译法"
+    },
+    {
+      "id": "2022_worm_thunder",
+      "name_zh": "蠕虫雷霆",
+      "basis": "translate",
+      "note": "2022 愚人节《沙丘》梗对战（沙漠/香料/巨虫）；官方从无中文，B站亦有「虫豸雷霆」叫法，取直译"
+    },
+    {
+      "id": "2021_future_technology",
+      "name_zh": "未来科技",
+      "basis": "translate",
+      "note": "2021 拼装活动（组装『米诺陶』换 SU-76D/XM8/F-4F）；同期中文官网只命名了对战活动「赛博雷霆2077」，本活动直译"
+    },
+    {
+      "id": "2021_tailspin",
+      "name_zh": "尾旋空战",
+      "basis": "translate",
+      "note": "2021 愚人节卡通画风空战（4+年龄分级玩笑，致敬迪士尼 TaleSpin《航空小英雄》）；社区多沿用英文原名，取 tailspin 航空术语直译"
+    },
+    {
+      "id": "2020_operation_w_i_n_t_e_r",
+      "name_zh": "冬日总动员 2020（行动代号：W.I.N.T.E.R.）",
+      "basis": "official",
+      "note": "官方中文道具「兑换道具——冬日总动员」即本活动；加年份与既有 2021 同名条目「冬日总动员（行动代号： W.I.N.T.E.R.）」区分"
+    },
+    {
+      "id": "2020_season_3_road_to_the_west",
+      "name_zh": "第 3 赛季 • 西进之路",
+      "basis": "translate",
+      "note": "世界大战模式第3赛季（2020-07），式样仿本表战斗通行证条目「第 1 赛季 • 二战胜利 75 周年」"
+    },
+    {
+      "id": "2020_winner_vehicles_for_the_victory_anniversary",
+      "name_zh": "胜利周年庆获胜载具",
+      "basis": "translate",
+      "note": "二战胜利75周年：按载具类别完成任务赢取社区票选获胜载具，另得「和平鸽」贴花；直译"
+    },
+    {
+      "id": "2020_space_race",
+      "name_zh": "太空竞赛",
+      "basis": "translate",
+      "note": "2020 愚人节拼装活动（造火箭登月运回 Object 279 部件）；Space Race 标准通用译名"
+    },
+    {
+      "id": "2020_space_thunder",
+      "name_zh": "太空雷霆",
+      "basis": "translate",
+      "note": "2020 愚人节太空平台对战模式（4类太空服）；社区多沿用英文原名，取直译"
+    },
+    {
+      "id": "2020_season_2_attack_from_the_sea",
+      "name_zh": "第 2 赛季 • 海上进攻",
+      "basis": "translate",
+      "note": "世界大战模式第2赛季（2020-01/02），Attack from the Sea 直译"
+    },
+    {
+      "id": "2019_operation_f_r_o_s_t",
+      "name_zh": "2019-20 冬日总动员",
+      "basis": "official",
+      "note": "官方中文涂鸦「2019-20 冬日总动员」即本活动（见 zh_official 冬季道具名），与 Sea Voyage→「2018-19 冬日总动员」序列衔接"
+    },
+    {
+      "id": "2019_war_thunder_reaches_its_7th_year",
+      "name_zh": "战争雷霆七周年庆典",
+      "basis": "translate",
+      "note": "2019 七周年：折扣+11.1-11.5 三选一礼物（A13 Mk.II/D.371/Ya-5M）+7周年贴花；社区通用「七周年」表述"
+    },
+    {
+      "id": "2019_operation_shipyard",
+      "name_zh": "造船厂行动",
+      "basis": "translate",
+      "note": "2019 秋季拼装活动（组装 MBK-161，券换 Whirlwind P.9/VT1-2/H-34）；贴吧情报组亦作「船坞行动」，取直译"
+    },
+    {
+      "id": "2019_season_1_recon_under_fire",
+      "name_zh": "第 1 赛季 • 炮火侦察",
+      "basis": "translate",
+      "note": "世界大战模式第1赛季（2019-05），Recon under fire 直译"
+    },
+    {
+      "id": "2019_earth_thunder",
+      "name_zh": "大地雷霆",
+      "basis": "translate",
+      "note": "2019 愚人节阴谋论风格 UFO 对战（绿丘市竞技场）；B站视频多沿用英文原名，取直译"
+    },
+    {
+      "id": "2018_festive_quest",
+      "name_zh": "节日任务",
+      "basis": "official",
+      "note": "官方/社区通用已知名（勿改写）：2018-19 圣诞打分任务，5/10枚玩具得 M.B.152C1/SU-85A/Fw 190 C/T30"
+    },
+    {
+      "id": "2018_war_thunder_reaches_its_6th_year",
+      "name_zh": "战争雷霆六周年庆典",
+      "basis": "translate",
+      "note": "2018 六周年：海战5胜得 Ya-5M 炮艇+六周年贴花；周年庆典通用表述"
+    },
+    {
+      "id": "2018_chronicles_of_world_war_ii",
+      "name_zh": "二战编年史",
+      "basis": "translate",
+      "note": "2018 马拉松+全服计数拼装（Matilda/PV-2）；游民星空等中文媒体当年即称「二战编年史」"
+    },
+    {
+      "id": "2018_silent_thunder",
+      "name_zh": "寂静雷霆",
+      "basis": "translate",
+      "note": "2018 愚人节核潜艇公开测试（亚森/前卫/弗吉尼亚级）；社区多沿用英文原名，取直译"
+    },
+    {
+      "id": "2018_flying_serpent_crouching_tiger",
+      "name_zh": "飞蛇卧虎",
+      "basis": "translate",
+      "note": "化用《卧虎藏龙》语序：卧虎=动物迷彩虎式，飞蛇=动物迷彩 P-63 眼镜王蛇；2018 拼装合成活动"
+    },
+    {
+      "id": "2017_festivities_in_war_thunder",
+      "name_zh": "战争雷霆节日庆典",
+      "basis": "translate",
+      "note": "2017 年末汇总：圣诞打分任务+胜利礼物（H.39/Pallier D.510）+全系5折；Festivities 直译"
+    },
+    {
+      "id": "2017_war_thunder_5_years",
+      "name_zh": "战争雷霆五周年庆典",
+      "basis": "translate",
+      "note": "2017 五周年：WT5YEARS 兑换码5胜得 M8 Greyhound/I-29；周年庆典通用表述"
+    },
+    {
+      "id": "2017_war_thunder_chronicles",
+      "name_zh": "战争雷霆编年史",
+      "basis": "translate",
+      "note": "2017 专属战斗马拉松（奖章换 Matilda F-96/Excelsior/PV-2D/Yak-3T）；按原名直译，与「二战编年史」系列区分（媒体有混称）"
+    },
+    {
+      "id": "2017_rank_ix",
+      "name_zh": "九级",
+      "basis": "translate",
+      "note": "2017 愚人节「IX 级载具」公开测试（豹2A5/T-90A/Mi-35 等）；官方从无中文名，直译保留梗本身"
+    },
+    {
+      "id": "2016_winter_holiday",
+      "name_zh": "冬日假期",
+      "basis": "translate",
+      "note": "2016-17 冬季假期主题的二战编年史阶段马拉松（Type 62/Me 262A-2a 等）；直译"
+    },
+    {
+      "id": "2016_chronicles_of_world_war_ii",
+      "name_zh": "二战编年史",
+      "basis": "translate",
+      "note": "2016 每日二战战役任务马拉松（Iron Duke/KV-2/MBR-2/P-38J）；中文媒体通用译名，与 2018 年同名活动同名"
+    },
+    {
+      "id": "2016_sailing_fleet",
+      "name_zh": "风帆舰队",
+      "basis": "translate",
+      "note": "2016 愚人节风帆战舰科技树首测（HMS Victory/Golden Hind 等）；直译"
+    },
+    {
+      "id": "2015_war_thunder_fulfills_your_wishes",
+      "name_zh": "战争雷霆满足你的愿望！",
+      "basis": "translate",
+      "note": "2015-16 年终愿望任务（地面线 VK.4501(P)、空中线 P-63C-5）；直译保留感叹号"
+    },
+    {
+      "id": "2015_march_to_victory",
+      "name_zh": "向胜利进军！",
+      "basis": "translate",
+      "note": "2015 愚人节 ST-1 行走坦克加入美/苏/德阵容；直译保留感叹号"
+    },
+    {
+      "id": "2015_unrealistic_battles",
+      "name_zh": "不真实战斗",
+      "basis": "translate",
+      "note": "2015 愚人节恶搞模式（SPS-255 特殊谢尔曼：血条/橡胶装甲/极速10km/h）；与官方模式名「真实战斗」(Realistic Battles) 对应造词"
+    },
+    {
+      "id": "2014_holiday_war_thunder_marathon",
+      "name_zh": "战争雷霆假日马拉松",
+      "basis": "translate",
+      "note": "2014-15 圣诞假日 19 日每日任务马拉松（全成得 I-301/M8A1）；直译"
+    },
+    {
+      "id": "2014_gaijilla",
+      "name_zh": "盖吉拉！",
+      "basis": "translate",
+      "note": "Gaijin+Godzilla 合成词，2014 愚人节开发服务器巨型怪兽 GD-11a；社区多俗称「哥斯拉」，音译保留原梗"
+    },
+    {
+      "id": "2013_winter_magic",
+      "name_zh": "冬日魔法",
+      "basis": "translate",
+      "note": "2013 年末圣诞活动，原文抓取不全、官方从无中文名，直译"
+    },
+    {
+      "id": "2013_little_ponies_in_the_sky",
+      "name_zh": "天空小马",
+      "basis": "translate",
+      "note": "2013 愚人节彩虹小马模式（六色小马街机空战）；B站社区常称「彩虹小马/小马驹」，按原名直译"
+    }
+  ]
+}

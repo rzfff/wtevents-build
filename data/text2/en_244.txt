@@ -1,0 +1,88 @@
+WAR THUNDER CELEBRATES “BEST SIMULATION” AWARD AT GAMESCOM 2013 WITH "GOLDEN FIGHTS"! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+WAR THUNDER CELEBRATES “BEST SIMULATION” AWARD AT GAMESCOM 2013 WITH "GOLDEN FIGHTS"!
+Attention! Outdated news format. Content may not display correctly.
+29 August 2013
+To celebrate the Gamescom award War Thunder presents special event - "Golden Fights" ! This Sunday, 1st of September from 16:00 GMT to 19:00 GMT (from 09:00 PDT to 12:00 PDT) you will earn 100 Golden Eagles for the second victory and 200 Golden Eagles for the fifth victory.
+For the duration of the event "crew lock" in battles will be on.
+Moscow, Russia - August XX, 2013 - Developer and Publisher Gaijin Entertainment today announced that they are the first CIS-located company to win at the Gamescom awards. The company claimed the “Best Simulation” for their hit franchise and military MMO game War Thunder . As one of the most coveted awards in the European games calendar, the Gamescom 2013 awards are nominated by a jury leading games critics from US and Europe’s most respected games media outlets.
+From August 21st - 25th, during Gamescom 2013 tens of thousands of visitors to the Entertainment area of the Koelnmesse in Cologne walked away impressed after trying out the demo version of War Thunder for PS4 for the first time and after experiencing the open beta for PC.
+A PlayStation 4 launch title and currently in open beta for PC, War Thunder is a state-of-the-art next generation MMO combat game that combines unparalleled online gameplay experiences that places players into action filled, highly explosive World War II aerial battles or mobilized over terrain using ground forces.
+“We are blown away to be awarded “Best Simulation” for War Thunder at Gamescom 2013. The show has been one of the most important events in Gaijin Entertainment’s history. We unveiled the PS4 version to the public and demonstrated the ferocity of tank warfare and our support for Oculus Rift behind closed doors to the selected press. We would also like to thank the thousands of attendees who played through the demo in the Entertainment area and for their fantastic feedback in what is shaping up to be the biggest game in our history.” says Anton Yudintsev, CEO, Gaijin Entertainment.
+We would also like to present CGI-trailer, that was introduced on Gamescom.
+Discuss on the Official Forum .
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

@@ -1,0 +1,90 @@
+[Special] Jack Northrop's Anniversary - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Jack Northrop's Anniversary
+Attention! Outdated news format. Content may not display correctly.
+10 November 2014
+Special
+Camo for A-20G named “Butch” from the 410th Bomb Group, 647th Bomb Squadron | Made by SkyPainter303 , download here !
+From 10th November 17:00 GMT till 11th November 17:00 GMT
+30% more RP gain on A20-G
+John Knudsen “Jack” Northrop was born on 10th of November 1895, in New Jersey, USA. Following a cared childhood in California, Northrop began his career in the aviation industry around the age of 20, when he joined the Lockheed Aircraft Manufacturing Company in 1916 as an engineer.
+During his time at Lockheed he was responsible for designing the wings of the F-1 flying boat as well as the light S-1 biplane, advancing his skills as an aircraft engineer. After working for Douglas Aircraft Company and Lockheed, he founded his first own company, the Avion Corporation, in 1928, where he also experimented with flying wing aircraft designs.
+In 1939 Northrop and his company shifted focus towards military aviation, and during World War II Northrop was involved in many military designs, including the development of his own Northrop P-61 “Black Widow”, which later became the first night fighter of the US Army Air Force.
+Jack Northrop was also involved in the design of what would later become the A-20 series of US attack aircraft, together with fellow aircraft designers Donald Douglas and Ed Heinemann. The most produced series, the A-20G with around 2850 examples, was introduced in February 1943 and served until the end of the war. Powered by 1.600 hp R-2600-23 engines, the A-20G originally featured an armament of four 20 mm Hispano-Suiza HS.404 machine cannons along with two .50 cal machine guns, but the unreliable cannons were later replaced by a total of six .50 cal machine guns. Used by the US forces primarily in the Pacific, variants of the A-20 fought on all theatres of the war, including Western Europe and the Eastern Front.
+<> The War Thunder Team
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

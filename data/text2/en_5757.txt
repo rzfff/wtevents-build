@@ -1,0 +1,82 @@
+[Event]Tanker day of Russia - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Tanker day of Russia
+Attention! Outdated news format. Content may not display correctly.
+7 September 2018
+Event
+<>
+We are preparing for an important event for the game - update 1.81 “The Valkyries” and to brighten up the waiting we have a special event for you.
+<>From 15:00 GMT on the 7th of September till 07:00 GMT on the 10th of September
+<>Win 5 times in random battles whilst driving ground vehicles of rank III or higher and get a new 3D decoration - “Intercom headset”, or you can purchase this prize with Golden Eagles (till 07:00 on the 10th of September).
+<>You can follow your progress by clicking on your nickname → Achievements → Tanker’s Day.
+3D decoration "Intercom headset"
+<>Features
+<>Battle locations: “Port Novorossiysk”, “Abandoned factory”, “Stalingrad”, “El Alamein” and “Advance to the Rhine”.
+<>There’s a bonus that can be picked up during battle that includes:
+<>Artillery — an extremely powerful strike that destroys anything within specific radius but it takes a while before the barrage begins. Available for all vehicle types. Is not available at the end of the battle.
+<>Repair kit - repairs all modules and restores all ammo.
+<>Med kit — restores the crew.
+<>Fire extinguisher - puts out fires, surprisingly..
+<>The leaderboard is disabled for this event.
+<>You may participate in vehicles of BRs from 4.7 to 6.7.
+<>Your enemies will be matched on a “Battle Rating” basis, same as in random battles .
+<>You can only play solo (not as squad).
+<>The War Thunder Team
+<>
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

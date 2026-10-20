@@ -1,0 +1,90 @@
+[Special] [Video] [Shop] Moments of Valor: Spain - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Moments of Valor: Spain
+12 October 2025
+Special
+Video
+Shop
+<>October 12th marks the National Day of Spain, commemorating Christopher Columbus’s discovery of America on this day in 1492 under the flag of the Spanish Crown. October 12th also marks Spanish Language Day, the native language of nearly 500 million people worldwide.
+<>In honor of this event, we’re pleased to present a new video in our popular Moments of Valor series, dedicated to Spain!
+<>Check out the “Todo por la Patria” Bundle!
+“Todo por la Patria” Bundle
+This bundle includes:
+<>F/A-18C Hornet (Swiss) Pack
+<>Mirage F1C-200 Pack
+<>BO 105 CB-2 Pack
+<>VRCC Centauro Pack
+<>F-104S TAF Pack
+<>Unique title: “Everything for the Fatherland”
+320 160
+Store
+<>Packs included in this bundle are also available for purchase separately with a 30% discount!
+<> Packs with a 30% discount
+<>The bundle is available until October 19th 11:00 (GMT). Available for PC users only.
+<>Players on all platforms who already own all vehicles in the bundle can also earn the title by playing 3 battles with each vehicle before October 19th. You can complete the task in random battles, except for [Assault] mode. Track your progress in the hangar by clicking Nickname → Achievements → Holidays → Moments of Valor: Spain.
+<> Check out some unique Spanish camouflages !
+<>The following camouflages are permanently available in-game for Golden Eagles:
+<> VRCC Centauro (rank VI, Italy) — unique “Castillejos” camouflage
+<> F/A-18C Hornet (Swiss) ( rank VIII, Germany) — unique “Tiger Meet 2016” camouflage
+<> F-104S TAF ( rank VII, Italy ) — unique “C8-12” camouflage
+<> EF-2000 ( rank VIII, Italy ) — unique “С. 17-24” camouflage
+<> Flegel’s Bf 109 A ( rank I, Germany ) — unique “Spain 1936” camouflage
+<> Mirage F1C-200 ( rank VII, France) — unique “Tiger Meet 2012” camouflage
+<> BO 105 CB-2 (r ank V, Germany ) — unique “1st Attack Helicopter Battalion” camouflage
+Read more:
+Meet the “Sky Odyssey” Major Update!
+16 September 2026
+Get the F-16XL in the Space Program Event!
+31 August 2026
+Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!
+20 July 2026
+Moments of Valor: Saudi Arabia
+23 September 2026
+Share the news with your friends!
+<

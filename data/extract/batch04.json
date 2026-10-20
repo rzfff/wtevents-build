@@ -1,0 +1,261 @@
+{
+  "results": [
+    {
+      "key": "2023_legend_of_victory_bm_31_12_andryusha",
+      "start_override": "2023-05-10T11:00:00Z",
+      "end": "2023-05-22T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 10th (11:00 GMT) until May 22nd (11:00 GMT)",
+      "type": "marathon",
+      "name_zh": "胜利传奇：BM-31-12“安德柳沙”",
+      "zh_id": 995,
+      "deadlines": [
+        {"what": "未完成阶段金鹰补购截止", "when": "2023-05-25"},
+        {"what": "炸药箱与撬棍从库存移除", "when": "2023-06-05T12:00:00Z"}
+      ],
+      "discounts": [],
+      "tasks": "陆战III级+(街机/历史/全真)攒任务分,每阶段35000分,共6阶段,每两日11:00 GMT刷新;6阶段得高级载具BM-31-12,2-5阶段附撬棍,I-II级活动载具可计分。",
+      "sub_events": [
+        {"title": "Demolition crate 炸药箱开箱", "start": "2023-05-10T12:00:00Z", "end": "2023-06-05T12:00:00Z", "note": "银狮购炸药箱(10000)与撬棍(50000)开箱,含二战编年史/三季世界大战/史海拾遗/历届周年与上届胜利传说物品,部分首次以兑换券形式可上市场"}
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "key": "2022_dreams_come_true_sturmtiger",
+      "start_override": "2022-10-31T11:00:00Z",
+      "end": "2022-11-14T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 11:00 GMT on the 31st of October until 11:00 GMT on the 14th of November",
+      "type": "marathon",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "未完成阶段金鹰补购截止", "when": "2022-11-16"}
+      ],
+      "discounts": [],
+      "tasks": "陆战III级+(街机/历史/全真)攒任务分,每阶段35000分,共7阶段,每两日11:00 GMT刷新;6阶段得活动载具38cm突击虎,7阶段得加载画面。",
+      "sub_events": [],
+      "confidence": 0.95,
+      "notes": "成就归档于“周年庆→梦想成真”,属10周年“梦想成真”系列;无中文版候选"
+    },
+    {
+      "key": "2022_legend_of_victory_is_2_321",
+      "start_override": "2022-05-11T11:00:00Z",
+      "end": "2022-05-23T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 11th (11:00 GMT) till May 23rd (11:00 GMT)",
+      "type": "marathon",
+      "name_zh": "胜利传奇：IS-2 321号",
+      "zh_id": 623,
+      "deadlines": [
+        {"what": "未完成阶段金鹰补购截止", "when": "2022-05-25"}
+      ],
+      "discounts": [],
+      "tasks": "随机战斗III级+(街机/历史/全真)攒任务分,每阶段25000分,共6阶段,每两日11:00 GMT刷新;5阶段得活动载具IS-2白色321号,科技树中与IS-2折叠。",
+      "sub_events": [],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "key": "2023_battle_of_the_atlantic",
+      "start_override": "2023-11-03T11:00:00Z",
+      "end": "2023-11-13T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From November 3rd (11:00 GMT) until November 13th (11:00 GMT)",
+      "type": "special",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "未完成阶段金鹰补购截止", "when": "2023-11-16"}
+      ],
+      "discounts": [],
+      "tasks": "德军VII型潜艇vs美军护航队不对称海战特殊任务;每阶段需美、德双方各1500任务分,共5阶段,每两日11:00 GMT刷新;5阶段得贴花+头像+加载画面。",
+      "sub_events": [],
+      "confidence": 0.95,
+      "notes": "完成5阶段者活动结束后仍可在加载画面筛选器继续使用“大西洋之战”加载画面;无中文版候选"
+    },
+    {
+      "key": "2019_war_thunder_reaches_its_7th_year",
+      "start_override": null,
+      "end": "2019-10-29",
+      "end_precision": "day",
+      "end_raw": "In-game discounts from the 23rd to the 29th of October",
+      "type": "anniversary",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [
+        {"what": "“1vs1”历史混合锦标赛报名截止(11.9开打,奖A33 Excelsior券+金鹰)", "when": "2019-11-09T14:00:00Z"}
+      ],
+      "discounts": [
+        {"target": "载具", "item": "全部改装件/备用载具/涂装符 -50%", "percent": 50, "note": "10.23-10.29"},
+        {"target": "高级账户", "item": "90/365天高级账户 -50%", "percent": 50, "note": "10.23-10.29"},
+        {"target": "载具", "item": "全载具(银狮/金鹰) -50%,不含1.91新载具与中队载具", "percent": 50, "note": "分批9:00 GMT切换:日法意10.23-25,美苏10.25-27,德英10.27-29"},
+        {"target": "礼包", "item": "Gaijin.Net商城载具礼包 -50%", "percent": 50, "note": "11.1 11:00-11.8 09:00 GMT"},
+        {"target": "捆绑包", "item": "PS/Xbox商店载具捆绑包 -50%", "percent": 50, "note": "11.1-11.8"}
+      ],
+      "tasks": "11.1-11.5礼物三选一:陆战5胜得A13 Mk.II/空战5胜得D.371/海战5胜得Ya-5M(II级+,活跃度≥60%);任一场活跃度≥50%得7周年贴花。",
+      "sub_events": [
+        {"title": "周年礼物三选一+纪念贴花", "start": "2019-11-01T11:00:00Z", "end": "2019-11-05T07:00:00Z", "note": "赢5场得礼:陆战A13 Mk II 1939/空战D.371 H.S.9/海战Ya-5M,三选一"},
+        {"title": "商城折扣", "start": "2019-11-01T11:00:00Z", "end": "2019-11-08T09:00:00Z", "note": "Gaijin商城礼包与PS/Xbox捆绑包 -50%"},
+        {"title": "1vs1锦标赛(Excelsior+金鹰)", "start": "2019-11-09", "end": null, "note": "11.9 14:00 GMT前报名,历史混合1v1,可赢A33 Excelsior券与金鹰"}
+      ],
+      "confidence": 0.8,
+      "notes": "正文无整体结束句,end取主折扣窗口;礼物/商城/锦标赛延续至11月上旬。既往商城独占高级载具7台(M47G Patton II/MB.5/Ki-87/G.55S/IS-2复仇/M18黑猫/Char B1 ter)11.1起金鹰入树"
+    },
+    {
+      "key": "2018_war_thunder_reaches_its_6th_year",
+      "start_override": "2018-10-26T12:00:00Z",
+      "end": "2018-11-01T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "12:00 GMT on the 26th of October — 11:00 GMT on the 1st of November",
+      "type": "anniversary",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [],
+      "discounts": [
+        {"target": "载具", "item": "全部改装件/备用载具/涂装符 -50%(海军除外)", "percent": 50, "note": "10.26 12:00-11.1 11:00 GMT"},
+        {"target": "高级账户", "item": "90/365天高级账户 -50%", "percent": 50, "note": "同主窗口"},
+        {"target": "载具", "item": "全部陆战与空军载具 -50%(除1.81/1.83新载具)", "percent": 50, "note": "分批:美苏10.26-28,德英10.28-30,日法意10.30-11.1"},
+        {"target": "礼包", "item": "Gaijin商城载具礼包 -50%(除1.79-1.83新载具)", "percent": 50, "note": "11.1-11.7"},
+        {"target": "捆绑包", "item": "PS商店载具捆绑包 -50%", "percent": 50, "note": "10.24-11.7"},
+        {"target": "捆绑包", "item": "Xbox商店载具捆绑包 -50%", "percent": 50, "note": "11.1-11.12"}
+      ],
+      "tasks": "11.1 11:00-11.5 07:00 GMT:海战胜5场(活跃度≥50%,需操控舰艇)得苏联Ya-5M炮艇;任一场活跃度≥50%得“六周年”贴花。",
+      "sub_events": [
+        {"title": "Ya-5M礼物+纪念贴花", "start": "2018-11-01T11:00:00Z", "end": "2018-11-05T07:00:00Z", "note": "胜5场海战(活跃度≥50%)得Ya-5M"},
+        {"title": "回归高级载具金鹰出售", "start": "2018-11-01", "end": null, "note": "每国一台:Be-6/Grant Mk I/Sherman Firefly Ic/AMX-13 SS.11/Type 97 Chi-Ha 12cm/Pz.IV/70(A)/Hs 129-B2(意)"},
+        {"title": "锦标赛:E-100与He 162 A-1券", "start": "2018-11-04", "end": "2018-11-24", "note": "各锦标赛优胜者得E-100/He 162 A1兑换券,可自留或上市场"}
+      ],
+      "confidence": 0.85,
+      "notes": "已购德国树Hs 129-B2者保留原位置;PS商店折扣(10.24起)早于游戏内折扣开跑"
+    },
+    {
+      "key": "2017_war_thunder_5_years",
+      "start_override": null,
+      "end": "2017-11-06",
+      "end_precision": "day",
+      "end_raw": "The Celebration will take place from October the 27th to November the 6th",
+      "type": "anniversary",
+      "name_zh": null,
+      "zh_id": null,
+      "deadlines": [],
+      "discounts": [
+        {"target": "载具", "item": "全部改装件/备份/涂装符 -50%", "percent": 50, "note": "10.27 14:00-11.1 11:00 GMT"},
+        {"target": "高级账户", "item": "90/365天高级账户 -50%", "percent": 50, "note": "同窗口"},
+        {"target": "载具", "item": "全部载具 -50%(除1.71/1.73新金币载具与海军礼包)", "percent": 50, "note": "三批:10.27 14:00-10.29 11:00/10.28 11:00-10.30 11:00/10.30 11:00-11.1 11:00 GMT"},
+        {"target": "礼包", "item": "Gaijin商城载具礼包 -50%", "percent": 50, "note": "11.1 15:00-11.6;PS商店11.1-11.8"}
+      ],
+      "tasks": "11.1-11.3激活WT5YEARS码后5胜:陆战5胜得M8 Greyhound、空战5胜得I-29(III级+,活跃度≥60%,随机战);11.3-11.6胜一场领金鹰回馈/FB问答奖。",
+      "sub_events": [
+        {"title": "WT5YEARS兑换码载具赠送", "start": "2017-11-01T11:00:00Z", "end": "2017-11-03T11:00:00Z", "note": "码在5周年专页激活;5胜陆战得M8,5胜空战得I-29"},
+        {"title": "首胜x5研发加成", "start": "2017-11-01T11:00:00Z", "end": "2017-11-03T11:00:00Z", "note": "11.1 00:00-11:00 GMT的胜场可于11.2 00:00-11.3 11:00 GMT领取x5"},
+        {"title": "商城折扣", "start": "2017-11-01T15:00:00Z", "end": "2017-11-06", "note": "Gaijin礼包-50%(除1.71载具/法机/海军礼包);PS商店11.1-11.8"},
+        {"title": "金鹰回馈+FB问答", "start": "2017-11-03T11:00:00Z", "end": "2017-11-06T11:00:00Z", "note": "历史充值1000-5000GE返150GE、>5000返500GE,胜一场即得;FB答题得Mastermind称号与按账号龄递增的加成卡"},
+        {"title": "E-100/He 162 A1锦标赛系列", "start": null, "end": null, "note": "日期后公告,团体与单人多场赛事,奖品E-100与He 162 A1 Salamander"}
+      ],
+      "confidence": 0.8,
+      "notes": "庆典总窗口10.27-11.6,各子活动窗口不一;稀有载具详情11.1另行公告"
+    },
+    {
+      "key": "2026_space_program",
+      "start_override": "2026-09-03T11:00:00Z",
+      "end": "2026-09-21T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From September 3rd (11:00 GMT) until September 21st (11:00 GMT)",
+      "type": "marathon",
+      "name_zh": "太空计划重燃，F-16XL 验证机登场！",
+      "zh_id": 2749,
+      "deadlines": [
+        {"what": "金鹰补购阶段与“兑换券强化”道具使用截止(过期删除,可换战争债券)", "when": "2026-09-25T11:00:00Z"}
+      ],
+      "discounts": [
+        {"target": "战斗通行证跳级", "item": "金鹰购阶段:85%进度半价(39000分→499GE),95%进度1/5价(43000分→199GE)", "percent": 50, "note": "进度越接近完成折扣越大"}
+      ],
+      "tasks": "空战III级+(街机/历史/全真)攒分,每阶段45000分,共9阶段,两日一刷(9/5-9/19);8阶段得F-16XL不可交易券,9阶段得专属涂装;75万分得“兑换券强化”转可交易券。",
+      "sub_events": [],
+      "confidence": 0.97,
+      "notes": "可交易券转换6天后方可出售;与中文版(2749)互证一致"
+    },
+    {
+      "key": "2026_guardian_of_the_baltic_sea",
+      "start_override": "2026-08-13T11:00:00Z",
+      "end": "2026-08-27T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From August 13th (11:00 GMT) until August 27th (11:00 GMT)",
+      "type": "marathon",
+      "name_zh": "新一轮海战活动现已开启：十月革命号守卫波罗的海！",
+      "zh_id": 2715,
+      "deadlines": [
+        {"what": "金鹰补购阶段与“兑换券强化”道具使用截止(过期删除,可换战争债券)", "when": "2026-08-31T11:00:00Z"}
+      ],
+      "discounts": [
+        {"target": "战斗通行证跳级", "item": "金鹰购阶段:85%进度半价(30000分→349GE),95%进度1/5价(33500分→199GE)", "percent": 50, "note": "进度越接近完成折扣越大"}
+      ],
+      "tasks": "海战III级+(街机/历史)攒分,每阶段35000分,共7阶段,两日一刷(8/15-8/25);7阶段得“十月革命号”不可交易券;60万分得“兑换券强化”转可交易券。",
+      "sub_events": [],
+      "confidence": 0.97,
+      "notes": ""
+    },
+    {
+      "key": "2026_scimitar_strike",
+      "start_override": "2026-07-22T11:00:00Z",
+      "end": "2026-08-05T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From July 22nd (11:00 GMT) until August 5th (11:00 GMT)",
+      "type": "marathon",
+      "name_zh": "弯刀出鞘活动现已开启，完成任务即可解锁弯刀 Mk.2！",
+      "zh_id": 2697,
+      "deadlines": [
+        {"what": "金鹰补购阶段与“兑换券强化”道具使用截止(过期删除,可换战争债券)", "when": "2026-08-10T11:00:00Z"}
+      ],
+      "discounts": [
+        {"target": "战斗通行证跳级", "item": "金鹰购阶段:85%进度半价(30000分→349GE),95%进度1/5价(33500分→139GE)", "percent": 50, "note": "进度越接近完成折扣越大"}
+      ],
+      "tasks": "陆战III级+(街机/历史/全真)攒分,每阶段35000分,共7阶段,两日一刷(7/24-8/3);7阶段得弯刀Mk.2不可交易券;60万分得“兑换券强化”。",
+      "sub_events": [],
+      "confidence": 0.97,
+      "notes": ""
+    },
+    {
+      "key": "2026_wings_over_water",
+      "start_override": "2026-06-03T11:00:00Z",
+      "end": "2026-06-15T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From June 3rd (11:00 GMT) until June 15th (11:00 GMT)",
+      "type": "marathon",
+      "name_zh": "翼行水上：喷火水上飞机现已登场！",
+      "zh_id": 2620,
+      "deadlines": [
+        {"what": "金鹰补购阶段与“兑换券强化”道具使用截止(过期删除,可换战争债券)", "when": "2026-06-19T11:00:00Z"}
+      ],
+      "discounts": [
+        {"target": "战斗通行证跳级", "item": "金鹰购阶段:85%进度半价(26000分→299GE),95%进度1/5价(29000分→119GE)", "percent": 50, "note": "进度越接近完成折扣越大"}
+      ],
+      "tasks": "空战III级+(街机/历史/全真)攒分,每阶段30000分,共6阶段,两日一刷(6/5-6/13);6阶段得喷火Mk Vb水上型(高级)不可交易券;50万分得“兑换券强化”。",
+      "sub_events": [],
+      "confidence": 0.97,
+      "notes": ""
+    },
+    {
+      "key": "2026_marine_gendarme",
+      "start_override": "2026-05-20T11:00:00Z",
+      "end": "2026-06-01T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From May 20th (11:00 GMT) until June 1st (11:00 GMT)",
+      "type": "marathon",
+      "name_zh": "海上宪兵长剑出鞘，新一轮海战活动现已开启！",
+      "zh_id": 2598,
+      "deadlines": [
+        {"what": "金鹰补购阶段与“兑换券强化”道具使用截止(过期删除,可换战争债券)", "when": "2026-06-05T11:00:00Z"}
+      ],
+      "discounts": [
+        {"target": "战斗通行证跳级", "item": "金鹰购阶段:85%进度半价,95%进度1/5价(英文示例30000分→349GE/33500分→199GE)", "percent": 50, "note": "中文版示例为299/119GE,与英文版不一致"}
+      ],
+      "tasks": "海战III级+(街机/历史)攒分,每阶段35000分,共6阶段,两日一刷(5/22-5/30);6阶段得“长剑”号巡逻艇不可交易券;50万分得“兑换券强化”。",
+      "sub_events": [],
+      "confidence": 0.95,
+      "notes": "中文版示例金鹰价(299/119)与英文版(349/199)不一致;中文版“兑换券强化”获取期写至6月18日19:00,疑为6月1日之误"
+    }
+  ]
+}

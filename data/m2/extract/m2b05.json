@@ -1,0 +1,886 @@
+{
+  "results": [
+    {
+      "aid": 3078,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "War Thunder Skin, Screenshot and Video Competition - April winners",
+      "name_en": "War Thunder Skin, Screenshot and Video Competition - April winners",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "月度皮肤/截图/视频竞赛4月获奖名单公告(1500/2000/5000金鹰等奖励已定),非游戏内活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3103,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Operation \"Chastise\"",
+      "name_en": "Operation \"Chastise\"",
+      "name_zh": null,
+      "start": "2015-05-15T15:00:00Z",
+      "end": "2015-05-18T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT 15th of May till 07:00 GMT 18th of May, 2015",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "在历史性RB事件Operation Chastise中任英军轰炸机/护航机或德军拦截机参战,重现1943年鲁尔水坝轰炸。",
+      "sub_events": [],
+      "notes": "纯历史战斗事件,正文未列奖励载具",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3141,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "War Thunder on Aerofestival 2015!",
+      "name_en": "War Thunder on Aerofestival 2015!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "线下推广:波兰波兹南Aerofestival 2015航展(6月13-14日)设展台试玩,非游戏内活动",
+      "confidence": 0.85
+    },
+    {
+      "aid": 3170,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "50% off for 'Dora', 'P-47M' and 'La-7' Packs",
+      "name_en": "50% off for 'Dora', 'P-47M' and 'La-7' Packs",
+      "name_zh": null,
+      "start": "2015-06-18T16:00:00Z",
+      "end": "2015-06-22T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 16.00 GMT on June 18th to 07.00 GMT on June 22nd, 2015",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "'Dora' Advanced Pack(Fw.190D-13+15天高级账户+1000金鹰) 29.99→15.00",
+          "percent": 50,
+          "note": "Dora 窗口较短:6月18日16:00 GMT 至 6月20日07:00 GMT"
+        },
+        {
+          "target": "礼包",
+          "item": "George Bostwick's P-47M-1-RE Thunderbolt(含15天高级账户) 29.99→15.00",
+          "percent": 50,
+          "note": null
+        },
+        {
+          "target": "礼包",
+          "item": "Sergei Dolgushin's La-7(含15天高级账户) 22.99→11.50",
+          "percent": 50,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "活动期内在官方在线商城以五折购买社区投票选出的三款金币机礼包。",
+      "sub_events": [],
+      "notes": "社区投票选出;Dora 至6月20日,另两包至6月22日",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3174,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Devblog Marathon",
+      "name_en": "Devblog Marathon",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "社交媒体开发博客马拉松宣传:关注FB/G+/Twitter看1.51更新内容,每周主播小游戏送金鹰;无具体活动窗口",
+      "confidence": 0.85
+    },
+    {
+      "aid": 3228,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Prize Question!",
+      "name_en": "Prize Question!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "社区问答竞赛(配合gamescom 2015):论坛/社媒向CEO提问,最高票问题作者赢ZOTAC GTX 750显卡,入围十问得Crossout封测资格+1000金鹰;非游戏内活动",
+      "confidence": 0.75
+    },
+    {
+      "aid": 3237,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Prize Question: The Vote!",
+      "name_en": "Prize Question: The Vote!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Prize Question 系列投票阶段:入围问题增至10个,投票者抽Crossout封测资格与1000金鹰;gamescom 2015后另文公布答案;非游戏内活动",
+      "confidence": 0.75
+    },
+    {
+      "aid": 3240,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Black Thursday Events",
+      "name_en": "Black Thursday Events",
+      "name_zh": null,
+      "start": "2015-07-31T15:00:00Z",
+      "end": "2015-08-03T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15:00 GMT 31st July to 07:00 GMT 3rd August",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "参与朝鲜地图历史事件Black Thursday(1951米格走廊B-29空战)及V级喷气机/陆军5v5锦标赛。",
+      "sub_events": [
+        {
+          "name": "V Rank - 5 Jets and Ground Forces Tournaments",
+          "start": "2015-07-31T15:00:00Z",
+          "end": "2015-08-03T07:00:00Z",
+          "note": "与历史事件同窗口"
+        }
+      ],
+      "notes": "文内12th FBS 'Foxy Few'与8th Kings Royal Irish Hussars涂装为后续更新内容,非本次奖励",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3242,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Gaijin.Net Store redesign",
+      "name_en": "Gaijin.Net Store redesign",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "商城改版公告:更名Gaijin.Net Store,新增纯高级账户商品与礼包赠送(gift key)功能;无时间窗口",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3249,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "Summertime Madness",
+      "name_en": "Summertime Madness",
+      "name_zh": null,
+      "start": "2015-08-06",
+      "end": "2015-08-17",
+      "end_precision": "day",
+      "end_raw": "from August 6th to August 17th complete the tasks",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "KV-1B (Germany)",
+        "P-63A-10 (USSR)",
+        "unique 'Madman!' title",
+        "Madness trophies",
+        "March to Victory! tournament ticket",
+        "500 000+ Golden Eagles prize fund"
+      ],
+      "tasks": "8月6-17日每日完成空/地任务(共20个,II-V级,胜利任务需60%活跃),得Madness奖箱;全部完成得'Madman!'称号;可购票参加锦标赛。",
+      "sub_events": [
+        {
+          "name": "'March to Victory!' tournament (ST-1 walking tank)",
+          "start": "2015-08-07",
+          "end": "2015-08-19T08:00:00Z",
+          "note": "工作日17:00-22:00 GMT;8月14日15:00至17日08:00 GMT连续开放;每5胜1票、每10胜1箱;按名次瓜分50万金鹰,击毁最多非AI敌人另得5万"
+        }
+      ],
+      "notes": "空中线任务提高P-63A-10概率,地面线提高KV-1B概率;奖箱亦可从商店购买;8月14日段另有Floats事件、8月17日段另有Rapid fire事件配合任务",
+      "confidence": 0.85
+    },
+    {
+      "aid": 3255,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Creating 3D Models for aircraft in War Thunder",
+      "name_en": "Creating 3D Models for aircraft in War Thunder",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "CDK教学/宣传文:用内容开发套件制作飞机3D模型与座舱;非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3266,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "'The Hardest Day' Events",
+      "name_en": "'The Hardest Day' Events",
+      "name_zh": null,
+      "start": "2015-08-18T15:00:00Z",
+      "end": "2015-08-19T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15.00 GMT on August the 18th to 15.00 GMT on August the 19th, 2015",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "通过Events & Tournaments加入:AB玩[Air Domination] Britain,RB/SB玩The Hardest Day,重现1940年8月18日不列颠空战。",
+      "sub_events": [],
+      "notes": "无奖励说明,纯历史事件",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3276,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Prize Question: The Winners!",
+      "name_en": "Prize Question: The Winners!",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Prize Question竞赛获奖名单公告(显卡/Crossout封测资格/1000金鹰,下周初发放);非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3294,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Structures of Aircraft",
+      "name_en": "Structures of Aircraft",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "Wiki科普文:飞机结构材料(木/钢/铝)发展史,作者Joe Kudrna;非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3317,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "75 Years Anniversary - Battle of Britain - September 19th to 21st",
+      "name_en": "75 Years Anniversary - Battle of Britain - September 19th to 21st",
+      "name_zh": null,
+      "start": "2015-09-15T15:00:00Z",
+      "end": "2015-09-21T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from 15:00 GMT 15 September, to 15:00 GMT 21 September",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "Battle Trophy"
+      ],
+      "tasks": "9月19-21日驾英/德战机取胜得'Battle Trophy'(进度见成就页75 years Battle of Britain);开放[Air Domination] Britain(AB)与[Operation] Britain(RB/SB)。",
+      "sub_events": [
+        {
+          "name": "Specials and Events for September 19th to 21st ([Air Domination] Britain / [Operation] Britain)",
+          "start": "2015-09-19",
+          "end": "2015-09-21",
+          "note": "标题所列重点时段;整体活动周为9月15-21日"
+        }
+      ],
+      "notes": "不列颠空战75周年纪念活动周",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3323,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "68th Anniversary of the U.S. Air Force",
+      "name_en": "68th Anniversary of the U.S. Air Force",
+      "name_zh": null,
+      "start": "2015-09-18T13:00:00Z",
+      "end": "2015-09-19T13:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 13:00 GMT on the 18th of September to 13:00 GMT on the 19th of September",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "personal discount for one of the premium U.S. aircraft"
+      ],
+      "tasks": "美空军成立68周年:驾驶美系飞机取得3胜(战斗活跃度≥60%),得一款美系金币机个人折扣。",
+      "sub_events": [],
+      "notes": "文内'12%''60%'为陆军伤亡占比与活跃度要求,非购物折扣",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3335,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Discounts when using Paypal!",
+      "name_en": "Discounts when using Paypal!",
+      "name_zh": null,
+      "start": "2015-09-24",
+      "end": "2015-10-24T20:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "from September 24th to October 24th 8PM GMT",
+      "discounts": [
+        {
+          "target": "多种商品",
+          "item": "Gaijin.Net商店WT/Star Conflict特价礼包,PayPal支付享12%折扣",
+          "percent": 12,
+          "note": "聚合:含SdKfz 140/1、T-26E、D.520、T-34 mod.1941、Panzer IV/70(A)、Yak-9M、M5A1等礼包(各含金鹰/高级账户)"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "9月24日至10月24日在Gaijin.Net商店用PayPal购买特价礼包享12%折扣。",
+      "sub_events": [],
+      "notes": "开始时间原文仅给日期,结束带8PM GMT时刻",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3354,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "'Large Calibres!' Event",
+      "name_en": "'Large Calibres!' Event",
+      "name_zh": null,
+      "start": "2015-10-02T15:00:00Z",
+      "end": "2015-10-05T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15.00 GMT on the 2nd of October to 09.00 GMT on the 5th of October, 2015",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "用指定大口径载具(P-39/P-63系、PBJ-1H、Me 410、Yak-9T/K等)参加街机事件Large Calibres!,享+20%研发点与+20%银狮。",
+      "sub_events": [],
+      "notes": "文内两处+20%为事件内RP/银狮加成,非购物折扣;允许载具全表见正文",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3395,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "War Thunder Birthday Wishes",
+      "name_en": "War Thunder Birthday Wishes",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [
+        {
+          "what": "社区投票截止(票选5个周年庆五折礼包)",
+          "when": "2015-10-30"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "三周年(11月1日)献礼预告+社区投票:从候选礼包中票选5个在周年庆打五折;本身非游戏内活动",
+      "confidence": 0.85
+    },
+    {
+      "aid": 3396,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Community Wishlist: 50% off select packs!",
+      "name_en": "Community Wishlist: 50% off select packs!",
+      "name_zh": null,
+      "start": "2015-10-30T15:00:00Z",
+      "end": "2015-11-02T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15.00 GMT on October 30th until 07.00 GMT on November 2nd",
+      "discounts": [
+        {
+          "target": "礼包",
+          "item": "Pacific Advanced Pack(XP-38G+A6M5 Ko+两太平洋战役+30天高级+5000金鹰) 49.99→24.99",
+          "percent": 50,
+          "note": "社区票选#1"
+        },
+        {
+          "target": "礼包",
+          "item": "T-34-85E with mesh screens(含15天高级账户) 29.99→14.99",
+          "percent": 50,
+          "note": "社区票选#2"
+        },
+        {
+          "target": "礼包",
+          "item": "Fire and Maneuver Advanced Pack(Pz.II Ausf.H+Bf 109G-2+15天高级+1500金鹰) 22.99→11.49",
+          "percent": 50,
+          "note": "社区票选#3"
+        },
+        {
+          "target": "礼包",
+          "item": "James Prendergast's Spitfire FR Mk.XIVe(含15天高级账户) 29.99→14.99",
+          "percent": 50,
+          "note": "社区票选#4"
+        },
+        {
+          "target": "礼包",
+          "item": "Shielded T-34E(30天高级账户+2000金鹰) 25.99→12.99",
+          "percent": 50,
+          "note": "社区票选#5"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "周年庆+万圣节周末:社区票选出的5款礼包在商城五折出售。",
+      "sub_events": [],
+      "notes": "三周年系列 specials 的折扣部分",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3397,
+      "lang": "en",
+      "is_event": true,
+      "type": "anniversary",
+      "title": "War Thunder: 3 Years Anniversary Specials",
+      "name_en": "War Thunder: 3 Years Anniversary Specials",
+      "name_zh": null,
+      "start": "2015-10-30T15:00:00Z",
+      "end": "2015-11-03T15:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15.00 GMT on October 30th to 15.00 GMT on November 3rd",
+      "discounts": [
+        {
+          "target": "高级账户",
+          "item": "90天高级账户 4900→2450;1年高级账户 14900→7450",
+          "percent": 50,
+          "note": "10月30日15:00至11月3日07:00 GMT"
+        },
+        {
+          "target": "多种商品",
+          "item": "全部载具(含金币机)/全部改装件/全部护身符/全部备份机 五折",
+          "percent": 50,
+          "note": "聚合;10月30日15:00至11月2日07:00 GMT"
+        },
+        {
+          "target": "礼包",
+          "item": "社区票选5礼包半价(Pacific Advanced、T-34-85E、Fire and Maneuver、Prendergast's Spitfire、Shielded T-34E)",
+          "percent": 50,
+          "note": "详见 aid 3396"
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [
+        "Po-2 (Halloween exclusive night bomber)",
+        "'Birthday Box'(75%折扣券/Golden Battles下注券/+40%银狮与RP加成器/备份/涂装/改装件)",
+        "Veteran 纪念称号",
+        "U.S. Pacific Campaign (1941-1942)",
+        "Japan Pacific Campaign (1941-1942)"
+      ],
+      "tasks": "全场5折(载具/改装/护身符/备份/高级账户);每3小时任务得Birthday Box;毁地面目标赢Po-2;与好友赢1场动态战役得两太平洋战役;持V级载具得Veteran称号。",
+      "sub_events": [
+        {
+          "name": "Anniversary 48 Hours of Gifts (Birthday Box)",
+          "start": "2015-10-31T07:00:00Z",
+          "end": "2015-11-02T07:00:00Z",
+          "note": "每3小时刷新一个简单任务,完成得Birthday Box"
+        },
+        {
+          "name": "'100' Team Deathmatch Event",
+          "start": "2015-10-31T07:00:00Z",
+          "end": "2015-11-02T07:00:00Z",
+          "note": "街机团队死斗,先击杀满100人队伍获胜"
+        },
+        {
+          "name": "Veteran titles (login / own Rank V vehicles)",
+          "start": "2015-10-30T15:00:00Z",
+          "end": "2015-11-02T15:00:00Z",
+          "note": null
+        },
+        {
+          "name": "Free Historical Campaigns (win 1 Dynamic Campaign with 3 friends)",
+          "start": "2015-10-30T15:00:00Z",
+          "end": "2015-11-03T15:00:00Z",
+          "note": "得美/日两条太平洋历史战役"
+        },
+        {
+          "name": "Halloween specials: destroy ground targets to win Po-2; 'Witch Hunt' night races",
+          "start": "2015-10-30T15:00:00Z",
+          "end": "2015-11-02T07:00:00Z",
+          "note": "正文未单列时间,按主窗口"
+        }
+      ],
+      "notes": "游戏公测三周年 specials 汇总文,多个子窗口不一",
+      "confidence": 0.85
+    },
+    {
+      "aid": 3412,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "The 'Floats!' special event returns!",
+      "name_en": "The 'Floats!' special event returns!",
+      "name_zh": null,
+      "start": "2015-11-07T11:00:00Z",
+      "end": "2015-11-09T11:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 7th November at 11:00 GMT to the 9th of November at 11:00 GMT",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "用美/日水上机与飞船(OS2U、PBY系、F1M2、H6K4、He 51 B-2等)在Floats!事件中于水面降落,夺取并据守控制点取胜。",
+      "sub_events": [],
+      "notes": "返场活动;列出的水上机为可用水机而非奖励",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3465,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Discount for first Golden Eagle purchases!",
+      "name_en": "Discount for first Golden Eagle purchases!",
+      "name_zh": null,
+      "start": "2015-12-11T16:00:00Z",
+      "end": "2015-12-14T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From December 11th 16:00 GMT to December 14th 09:00 GMT",
+      "discounts": [
+        {
+          "target": "金鹰",
+          "item": "1000金鹰首购 5.99→5.39",
+          "percent": 10,
+          "note": "仅限从未购买过金鹰包玩家,每档一次性首购折扣;覆盖1000及以上各档"
+        },
+        {
+          "target": "金鹰",
+          "item": "2500金鹰首购 13.99→11.89",
+          "percent": 15,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "5000金鹰首购 24.99→19.99",
+          "percent": 20,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "10000金鹰首购 49.99→37.49",
+          "percent": 25,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "15000金鹰首购 71.99→50.39",
+          "percent": 30,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "20000金鹰首购 94.99→61.74",
+          "percent": 35,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "25000金鹰首购 114.99→68.99",
+          "percent": 40,
+          "note": null
+        },
+        {
+          "target": "金鹰",
+          "item": "30000金鹰首购(限时包) 139.99→83.99",
+          "percent": 40,
+          "note": null
+        }
+      ],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "首购特惠:从未购买金鹰的玩家各档一次性折扣(1000档10%至25000/30000档40%);不适用礼品码与短信支付;PS4用户12月11-14日全场金鹰25%折扣。",
+      "sub_events": [],
+      "notes": "正文另一处写15.00-08.00 GMT,与标题窗口(16:00-09:00)不一致,取标题;短信支付新用户另有一次10%(≤6美元)/20%(>6美元)奖励金",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3468,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Aircraft tournament 2 vs 2",
+      "name_en": "Aircraft tournament 2 vs 2",
+      "name_zh": null,
+      "start": "2015-12-12T09:00:00Z",
+      "end": "2015-12-15T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From the 12th of December (09.00 GMT) until the 15th of December (09.00 GMT)",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "silver lions",
+        "tournament trophy",
+        "P-47D Thunderbolt (German premium)",
+        "Bf.109F-4 (US premium)",
+        "B-25J-30 (Soviet premium)"
+      ],
+      "tasks": "2v2同型机双机对决锦标赛:RB/SB用P-39N-0/Spitfire F.Mk IX/Yak-1B按日轮换,AB加J2M2与Bf 109F-4自选;每5胜开一个锦标赛奖箱。",
+      "sub_events": [
+        {
+          "name": "RB/SB 机型轮换:P-39N-0(12日)→ Spitfire F.Mk IX(13日)→ Yak-1B(14日09:00-21:00 GMT)",
+          "start": "2015-12-12T09:00:00Z",
+          "end": "2015-12-14T21:00:00Z",
+          "note": "每日09:00 GMT换机型"
+        }
+      ],
+      "notes": "匹配按当前评分平衡对手;锦标赛战绩不计入其他活动",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3477,
+      "lang": "en",
+      "is_event": true,
+      "type": "festive",
+      "title": "Collect a famous А13 Mk I 3rd RTR for Christmas!",
+      "name_en": "Collect a famous А13 Mk I 3rd RTR for Christmas!",
+      "name_zh": null,
+      "start": "2015-12-19T07:00:00Z",
+      "end": "2015-12-21T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 07:00 GMT on the 19th of December to 07:00 GMT on the 21st of December",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "A13 Mk I 3rd RTR (British premium)",
+        "Golden Eagles (已拥有者折算)"
+      ],
+      "tasks": "圣诞节挑战:窗口内任意一场战斗取得团队胜利且战斗活跃度≥80%,得英系金币车A13 Mk I 3rd RTR。",
+      "sub_events": [],
+      "notes": "已拥有该车者改发等值金鹰",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3486,
+      "lang": "en",
+      "is_event": false,
+      "type": null,
+      "title": "Server stability now restored",
+      "name_en": "Server stability now restored",
+      "name_zh": null,
+      "start": null,
+      "end": null,
+      "end_precision": null,
+      "end_raw": null,
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": null,
+      "sub_events": [],
+      "notes": "服务器迁移至新数据中心、恢复稳定的技术公告:在役高级账户自动补偿停机时长并额外加12小时;非活动",
+      "confidence": 0.95
+    },
+    {
+      "aid": 3491,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Holiday Bundles",
+      "name_en": "Holiday Bundles",
+      "name_zh": null,
+      "start": "2015-12-25",
+      "end": "2016-01-11",
+      "end_precision": "day",
+      "end_raw": "From December the 25th to January the 11th",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "Steel Chariots(苏系:Shielded KV-1E/IS-2 Revenge/T-34 1941三包)与 Armor of Liberty(美系:M3A1 Stuart/Grant I/M18 Black Cat三包) 40% off",
+          "percent": 40,
+          "note": "聚合;这两组至2016年1月4日17:00 GMT,此后每几日更换新捆绑;已拥有载具自动折抵"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "Steel Chariots / Armor of Liberty 捆绑下架",
+          "when": "2016-01-04T17:00:00Z"
+        },
+        {
+          "what": "下一批捆绑(Iron Eagles & Red Falcons)上架",
+          "when": "2016-01-05"
+        },
+        {
+          "what": "PS4 专属 Desert Rats / Royal Air Force Bundle 下架",
+          "when": "2016-01-05"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": "节日捆绑:Gaijin.net商店各国主题礼包40%折扣,每几日更换;已拥有其中载具自动折价;仅限PC/Mac/Linux,PS4另有专属捆绑。",
+      "sub_events": [
+        {
+          "name": "PS4 专属:War Thunder - Desert Rats Bundle & Royal Air Force Bundle",
+          "start": "2015-12-24",
+          "end": "2016-01-05",
+          "note": "PlayStation Store"
+        }
+      ],
+      "notes": "整体窗口12月25日至1月11日(跨年,终年取2016);开始时间原文仅给日期",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3494,
+      "lang": "en",
+      "is_event": true,
+      "type": "sale",
+      "title": "Holiday Bundles: Iron Eagles & Red Falcons",
+      "name_en": "Holiday Bundles: Iron Eagles & Red Falcons",
+      "name_zh": null,
+      "start": "2015-12-25",
+      "end": "2016-01-11T17:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "until January 11th, 17.00 GMT (整体窗口 From December the 25th to January the 11th)",
+      "discounts": [
+        {
+          "target": "捆绑包",
+          "item": "Iron Eagles:Gustav/Attacker Starter + Dora Advanced 三包 40% off",
+          "percent": 40,
+          "note": "德系主题:含Bf 109G-2(罗)/Hs 129B-2(罗)+金鹰/高级账户、Fw 190D-13+1000金鹰+15天高级"
+        },
+        {
+          "target": "捆绑包",
+          "item": "Red Falcons:LaGG-3-34 / IL-2 Avenger Starter + Yak-9M Advanced 三包 40% off",
+          "percent": 40,
+          "note": "苏系主题:含LaGG-3-34/IL-2M Avenger+金鹰/高级账户、Yak-9M+15天高级"
+        }
+      ],
+      "deadlines": [
+        {
+          "what": "PS4 专属 Desert Rats / Royal Air Force Bundle 下架",
+          "when": "2016-01-05"
+        }
+      ],
+      "rewards_text": [],
+      "tasks": "节日捆绑第二批:德系Iron Eagles与苏系Red Falcons主题捆绑40%折扣,至1月11日17:00 GMT;已拥有其中载具自动折价;仅限PC/Mac/Linux。",
+      "sub_events": [],
+      "notes": " Holiday Bundles 系列第二篇;跨年窗口终年取2016",
+      "confidence": 0.9
+    },
+    {
+      "aid": 3503,
+      "lang": "en",
+      "is_event": true,
+      "type": "marathon",
+      "title": "New Year Marathon: War in Mid Air",
+      "name_en": "New Year Marathon: War in Mid Air",
+      "name_zh": null,
+      "start": "2016-01-09T09:00:00Z",
+      "end": "2016-01-12T09:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 09.00 GMT on January 9th until 09.00 GMT on January 12th",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [
+        "VK 4501 (P)",
+        "P-63C-5"
+      ],
+      "tasks": "新年马拉松收官:在5张地图(东欧/诺曼底/突尼斯/波兰/瓜岛)的街机War in Mid Air事件(攻击机队vs防空车)中完成最后任务,拿齐VK 4501(P)与P-63C-5。",
+      "sub_events": [],
+      "notes": "本文为新年马拉松系列收尾事件公告;可用水机/攻击机/防空车清单极长见原文",
+      "confidence": 0.85
+    },
+    {
+      "aid": 3509,
+      "lang": "en",
+      "is_event": true,
+      "type": "special",
+      "title": "Winter Games 2016",
+      "name_en": "Winter Games 2016",
+      "name_zh": null,
+      "start": "2016-01-13T15:00:00Z",
+      "end": "2016-01-18T07:00:00Z",
+      "end_precision": "hour",
+      "end_raw": "From 15.00 GMT on January 13th to 07.00 GMT on January 18th",
+      "discounts": [],
+      "deadlines": [],
+      "rewards_text": [],
+      "tasks": "参加三个冬奥主题街机事件:Biathlon(II-IV级竞速射击)、Curling(护送装甲纵队过炮线,II-IV级)、Hockey(6v6,射击Ar.234B-2'冰球'入环得分,III-V级,先得5分胜)。",
+      "sub_events": [
+        {
+          "name": "[Winter Games] Biathlon",
+          "start": "2016-01-13T15:00:00Z",
+          "end": "2016-01-18T07:00:00Z",
+          "note": "II-IV级"
+        },
+        {
+          "name": "[Winter Games] Curling",
+          "start": "2016-01-13T15:00:00Z",
+          "end": "2016-01-18T07:00:00Z",
+          "note": "II-IV级"
+        },
+        {
+          "name": "[Winter Games] Hockey",
+          "start": "2016-01-13T15:00:00Z",
+          "end": "2016-01-18T07:00:00Z",
+          "note": "III-V级,无限重生,先得5分胜"
+        }
+      ],
+      "notes": "无奖励载具说明",
+      "confidence": 0.9
+    }
+  ]
+}
