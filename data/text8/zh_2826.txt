@@ -1,0 +1,51 @@
+War Thunder — Realistic Military Vehicles Online Combat Game for PC, Xbox and PlayStation. Play for Free News
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+2026 has been a year of fierce competition and unforgettable moments! The War Thunder Championship Series has continued to evolve and so have its teams. Over months of intense battles across air, ground, and combined arms formats, competitors have put their skill, teamwork, and versatility to the test.
+<svg

@@ -1,0 +1,96 @@
+[Development] Pre-order: Stingray II — The Upgraded Commando - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Pre-order: Stingray II — The Upgraded Commando
+22 October 2026
+Development
+<>Meet the Stingray II, a further development of the American Commando Stingray light tank!
+Pre-order — Stingray II Pack
+This pack includes:
+Stingray II (USA, Rank VI)
+Premium account for 15 days
+2000 Golden Eagles
+Pre-order bonus: unique “Sting like a ray” title
+Pre-order bonus: unique "Bluespotted ribbontail ray" decal
+59.99
+STORE
+<> Stingray II: A Premium (Pre-order) Light Tank for the US at Rank VI
+<>At a glance:
+<>Thermal imager
+<>DM33 rounds
+<>Improved armor protection
+<>Good mobility
+<>Low reverse speed
+Download Wallpaper:
+1920x1080
+2560x1440
+3840x2160
+<> Introducing the Stingray II
+<>Hi everyone! Today, pre-orders for the Stingray II light tank have started! This light vehicle is nimble and fast with a wide range of ammunition. Let’s take a closer look at what you can expect!
+<> Using the Stingray II in Battle
+<>Right, as you might expect, the Stingray successfully combines all of the key qualities of a modern light tank. It has a high power-to-weight ratio making it fast and nimble in battle, with a top speed of 71 km/h, allowing you to reach advantageous positions in a jiffy. To help maintain good fire control, the Stingray II features a stabilized 105 mm gun, capable of firing strong APFSDS rounds, allowing it to effortlessly penetrate the side armor of any opponent at its rank. If you’d prefer long range sniping, the Stingray II has a thermal imager that makes spotting targets significantly easier, plus a laser rangefinder that provides instant range adjustments, even at really far distances. It’s not all sunshine and rainbows though, as the Stingray II does have one major drawback. It reverses slowly, which will hinder your ability to quickly retreat into cover after taking a shot. Keep this in mind when you’re on the attack.
+<> Feature Spotlight: The Ideal Light Tank Formula
+<>The Stingray II is a direct evolution of the Commando Stingray light tank, designed for the export market. Its most significant upgrade over its predecessor is the addition of a thermal imager to the gun. This allows for target detection in any weather, which is significant given its role as a mobile light tank. Its armor is not perfect, but the enhanced protection is another key advantage of the Stingray II. Its front armor can withstand fire from several small-caliber automatic cannons. Compared to the Commando Stingray, its side protection has also been improved, though it does remain vulnerable to heavy machine gun fire. Furthermore, a new engine compensates for the increased weight, making the Stingray II slightly faster than the original version.
+<> Developer comment : The Stingray II will be the first American rank VI premium light tank. Overall, while it does not differ drastically from the original version, it provides American commanders with a solid premium scout vehicle for their rank VI lineup: one that will help accelerate the research of all vehicles up to and including rank VII.
+Vehicle History (open spoiler)
+▼
+<>In 1992, the American company Cadillac Gage (now a division of Textron Marine & Land Systems) initiated the development of the Stingray II, a light export tank that evolved from the earlier Commando Stingray model designed in the 1980s. The original Commando Stingray was produced for the Royal Thai Army. Improvements for the new version focused primarily on enhanced protection and increased combat capabilities, achieved through the integration of a modern fire-control system.
+<>The first and only prototype of the Stingray II was built in 1994. It was actively marketed for export to various countries but ultimately failed to secure any orders. By around 2000, Cadillac Gage ceased efforts to promote the tank on the international market.
+<>That’s all for this one! Pre-orders for the Stingray II have started today, where you’ll be able to get yourself the tank, Golden Eagles and premium account time. Until the next blog, have fun in your battles!
+<> Please note that vehicle specifications may be subject to revision and change before being added to the game.
+Read more:
+Improvements to DIRCM
+23 October 2026
+New Roundels and Decals!
+21 October 2026
+Improvements to the Controls for CCRP Bombing!
+20 October 2026
+Pre-order: HMS Duke of York
+19 October 2026
+Share the news with your friends!
+<

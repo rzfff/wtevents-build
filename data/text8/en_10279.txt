@@ -1,0 +1,80 @@
+[Development] Improvements to DIRCM - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Improvements to DIRCM
+23 October 2026
+Development
+<>The missile used to know where it was at all times, then it took a laser in the seeker!
+<>In the upcoming major update, we’ll be releasing an overhauled version of DIRCM that addresses several shortcomings.
+<>In the game, all DIRCM currently function similarly to regular IRCM with very wide radiation sectors. This means that the jammer is always active and emitting as long as the player has IRCM enabled. It works in a fixed sector around the carrying vehicle regardless of where the threat is, and it works on many threats simultaneously.
+<>In reality, DIRCM is directional for a reason. To provide a high-powered jamming signal, it focuses the signal within a narrow field of effect, which is then directed towards threats. This applies to both lamp-based and laser-based jammers.
+<>The new implementation works the same way: turret mechanics direct a narrow jamming signal at the threat. This has several implications.
+<> Sensor cueing
+<>The DIRCM system is now cued by the missile launch warning system. It needs to know where a threat is before engaging it, so a missile that the warning system does not detect will not be jammed.
+<> One at a time
+<>After a processing delay, similar to that of active protection systems, the DIRCM system slews a jammer towards a detected threat and starts emitting a jamming signal. The jammer continues to emit until the threat is dropped. Unlike before, a single jammer can only engage one threat at a time, so firing several missiles at once can now overwhelm it.
+<> Evaluation
+<>When a threat veers off course or stops approaching, the jammer stops jamming after a short period. This ensures that the jammer becomes available to engage other threats.
+<> New visuals
+<>
+<>In addition to the new gameplay effects, the overhauled DIRCM system also gets some new visuals.
+<>Jammers are now animated. Both the MUSS jammer on the Schützenpanzer Puma and the L-370 Vitebsk jammers on the Ka-52 slew towards engaged threats. In night vision mode, they also emit a strobing light effect that simulates their jamming signal. When IRCM is disabled on these vehicles, their jammers move into a stowed position.
+<>Finally, on aircraft, the RWR scope shows which threats the DIRCM system is currently engaging. A blinking JAM indicator also appears on the scope while any jammer is active.
+<>
+<>The new DIRCM mechanics will arrive with the upcoming major update. They apply to the lamp-based jammers on the Ka-52 and the Schützenpanzer Puma (all versions), as well as to the laser DIRCM (LDIRCM) on the Mi-28NM, AH-64E (all versions), Z-10ME and Mi-8AMTSh-VN. Stay tuned for more news!
+Read more:
+Pre-order: Stingray II — The Upgraded Commando
+22 October 2026
+New Roundels and Decals!
+21 October 2026
+Improvements to the Controls for CCRP Bombing!
+20 October 2026
+Pre-order: HMS Duke of York
+19 October 2026
+Share the news with your friends!
+<

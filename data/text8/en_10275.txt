@@ -1,0 +1,239 @@
+[Esports] Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops! - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+22 October 2026
+Esports
+<>2026 has been a year of fierce competition and unforgettable moments! The War Thunder Championship Series has continued to evolve and so have its teams. Over months of intense battles across air, ground, and combined arms formats, competitors have put their skill, teamwork, and versatility to the test.
+<>Now, eight qualified teams face their final challenge: the 2026 Grand Finals. With $15,000 in prize money on the line, the stage is set for one last showdown. Who will rise above the competition and claim the prestigious title of 2026 Grand Champion?
+Before we introduce the eight finalists, let’s take a look at the season standings following this year’s three Majors!
+<> Pro League 2026 Season
+<>Leading the standings are DODEC, who have delivered another outstanding season, winning Major I and securing a third-place finish at Major III.
+<>Close behind are Voyager , whose rise throughout the season culminated in an impressive Major III victory. With momentum on their side, they head into the Grand Finals as serious title contenders.
+<>In third place are podium regulars AVReS , whose consistent results secured their qualification in convincing fashion. Hot on their heels are Jinx , a new name for 2026, but a roster packed with experience. Their versatility and strong performances earned them fourth-place finishes at most of this year’s Majors.
+<> FIVESTICKS finish the regular season in fifth place after delivering a thrilling performance at Major II, where they claimed second place. That event’s winners, INVICTUS , take sixth in the overall standings, with their Major II title helping secure their spot in the Grand Finals.
+<>Completing the lineup are MRCLS and LEET . Both teams boast experienced rosters, and while they enter this year’s finals as underdogs, they have every intention of shaking up the standings and fighting for the crown.
+<>We also want to congratulate LEGION, Orion, Astra, Scammers, and Ouroboros for earning points in this year’s Pro League. We look forward to seeing them return even stronger in 2027!
+<> Meet the Finalists!
+(Click to open spoiler!) ▼
+<>Team DODEC
+<> Strategy, Precision, Ambition
+<>Founded in late 2023, DODEC quickly established themselves as a powerhouse, becoming the only team to win Majors across air, ground, and combined arms formats. The 2025 Grand Finals champions approach every battle like a game of chess: strategy first, then execution.
+<>They started 2026 with a dominant Major I victory, defeating MRCLS 3–0 in the final, before adding a third-place finish at Major III. Led by Forze and banujekツ, this international roster now returns to defend its crown.
+<> Player to watch: nyffer, MVP of Major I and third in the Major III MVP rankings, a consistent threat on the ground.
+<> Roster:
+<>Forze (Captain)
+<>banujekツ (Co-Captain)
+<>Jツ
+<>Bad_Karma옷
+<>nyffer
+<>Grohotarr
+<>Grizer
+<>Scriplet
+<>Team VOYAGER
+<> From Friends to Champions
+<>Founded in May 2024 by a group of friends playing for fun, VOYAGER quickly turned ambition into results, finishing the 2025 WTCS season as runners-up. Through roster changes, their founding core has remained united.
+<>Despite a challenging start to 2026, they reached the top eight at all three Majors, before claiming Major III victory in the 4v4 Tank format. Led by EinsCute, alongside co-captains Erchenn and Arseniywelcam, they enter the Grand Finals with momentum and their sights set on the crown.
+<> Player to watch: Oskar, MVP of Major III, whose patient positioning and mastery of the Abrams make him a formidable opponent.
+<> Roster:
+<>EinsCute (Captain)
+<>Erchenn (Co-Captain)
+<>Arseniywelcam
+<>Oskar
+<>chikkleXD
+<>AuRusElite
+<>Novaカキ
+<>ミZorderミ
+<>Team AVReS
+<> Built to Win Everywhere
+<>Since arriving on the scene in summer 2024, AVReS have developed into a formidable force across air and ground battles. Winners of WTCS TITAN 2025 and WTCS Armored Apex 2025, they finished third overall in the 2025 season.
+<>In 2026, they reached the playoffs at all three Majors, securing second place at Major III. With RasTafaRaY leading the tankers and isawyourunaway commanding the pilots, AVReS bring a balanced roster and a clear ambition to the Grand Finals: first place in air, ground, and combined arms.
+<> Player to watch : NeZoXi, second in the Major III MVP rankings and a key contributor to the team’s runner-up finish.
+<> Roster:
+<>RasTafaRaY (Captain)
+<>isawyourunaway (Co-Captain)
+<>tonyoloメ
+<>zloba
+<>RussianShark
+<>Darthmoll
+<>NeZoXi
+<>_sh1mada.
+<>Team JinX
+<> Veteran Experience, Relentless Aggression
+<>Formed after the 2025 Grand Finals by three former IgnisAvis players, JinX may be a new name, but their roster brings years of experience at the highest level of War Thunder esports. Their shared approach? Always play aggressively.
+<>A fourth-place finish at Major I set the tone for a consistent debut season, with playoff appearances at all three Majors. Led by La1R and 1N1ck, who exchange leadership duties for air battles, JinX now have their sights set on a Grand Finals podium finish.
+<>
+<> Players to watch : Delіt, a mainstay across all three formats, and EvіlWolf, the Rafale specialist in their combined arms lineup.
+<> Roster:
+<>La1R (Captain)
+<>1N1ck (Co-Captain)
+<>Delіt
+<>EvіlWolf
+<>mortumwish
+<>T1R3D
+<>Kazooie_
+<>MasterDelta.
+<>Team FiveSticks
+<> The Comeback Story
+<>Founded in 2018, FiveSticks first made their name in propeller aircraft duels before stepping away from competition around 2020. Revived by OpsBan65_ in February 2025, the team has since become a regular presence in top-tier tournaments.
+<>Their comeback gained momentum in 2026, with playoff appearances at all three Majors and a standout second-place finish at Major II. Combining patient pilots with aggressive tankers, FiveSticks now head into the Grand Finals with a clear target: a place in the top three.
+<> Players to watch: OpsBan65_ and C0COJAMBO, who finished second and third respectively in the Major II MVP rankings. The captain behind the team’s revival is also leading by example in battle.
+<> Roster:
+<>OpsBan65_ (Captain)
+<>C0COJAMBO (Co-Captain)
+<>Tekilez (Co-Captain)
+<>Telch2271337
+<>npocto_4el
+<>Frovy
+<>Mister Mish
+<>Криветочка
+<>Team Invictus
+<> Newcomers Who Conquered the Skies
+<>
+<>Bringing together experienced competitors and rising talent from six nations, Invictus built their roster around teamwork and versatility. Their debut season has already made a powerful statement.
+<>Despite missing the playoffs at Majors I and III, they soared to victory at Major II, collecting 130 points and briefly taking the lead in the season standings. That outstanding performance secured their place in the Grand Finals, where Extatic and Leozander will lead their pursuit of another title.
+<> Player to watch: Leozander, MVP of Major II, whose decisive Kh-38MT strike from a Su-30SM delivered one of the tournament’s standout moments.
+<> Roster:
+<>Extatic (Captain)
+<>Leozander (Co-Captain)
+<>Avoxy
+<>GameThunder
+<>Delva971
+<>EITEA
+<>Tomsenval
+<>KASTET
+<>Team MRCLS
+<> The Return of Miracles
+<>After disbanding in 2025, Miracles returned for 2026 with a fresh roster and renewed ambition. Competing under the MRCLS name, they wasted no time making their presence felt.
+<>A determined lower bracket run at Major I saw them defeat LEET 3–2 to reach the grand final, where they fell to DODEC. That runner-up finish secured their Grand Finals qualification. Led by v1nnу and skyline地平, MRCLS now have another opportunity to challenge the champions who denied them the trophy.
+<> Player to watch: v1nnу, third in the Major I MVP jury vote. The captain’s aggressive MiG-29 play makes him stand out in a field dominated by Rafales.
+<>
+<> Roster:
+<>v1nnу (Captain)
+<>skyline地平 (Co-Captain)
+<>Sanya Kamen
+<>Nefo
+<>farsage
+<>SieDeSta
+<>Renegade
+<>Team LEET
+<> The Old Guard
+<>One of the longest-standing teams in the competition, LEET bring experience, strategy, and discipline to the battlefield. Despite a difficult season, these veterans have earned their place among the eight finalists.
+<>Their third-place finish at Major I proved decisive, with their run ending in a close 3–2 defeat to MRCLS in the lower bracket final. Led by the versatile VoLKoDaV, LEET now return with a chance to settle that rivalry and one clear ambition: claim the title.
+<> Player to watch : St1merOK, whose defensive approach to BVR combat turns into outright aggression when the battle closes to dogfighting range.
+<> Roster:
+<>VoLKoDaV (Captain)
+<>SYDARb
+<>KIDUVL
+<>St1merOK
+<>DrugCat33_TV
+<>Отveрниsьツ
+<>РЫБАТОРГОВЕЦ
+<>
+<>
+<> Match & Livestream Dates with Twitch Drops!
+<>
+Nine days of intense competition, broadcast in five languages! Follow the Grand Finals and earn Twitch Drops by watching the official War Thunder Esports channels in English , German , French , Russian , and Polish !
+<>Missed the weekend’s action? Don’t worry! Reruns will air every Monday through Wednesday throughout the event on our English Twitch channel, giving you another chance to catch the battles!
+<> Twitch
+<>The event will also be streamed live on YouTube , where you’ll find highlights and full match replays to relive the biggest moments of the competition!
+<> YouTube
+<> Tricolor Smoke & Unique Vehicles
+<>Both vehicles — the Bf 109 E-3 and BT-7M — are standalone Twitch Drops vehicles separate from their researchable counterparts, each featuring unique default historical camouflages. Additional unique camouflages for these vehicles will also be available to earn through the drops.
+<> First weekend : October 23rd from 14:50 GMT and October 24th-25th from 13:50 GMT
+<> Rerun : October 26th-28th from 17:00 GMT
+<>50% Silver Lion Booster - 30 min
+<>50% Research Point Booster - 1h
+<>1 day of Premium - 2h
+<>"Vampir" camouflage for the Bf 109 E-3 (TD vehicle) - 5h
+<> Bf 109 E-3 (Germany, Rank II, TD vehicle) - 10h
+<> Second weekend : October 30th from 14:50 GMT and October 31st , November 1st from 13:50 GMT
+<> Rerun : November 2nd-4th from 17:00 GMT
+<>50% Silver Lion Booster - 30 min
+<>50% Research Point Booster - 1h
+<>1 day of Premium - 2h
+<>"Scarlet Razor" camouflage for the BT-7M (TD vehicle) - 5h
+<> BT-7M (USSR, Rank I, TD vehicle) - 10h
+<> Third weekend : November 6th from 14:50 GMT and November 7th-8th from 13:50 GMT
+<> Rerun : November 9th-11th from 17:00 GMT
+<>50% Silver Lion Booster - 30 min
+<>50% Research Point Booster - 1h
+<>1 day of Premium - 2h
+<> "WTCS Grand Finals" camouflage for the T-34-85 (STP) - 4h *
+<> "WTCS Grand Finals" camouflage for the M-24 TL - 6h *
+<> "WTCS Grand Finals" camouflage for the P-51A - 8h *
+<> Tri-Color Smoke - 10h
+<> *If you already have this camouflage, you can exchange the coupon for 100 War Bonds.
+<>Login to your Twitch account → link your Gaijin account → click “Allow” to be able to receive Twitch Drops!
+<> Giveaway!
+<>Stay updated on everything happening in War Thunder Esports by joining our Discord community ! Premium bundles will soon be up for grabs there!
+<>And more giveaways are coming to Instagram , so stay tuned!
+<> Be Prepared!" Pack
+<> Arado 234 B-2 (WB 151) Pack
+<> A-7E Greece Pack
+<> Hawk T Mk 1A (FRP) Pack
+<> PLZ45 Pack
+<> Giulio Cesare Pack
+<>
+Esports Bundle - 2026 Season -15%
+This Bundle includes:
+Esports Veteran Pack - Season 2026
+Winter Warrior Esports Pack - Season 2026
+15.98 13.58
+Store
+Read more:
+In-Game Discounts for War Thunder’s 14th Birthday!
+23 October 2026
+Improvements to DIRCM
+23 October 2026
+The J35A Returns with a Discount for the Dragon’s First Flight!
+23 October 2026
+Pre-order: Stingray II — The Upgraded Commando
+22 October 2026
+Share the news with your friends!
+<

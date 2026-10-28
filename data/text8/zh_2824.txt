@@ -1,0 +1,99 @@
+[Vehicle Profile] IS-2 Mod. 1944 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+IS-2 Mod. 1944
+Attention! Outdated news format. Content may not display correctly.
+3 February 2015
+Vehicle Profile
+'IS-2 No. 432 of 7th GTTB' skin by Gus_GustavoFring | download here
+After the beginning of Operation Barbarossa on the 22nd of June 1941, the Soviet Union found itself in the war against Germany. The Germans quickly found themselves fighting against new Soviet tanks, such as the T-34 and KV-1. The KV-1 heavy tanks were virtually impervious to German AT guns of the time. However, Soviet tank commanders had many problems with coordinating attacks by forces of medium and heavy tanks. This is why in 1942 works on a new "universal tank" began.
+<>
+<>
+IS-2 arriving at the front by train
+Two tank factories submitted their designs – the Chelabinsk tank plant came forward with the KV-13 prototype, while the Nizhni-Tagil factory developed the T-43 tank. However, after the Battle of Kursk the next year the priorities shifted again, with the earlier KV-1 and KV-1S designs being inadequate against new Panther and Tiger tanks. At first, the KV-85 tank was produced as a stopgap measure before the new tanks would arrive on the battlefield.
+However, the introduction of the T-34-85 medium tank prompted the Soviet engineers to reconsider the armament choice for the new heavy tank. While the IS-1 heavy tank was equipped with the same 85 mm gun, the new IS-2 was armed with a 122 mm D-25-T gun, which was a modification of the A-19 field howitzer. The reason for this was that the IS-2 was supposed to be used for breaching enemy defenses – and the 25 kg warhead of the High Explosive shell would be very useful for that purpose.
+In 1944 the IS-2 underwent a modernisation programme designed to increase its survivability and improve battlefield performance. The modification featured a redesigned hull front – while the early versions featured a visible "step" in the place where the driver's viewport was, the new variant removed that feature. The commander's hatch was also equipped with mounts that permitted the installation of the DshK heavy machine gun, intended to be used against enemy infantry, light vehicles and low-flying aircraft. The gun was also modernised to increase its rate of fire. These tanks were mainly allocated to Guards Heavy Tank Brigades and were used in Red Army offensives in Eastern Germany and Hungary.
+<>
+<>
+An IS-2 Mod. 1944 in X-Ray View
+In game, the IS-2 mod. 1944 is an Era IV Soviet heavy tank with a battle rating of 6.7 in all game modes. It features the same armament as its predecessor, the IS-2. The 122 mm D-25-T tank gun, with the upgraded BR-471B APHEBC ammunition is capable of penetrating 197 mm of armor at 100 meters. The IS-2 mod 44 also features good armor protection – the 120 mm thick armor plate is also sloped at 60 degrees from the vertical, giving it an equivalent thickness of over 200 mm of armor. The IS-2 is also fairly mobile for a heavy tank, with a top speed of 42 km/h.
+However, the IS-2 mod. 44 is also not without its weaknesses. The frontal turret armor is only 100 mm thick and only offers reduced protection when compared to the front of the hull. The 3 degrees of gun depression also severely hampers the tank during combat on uneven terrain, where obtaining a firing solution on the target might be difficult. The heavy two-piece ammunition hampers the reload time, extending it to nearly 30 seconds.
+The playstyle of the IS-2 mod 44 is fairly straightforward. It should be used as a breakthrough tank, intended to smash enemy defences. Players should seek to shorten the distance between them and the enemy to maximise the gun performance. They should also be mindful of their surroundings and constantly be on the lookout, so that they won't be surprised during the lengthy reload. While engaging the IS-2, try to use the terrain to your advantage to capitalise on the enemy's poor gun depression. The IS-2 mod.44 will lead you to the pinnacle of the Soviet heavy tanks – the IS-3 and IS-4M.
+Author: Adam “BONKERS” Lisiewicz
+With an upcoming update, we will add the 'Emblem of the 78th Guards Heavy Tank Brigade' decal to War Thunder:
+Decal created by Branislav 'InkaL' Mirkov
+Read more:
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+22 October 2026
+In-Game Discounts for War Thunder’s 14th Birthday!
+23 October 2026
+Improvements to DIRCM
+23 October 2026
+The J35A Returns with a Discount for the Dragon’s First Flight!
+23 October 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

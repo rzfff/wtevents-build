@@ -1,0 +1,94 @@
+[Aircraft Profile] DAP Beaufort Mk VIII - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+DAP Beaufort Mk VIII
+Attention! Outdated news format. Content may not display correctly.
+5 February 2015
+Aircraft Profile
+Bristol Beaufort MK.1 "Killer" of 42 squadron, Leachars, Scotland, 1941, skin by _TerremotO_ | download here
+The First DAP Beaufort flew in August 1941 and was part of the initial order of 180 aircraft contracted to the RAF Far East Service. However, after the shock of Pearl Harbour and the Japanese strike against the British Empire these aircraft were turned over for service by the RAAF. The initial 180 Australian built aircraft were designated as MK V’s, VI’s and VII’s and could be called simply a modified Mk.I Beaufort with Pratt and Whitney engines and different defensive armaments; there was more to it than that, of course.
+<>
+<>
+Beauforts being built at the DAP plant in Fisherman's Bend, Melbourne. The ASV radar aerial array on the rear fuselage and a small blue/white Pacific Theatre roundel indicates this is a late Beaufort Mk VIII.
+Following these first 180 aircraft was the Mk VIII Beaufort built by the Department of Aircraft Production; this was very much an Australian built aircraft as almost all the materials and components were sourced in Australia, only parts of the engines and some technically difficult avionics and communication equipment were from the UK and the USA. Small design changes were also under taken: larger tail fins, improved landing gear and armaments were all changed, adding .50 inch machine guns to wings outboard from the oil coolers and fitting universal bomb mounts to the bomb bay and inner wing sections. All this helped to improve the aircraft’s versatility, whether it was attacking shipping or airfields.
+Historically this was a great achievement for Australia being its first all metal aircraft to be wholly manufactured in the country. Its service was long and while not as glorious as the Spitfires and Kittyhawks, the Beaufort had its fair share of heroic moments. On the 15th of August 1945 Beaufort bombers from No.7 Squadron carried out the last Royal Australian Air Force raid of the war, bombing enemy positions in the vicinity of Kiarivu, New Guinea. The last aircraft on target was No.7 Sqn Beaufort A9-608, flown by Warrant Officer Alan Fraser.
+Whether you’re flying your Beaufort in Arcade, Realistic or Simulator, one thing that will stand out with your aircraft is its versatility. Its hardiness and speed compared to other aircraft of its battle rating are also noteworthy. The Beaufort is a steadfast and dependable aircraft using speed to get to its objective and accurately put ordnance on target. Speed is your friend and something you need to maintain to stay out of the reach of enemies, you do have good defensive armaments but your greatest defence is that speed. Attacking at low altitude or high is a viable option, using your speed to make swooping attacks on ground targets: never loiter over your target, get in and get out.
+In Realistic and Simulation modes only the aircraft a full point of BR above this aircraft will give you much trouble, and even then your defensive armament will be a deterrent, but it is still best to use your speed which can be employed well to get to the target area and get out fast to do it all again. Alternatively, you can use this bomber’s speed to skirt the enemy forces and attack from unexpected angles.
+All in all I’ve actually enjoyed my time in this aircraft, it’s been a guilty pleasure of mine to take it out and go hunting ships with it, or get it to altitude and dominate area targets from on high. I highly recommend you to take this little beauty for a joy ride, and if you enjoy it half as much as me it’ll have been worth it.
+<> Author: Aaron “anglomanii’ Lentz
+<>
+Read more:
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+22 October 2026
+In-Game Discounts for War Thunder’s 14th Birthday!
+23 October 2026
+Improvements to DIRCM
+23 October 2026
+The J35A Returns with a Discount for the Dragon’s First Flight!
+23 October 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

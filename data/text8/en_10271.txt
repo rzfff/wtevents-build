@@ -1,0 +1,81 @@
+[Fixed] It’s fixed! №119 - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+It’s fixed! №119
+21 October 2026
+Fixed
+<>Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check out the changelog section on our website .
+<>If you’ve found a bug that you’d like to report, you can do so on our community bug reporting platform .
+<> Shadow fixes
+<>Several issues related to shadows have been fixed, affecting both ray-traced shadows and those rendered using shadow maps.
+<>When ray tracing was enabled, shadows on flying aircraft might have flickered, which was most visible in the cockpit. This occurred because if the plane was flying too fast, it outpaced the ray tracing optimization grid, and as it was not able to keep up with the plane, it was optimized out from the ray tracing rendering space. The bug has now been fixed, and the shadows on your plane should no longer flicker.
+<>Two issues with regular shadows have been fixed. The first concerned distant shadows, most noticeable on aircraft, where the algorithm calculating shadows for trees at a distance failed to account for the fact that they might be situated on slopes. This caused the shadows to appear either excessively long or, conversely, too short. The algorithm now factors this in, preventing significant shifts in shadow appearance as you approach trees on slopes (which occurs when the rendering algorithm switches to a higher-detail one).
+<>The second issue, which occurred only when the shadow quality was set to “Very High”, was related to tank sights. When switching to the sight view, the shadow draw distance increases; due to an error during this transition between the distances at which different levels of shadow detail render, shadows calculated while in third-person view were incorrectly processed for use in the sight view. This could result in shadows failing to appear entirely until the next full shadow refresh, which would happen a few frames later. This bug has now been resolved, so shadows should no longer flicker when switching to the sight view.
+<> Recycling items bug fix
+<>We found two bugs that could make it difficult for players to recycle items and have fixed them. One was visual: the list of items when changing pages could be displayed so that interface details like the recycling button were superimposed on top of it. The second issue caused a smaller number of items to be recycled than the quantity specified by the player. While the correct amount of resources was consumed (meaning less was used than the player had initially indicated), the bug slowed down the process.
+<> Collapsing vehicle ranks
+<>We’ve received several reports from players who encountered issues in the research window: after collapsing a vehicle rank, they found that research for those vehicles appeared locked, and they weren’t sure how to restore the standard interface. We’ve updated this feature to make it immediately clear what has happened and how to resolve it. Now, when you hover your cursor over a collapsed vehicle rank, a tooltip will appear, indicating that you can expand it with a click. You don’t even need to look for a specific “expand” button, as you can simply click anywhere within that rank section. We’ve also updated the icons for the collapse/expand controls and added labels, so there’s no chance of getting confused!
+<> Vehicle preset improvements
+<>Players who have been playing War Thunder for a long time have accumulated quite a few vehicle presets for each nation, and we wanted to make managing these lineups as convenient as possible. That’s why we’ve recently reworked the preset managing interface and today have made a few improvements to it. Now, when you copy a preset, you don’t have to scroll to the end of the list to find it; the copy appears right after the original, making it easy to keep them grouped together. Furthermore, the display filters for presets now also apply to the list within the vehicle lineup menu. For example, if you’ve chosen to hide the Battle Rating for your lineups, it will now be hidden in that menu as well.
+<> That’s not all
+<>Check out the full list of fixes and improvements in the update notes below! Here’s some more: the icons for creating and copying vehicle presets no longer disappear when the limit is reached, and a neutral-gear turn is no longer slowed down in tanks in the Leopard and Type 90 families.
+<> Update 2.59.0.68
+<> UPDATE 2.59.0.72
+<> UPDATE 2.59.0.75
+<> UPDATE 2.59.0.78
+Read more:
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+22 October 2026
+In-Game Discounts for War Thunder’s 14th Birthday!
+23 October 2026
+Improvements to DIRCM
+23 October 2026
+The J35A Returns with a Discount for the Dragon’s First Flight!
+23 October 2026
+Share the news with your friends!
+<

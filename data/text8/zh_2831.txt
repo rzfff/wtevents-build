@@ -1,0 +1,102 @@
+[Historical] Panzerkampfwagen VIII "Maus", Part II - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Panzerkampfwagen VIII "Maus", Part II
+Attention! Outdated news format. Content may not display correctly.
+5 February 2015
+Historical
+We continue our series of articles, in which we discuss the development of the Pz.Kpfw. VIII 'Maus'.
+After taking a look at ideas and visions leading to the development of its prototypes,
+we will take a closer look at the infamous German vehicle that got past the firing range tests.
+Read the first part of the series here !
+<>
+<>
+Ferdinand Porsche on an inspection
+After testing the preliminary layout of the vehicle on previous models, Ferdinand Porsche showed Hitler a wooden model of the prototype “Mäuschen”. This variant appeared as weighing in at 179 tonnes. Immediately after this demonstration the plan for the project was approved in Berlin, the plan included building 2 experimental models before the end of 1943. The team rushed to complete the project objectives, they expected to use the already tested suspension of the VK.4501(P) (aka Tiger(P)) which was also used on the “Ferdinand/ Elephant”.
+But the Heereswaffenamt (German Army Weapons Agency) asked the designer to mount a flamethrower with a 1000 Litre capacity reservoir on the “Mäuschen”. The overall weight with additional armament increased by almost 5 tonnes. which meant that the chassis had to be reworked since the mass had been increased as well as the size of the vehicle.
+<>
+<>
+Field test without armament of
+the Porsche Type 205/2
+In early April of 1943 a model with all the changes was shown to Albert Speer and later, on the 1st of May, to Hitler and the German military representatives (that’s when Guderian expressed his disapproval). During this very meeting the project received the name “Maus”.
+The designers again faced the problem of choosing which armament was to be used on the machine. In July 1943, specialists suggested 4 variants and all of them had 75mm KwK L/24 as a secondary weapon. The suggested main gun was to be chosen from AA, Naval and tank guns with calibres from 105mm to 128mm. The preferable weapon was a 150mm tank or naval gun. However, the 128mm KwK 44 L/55 cannon was chosen.
+<>
+It should be noted that creating such a large-scale project as the heavy breakthrough “Maus” vehicle required close cooperation of several German industrial companies. Structural components were produced in 8 towns in Germany and Czechoslovakia in the factories of Krupp, Siemens-Schuckert, Škoda, Daimler-Benz etc. General assembly work without armament mounting took place in Spandau while the complete assembly was in done in Stuttgart.
+The first experimental model of the Panzerkampfwagen VIII “Maus” - Type 205 - was build in the “Alkett” factory from August the 1st to December the 23rd in 1943 and was sent to Stuttgart for final turret configuration.
+The final factory tests took place on the factory testing range under direct control of Ferdinand Porsche.
+The final part of the articles about the Panzerkampfwagen VIII “Maus” will examine the testing on the Kummersdorf range and the ultimate fate of the project!
+Read more:
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+22 October 2026
+In-Game Discounts for War Thunder’s 14th Birthday!
+23 October 2026
+Improvements to DIRCM
+23 October 2026
+The J35A Returns with a Discount for the Dragon’s First Flight!
+23 October 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

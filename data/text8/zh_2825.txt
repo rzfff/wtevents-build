@@ -1,0 +1,100 @@
+[Historical] Panzerkampfwagen VIII "Maus", Part I - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Panzerkampfwagen VIII "Maus", Part I
+Attention! Outdated news format. Content may not display correctly.
+3 February 2015
+Historical
+In this series of articles, we will discuss the development of the Pz.Kpfw. VIII 'Maus'.
+After taking a look at ideas and visions leading to the development of its prototypes,
+we will take a closer look at the infamous German vehicle that got past the firing range tests.
+During the final stages of the war, Nazi Germany’s top leadership including Adolf Hitler began to embody the idea of creating heavy breakthrough tanks. It was a concept investigated in the USSR in the second half of the 1920’s, where the concept of deep offensive operations was developed, which included not only fast tanks but also heavy multi-turreted vehicles.
+<>
+<>
+Ferdinand Porsche
+In reality these tanks turned out to be ineffective due to their low speed and lack of maneuverability on the battlefield. And it is surprising that Hitler returned to this idea at the end of 1942 when the defeat of Germany wasn’t obvious. It seems that failures on the Eastern front and the increasing power of the Allies in Africa forced the German command to speed up victory over the Soviet Union in order to release forces and facilities used for that theatre to fight the United States and Great Britain.
+German tank commanders such as Heinz Guderian did not completely approve of the Fuhrer’s ideas. The wooden mock-up tank of new Panzerkampfwagen VIII “Maus” (Sd.Kfz 205; VK7001/Porsche Type 205) in it’s flamethrower variant was shown to Hitler on the 1st of May 1943. It did not impress the German military commander Guderian, who complained about the lack of defensive armament on the proposed vehicle.
+However, contrary to his military commanders, Hitler had already shown that he was seriously interested in the development of such a vehicle back in June 4th, 1942, during the demonstration of VK 100.01(P) / KV3381, the original version of the Panzerkampfwagen VIII “Maus”. There, Ferdinand Porsche, head designer of the future super-heavy tank, had already suggested to increase the projected mass of the tank project to 120 instead of 100 tons.
+<>
+<>
+Project VK 100.01 compared to
+Pz.Kpfw. VIII 'Maus'
+Devotion to it’s immensity along with the 149mm KwK L/40 cannon apparently boggled the imagination of the German leader who never thought about the technical problems of such a grand-scale idea. The issue was that the previous designs of Ferdinand Porsche were declined due to technical issues that appeared when trying to build experimental models. However, the designers apparently also got carried away with the idea of a “supertank”, which became very evident in the next variant K3382 (its weight reached 140t.) to mount the second turret with a 75mm KwK L/24 gun instead of a commander’s cupola.
+Also, Porsche's team suggested a third variant of the tank, the Type 205A “Mäuschen”, as a final experimental project for a new heavy machine. All further designs, however, were focused on creating the Panzerkampfwagen VIII “Maus”.
+As we can see, the process of designing the super heavy tank the “Maus” was not a reactive decision forced by a difficult situation on the front, but was more driven by the German leaders vision to create a ‘super tank’ above everything else.
+In the next publication we will examine the construction of experimental models of the Pz.Kpfw. VIII “Maus”!
+Read more:
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+22 October 2026
+In-Game Discounts for War Thunder’s 14th Birthday!
+23 October 2026
+Improvements to DIRCM
+23 October 2026
+The J35A Returns with a Discount for the Dragon’s First Flight!
+23 October 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>

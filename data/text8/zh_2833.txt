@@ -1,0 +1,102 @@
+[Historical] Armour-piercing rounds - News - War Thunder
+System Requirements
+For PC
+For MAC
+For Linux
+Minimum
+OS: Windows 10 (64 bit)
+Processor: Dual-Core 2.2 GHz
+Memory: 4GB
+Video Card: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+Network: Broadband Internet connection
+Hard Drive: 23.1 GB (Minimal client)
+Recommended
+OS: Windows 10/11 (64 bit)
+Processor: Intel Core i5 or Ryzen 5 3600 and better
+Memory: 16 GB and more
+Video Card: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+Network: Broadband Internet connection
+Hard Drive: 75.9 GB (Full client)
+Minimum
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+Memory: 6 GB
+Video Card: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Mac OS Big Sur 11.0 or newer
+Processor: Core i7 (Intel Xeon is not supported)
+Memory: 8 GB
+Video Card: Radeon Vega II or higher with Metal support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+Minimum
+OS: Most modern 64bit Linux distributions
+Processor: Dual-Core 2.4 GHz
+Memory: 4 GB
+Video Card: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 22.1 GB (Minimal client)
+Recommended
+OS: Ubuntu 20.04 64bit
+Processor: Intel Core i7
+Memory: 16 GB
+Video Card: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+Network: Broadband Internet connection
+Hard Drive: 62.2 GB (Full client)
+News
+Armour-piercing rounds
+Attention! Outdated news format. Content may not display correctly.
+6 February 2015
+Historical
+M41 Walker Bulldog - available AP ammo: M339 AP round, M319 APCR & M331A2 APDS
+camouflage made by JoKeR_BvB09 | download here
+After the First World War, recently introduced tanks underwent rapid development, and as their armour protection grew stronger, a need for suitable armour-piercing ammunition was evident. In interwar period, several types of armour-piercing shells appeared, and their development further progressed during World War 2.
+<>
+<>
+Cartridge and shell of a British 17 pounder gun - ultimate anti-tank weapon
+The most basic shell type was regular armour piercing (AP) shell. Usually, it was made from solid steel. These shells were relying on their kinetic energy to penetrate enemy armour, and as such, they relied on sufficient muzzle velocity, and were losing their penetration value over distance. Because regular steel would likely shatter or deform upon impact on enemy armour, high carbon content was added during manufacturing, giving the shell increased hardness. Upon impact, it acted like regular bullet. causing damage through spalling and by it’s own mass.Typical example of this shell is American 75 mm M72.
+When armour plates started to be face hardened (eg. hardening of outside armour plate), regular AP shells had difficulty to penetrate, and were likely to bounce or shatter upon impact. As a counter-measure, APC shell (Armour-Piercing, Capped) was developed. This shell, while retaining basic characteristics of AP shells, carried hardened cap, which had very hard tip, but soft steel body, and was intended to protect the underlying “main” tip of the shell from shattering. As an example of APC shell, we can use American 37 mm M51 shell.
+AP and APC shells were effective against armour, but their shape was quite non-aerodynamic, causing higher drag during flight and thus decreasing effective range. This problem was eventually solved by adding so-called ballistic cap. The ballistic cap, usually made from soft steel, had more streamlined shape and was placed on tip of the AP shell, improving shell’s aerodynamic shape. Upon impact, it shattered easily, and had negligible negative effect to shell’s penetration capability. Combination of AP shell with ballistic cap was designated APBC (Armour Piercing, Ballistic Cap), while APC shells fitted with ballistic cap were known as APCBC (Armour Piercing Capped, Ballistic Cap). American 76 mm M62 shell is a good example of such round.
+Aside from achieving more penetration, attempts were made to increase shell’s lethality upon impact. These efforts resulted in adding of HE bursting charge. Inside the penetrator, cavity was made, filled with explosive and equipped with a fuse. Upon impact, a delayed fuse would ignite explosive filler after passing through the armour, resulting in penetrator’s detonation inside the target vehicle‘s crew compartment, creating deadly hail of fragments killing or injuring anyone inside. Increased lethality had one drawback though. Bursting charge’s cavity decreased overall structural integrity of the penetrator, increasing probability of shattering. HE filler could be fitted into a standard APCBC shell (such as German 7,5 cm PzGr 39, carrying 18 g of explosives), or into AP/APBC shells, creating either APHE (Armour Piercing, High Explosive) shell, or APHEBC (Armour Piercing High Explosive, Ballistic Cap). As an example of the former, we can use Soviet 85 mm BR-365K round, while the latter is represented by also Soviet 122 mm BR-471B round.
+<>
+<>
+Sabot round used in modern tanks
+Due to improvements in armour protection of armoured vehicles, it was necessary to further increase muzzle velocity to give AP rounds enough of kinetic energy for achieving penetration against thicker armour. In order to do this, propellant charge could be increased. However, this solution was very impractical and expensive, since it would require enlarged shell casing and subsequent construction of larger gun breech and barrel. The idea of achieving higher kinetic energy by scaling down the penetrator’s caliber proved to be much better solution. This resulted in creation of Armour Piercing, Composite Rigid (APCR) shell. It’s scaled down (eg. sub-caliber) penetrator was usually made from high-density material such as tungsten carbide, and was housed in a lightweight aluminium outer shell. These rounds had high muzzle velocity (often exceeding 1000 m/s) due to smaller mass of penetrator being propelled by the same amount of propellant as a regular full-caliber shell, allowing it to penetrate substantially thicker armour. However, APCR‘s smaller mass and lack of HE filler meant it caused less damage inside the target than full-caliber shells. Their lower mass also caused APCR round to have worse energy retention, losing it’s penetration capability over distance faster than heavier full-caliber shells, and was more prone to ricochet, especially against sloped armour.
+APDS shell (Armor Piercing, Discarding Sabot) was a further development of APCR. This type of round also used soft outer shell, housing high-density penetrator, but in case of APDS, outer shell (called sabot) was discarded upon leaving the gun’s muzzle, leaving only the penetrator in a form of long, thin rod. APDS had even better penetration capability than APCR,but shared APCR’s disadvantages – lower damage potential, worse long-range performance, and a worse performance against sloped armour. Historically, APDS was fielded in limited numbers by British army as an ammunition for 17-pounder AT gun, while in-game, you can use American 76 mm M331A2 round aviable for M41A1 Walker Bulldog.
+<>
+<>
+Sectioned high explosive anti-tank round
+Aside from the mentioned shells, High Explosive Anti Tank (HEAT) rounds were also used during World War 2. This round contained a conical cavity fitted with a copper lining (post WW2, other high-density materials such as uranium were used), and surrounded with explosives (forming a so-called shaped charge). Upon impact, the explosives were detonated, and the copper was concentrated into a narrow stream of cold-formed metal often called the 'cumulative jet', which moved at super-sonic speeds between an astonishing 7 to 10 kilometers per second. This speed resulted in an immense pressure when the jet hit an object in its path, which, according to the laws of fluid dynamics, often caused it to pass through the object as if it was liquid, resulting in heavy damage to anything in its way. As the cumulative jet was very small in diameter, the potential damage to surrounding components and crew was, however, limited, although armour particles could injure the vehicle's crew and cause other damage. Another possibility was the damaging effect from burning particles of the object the jet hit in its way. Contrary to popular belief, the explosive gases following the jet at sub-sonic speeds are irrelevant regarding the damage potential of the HEAT grenade. The prime lethality of the HEAT grenade results in the ability to easily set munitions and fuel in flames, if they are in the way of the jet. Due to their construction, HEAT shells didn’t rely on kinetic energy and it’s penetration capability was thus not affected by distance or muzzle velocity, making it perfect anti-tank ammunition for infantry anti-tank weapons (such as M10 Bazooka, or Panzerfaust) and low-velocity short-barreled guns. HEAT’s low muzzle velocity however made long-range aiming difficult, and round could be easily defeated by spaced armour, causing the shell to detonate prematurely and dissipating it’s particle stream before contact with main armour.
+<> Author: Jan “RayPall“ Kozák
+Read more:
+Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!
+22 October 2026
+In-Game Discounts for War Thunder’s 14th Birthday!
+23 October 2026
+Improvements to DIRCM
+23 October 2026
+The J35A Returns with a Discount for the Dragon’s First Flight!
+23 October 2026
+Share the news with your friends!
+Discuss on the Forums
+Join us
+More than 95,000,000 gamers
+TELEGRAM
+New Community
+FACEBOOK
+More than 720,000 members
+INSTAGRAM
+More than 440,000 members
+X
+More than 230,000 followers
+YOUTUBE
+2,650,000+ in the community
+TWITCH
+530,000+ in the community
+DISCORD
+140,000+ in the community
+<>
+div.popup-bg').trigger('click');return false">
+<>
