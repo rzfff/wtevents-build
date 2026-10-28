@@ -1,5 +1,5 @@
 #!/bin/bash
-# wtevents 增量哨兵 v3+annotate — cron 每日 04:53
+# wtevents 增量哨兵 v3.1+annotate — cron 每日 04:53
 STATE=/opt/services/wtevents-ops/watch
 LOG=/opt/services/wtevents-ops/watch.log
 mkdir -p "$STATE"
@@ -16,9 +16,10 @@ for L in en zh; do
   done
   if [ -s "$STATE/list_$L.new" ]; then
     if [ -f "$STATE/list_$L.txt" ]; then
-      NEWN=$(comm -23 "$STATE/list_$L.new" "$STATE/list_$L.txt" | grep -vc '^$')
+      # v3.1(2026-10-28):计数与列表统一为去 #comments 变体的唯一文章集——原版计数含变体、列表 head -3 截断,曾现「4 篇只列 2 条」
+      NEWN=$(comm -23 "$STATE/list_$L.new" "$STATE/list_$L.txt" | grep -v '#' | grep -vc '^$')
       if [ "$NEWN" -gt 0 ]; then
-        say "[$L] 新文章 $NEWN 篇: $(comm -23 "$STATE/list_$L.new" "$STATE/list_$L.txt" | grep -v '#' | head -3 | tr '\n' ' ')"
+        say "[$L] 新文章 $NEWN 篇: $(comm -23 "$STATE/list_$L.new" "$STATE/list_$L.txt" | grep -v '#' | tr '\n' ' ')"
       fi
     fi
     cmp -s "$STATE/list_$L.new" "$STATE/list_$L.txt" || cp "$STATE/list_$L.new" "$STATE/list_$L.txt"
