@@ -31,14 +31,17 @@ for lang in ('en', 'zh'):
     if not os.path.exists(p):
         continue
     urls = [l.strip() for l in open(p) if l.strip()]
+    # v3.2(2026-10-29): 去重 #comments 变体 + 全量列出不再截断(与 watch.sh v3.1 口径对齐)
+    seen = set()
     to_process = []
     for u in urls:
         aid = re.search(r'/(\d+)', u)
         if aid and aid.group(1) not in collected:
-            to_process.append(u)
+            base = u.split('#')[0]
+            if base not in seen:
+                seen.add(base)
+                to_process.append(u)
     if to_process:
         say(f'[{lang}] [ANNOTATE] 基线上有 {len(to_process)} 篇不在 events.json 中,需处理:')
-        for u in to_process[:5]:
+        for u in to_process:
             say(f'  → {u}')
-        if len(to_process) > 5:
-            say(f'  ... 及另外 {len(to_process)-5} 篇')
