@@ -2,11 +2,11 @@
  "generated_at": "2026-11-01T00:00:00Z",
  "build": "m2-audit1",
  "counts": {
-  "events": 951,
+  "events": 946,
   "by_type": {
    "special": 233,
    "festive": 135,
-   "sale": 218,
+   "sale": 213,
    "anniversary": 20,
    "battlepass": 30,
    "marathon": 75,
@@ -16,7 +16,7 @@
    "craft": 14,
    "worldwar": 4
   },
-  "with_discounts": 460
+  "with_discounts": 455
  },
  "events": [
   {
@@ -397,7 +397,14 @@
    "end_precision": "none",
    "end_raw": "预购开放至下个大版本上线(时间未公布)",
    "dm_event": null,
-   "vehicles": [],
+   "vehicles": [
+    {
+     "id": "us_stingray_2",
+     "name_zh": "Stingray II",
+     "name_en": "Stingray II",
+     "image": "/wtapi/assets/images/us_stingray_2.png"
+    }
+   ],
    "awards": [
     "预购专属:「Sting like a ray」称号、「蓝点魟鱼」贴花"
    ],
@@ -558,37 +565,9 @@
    }
   },
   {
-   "id": "sale_202610_f",
-   "type": "sale",
-   "name_zh": "约克公爵号战列舰开放预购",
-   "name_en": "Pre-order: HMS Duke of York",
-   "bp_season": null,
-   "start": "2026-10-19T11:00:00Z",
-   "end": null,
-   "end_precision": "none",
-   "end_raw": "预购开放至下个大版本上线(时间未公布)",
-   "dm_event": null,
-   "vehicles": [],
-   "awards": [
-    "预购专属:「国王的演讲」称号、「白玫瑰」贴花、约克旗(大版本上线后发放)"
-   ],
-   "discounts": [
-    {
-     "target": "约克公爵号礼包(Gaijin 商店,预购)",
-     "item": "含约克公爵号(英 VI 级战列舰)+30 天高级+3000 金鹰+三项预购专属;79.99 美元(无折扣,预购价)",
-     "percent": null
-    }
-   ],
-   "deadlines": [],
-   "sub_events": [],
-   "tasks": null,
-   "notes": "英系第二艘高级顶级战列舰(乔治五世级,1943 年状态:30 门 20mm 机炮);定位生存防御型:381mm 主装甲带/152mm 装甲甲板/10 门 356mm 主炮+133mm 副炮可发射 HE-VT 近炸弹(远程防空利器),机动平庸;史实:1943-12 北角海战重创沙恩霍斯特号(命中至少 10 发主炮弹)。随下个大版本实装。",
-   "confidence": 0.85
-  },
-  {
    "id": "sale_202610_q",
    "type": "sale",
-   "name_zh": "约克公爵号战列舰礼包开启预售",
+   "name_zh": "约克公爵号战列舰礼包预售(随 2.60「鹰之影」实装)",
    "name_en": "Pre-order: HMS Duke of York",
    "bp_season": null,
    "start": "2026-10-19T11:00:00Z",
@@ -596,7 +575,14 @@
    "end_precision": "none",
    "end_raw": "预购开放至下个大版本上线(时间未公布)",
    "dm_event": null,
-   "vehicles": [],
+   "vehicles": [
+    {
+     "id": "uk_battleship_duke_of_york",
+     "name_zh": "HMS Duke of York",
+     "name_en": "HMS Duke of York",
+     "image": "/wtapi/assets/images/uk_battleship_duke_of_york.png"
+    }
+   ],
    "awards": [
     "预购专属:「国王的演讲」称号、「约克的白玫瑰」贴花、约克旗(大版本上线后发放)"
    ],
@@ -610,7 +596,7 @@
    "deadlines": [],
    "sub_events": [],
    "tasks": null,
-   "notes": "「沙恩霍斯特杀手」、本土舰队未来旗舰;1943 年形态:10 门 356mm 主炮/30 门 20mm 自动炮/133mm 副炮配 HE-VT 近炸弹;防护优秀、机动平平;舰上吉祥物猫「威士忌」。",
+   "notes": "「沙恩霍斯特杀手」、本土舰队未来旗舰;1943 年形态:10 门 356mm 主炮/30 门 20mm 自动炮/133mm 副炮配 HE-VT 近炸弹;防护优秀、机动平平;舰上吉祥物猫「威士忌」。英系第二艘高级顶级战列舰(乔治五世级);史实:1943-12-26 北角海战重创沙恩霍斯特号(命中至少 10 发主炮弹),事后「沙恩霍斯特杀手」之名不胫而走。",
    "confidence": 0.85,
    "sources": {
     "en": [
@@ -674,28 +660,7 @@
      "target": "秃鹰 IIN(法国战机)",
      "item": "5992 金鹰;-30%;商店位:法国>航空>高级载具",
      "percent": 30
-    }
-   ],
-   "deadlines": [],
-   "sub_events": [],
-   "tasks": null,
-   "notes": "SO.4050 秃鹰 II 首飞纪念(1952-10-16,法国战后早期喷气机,1958-1979 服役近 150 架);IIN=双座全天候截击型,曾随以色列空军参战;轰炸取向:载弹高达 4400kg(250-400kg 炸弹/SNEB 23/AS-30 火箭),自卫 4×30mm DEFA 551+AA-20 空空导弹。",
-   "confidence": 0.9
-  },
-  {
-   "id": "sale_202610_o",
-   "type": "sale",
-   "name_zh": "秃鹰 IIN 首飞纪念日限时折扣",
-   "name_en": "Vautour IIN Available with a Discount for the Anniversary of the Vautour II's First Flight!",
-   "bp_season": null,
-   "start": "2026-10-16T09:00:00Z",
-   "end": "2026-10-19T09:00:00Z",
-   "end_precision": "hour",
-   "end_raw": "From October 16th (09:00 GMT) until October 19th (09:00 GMT)",
-   "dm_event": null,
-   "vehicles": [],
-   "awards": [],
-   "discounts": [
+    },
     {
      "target": "秃鹰 IIN(法 VI 级战机)",
      "item": "5992 金鹰;-30%;仅本次促销期间可购;商店位:法国>航空>高级载具",
@@ -705,7 +670,7 @@
    "deadlines": [],
    "sub_events": [],
    "tasks": null,
-   "notes": "SO.4050 秃鹰 II 首飞纪念(1952-10-16,战后早期法国喷气机,法军 1958-1979 服役,总产近 150 架);IIN 为双座全天候截击型,曾随以色列空军参战;载弹量达 4400kg。",
+   "notes": "SO.4050 秃鹰 II 首飞纪念(1952-10-16,法国战后早期喷气机,1958-1979 服役近 150 架);IIN=双座全天候截击型,曾随以色列空军参战;轰炸取向:载弹高达 4400kg(250-400kg 炸弹/SNEB 23/AS-30 火箭),自卫 4×30mm DEFA 551+AA-20 空空导弹。",
    "confidence": 0.9,
    "sources": {
     "en": [
@@ -868,30 +833,7 @@
      "target": "Pz.Sfl.Ic(德 II 级)/Bf 109 Z-1(德 IV 级)/Z20 卡尔·加尔斯特(德系)",
      "item": "游戏内金鹰购:-30%;Bf 109 Z-1 2086 金鹰、Pz.Sfl.Ic 700 金鹰;商店位:德国>航空/陆军/远洋舰队>高级载具",
      "percent": 30
-    }
-   ],
-   "deadlines": [],
-   "sub_events": [],
-   "tasks": "德系 III 级及以上载具战斗攒 3000 任务分开「德国统一日」奖箱(随机四款贴花之一);进度:昵称→成就→节日→German Unity Day。",
-   "notes": "德国统一日(1990-10-03 两德统一);Bf 109 Z-1=双机身试验机(4×30mm MK 108,适合猎轰炸机);Pz.Sfl.Ic=VK 9.01 底盘试验轻歼(50mm Pak 38)。",
-   "confidence": 0.9
-  },
-  {
-   "id": "sale_202610_n",
-   "type": "sale",
-   "name_zh": "德国统一日:贴花、折扣与稀有载具限时返场",
-   "name_en": "A Decal, Discounts and Rare Vehicles for German Unity Day!",
-   "bp_season": null,
-   "start": "2026-10-02T11:00:00Z",
-   "end": "2026-10-05T11:00:00Z",
-   "end_precision": "hour",
-   "end_raw": "From October 2nd (11:00 GMT) until October 5th (11:00 GMT)",
-   "dm_event": null,
-   "vehicles": [],
-   "awards": [
-    "德国统一日专属贴花"
-   ],
-   "discounts": [
+    },
     {
      "target": "「众力一国」捆绑包(侦察兵礼包+Z-20 卡尔·加尔斯特礼包+Bf 109Z 双子座礼包)",
      "item": "74.97→37.49 美元;-50%",
@@ -910,8 +852,8 @@
    ],
    "deadlines": [],
    "sub_events": [],
-   "tasks": null,
-   "notes": "德国统一日(1990-10-03 两德统一);商店捆绑与金币返场同窗。",
+   "tasks": "德系 III 级及以上载具战斗攒 3000 任务分开「德国统一日」奖箱(随机四款贴花之一);进度:昵称→成就→节日→German Unity Day。",
+   "notes": "德国统一日(1990-10-03 两德统一);Bf 109 Z-1=双机身试验机(4×30mm MK 108,适合猎轰炸机);Pz.Sfl.Ic=VK 9.01 底盘试验轻歼(50mm Pak 38)。",
    "confidence": 0.9,
    "sources": {
     "en": [
@@ -993,28 +935,7 @@
      "target": "全系新手礼包(Gaijin 商店)",
      "item": "全部国家的新手礼包五折;礼包内含载具+银狮+高级账号时长,适合开新系别提速",
      "percent": 50
-    }
-   ],
-   "deadlines": [],
-   "sub_events": [],
-   "tasks": null,
-   "notes": "与国庆促销同窗的常规新手礼包促销。",
-   "confidence": 0.9
-  },
-  {
-   "id": "sale_202610_m",
-   "type": "sale",
-   "name_zh": "全国家新手礼包五折促销",
-   "name_en": "Starter Pack Sale!",
-   "bp_season": null,
-   "start": "2026-10-01T11:00:00Z",
-   "end": "2026-10-08T11:00:00Z",
-   "end_precision": "hour",
-   "end_raw": "From October 1st (11:00 GMT) until October 8th (11:00 GMT)",
-   "dm_event": null,
-   "vehicles": [],
-   "awards": [],
-   "discounts": [
+    },
     {
      "target": "全国家新手礼包(Gaijin 商店)",
      "item": "含载具+银狮+高级账号时长;-50%;适合开新国家线",
@@ -1024,7 +945,7 @@
    "deadlines": [],
    "sub_events": [],
    "tasks": null,
-   "notes": "与国庆促销同窗的例行新手礼包促销。",
+   "notes": "与国庆促销同窗的常规新手礼包促销。",
    "confidence": 0.9,
    "sources": {
     "en": [
@@ -1109,30 +1030,7 @@
      "target": "69-IIa(中 V 级)/T-62 545 号(中 VI 级)/JH-7A 原型(中系)",
      "item": "游戏内金鹰购:-30%;69-IIa 5866 金鹰、T-62 545 号 6111 金鹰;仅活动期间可购;商店位:中国>陆军/航空>高级载具",
      "percent": 30
-    }
-   ],
-   "deadlines": [],
-   "sub_events": [],
-   "tasks": "中系 III 级及以上载具战斗攒 3000 任务分开「国庆节」奖箱(随机四款国庆贴花之一,集齐后转强化器/备用);完成后需手动领奖。",
-   "notes": "中华人民共和国国庆纪念日(1949-10-01 成立,天安门广场庆典,黄金周);T-62 545 号=1969 年珍宝岛战斗中被击俘获的苏制 T-62,后经中国工程师研究。",
-   "confidence": 0.9
-  },
-  {
-   "id": "sale_202610_l",
-   "type": "sale",
-   "name_zh": "欢度国庆:中国系专属折扣与限时返场活动开启",
-   "name_en": "Discounts and a Decal for the National Day of the PRC!",
-   "bp_season": null,
-   "start": "2026-10-01T09:00:00Z",
-   "end": "2026-10-08T09:00:00Z",
-   "end_precision": "hour",
-   "end_raw": "Store: From October 1st (09:00 GMT) until October 8th (09:00 GMT); Golden Eagles: From October 1st (11:00 GMT) until October 8th (11:00 GMT)",
-   "dm_event": null,
-   "vehicles": [],
-   "awards": [
-    "国庆专属贴花"
-   ],
-   "discounts": [
+    },
     {
      "target": "中国系礼包×7(Gaijin 商店:96A 原型车/J-7D/JH-7A 原型机/Su-30MKK(中)/ZTZ96B/Z-19E/69-IIa 式)",
      "item": "购物车加 1 件 30% 折扣、加 2 件及以上 50% 折扣(需一次结算)",
@@ -1151,8 +1049,8 @@
    ],
    "deadlines": [],
    "sub_events": [],
-   "tasks": null,
-   "notes": "中华人民共和国国庆(1949-10-01 开国,天安门广场庆典,黄金周);金币返场窗口 10/1-10/8 11:00 GMT 与商店捆绑窗错开 2 小时。",
+   "tasks": "中系 III 级及以上载具战斗攒 3000 任务分开「国庆节」奖箱(随机四款国庆贴花之一,集齐后转强化器/备用);完成后需手动领奖。",
+   "notes": "中华人民共和国国庆纪念日(1949-10-01 成立,天安门广场庆典,黄金周);T-62 545 号=1969 年珍宝岛战斗中被击俘获的苏制 T-62,后经中国工程师研究。",
    "confidence": 0.9,
    "sources": {
     "en": [
@@ -46523,7 +46421,20 @@
    "end_precision": "none",
    "end_raw": "预售自 10-29 起,随 2.60 大版本实装截止(未公布固定结束时间)",
    "dm_event": null,
-   "vehicles": [],
+   "vehicles": [
+    {
+     "id": "fa_18d_late",
+     "name_zh": "F/A-18D",
+     "name_en": "F/A-18D",
+     "image": "/wtapi/assets/images/fa_18d_late.png"
+    },
+    {
+     "id": "q_5d",
+     "name_zh": "Q-5D",
+     "name_en": "Q-5D",
+     "image": "/wtapi/assets/images/q_5d.png"
+    }
+   ],
    "awards": [
     "预购赠品:「恶魔之刺」称号(F/A-18D 包)",
     "「VMFA-232 红魔」臂章贴花(F/A-18D 包)"
