@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T00:00:00Z",
+ "generated_at": "2026-11-03T00:00:00Z",
  "build": "m2-audit1",
  "counts": {
   "events": 946,
@@ -58,11 +58,7 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/10282",
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/8"
+     "https://warthunder.com/en/news/10282"
     ],
     "zh": [
      "https://warthunder.com/zh/news/2841"
@@ -99,12 +95,7 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/10286",
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/8",
-     "https://warthunder.com/en/news/6"
+     "https://warthunder.com/en/news/10286"
     ],
     "zh": [
      "https://warthunder.com/zh/news/2843"
@@ -132,12 +123,7 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/10283",
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/8",
-     "https://warthunder.com/en/news/3"
+     "https://warthunder.com/en/news/10283"
     ],
     "zh": [
      "https://warthunder.com/zh/news/2845"
@@ -171,11 +157,7 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/10281",
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/8"
+     "https://warthunder.com/en/news/10281"
     ],
     "zh": [
      "https://warthunder.com/zh/news/2840"
@@ -205,12 +187,7 @@
    "confidence": 0.85,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/10275",
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/7",
-     "https://warthunder.com/en/news/5"
+     "https://warthunder.com/en/news/10275"
     ],
     "zh": [
      "https://warthunder.com/zh/news/2835"
@@ -249,17 +226,10 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/7",
-     "https://warthunder.com/en/news/8"
+     "https://warthunder.com/en/news/10278"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2",
-     "https://warthunder.com/zh/news/8",
-     "https://warthunder.com/zh/news/3",
-     "https://warthunder.com/zh/news/7"
+     "https://warthunder.com/zh/news/2837"
     ]
    }
   },
@@ -337,12 +307,14 @@
     "en": [
      "https://warthunder.com/en/news/10277",
      "https://warthunder.com/en/news/10299",
-     "https://warthunder.com/en/news/10288"
+     "https://warthunder.com/en/news/10288",
+     "https://warthunder.com/en/news/10266"
     ],
     "zh": [
      "https://warthunder.com/zh/news/2836",
      "https://warthunder.com/zh/news/2858",
-     "https://warthunder.com/zh/news/2848"
+     "https://warthunder.com/zh/news/2848",
+     "https://warthunder.com/zh/news/2826"
     ]
    }
   },
@@ -373,16 +345,10 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/7",
-     "https://warthunder.com/en/news/3"
+     "https://warthunder.com/en/news/10273"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2",
-     "https://warthunder.com/zh/news/8",
-     "https://warthunder.com/zh/news/3"
+     "https://warthunder.com/zh/news/2832"
     ]
    }
   },
@@ -422,16 +388,10 @@
    "confidence": 0.85,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/7",
-     "https://warthunder.com/en/news/4"
+     "https://warthunder.com/en/news/10274"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2",
-     "https://warthunder.com/zh/news/8",
-     "https://warthunder.com/zh/news/3"
+     "https://warthunder.com/zh/news/2833"
     ]
    }
   },
@@ -462,16 +422,10 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/7"
+     "https://warthunder.com/en/news/10270"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2",
-     "https://warthunder.com/zh/news/8",
-     "https://warthunder.com/zh/news/3",
-     "https://warthunder.com/zh/news/0"
+     "https://warthunder.com/zh/news/2830"
     ]
    }
   },
@@ -552,15 +506,10 @@
    "confidence": 0.9,
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/1",
-     "https://warthunder.com/en/news/0",
-     "https://warthunder.com/en/news/2",
-     "https://warthunder.com/en/news/6",
-     "https://warthunder.com/en/news/9"
+     "https://warthunder.com/en/news/10269"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2",
-     "https://warthunder.com/zh/news/8"
+     "https://warthunder.com/zh/news/2828"
     ]
    }
   },
