@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-11T12:00:00Z",
+ "generated_at": "2026-11-11T17:00:00Z",
  "build": "m2-audit1",
  "counts": {
-  "events": 951,
+  "events": 956,
   "by_type": {
-   "special": 235,
+   "special": 239,
    "festive": 135,
    "sale": 215,
    "anniversary": 20,
    "battlepass": 30,
    "marathon": 76,
    "market": 50,
-   "memorial": 154,
+   "memorial": 155,
    "april": 18,
    "craft": 14,
    "worldwar": 4
@@ -2744,9 +2744,8 @@
   {
    "id": "special_202606_d",
    "type": "special",
-   "name_zh": "核战冲突模式限时回归！",
+   "name_zh": "核战冲突模式限时回归!",
    "name_en": "Nuclear Escalation Returns!",
-   "bp_season": null,
    "start": "2026-06-26T12:00:00Z",
    "end": "2026-07-06T11:00:00Z",
    "end_precision": "hour",
@@ -2756,9 +2755,8 @@
    "awards": [],
    "discounts": [],
    "deadlines": [],
-   "sub_events": [],
    "tasks": "全国家可参加的大规模核冲突活动,BR 13.0-14.7,5/30千吨级核弹由战术机携带,以摧毁目标总分定胜负,无即时胜利",
-   "notes": "四月活动改进版:可驾驶任意国家自机、新增AI舰队、前线扩大、重生机制与防空火控改动",
+   "notes": "四月活动改进版:可驾驶任意国家自机、新增AI舰队、前线扩大、重生机制与防空火控改动。⚠ 2026-11-11 曾被系列修复脚本误覆盖,当批复活(内容=git 原版)",
    "sources": {
     "en": [
      "https://warthunder.com/en/news/10115"
@@ -2767,13 +2765,12 @@
      "https://warthunder.com/zh/news/2678",
      "https://warthunder.com/zh/news/2686"
     ]
-   },
-   "confidence": 0.65
+   }
   },
   {
    "id": "festive_202606",
    "type": "memorial",
-   "name_zh": "法国空军成立纪念日贴花物资箱上架",
+   "name_zh": "英国武装部队纪念日:贴花物资箱",
    "name_en": "A Decal Trophy for British Armed Forces Day!",
    "bp_season": null,
    "start": "2026-06-26T11:00:00Z",
@@ -2783,28 +2780,19 @@
    "dm_event": null,
    "vehicles": [],
    "awards": [
-    "“2025 法国空军成立纪念日”贴花",
-    "“British Armed Forces Day 2025” decal",
-    "“British Armed Forces Day” decal",
-    "“Emblem of the French Air Force Command” decal",
-    "“Emblem of the UK Ministry of Defence” decal",
-    "“French Air Force Day 2025” decal",
-    "“French Air Force Day” decal",
-    "“法国空军成立纪念日”贴花",
-    "“法国空天军指挥部徽标”贴花"
+    "「英国武装部队纪念日」贴花物资箱(三选一往期贴花:英国武装部队纪念日/英国国防部纹章/2025 英国武装力量纪念日;集齐改得:20-50% 研发或银狮加成卡/3-5 通用备用载具/1 天高级账号)"
    ],
    "discounts": [],
    "deadlines": [],
    "sub_events": [],
-   "tasks": "英系III级+载具赚3000任务点得British Armed Forces Day战利品,含3款贴花之一;集齐者得加成卡/备份/1天高级",
-   "notes": "正文贴花清单列4项但集齐门槛写“three decals”,以正文为准",
+   "tasks": "使用英国科技树 III 级及以上载具累计 3000 任务分(随机战斗,排除守卫模式)→贴花物资箱;完成后手动领取(昵称→成就→节假日→英国武装部队纪念日);纪念日贴花在「纪念日与节假日」分类,国防部纹章与 2025 贴花在「英国→陆军」分类",
+   "notes": "首批维多利亚十字勋章 1857-06-26 授予;2009 年起 6 月最后一个星期六为纪念日。英军二战史/租借法案/福克兰投送。⚠ 2026-11-11 修复:本条原为 UK2026+法国空军节2026 双名一体(顶着法国空军假名,EN 名与任务实为 UK),法国侧已拆出为 special_202607_f",
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/10114",
-     "https://warthunder.com/en/news/10121"
+     "https://warthunder.com/en/news/10114"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2684"
+     "https://warthunder.com/zh/news/2677"
     ]
    },
    "confidence": 0.8
@@ -6628,7 +6616,7 @@
   {
    "id": "sale_202512_c",
    "type": "sale",
-   "name_zh": "史海拾遗·十二月：阿登英雄",
+   "name_zh": "战争雷霆冬季特卖正式上线!",
    "name_en": "The Winter Sale in War Thunder!",
    "bp_season": null,
    "start": "2025-12-18T11:00:00Z",
@@ -6637,13 +6625,7 @@
    "end_raw": "From December 18th (11:00 GMT) until December 24th (11:00 GMT)",
    "dm_event": null,
    "vehicles": [],
-   "awards": [
-    "Ugly Sweater camouflage (Holiday Collection)",
-    "作战物资箱随机奖励：20-50%研发/银狮加成卡、3-5份备用载具兑换卡、1天高级账户时长、随机地面载具涂装",
-    "史海拾遗一月特供头像（完成全部8项任务）",
-    "史海拾遗十二月特供头像（完成全部8项任务）",
-    "毛衣外观涂装"
-   ],
+   "awards": [],
    "discounts": [
     {
      "target": "多种商品",
@@ -6737,16 +6719,16 @@
     }
    ],
    "sub_events": [],
-   "tasks": "促销期内游戏内购载具/改装件/护身符/备件/高级账户自动5折;Gaijin商店新手包同步5折。",
-   "notes": "Gaijin商店冬促(礼包阶段),接9864游戏内冬促。",
+   "tasks": "",
+   "notes": "⚠ 2026-11-11 修复:本条原被灌「史海拾遗·十二月」标题与预告文(EN 名实为冬季特卖);十二月史海内容已归还 marathon_202512;本条 zh 双源=游戏内冬促(2440)+Gaijin 商城冬促(2447)。游戏内冬季特卖+商城冬促(12-24 上线,延至 1 月)。",
    "sources": {
     "en": [
      "https://warthunder.com/en/news/9864",
      "https://warthunder.com/en/news/9870"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2393",
-     "https://warthunder.com/zh/news/2440"
+     "https://warthunder.com/zh/news/2440",
+     "https://warthunder.com/zh/news/2447"
     ]
    },
    "confidence": 1.0
@@ -6934,7 +6916,7 @@
   {
    "id": "marathon_202512",
    "type": "marathon",
-   "name_zh": null,
+   "name_zh": "史海拾遗·十二月:阿登英雄",
    "name_en": "Pages of History (December): The Hero of the Ardennes",
    "bp_season": null,
    "start": "2025-12-01",
@@ -6944,29 +6926,29 @@
    "dm_event": null,
    "vehicles": [],
    "awards": [
-    "Francis Currey profile icon",
-    "Pyotr Pilyutov profile icon"
+    "20-50% 研发加成卡(3-10 场)",
+    "20-50% 银狮加成卡(3-10 场)",
+    "3-5 份备用载具兑换卡",
+    "1 天高级账户",
+    "专属玩家头像:弗朗西斯·卡罗伊(阿登战役老兵勋章获得者,完成全部 8 任务;金鹰直购截止 2026-01-03 11:30 GMT)"
    ],
    "discounts": [],
    "deadlines": [
     {
-     "what": "金鹰直购本期「Francis Currey」头像截止",
+     "what": "金鹰直购本期头像(免做任务)截止",
      "when": "2026-01-03T11:30:00Z"
-    },
-    {
-     "what": "金鹰直购本期「Pyotr Pilyutov」头像截止",
-     "when": "2026-02-03T11:30:00Z"
     }
    ],
    "sub_events": [],
-   "tasks": "12月按日历连续完成8个历史任务(随机战斗,除[突击]),每个得战利品,全部完成得专属头像;头像可金鹰直购。",
-   "notes": "月度任务链;每任务最后一天11:00-11:30 GMT结算。",
+   "tasks": "12 月 1 日至 31 日连续开放 8 个任务(每 3-4 天一个);随机战斗完成(突击模式除外);全部完成得专属头像",
+   "notes": "月度历史任务活动;12 月战役:伯恩哈特防线(1943)/西奥之战(1943)/罗盘行动(1940)/冬季风暴行动(1942)/阿登反攻(1944)/库尔斯克-奥博扬攻势(1943)/长沙之战(1941)等;头像=卡罗伊(EN 名 The Hero of the Ardennes)。⚠ 2026-11-11 修复:原名空缺且中文预告文被冬促条目偷占,均已归位;一月篇(9874)外移至 special_202601",
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/9814",
-     "https://warthunder.com/en/news/9874"
+     "https://warthunder.com/en/news/9814"
     ],
-    "zh": null
+    "zh": [
+     "https://warthunder.com/zh/news/2393"
+    ]
    },
    "confidence": 0.7
   },
@@ -9897,7 +9879,7 @@
   {
    "id": "special_202506_b",
    "type": "memorial",
-   "name_zh": "40 款玩家自制涂装随“利维坦”百宝箱加入游戏！",
+   "name_zh": "英国武装部队纪念日:「2025 英国武装力量纪念日」贴花",
    "name_en": "A Themed Decal for British Armed Forces Day!",
    "bp_season": null,
    "start": "2025-06-27T12:00:00Z",
@@ -9907,28 +9889,19 @@
    "dm_event": null,
    "vehicles": [],
    "awards": [
-    "16 款空中载具涂装兑换券",
-    "17 款地面载具涂装兑换券",
-    "2 款直升机涂装兑换券",
-    "5 款水面舰艇涂装兑换券",
-    "British Armed Forces Day 2025 decal",
-    "French Air Force Day 2025 decal",
-    "“2025 法国空军成立纪念日”贴花",
-    "“利维坦”版本更新纪念贴花",
-    "稀有载具兑换券"
+    "「2025 英国武装力量纪念日」贴花"
    ],
    "discounts": [],
    "deadlines": [],
    "sub_events": [],
-   "tasks": "使用英系III级及以上载具完成3场随机战斗(除持久对抗与突袭模式),活跃度不低于70%,获得'British Armed Forces Day 2025'贴花",
-   "notes": null,
+   "tasks": "使用英国 III 级及以上载具完成 3 场战斗(活跃度≥70%;排除无间断对抗/守卫模式/直升机 PVE)→「2025 英国武装力量纪念日」贴花;进度在 昵称→成就→节假日;贴花在自定义「纪念日与节假日」分类",
+   "notes": "英国武装部队纪念日=每年 6 月最后一个星期六(2025 年为 6 月 28 日),预备役提前 3 天;全英 170 场庆典。⚠ 2026-11-11 修复:本条原为 UK2025+法国空军节2025+利维坦涂装箱三名一体(EN 名与任务实为 UK,中文名偷自涂装箱文),后两者已拆出为 special_202507_d 与 market_202506",
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/9586",
-     "https://warthunder.com/en/news/9593"
+     "https://warthunder.com/en/news/9586"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/2174"
+     "https://warthunder.com/zh/news/2175"
     ]
    },
    "confidence": 0.8
@@ -9936,37 +9909,36 @@
   {
    "id": "market_202506",
    "type": "market",
-   "name_zh": null,
-   "name_en": "40 New User-Created Camouflages in the Leviathans Trophy!",
-   "bp_season": null,
+   "name_zh": "40 款玩家自制涂装随「利维坦」百宝箱加入游戏!",
+   "name_en": "40 New User-Created Camouflages in the Leviathan Trophy!",
    "start": "2025-06-27",
-   "end": "2025-06-27",
-   "end_precision": null,
-   "end_raw": null,
+   "end": null,
+   "end_precision": "none",
+   "end_raw": "2025-06-27 上架(随利维坦版本),持续至下批涂装箱接档",
    "dm_event": null,
    "vehicles": [],
    "awards": [
-    "16 camouflage coupons for aircraft",
-    "17 camouflage coupons for ground vehicles",
-    "2 camouflage coupons for helicopters",
-    "5 camouflage coupon for naval vessels",
-    "Coupon for the Leviathans decal",
-    "Coupons for rare vehicles",
-    "Leviathans Key",
-    "Leviathans Trophy"
+    "16 张飞机涂装兑换券",
+    "17 张地面载具涂装兑换券",
+    "2 张直升机涂装兑换券",
+    "5 张海军载具涂装兑换券",
+    "「利维坦」贴花兑换券",
+    "稀有载具兑换券",
+    "「利维坦」钥匙(GJN 市场/主机版金鹰商店)",
+    "「利维坦」战利品箱(40 款玩家自制涂装池)"
    ],
    "discounts": [],
    "deadlines": [],
-   "sub_events": [],
-   "tasks": "II级以上随机战斗(活跃度不低于50%,除突袭PvE)概率掉落战利品;PC需在市场购买'Leviathans'钥匙(GJN)开启,主机版可用金鹰在物品商店购买;所得coupon可激活或上架市场出售",
-   "notes": "市场战利品上架公告,无活动时间窗;钥匙收入与涂装作者分成",
+   "tasks": "II 级以上随机战斗(活跃度≥50%,除突袭 PVE)概率掉落战利品;PC 需在 GJN 市场购「Leviathans」钥匙开启,主机版金鹰商店;兑换券可激活或上架市场出售",
+   "notes": "市场战利品上架公告,无固定活动时间窗(2025-06-27 随利维坦版本上);钥匙收入与涂装作者分成。⚠ 2026-11-11:本条曾与 UK2025/法2025 粘在 special_202506_b 三名一体,拆分归位时与本市场条目合并(zh 新闻孪生 2174 补挂)",
    "sources": {
     "en": [
      "https://warthunder.com/en/news/9587"
     ],
-    "zh": null
-   },
-   "confidence": 0.55
+    "zh": [
+     "https://warthunder.com/zh/news/2174"
+    ]
+   }
   },
   {
    "id": "sale_202506_b",
@@ -11171,7 +11143,7 @@
   {
    "id": "marathon_202505",
    "type": "memorial",
-   "name_zh": "英国武装部队纪念日贴花活动上线！",
+   "name_zh": "史海拾遗·五月:胜利之路",
    "name_en": "Pages of History (May): Road to the Reichstag",
    "bp_season": null,
    "start": "2025-05-01",
@@ -11181,35 +11153,29 @@
    "dm_event": null,
    "vehicles": [],
    "awards": [
-    "20-50% RP booster for 3-10 battles",
-    "20-50% SL booster for 3-10 battles",
-    "3-5 universal backups",
-    "Premium account for 1 day",
-    "random ground vehicle camouflage",
-    "unique player icon (Stepan Neustroyev)",
-    "unique player icon (Theodore Roosevelt III)",
-    "“2025 英国武装力量纪念日”贴花"
+    "20-50% 研发加成卡(3-10 场)",
+    "20-50% 银狮加成卡(3-10 场)",
+    "3-5 份备用载具兑换卡",
+    "1 天高级账户",
+    "专属玩家头像:斯捷潘·涅乌斯特罗耶夫(国会大厦突击营长,完成全部 8 任务;金鹰直购截止 2025-06-03 11:30 GMT)"
    ],
    "discounts": [],
    "deadlines": [
     {
-     "what": "金鹰直接购买本月专属头像(免做任务)截止",
+     "what": "金鹰直购本期头像(免做任务)截止",
      "when": "2025-06-03T11:30:00Z"
-    },
-    {
-     "what": "金鹰直接购买本月专属头像(免做任务)截止",
-     "when": "2025-07-03T11:30:00Z"
     }
    ],
    "sub_events": [],
-   "tasks": "5月1日至31日连续开放8个任务(每3-4天一个,末日11:00-11:30 GMT),随机战斗完成(突击模式除外);每个任务给战利品,全部完成得专属玩家头像",
-   "notes": "月度历史任务活动;8个任务对应中途岛、D-Day、维堡-彼得罗扎沃茨克、维莱博卡日、战斧行动、菲律宾海、拉塞尼艾、蓝色行动",
+   "tasks": "5 月 1 日至 31 日连续开放 8 个任务(每 3-4 天一个,北京时间 19:00 开 19:30 关);随机战斗完成(PVE 以外任意匹配模式);每任务给作战物资箱,全部完成得专属头像",
+   "notes": "月度历史任务活动;5 月战役:婆罗洲行动·塔拉坎战役(1945)/马达加斯加战役(1942)/欧洲胜利日(80 周年)/权杖行动(1944)/突尼斯战役收官(1943)/克里特岛战役(1941)/森格尔防线(1944)/F-4 鬼怪首飞(1958);头像=涅乌斯特罗耶夫(EN 名 Road to the Reichstag,胜利之路)。⚠ 2026-11-11 修复:原被灌英国武装部队纪念日标题+吞并六月内容,均已拆出",
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/9481",
-     "https://warthunder.com/en/news/9517"
+     "https://warthunder.com/en/news/9481"
     ],
-    "zh": []
+    "zh": [
+     "https://warthunder.com/zh/news/2070"
+    ]
    },
    "confidence": 0.8
   },
@@ -13480,7 +13446,7 @@
   {
    "id": "special_202502",
    "type": "special",
-   "name_zh": "史海拾遗·三月：皇家王牌",
+   "name_zh": "史海拾遗·二月:五星大帅",
    "name_en": "Pages of History (February): The Big Chief",
    "bp_season": null,
    "start": "2025-02-01",
@@ -13490,18 +13456,11 @@
    "dm_event": null,
    "vehicles": [],
    "awards": [
-    "20-50% RP booster for 3-10 battles",
-    "20-50% SL booster for 3-10 battles",
-    "3-5 universal backups",
-    "A random ground vehicle camouflage",
-    "Douglas MacArthur player icon",
-    "James Edgar Johnson profile icon",
-    "Premium account for 1 day",
-    "task trophies (20-50% RP/SL boosters, universal backups, 1-day premium account, random camouflage)",
-    "“三色箭特技飞行队徽标”贴花",
-    "作战物资箱(20-50% 研发加成卡、20-50% 银狮加成卡、备用载具兑换卡、1 天高级账户时长、随机地面载具涂装)",
-    "史海拾遗特供头像",
-    "零战二一型 (美国缴获版本)"
+    "20-50% 研发加成卡(3-10 场)",
+    "20-50% 银狮加成卡(3-10 场)",
+    "3-5 份备用载具兑换卡",
+    "1 天高级账户",
+    "专属玩家头像:道格拉斯·麦克阿瑟(五星大帅,完成全部 8 任务;金鹰直购截止 2025-03-03 11:30 GMT)"
    ],
    "discounts": [
     {
@@ -13604,15 +13563,14 @@
      "note": null
     }
    ],
-   "tasks": "2月连续8个历史任务(各约4天窗口,末日11:00-11:30 GMT可完成),随机战斗完成得奖券,全部完成得 MacArthur 图标;可金鹰直购至3月3日。",
-   "notes": "月度任务活动 Pages of History;3月每日任务对应历史战役日历;头像直购窗口晚于任务结束",
+   "tasks": "2 月 1 日至 28 日连续开放 8 个任务(每 3-4 天一个,北京时间 19:00 开 19:30 关);随机战斗完成(突击模式除外);每任务给作战物资箱,全部完成得专属头像",
+   "notes": "月度历史任务活动;2 月战役含马尼拉战役(1945)/阿德敏箱战役(1942)/蓝山 719 行动(1971)/地狱犬行动(沙恩霍斯特号海峡冲刺,1942)等;头像=麦克阿瑟(EN 名 The Big Chief)。⚠ 2026-11-11 修复:原名被三月预告文偷占,本条已归位;三月内容拆出为 special_202503",
    "sources": {
     "en": [
-     "https://warthunder.com/en/news/9349",
-     "https://warthunder.com/en/news/9388"
+     "https://warthunder.com/en/news/9349"
     ],
     "zh": [
-     "https://warthunder.com/zh/news/1977"
+     "https://warthunder.com/zh/news/1942"
     ]
    },
    "confidence": 1.0
@@ -46565,6 +46523,149 @@
     ],
     "zh": [
      "https://warthunder.com/zh/news/2879"
+    ]
+   }
+  },
+  {
+   "id": "special_202503",
+   "type": "special",
+   "name_zh": "史海拾遗·三月:皇家王牌",
+   "name_en": "Pages of History (March): The Royal Ace",
+   "start": "2025-03-01",
+   "end": "2025-03-31",
+   "end_precision": "day",
+   "end_raw": "From March 1st until March 31st",
+   "dm_event": null,
+   "vehicles": [],
+   "awards": [
+    "20-50% 研发加成卡(3-10 场)",
+    "20-50% 银狮加成卡(3-10 场)",
+    "3-5 份备用载具兑换卡",
+    "1 天高级账户",
+    "专属玩家头像:詹姆斯·埃德加·约翰逊(皇家空军王牌,完成全部 8 任务;金鹰直购截止 2025-04-03 11:30 GMT)"
+   ],
+   "discounts": [],
+   "deadlines": [],
+   "tasks": "3 月 1 日至 31 日连续开放 8 个任务(每 3-4 天一个);随机战斗完成(突击模式除外);全部完成得专属头像",
+   "notes": "月度历史任务活动;3 月战役:勒热夫-维亚济马攻势(1943)/喷火战斗机首飞(1936)/普斯科夫攻势(1944)/萨尔-普法尔茨攻势(1945)/维也纳攻势(1945)/第二次锡尔特湾海战(1942)/纳杰夫战役(2003)/马塔潘角海战(1941);头像=约翰逊(喷火王牌,EN 名 The Royal Ace)。2026-11-11 补建:原被 M2 合并吞进二月条目",
+   "sources": {
+    "en": [
+     "https://warthunder.com/en/news/9388"
+    ],
+    "zh": [
+     "https://warthunder.com/zh/news/1977"
+    ]
+   }
+  },
+  {
+   "id": "marathon_202506",
+   "type": "memorial",
+   "name_zh": "史海拾遗·六月:荒原骑兵",
+   "name_en": "Pages of History (June): Rough Rider",
+   "start": "2025-06-01",
+   "end": "2025-06-30",
+   "end_precision": "day",
+   "end_raw": "From June 1st until June 30th",
+   "dm_event": null,
+   "vehicles": [],
+   "awards": [
+    "20-50% 研发加成卡(3-10 场)",
+    "20-50% 银狮加成卡(3-10 场)",
+    "3-5 份备用载具兑换卡",
+    "1 天高级账户",
+    "专属玩家头像:西奥多·罗斯福三世(诺曼底登陆最年长者,完成全部 8 任务;金鹰直购截止 2025-07-03 11:30 GMT)"
+   ],
+   "discounts": [],
+   "deadlines": [],
+   "tasks": "6 月 1 日至 30 日连续开放 8 个任务(每 3-4 天一个);随机战斗完成(突击模式除外);全部完成得专属头像",
+   "notes": "月度历史任务活动;6 月战役:中途岛战役(1942)/诺曼底登陆 D-Day(1944)/维堡-彼得罗扎沃茨克攻势(1944)/波卡基村之战(1944)/战斧行动(1941)/菲律宾海海战(1944)/拉塞尼艾之战(1941)/蓝色行动(1942);头像=老罗斯福之子罗斯福三世(EN 名 Rough Rider,荒原骑兵)。2026-11-11 补建:原被 M2 合并吞进五月条目",
+   "sources": {
+    "en": [
+     "https://warthunder.com/en/news/9517"
+    ],
+    "zh": [
+     "https://warthunder.com/zh/news/2106"
+    ]
+   }
+  },
+  {
+   "id": "special_202601",
+   "type": "special",
+   "name_zh": "史海拾遗·一月:列宁格勒的天空",
+   "name_en": "Pages of History (January): In the Skies of Leningrad",
+   "start": "2026-01-01",
+   "end": "2026-01-31",
+   "end_precision": "day",
+   "end_raw": "From January 1st until January 31st",
+   "dm_event": null,
+   "vehicles": [],
+   "awards": [
+    "20-50% 研发加成卡(3-10 场)",
+    "20-50% 银狮加成卡(3-10 场)",
+    "3-5 份备用载具兑换卡",
+    "1 天高级账户",
+    "专属玩家头像(完成全部 8 任务;金鹰直购截止 2026-02-03 11:30 GMT)"
+   ],
+   "discounts": [],
+   "deadlines": [],
+   "tasks": "1 月 1 日至 31 日连续开放 8 个任务(每 3-4 天一个);随机战斗完成(突击模式除外);全部完成得专属头像",
+   "notes": "月度历史任务活动,主题=列宁格勒的天空;2026-11-11 补建:预告文(2025-12-30)原被 M2 合并挂在十二月条目下。⚠ zh 孪生未检出(title_map 无此条),待后续增量补挂",
+   "sources": {
+    "en": [
+     "https://warthunder.com/en/news/9874"
+    ],
+    "zh": []
+   }
+  },
+  {
+   "id": "special_202507_d",
+   "type": "special",
+   "name_zh": "法国空军节:「法国空军节 2025」贴花",
+   "name_en": "A New Decal for French Air Force Day!",
+   "start": "2025-07-03T11:00:00Z",
+   "end": "2025-07-07T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From July 3rd (11:00 GMT) until July 7th (11:00 GMT)",
+   "dm_event": null,
+   "vehicles": [],
+   "awards": [
+    "「法国空军节 2025」贴花"
+   ],
+   "discounts": [],
+   "deadlines": [],
+   "tasks": "使用法国 III 级及以上飞机完成 3 场战斗(活跃度≥70%;排除无间断对抗/守卫模式)→「法国空军节 2025」贴花;贴花在自定义「法国→空军」分类",
+   "notes": "法国空军 1934-07-02 自陆军独立(一战起大规模用兵,间战期机队欧洲最大);现役 4 万余人,200 架幻影 2000 与阵风。⚠ 2026-11-11 修复时从 special_202506_b 三名一体中拆出;EN 孪生未随合并带入,暂 zh 待补(zh_2174 系涂装箱文不属此)。",
+   "sources": {
+    "en": [
+     "https://warthunder.com/en/news/9593"
+    ],
+    "zh": []
+   }
+  },
+  {
+   "id": "special_202607_f",
+   "type": "special",
+   "name_zh": "法国空军节:贴花战利品箱",
+   "name_en": "Celebrating French Air Force Day with a Decal Trophy!",
+   "start": "2026-07-02T11:00:00Z",
+   "end": "2026-07-05T11:00:00Z",
+   "end_precision": "hour",
+   "end_raw": "From July 2nd (11:00 GMT) until July 5th (11:00 GMT)",
+   "dm_event": null,
+   "vehicles": [],
+   "awards": [
+    "「法国空军节」战利品箱(往期贴花四选一:法国空军节/法国空军司令部纹章/法国空军节 2025;集齐改得加成卡/备用载具/1 天高级账号)"
+   ],
+   "discounts": [],
+   "deadlines": [],
+   "tasks": "使用法国 III 级及以上飞机累计 3000 任务分(随机战斗,排除守卫模式)→战利品箱;完成后手动领取(昵称→成就→节假日→法国空军节);司令部纹章与 2025 贴花在「法国→空军」分类,其余在「节假日」分类",
+   "notes": "法国空军 1934-07-02 独立成军;二战中法籍飞行员在皇家空军与苏联空军(诺曼底-涅曼团)服役;战后幻影/阵风自研谱系。⚠ 2026-11-11 修复时从 festive_202606 双名一体中拆出。",
+   "sources": {
+    "en": [
+     "https://warthunder.com/en/news/10121"
+    ],
+    "zh": [
+     "https://warthunder.com/zh/news/2684"
     ]
    }
   }
