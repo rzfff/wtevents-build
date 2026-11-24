@@ -1,0 +1,5 @@
+# 2026-11-24:这些脚本有服务器在役副本(cron 哨兵等),必须保持 LF——
+# CRLF 行尾的 shell 脚本传上 Linux 服务器会静默失效(本仓 core.autocrlf=true,故显式钉死)
+*.sh   text eol=lf
+*.py   text eol=lf
+*.mjs  text eol=lf

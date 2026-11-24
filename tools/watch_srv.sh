@@ -1,5 +1,5 @@
 #!/bin/bash
-# wtevents 增量哨兵 v3.1+annotate — cron 每日 04:53
+# wtevents 增量哨兵 v3.2+annotate v3.3 — cron 每日 04:53
 STATE=/opt/services/wtevents-ops/watch
 LOG=/opt/services/wtevents-ops/watch.log
 mkdir -p "$STATE"
@@ -8,12 +8,14 @@ say(){ echo "$(date '+%F %T') $*" >> "$LOG"; }
 
 # 1) zh/en 新闻列表页 URL 集合 diff(前 2 页)
 for L in en zh; do
+  rm -f "$STATE/list_$L.tmp"
   : > "$STATE/list_$L.new"
   for PG in "" "?page=2"; do
     curl -sf --max-time 30 -A "$UA" "https://warthunder.com/$L/news/$PG" | grep -o "/$L/news/[0-9][^\"]*" >> "$STATE/list_$L.tmp" 2>/dev/null
-    sort -u "$STATE/list_$L.tmp" > "$STATE/list_$L.new" && rm -f "$STATE/list_$L.tmp"
     sleep 0.5
   done
+  # v3.2(2026-11-23): sort 移出页循环——原版每页覆盖重写 .new,两页无累积,基线=仅第 2 页,页 1 新文全盲(增量十三轮 3 活动漏更根因)
+  sort -u "$STATE/list_$L.tmp" > "$STATE/list_$L.new" && rm -f "$STATE/list_$L.tmp"
   if [ -s "$STATE/list_$L.new" ]; then
     if [ -f "$STATE/list_$L.txt" ]; then
       # v3.1(2026-10-28):计数与列表统一为去 #comments 变体的唯一文章集——原版计数含变体、列表 head -3 截断,曾现「4 篇只列 2 条」
