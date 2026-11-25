@@ -13,3 +13,10 @@ data/text-*/
 # 2026-11-24:Python 字节码缓存不入库
 __pycache__/
 *.pyc
+
+# 2026-11-25:增量批次用的新闻原文素材(可重抓;仅供已执行过的一次性批处理脚本就地读取),不入公开仓
+/art-*.txt
+/arts-*.tgz
+/deeparts*.txt
+/frarts.txt
+/newev.txt
